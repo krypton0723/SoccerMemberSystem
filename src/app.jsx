@@ -192,7 +192,7 @@ function App() {
       <div className="trust-bar">このサイトはスコア・試合結果・途中経過を一切表示しません</div>
       <header>
         <h1>TEAMSHEET<span className="tm">'26</span></h1>
-        <p className="tagline">ディレイ視聴のための、ネタバレなしスタメン速報 — FIFAワールドカップ2026</p>
+        <p className="tagline">遅れ視聴のための、ネタバレなしスタメン速報 — FIFAワールドカップ2026</p>
       </header>
 
       {loading && <div className="state-msg">試合データを読み込んでいます…</div>}
