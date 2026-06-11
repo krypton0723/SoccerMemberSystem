@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>TEAMSHEET '26 — ネタバレなしスタメン速報</title>
+  <meta name="description" content="ディレイ視聴のためのFIFAワールドカップ2026スタメン速報。スコア・試合結果は一切表示しません。" />
+  <meta name="theme-color" content="#15231B" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@500;600&family=IBM+Plex+Mono:wght@600&display=swap" rel="stylesheet" />
+  <style>
+    body { margin: 0; background: #EEF3EC; }
+    #root { min-height: 100vh; }
+    #loading {
+      display: flex; align-items: center; justify-content: center;
+      height: 100vh; font-family: sans-serif; color: #46544A; font-size: 14px;
+    }
+  </style>
+</head>
+<body>
+  <div id="root"><div id="loading">読み込み中…</div></div>
+
+  <!-- React + Babel (no build step) -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/react/18.2.0/umd/react.production.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/react-dom/18.2.0/umd/react-dom.production.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/7.23.5/babel.min.js"></script>
+  <script type="text/babel" src="src/app.jsx" data-type="module"></script>
+</body>
+</html>
