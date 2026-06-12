@@ -90,7 +90,7 @@ function MatchDetail({ match, onBack }) {
     <div className="detail">
       <button className="back" onClick={onBack}>← 試合一覧へ</button>
       <div className="detail-head">
-        <div className="eyebrow">グループ{match.group}・{match.matchday}</div>
+        <div className="eyebrow">{match.group ? `グループ${match.group}・` : ""}{match.matchday}</div>
         <h2 className="vs-line">
           <span>{home.code}</span>
           <span className="vs">vs</span>
@@ -106,11 +106,11 @@ function MatchDetail({ match, onBack }) {
       <div className="formation-bar">
         <span>
           <span className="swatch" style={{ background: home.color }} />
-          {home.name} {lineup.home.formation}／監督: {lineup.home.coach}
+          {home.name} {lineup.home.formation}{lineup.home.coach && `／監督: ${lineup.home.coach}`}
         </span>
         <span>
           <span className="swatch" style={{ background: away.color }} />
-          {away.name} {lineup.away.formation}／監督: {lineup.away.coach}
+          {away.name} {lineup.away.formation}{lineup.away.coach && `／監督: ${lineup.away.coach}`}
         </span>
       </div>
 
@@ -137,7 +137,7 @@ function MatchCard({ match, onOpen }) {
       aria-disabled={!released}
     >
       <div className="card-top">
-        <span className="group-badge">グループ{match.group}</span>
+        <span className="group-badge">{match.group ? `グループ${match.group}` : match.matchday}</span>
         <span className={"pill " + (released ? "pill-ok" : "pill-wait")}>
           {released ? "✓ スタメン確定" : "発表待ち"}
         </span>
@@ -160,7 +160,7 @@ function MatchCard({ match, onOpen }) {
         <span>{match.stadium}（{match.city}）</span>
         {released
           ? <span className="open-hint">スタメンを見る →</span>
-          : <span className="wait-hint">キックオフ約40分前に自動公開</span>}
+          : <span className="wait-hint">スタメン発表後に自動公開</span>}
       </div>
     </button>
   );

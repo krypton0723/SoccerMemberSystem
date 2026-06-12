@@ -1,1 +1,1128 @@
-[]
+[
+  {
+    "id": "760415",
+    "kickoff": "2026-06-12T04:00:00+09:00",
+    "group": "A",
+    "matchday": "グループステージ",
+    "dateLabel": "6月12日（金）",
+    "timeJST": "04:00",
+    "stadium": "Estadio Banorte",
+    "city": "Mexico City",
+    "home": {
+      "name": "メキシコ",
+      "code": "MEX",
+      "color": "#006847"
+    },
+    "away": {
+      "name": "南アフリカ",
+      "code": "RSA",
+      "color": "#087d5a"
+    },
+    "status": "released",
+    "capturedAt": "6/12 14:13 JST に取得・凍結",
+    "lineup": {
+      "home": {
+        "formation": "4-1-4-1",
+        "coach": "",
+        "xi": [
+          {
+            "n": 1,
+            "name": "Raúl Rangel"
+          },
+          {
+            "n": 15,
+            "name": "Israel Reyes"
+          },
+          {
+            "n": 23,
+            "name": "Jesús Gallardo"
+          },
+          {
+            "n": 6,
+            "name": "Érik Lira"
+          },
+          {
+            "n": 3,
+            "name": "César Montes"
+          },
+          {
+            "n": 5,
+            "name": "Johan Vásquez"
+          },
+          {
+            "n": 25,
+            "name": "Roberto Alvarado"
+          },
+          {
+            "n": 26,
+            "name": "Brian Gutiérrez"
+          },
+          {
+            "n": 9,
+            "name": "Raúl Jiménez"
+          },
+          {
+            "n": 8,
+            "name": "Álvaro Fidalgo"
+          },
+          {
+            "n": 16,
+            "name": "Julián Quiñones"
+          }
+        ],
+        "subs": [
+          {
+            "n": 7,
+            "name": "Luis Romo"
+          },
+          {
+            "n": 21,
+            "name": "César Huerta"
+          },
+          {
+            "n": 13,
+            "name": "Guillermo Ochoa"
+          },
+          {
+            "n": 12,
+            "name": "Carlos Acevedo"
+          },
+          {
+            "n": 24,
+            "name": "Luis Chávez"
+          },
+          {
+            "n": 20,
+            "name": "Mateo Chávez"
+          },
+          {
+            "n": 11,
+            "name": "Santiago Gimenez"
+          },
+          {
+            "n": 18,
+            "name": "Obed Vargas"
+          },
+          {
+            "n": 10,
+            "name": "Alexis Vega"
+          },
+          {
+            "n": 22,
+            "name": "Guillermo Martínez"
+          },
+          {
+            "n": 14,
+            "name": "Armando González"
+          },
+          {
+            "n": 19,
+            "name": "Gilberto Mora"
+          },
+          {
+            "n": 4,
+            "name": "Edson Álvarez"
+          },
+          {
+            "n": 2,
+            "name": "Jorge Sánchez"
+          },
+          {
+            "n": 17,
+            "name": "Orbelín Pineda"
+          }
+        ]
+      },
+      "away": {
+        "formation": "5-3-2",
+        "coach": "",
+        "xi": [
+          {
+            "n": 1,
+            "name": "Ronwen Williams"
+          },
+          {
+            "n": 20,
+            "name": "Khuliso Mudau"
+          },
+          {
+            "n": 6,
+            "name": "Aubrey Modiba"
+          },
+          {
+            "n": 14,
+            "name": "Mbekezeli Mbokazi"
+          },
+          {
+            "n": 21,
+            "name": "Ime Okon"
+          },
+          {
+            "n": 19,
+            "name": "Nkosinathi Sibisi"
+          },
+          {
+            "n": 4,
+            "name": "Teboho Mokoena"
+          },
+          {
+            "n": 13,
+            "name": "Sphephelo Sithole"
+          },
+          {
+            "n": 9,
+            "name": "Lyle Foster"
+          },
+          {
+            "n": 15,
+            "name": "Iqraam Rayners"
+          },
+          {
+            "n": 23,
+            "name": "Jayden Adams"
+          }
+        ],
+        "subs": [
+          {
+            "n": 7,
+            "name": "Oswin Appollis"
+          },
+          {
+            "n": 16,
+            "name": "Sipho Chaine"
+          },
+          {
+            "n": 11,
+            "name": "Themba Zwane"
+          },
+          {
+            "n": 25,
+            "name": "Kamogelo Sebelebele"
+          },
+          {
+            "n": 3,
+            "name": "Khulumani Ndamane"
+          },
+          {
+            "n": 2,
+            "name": "Thabang Matuludi"
+          },
+          {
+            "n": 18,
+            "name": "Samukele Kabini"
+          },
+          {
+            "n": 10,
+            "name": "Relebohile Mofokeng"
+          },
+          {
+            "n": 5,
+            "name": "Thalente Mbatha"
+          },
+          {
+            "n": 22,
+            "name": "Ricardo Goss"
+          },
+          {
+            "n": 26,
+            "name": "Bradley Cross"
+          },
+          {
+            "n": 12,
+            "name": "Thapelo Maseko"
+          },
+          {
+            "n": 8,
+            "name": "Tshepang Moremi"
+          },
+          {
+            "n": 17,
+            "name": "Evidence Makgopa"
+          },
+          {
+            "n": 24,
+            "name": "Olwethu Makhanya"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "760414",
+    "kickoff": "2026-06-12T11:00:00+09:00",
+    "group": "A",
+    "matchday": "グループステージ",
+    "dateLabel": "6月12日（金）",
+    "timeJST": "11:00",
+    "stadium": "Estadio Akron",
+    "city": "Guadalajara",
+    "home": {
+      "name": "韓国",
+      "code": "KOR",
+      "color": "#ce2028"
+    },
+    "away": {
+      "name": "チェコ",
+      "code": "CZE",
+      "color": "#d7141a"
+    },
+    "status": "released",
+    "capturedAt": "6/12 14:13 JST に取得・凍結",
+    "lineup": {
+      "home": {
+        "formation": "3-4-2-1",
+        "coach": "",
+        "xi": [
+          {
+            "n": 1,
+            "name": "Kim Seung-Gyu"
+          },
+          {
+            "n": 22,
+            "name": "Seol Young-Woo"
+          },
+          {
+            "n": 13,
+            "name": "Lee Tae-Seok"
+          },
+          {
+            "n": 3,
+            "name": "Lee Gi-Hyuk"
+          },
+          {
+            "n": 4,
+            "name": "Kim Min-Jae"
+          },
+          {
+            "n": 2,
+            "name": "Lee Han-Beom"
+          },
+          {
+            "n": 6,
+            "name": "Hwang In-Beom"
+          },
+          {
+            "n": 8,
+            "name": "Paik Seung-Ho"
+          },
+          {
+            "n": 7,
+            "name": "Son Heung-Min"
+          },
+          {
+            "n": 19,
+            "name": "Lee Kang-In"
+          },
+          {
+            "n": 10,
+            "name": "Lee Jae-Sung"
+          }
+        ],
+        "subs": [
+          {
+            "n": 17,
+            "name": "Bae Jun-Ho"
+          },
+          {
+            "n": 24,
+            "name": "Kim Jin-Gyu"
+          },
+          {
+            "n": 5,
+            "name": "Kim Tae-Hyeon"
+          },
+          {
+            "n": 26,
+            "name": "Lee Dong-Gyeong"
+          },
+          {
+            "n": 23,
+            "name": "Jens Castrop"
+          },
+          {
+            "n": 12,
+            "name": "Song Bum-Keun"
+          },
+          {
+            "n": 11,
+            "name": "Hwang Hee-Chan"
+          },
+          {
+            "n": 9,
+            "name": "Cho Gue-Sung"
+          },
+          {
+            "n": 25,
+            "name": "Eom Ji-Sung"
+          },
+          {
+            "n": 21,
+            "name": "Jo Hyeon-Woo"
+          },
+          {
+            "n": 20,
+            "name": "Yang Hyun-Jun"
+          },
+          {
+            "n": 15,
+            "name": "Kim Moon-Hwan"
+          },
+          {
+            "n": 14,
+            "name": "Cho Wi-Je"
+          },
+          {
+            "n": 16,
+            "name": "Park Jin-Seop"
+          },
+          {
+            "n": 18,
+            "name": "Oh Hyeon-Gyu"
+          }
+        ]
+      },
+      "away": {
+        "formation": "3-4-2-1",
+        "coach": "",
+        "xi": [
+          {
+            "n": 1,
+            "name": "Matej Kovár"
+          },
+          {
+            "n": 5,
+            "name": "Vladimír Coufal"
+          },
+          {
+            "n": 20,
+            "name": "Jaroslav Zelený"
+          },
+          {
+            "n": 7,
+            "name": "Ladislav Krejcí"
+          },
+          {
+            "n": 4,
+            "name": "Robin Hranác"
+          },
+          {
+            "n": 6,
+            "name": "Stepán Chaloupek"
+          },
+          {
+            "n": 22,
+            "name": "Tomás Soucek"
+          },
+          {
+            "n": 24,
+            "name": "Alexandr Sojka"
+          },
+          {
+            "n": 10,
+            "name": "Patrik Schick"
+          },
+          {
+            "n": 17,
+            "name": "Lukás Provod"
+          },
+          {
+            "n": 15,
+            "name": "Pavel Sulc"
+          }
+        ],
+        "subs": [
+          {
+            "n": 16,
+            "name": "Jindrich Stanek"
+          },
+          {
+            "n": 9,
+            "name": "Adam Hlozek"
+          },
+          {
+            "n": 19,
+            "name": "Tomás Chorý"
+          },
+          {
+            "n": 21,
+            "name": "David Doudera"
+          },
+          {
+            "n": 12,
+            "name": "Lukás Cerv"
+          },
+          {
+            "n": 3,
+            "name": "Tomás Holes"
+          },
+          {
+            "n": 8,
+            "name": "Vladimír Darida"
+          },
+          {
+            "n": 23,
+            "name": "Lukás Hornícek"
+          },
+          {
+            "n": 11,
+            "name": "Jan Kuchta"
+          },
+          {
+            "n": 13,
+            "name": "Mojmír Chytil"
+          },
+          {
+            "n": 18,
+            "name": "Michal Sadílek"
+          },
+          {
+            "n": 25,
+            "name": "Hugo Sochurek"
+          },
+          {
+            "n": 14,
+            "name": "David Jurásek"
+          },
+          {
+            "n": 26,
+            "name": "Denis Visinský"
+          },
+          {
+            "n": 2,
+            "name": "David Zima"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "760416",
+    "kickoff": "2026-06-13T04:00:00+09:00",
+    "group": "B",
+    "matchday": "グループステージ",
+    "dateLabel": "6月13日（土）",
+    "timeJST": "04:00",
+    "stadium": "BMO Field",
+    "city": "Toronto",
+    "home": {
+      "name": "カナダ",
+      "code": "CAN",
+      "color": "#ed2224"
+    },
+    "away": {
+      "name": "ボスニア・ヘルツェゴビナ",
+      "code": "BIH",
+      "color": "#112855"
+    },
+    "status": "pending"
+  },
+  {
+    "id": "760417",
+    "kickoff": "2026-06-13T10:00:00+09:00",
+    "group": "D",
+    "matchday": "グループステージ",
+    "dateLabel": "6月13日（土）",
+    "timeJST": "10:00",
+    "stadium": "SoFi Stadium",
+    "city": "Inglewood, California",
+    "home": {
+      "name": "アメリカ",
+      "code": "USA",
+      "color": "#213065"
+    },
+    "away": {
+      "name": "パラグアイ",
+      "code": "PAR",
+      "color": "#ea2300"
+    },
+    "status": "pending"
+  },
+  {
+    "id": "760420",
+    "kickoff": "2026-06-14T04:00:00+09:00",
+    "group": "B",
+    "matchday": "グループステージ",
+    "dateLabel": "6月14日（日）",
+    "timeJST": "04:00",
+    "stadium": "Levi's Stadium",
+    "city": "Santa Clara, California",
+    "home": {
+      "name": "カタール",
+      "code": "QAT",
+      "color": "#691a40"
+    },
+    "away": {
+      "name": "スイス",
+      "code": "SUI",
+      "color": "#d72b2c"
+    },
+    "status": "pending"
+  },
+  {
+    "id": "760419",
+    "kickoff": "2026-06-14T07:00:00+09:00",
+    "group": "C",
+    "matchday": "グループステージ",
+    "dateLabel": "6月14日（日）",
+    "timeJST": "07:00",
+    "stadium": "MetLife Stadium",
+    "city": "East Rutherford, New Jersey",
+    "home": {
+      "name": "ブラジル",
+      "code": "BRA",
+      "color": "#fee000"
+    },
+    "away": {
+      "name": "モロッコ",
+      "code": "MAR",
+      "color": "#009060"
+    },
+    "status": "pending"
+  },
+  {
+    "id": "760418",
+    "kickoff": "2026-06-14T10:00:00+09:00",
+    "group": "C",
+    "matchday": "グループステージ",
+    "dateLabel": "6月14日（日）",
+    "timeJST": "10:00",
+    "stadium": "Gillette Stadium",
+    "city": "Foxborough, Massachusetts",
+    "home": {
+      "name": "ハイチ",
+      "code": "HAI",
+      "color": "#0033a0"
+    },
+    "away": {
+      "name": "スコットランド",
+      "code": "SCO",
+      "color": "#1a2d69"
+    },
+    "status": "pending"
+  },
+  {
+    "id": "760421",
+    "kickoff": "2026-06-14T13:00:00+09:00",
+    "group": "D",
+    "matchday": "グループステージ",
+    "dateLabel": "6月14日（日）",
+    "timeJST": "13:00",
+    "stadium": "BC Place",
+    "city": "Vancouver",
+    "home": {
+      "name": "オーストラリア",
+      "code": "AUS",
+      "color": "#2a2d7c"
+    },
+    "away": {
+      "name": "トルコ",
+      "code": "TUR",
+      "color": "#ffffff"
+    },
+    "status": "pending"
+  },
+  {
+    "id": "760422",
+    "kickoff": "2026-06-15T02:00:00+09:00",
+    "group": "E",
+    "matchday": "グループステージ",
+    "dateLabel": "6月15日（月）",
+    "timeJST": "02:00",
+    "stadium": "NRG Stadium",
+    "city": "Houston, Texas",
+    "home": {
+      "name": "ドイツ",
+      "code": "GER",
+      "color": "#000000"
+    },
+    "away": {
+      "name": "キュラソー",
+      "code": "CUW",
+      "color": "#0537e4"
+    },
+    "status": "pending"
+  },
+  {
+    "id": "760425",
+    "kickoff": "2026-06-15T05:00:00+09:00",
+    "group": "F",
+    "matchday": "グループステージ",
+    "dateLabel": "6月15日（月）",
+    "timeJST": "05:00",
+    "stadium": "AT&T Stadium",
+    "city": "Arlington, Texas",
+    "home": {
+      "name": "オランダ",
+      "code": "NED",
+      "color": "#fb5d00"
+    },
+    "away": {
+      "name": "日本",
+      "code": "JPN",
+      "color": "#ed1c24"
+    },
+    "status": "pending"
+  },
+  {
+    "id": "760423",
+    "kickoff": "2026-06-15T08:00:00+09:00",
+    "group": "E",
+    "matchday": "グループステージ",
+    "dateLabel": "6月15日（月）",
+    "timeJST": "08:00",
+    "stadium": "Lincoln Financial Field",
+    "city": "Philadelphia, Pennsylvania",
+    "home": {
+      "name": "コートジボワール",
+      "code": "CIV",
+      "color": "#d48c00"
+    },
+    "away": {
+      "name": "エクアドル",
+      "code": "ECU",
+      "color": "#ffdd00"
+    },
+    "status": "pending"
+  },
+  {
+    "id": "760424",
+    "kickoff": "2026-06-15T11:00:00+09:00",
+    "group": "F",
+    "matchday": "グループステージ",
+    "dateLabel": "6月15日（月）",
+    "timeJST": "11:00",
+    "stadium": "Estadio BBVA",
+    "city": "Guadalupe",
+    "home": {
+      "name": "スウェーデン",
+      "code": "SWE",
+      "color": "#fecb00"
+    },
+    "away": {
+      "name": "チュニジア",
+      "code": "TUN",
+      "color": "#D20300"
+    },
+    "status": "pending"
+  },
+  {
+    "id": "760428",
+    "kickoff": "2026-06-16T01:00:00+09:00",
+    "group": "H",
+    "matchday": "グループステージ",
+    "dateLabel": "6月16日（火）",
+    "timeJST": "01:00",
+    "stadium": "Mercedes-Benz Stadium",
+    "city": "Atlanta, Georgia",
+    "home": {
+      "name": "スペイン",
+      "code": "ESP",
+      "color": "#c60b1e"
+    },
+    "away": {
+      "name": "カーボベルデ",
+      "code": "CPV",
+      "color": "#0000ff"
+    },
+    "status": "pending"
+  },
+  {
+    "id": "760426",
+    "kickoff": "2026-06-16T04:00:00+09:00",
+    "group": "G",
+    "matchday": "グループステージ",
+    "dateLabel": "6月16日（火）",
+    "timeJST": "04:00",
+    "stadium": "Lumen Field",
+    "city": "Seattle, Washington",
+    "home": {
+      "name": "ベルギー",
+      "code": "BEL",
+      "color": "#ef3340"
+    },
+    "away": {
+      "name": "エジプト",
+      "code": "EGY",
+      "color": "#D20300"
+    },
+    "status": "pending"
+  },
+  {
+    "id": "760429",
+    "kickoff": "2026-06-16T07:00:00+09:00",
+    "group": "H",
+    "matchday": "グループステージ",
+    "dateLabel": "6月16日（火）",
+    "timeJST": "07:00",
+    "stadium": "Hard Rock Stadium",
+    "city": "Miami Gardens, Florida",
+    "home": {
+      "name": "サウジアラビア",
+      "code": "KSA",
+      "color": "#dddddd"
+    },
+    "away": {
+      "name": "ウルグアイ",
+      "code": "URU",
+      "color": "#003da5"
+    },
+    "status": "pending"
+  },
+  {
+    "id": "760427",
+    "kickoff": "2026-06-16T10:00:00+09:00",
+    "group": "G",
+    "matchday": "グループステージ",
+    "dateLabel": "6月16日（火）",
+    "timeJST": "10:00",
+    "stadium": "SoFi Stadium",
+    "city": "Inglewood, California",
+    "home": {
+      "name": "イラン",
+      "code": "IRN",
+      "color": "#da0000"
+    },
+    "away": {
+      "name": "ニュージーランド",
+      "code": "NZL",
+      "color": "#273476"
+    },
+    "status": "pending"
+  },
+  {
+    "id": "760432",
+    "kickoff": "2026-06-17T04:00:00+09:00",
+    "group": "I",
+    "matchday": "グループステージ",
+    "dateLabel": "6月17日（水）",
+    "timeJST": "04:00",
+    "stadium": "MetLife Stadium",
+    "city": "East Rutherford, New Jersey",
+    "home": {
+      "name": "フランス",
+      "code": "FRA",
+      "color": "#0c2fff"
+    },
+    "away": {
+      "name": "セネガル",
+      "code": "SEN",
+      "color": "#00853f"
+    },
+    "status": "pending"
+  },
+  {
+    "id": "760430",
+    "kickoff": "2026-06-17T07:00:00+09:00",
+    "group": "I",
+    "matchday": "グループステージ",
+    "dateLabel": "6月17日（水）",
+    "timeJST": "07:00",
+    "stadium": "Gillette Stadium",
+    "city": "Foxborough, Massachusetts",
+    "home": {
+      "name": "イラク",
+      "code": "IRQ",
+      "color": "#00843d"
+    },
+    "away": {
+      "name": "ノルウェー",
+      "code": "NOR",
+      "color": "#ef2b2d"
+    },
+    "status": "pending"
+  },
+  {
+    "id": "760433",
+    "kickoff": "2026-06-17T10:00:00+09:00",
+    "group": "J",
+    "matchday": "グループステージ",
+    "dateLabel": "6月17日（水）",
+    "timeJST": "10:00",
+    "stadium": "GEHA Field at Arrowhead Stadium",
+    "city": "Kansas City, Missouri",
+    "home": {
+      "name": "アルゼンチン",
+      "code": "ARG",
+      "color": "#74acdf"
+    },
+    "away": {
+      "name": "アルジェリア",
+      "code": "ALG",
+      "color": "#5bbd19"
+    },
+    "status": "pending"
+  },
+  {
+    "id": "760431",
+    "kickoff": "2026-06-17T13:00:00+09:00",
+    "group": "J",
+    "matchday": "グループステージ",
+    "dateLabel": "6月17日（水）",
+    "timeJST": "13:00",
+    "stadium": "Levi's Stadium",
+    "city": "Santa Clara, California",
+    "home": {
+      "name": "オーストリア",
+      "code": "AUT",
+      "color": "#d72b2c"
+    },
+    "away": {
+      "name": "ヨルダン",
+      "code": "JOR",
+      "color": "#E70000"
+    },
+    "status": "pending"
+  },
+  {
+    "id": "760435",
+    "kickoff": "2026-06-18T02:00:00+09:00",
+    "group": "K",
+    "matchday": "グループステージ",
+    "dateLabel": "6月18日（木）",
+    "timeJST": "02:00",
+    "stadium": "NRG Stadium",
+    "city": "Houston, Texas",
+    "home": {
+      "name": "ポルトガル",
+      "code": "POR",
+      "color": "#da291c"
+    },
+    "away": {
+      "name": "コンゴ民主共和国",
+      "code": "COD",
+      "color": "#418fde"
+    },
+    "status": "pending"
+  },
+  {
+    "id": "760437",
+    "kickoff": "2026-06-18T05:00:00+09:00",
+    "group": "L",
+    "matchday": "グループステージ",
+    "dateLabel": "6月18日（木）",
+    "timeJST": "05:00",
+    "stadium": "AT&T Stadium",
+    "city": "Arlington, Texas",
+    "home": {
+      "name": "イングランド",
+      "code": "ENG",
+      "color": "#ffffff"
+    },
+    "away": {
+      "name": "クロアチア",
+      "code": "CRO",
+      "color": "#ff0000"
+    },
+    "status": "pending"
+  },
+  {
+    "id": "760434",
+    "kickoff": "2026-06-18T08:00:00+09:00",
+    "group": "L",
+    "matchday": "グループステージ",
+    "dateLabel": "6月18日（木）",
+    "timeJST": "08:00",
+    "stadium": "BMO Field",
+    "city": "Toronto",
+    "home": {
+      "name": "ガーナ",
+      "code": "GHA",
+      "color": "#ce2931"
+    },
+    "away": {
+      "name": "パナマ",
+      "code": "PAN",
+      "color": "#d21034"
+    },
+    "status": "pending"
+  },
+  {
+    "id": "760436",
+    "kickoff": "2026-06-18T11:00:00+09:00",
+    "group": "K",
+    "matchday": "グループステージ",
+    "dateLabel": "6月18日（木）",
+    "timeJST": "11:00",
+    "stadium": "Estadio Banorte",
+    "city": "Mexico City",
+    "home": {
+      "name": "ウズベキスタン",
+      "code": "UZB",
+      "color": "#0081d6"
+    },
+    "away": {
+      "name": "コロンビア",
+      "code": "COL",
+      "color": "#fbd632"
+    },
+    "status": "pending"
+  },
+  {
+    "id": "760438",
+    "kickoff": "2026-06-19T01:00:00+09:00",
+    "group": "A",
+    "matchday": "グループステージ",
+    "dateLabel": "6月19日（金）",
+    "timeJST": "01:00",
+    "stadium": "Mercedes-Benz Stadium",
+    "city": "Atlanta, Georgia",
+    "home": {
+      "name": "チェコ",
+      "code": "CZE",
+      "color": "#d7141a"
+    },
+    "away": {
+      "name": "南アフリカ",
+      "code": "RSA",
+      "color": "#087d5a"
+    },
+    "status": "pending"
+  },
+  {
+    "id": "760439",
+    "kickoff": "2026-06-19T04:00:00+09:00",
+    "group": "B",
+    "matchday": "グループステージ",
+    "dateLabel": "6月19日（金）",
+    "timeJST": "04:00",
+    "stadium": "SoFi Stadium",
+    "city": "Inglewood, California",
+    "home": {
+      "name": "スイス",
+      "code": "SUI",
+      "color": "#d72b2c"
+    },
+    "away": {
+      "name": "ボスニア・ヘルツェゴビナ",
+      "code": "BIH",
+      "color": "#112855"
+    },
+    "status": "pending"
+  },
+  {
+    "id": "760440",
+    "kickoff": "2026-06-19T07:00:00+09:00",
+    "group": "B",
+    "matchday": "グループステージ",
+    "dateLabel": "6月19日（金）",
+    "timeJST": "07:00",
+    "stadium": "BC Place",
+    "city": "Vancouver",
+    "home": {
+      "name": "カナダ",
+      "code": "CAN",
+      "color": "#ed2224"
+    },
+    "away": {
+      "name": "カタール",
+      "code": "QAT",
+      "color": "#691a40"
+    },
+    "status": "pending"
+  },
+  {
+    "id": "760441",
+    "kickoff": "2026-06-19T10:00:00+09:00",
+    "group": "A",
+    "matchday": "グループステージ",
+    "dateLabel": "6月19日（金）",
+    "timeJST": "10:00",
+    "stadium": "Estadio Akron",
+    "city": "Guadalajara",
+    "home": {
+      "name": "メキシコ",
+      "code": "MEX",
+      "color": "#006847"
+    },
+    "away": {
+      "name": "韓国",
+      "code": "KOR",
+      "color": "#ce2028"
+    },
+    "status": "pending"
+  },
+  {
+    "id": "760442",
+    "kickoff": "2026-06-20T04:00:00+09:00",
+    "group": "D",
+    "matchday": "グループステージ",
+    "dateLabel": "6月20日（土）",
+    "timeJST": "04:00",
+    "stadium": "Lumen Field",
+    "city": "Seattle, Washington",
+    "home": {
+      "name": "アメリカ",
+      "code": "USA",
+      "color": "#213065"
+    },
+    "away": {
+      "name": "オーストラリア",
+      "code": "AUS",
+      "color": "#2a2d7c"
+    },
+    "status": "pending"
+  },
+  {
+    "id": "760445",
+    "kickoff": "2026-06-20T07:00:00+09:00",
+    "group": "C",
+    "matchday": "グループステージ",
+    "dateLabel": "6月20日（土）",
+    "timeJST": "07:00",
+    "stadium": "Gillette Stadium",
+    "city": "Foxborough, Massachusetts",
+    "home": {
+      "name": "スコットランド",
+      "code": "SCO",
+      "color": "#1a2d69"
+    },
+    "away": {
+      "name": "モロッコ",
+      "code": "MAR",
+      "color": "#009060"
+    },
+    "status": "pending"
+  },
+  {
+    "id": "760444",
+    "kickoff": "2026-06-20T09:30:00+09:00",
+    "group": "C",
+    "matchday": "グループステージ",
+    "dateLabel": "6月20日（土）",
+    "timeJST": "09:30",
+    "stadium": "Lincoln Financial Field",
+    "city": "Philadelphia, Pennsylvania",
+    "home": {
+      "name": "ブラジル",
+      "code": "BRA",
+      "color": "#fee000"
+    },
+    "away": {
+      "name": "ハイチ",
+      "code": "HAI",
+      "color": "#0033a0"
+    },
+    "status": "pending"
+  },
+  {
+    "id": "760443",
+    "kickoff": "2026-06-20T12:00:00+09:00",
+    "group": "D",
+    "matchday": "グループステージ",
+    "dateLabel": "6月20日（土）",
+    "timeJST": "12:00",
+    "stadium": "Levi's Stadium",
+    "city": "Santa Clara, California",
+    "home": {
+      "name": "トルコ",
+      "code": "TUR",
+      "color": "#ffffff"
+    },
+    "away": {
+      "name": "パラグアイ",
+      "code": "PAR",
+      "color": "#ea2300"
+    },
+    "status": "pending"
+  }
+]

@@ -28,8 +28,6 @@ jobs:
         run: pip install requests
 
       - name: スタメン取得スクリプトを実行
-        env:
-          API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
         run: python scripts/fetch_lineups.py
 
       - name: 変更があればコミット & プッシュ

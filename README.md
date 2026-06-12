@@ -10,11 +10,15 @@ FIFAワールドカップ2026の試合スタメン・サブだけを表示しま
 
 ```
 GitHub Actions (15分ごと)
-    ↓  API-Football からスタメン取得(キックオフ45分前〜)
+    ↓  ESPN の非公開JSON APIからスタメン取得(キックオフ約100分前〜)
     ↓  取得成功した時点で data/matches/index.json を更新・凍結
     ↓  以降その試合のデータは二度と上書きしない
 GitHub Pages がホスティング → ブラウザで表示
 ```
+
+データソースは ESPN の非公開 JSON API(キー不要・無料)。  
+レスポンスに含まれるスコア・交代・スタッツ等の結果情報は保存せず、  
+ラインナップ関連のフィールドだけを抽出して保存します。
 
 スタメンが確定したら `status: "released"` に変わり、フォーメーション図が表示されます。  
 試合が始まった後もスコアを取りに行かないため、ディレイ視聴していてもネタバレしません。
@@ -30,20 +34,7 @@ git clone https://github.com/<yourname>/teamsheet26.git
 cd teamsheet26
 ```
 
-### 2. API キーを取得
-
-[api-football.com](https://www.api-football.com/) で無料アカウントを作成し、API キーを取得します。  
-無料プランで **1日100リクエスト** まで使えます（W杯期間中は十分）。
-
-### 3. GitHub Secrets に登録
-
-リポジトリの **Settings → Secrets and variables → Actions** から:
-
-| Name | Value |
-|------|-------|
-| `API_FOOTBALL_KEY` | 取得した API キー |
-
-### 4. GitHub Pages を有効化
+### 2. GitHub Pages を有効化
 
 リポジトリの **Settings → Pages** で:
 - Source: **Deploy from a branch**
@@ -51,7 +42,7 @@ cd teamsheet26
 
 数分後に `https://<yourname>.github.io/teamsheet26/` で公開されます。
 
-### 5. Actions を有効化
+### 3. Actions を有効化
 
 **Actions タブ** を開き、ワークフローを有効化します。  
 あとは自動で15分ごとに動きます。手動実行も可能です。
