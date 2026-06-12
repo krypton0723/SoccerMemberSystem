@@ -25,36 +25,57 @@ function playerPositions(team, side) {
   return pts;
 }
 
-function Pitch({ home, away, homeColor, awayColor }) {
+// 名前を最大8文字に切り詰める(重なり防止)
+const shortName = (name) => {
+  const last = name.split(" ").pop();
+  return last.length <= 8 ? last : last.slice(0, 7) + "…";
+};
+
+function Pitch({ home, away, homeColor, awayColor, homeName, awayName }) {
   const homePts = playerPositions(home, "home");
   const awayPts = playerPositions(away, "away");
   return (
-    <svg viewBox="0 0 420 642" className="pitch" role="img" aria-label="フォーメーション図">
+    <svg viewBox="0 0 420 700" className="pitch" role="img" aria-label="フォーメーション図">
+      {/* グラウンド背景 */}
       {Array.from({ length: 10 }, (_, i) => (
-        <rect key={i} x="0" y={i * 64.2} width="420" height="64.2" fill={i % 2 ? "#1A6540" : "#1E6F45"} />
+        <rect key={i} x="0" y={29 + i * 64.2} width="420" height="64.2" fill={i % 2 ? "#1A6540" : "#1E6F45"} />
       ))}
+      {/* ピッチライン */}
       <g stroke="rgba(255,255,255,.78)" strokeWidth="2" fill="none">
-        <rect x="12" y="12" width="396" height="618" />
-        <line x1="12" y1="321" x2="408" y2="321" />
-        <circle cx="210" cy="321" r="52" />
-        <rect x="100" y="12" width="220" height="86" />
-        <rect x="158" y="12" width="104" height="34" />
-        <rect x="100" y="544" width="220" height="86" />
-        <rect x="158" y="596" width="104" height="34" />
+        <rect x="12" y="41" width="396" height="618" />
+        <line x1="12" y1="350" x2="408" y2="350" />
+        <circle cx="210" cy="350" r="52" />
+        <rect x="100" y="41" width="220" height="86" />
+        <rect x="158" y="41" width="104" height="34" />
+        <rect x="100" y="573" width="220" height="86" />
+        <rect x="158" y="625" width="104" height="34" />
       </g>
-      <circle cx="210" cy="321" r="3" fill="rgba(255,255,255,.78)" />
+      <circle cx="210" cy="350" r="3" fill="rgba(255,255,255,.78)" />
+      {/* チームラベル(上=アウェイ・下=ホーム) */}
+      <rect x="0" y="0" width="420" height="28" fill={awayColor} opacity="0.92" />
+      <text x="210" y="19" textAnchor="middle" fill="#fff"
+        style={{fontSize:"12px", fontFamily:"'Oswald',sans-serif", fontWeight:600, letterSpacing:".06em"}}>
+        ▲ AWAY — {awayName}
+      </text>
+      <rect x="0" y="672" width="420" height="28" fill={homeColor} opacity="0.92" />
+      <text x="210" y="691" textAnchor="middle" fill="#fff"
+        style={{fontSize:"12px", fontFamily:"'Oswald',sans-serif", fontWeight:600, letterSpacing:".06em"}}>
+        ▼ HOME — {homeName}
+      </text>
+      {/* 選手(アウェイ) */}
       {awayPts.map((p) => (
-        <g key={"a" + p.n}>
+        <g key={"a" + p.n} transform="translate(0,29)">
           <circle cx={p.x} cy={p.y} r="14" fill={awayColor} stroke="rgba(255,255,255,.92)" strokeWidth="1.6" />
           <text x={p.x} y={p.y + 4.5} textAnchor="middle" className="kit-num">{p.n}</text>
-          <text x={p.x} y={p.y + 28} textAnchor="middle" className="kit-name">{p.name}</text>
+          <text x={p.x} y={p.y + 28} textAnchor="middle" className="kit-name">{shortName(p.name)}</text>
         </g>
       ))}
+      {/* 選手(ホーム) */}
       {homePts.map((p) => (
-        <g key={"h" + p.n}>
+        <g key={"h" + p.n} transform="translate(0,29)">
           <circle cx={p.x} cy={p.y} r="14" fill={homeColor} stroke="rgba(255,255,255,.92)" strokeWidth="1.6" />
           <text x={p.x} y={p.y + 4.5} textAnchor="middle" className="kit-num">{p.n}</text>
-          <text x={p.x} y={p.y + 28} textAnchor="middle" className="kit-name">{p.name}</text>
+          <text x={p.x} y={p.y + 28} textAnchor="middle" className="kit-name">{shortName(p.name)}</text>
         </g>
       ))}
     </svg>
@@ -64,6 +85,12 @@ function Pitch({ home, away, homeColor, awayColor }) {
 // ─────────────────────────────────────────────
 // 試合詳細
 // ─────────────────────────────────────────────
+// GK先頭、その後は背番号昇順
+const sortSubs = (subs) => [
+  ...subs.filter((s) => s.gk).sort((a, b) => a.n - b.n),
+  ...subs.filter((s) => !s.gk).sort((a, b) => a.n - b.n),
+];
+
 function SubsList({ title, color, subs }) {
   return (
     <div className="subs-col">
@@ -72,7 +99,7 @@ function SubsList({ title, color, subs }) {
         {title}
       </div>
       <ul>
-        {subs.map((s) => (
+        {sortSubs(subs).map((s) => (
           <li key={s.n}>
             <span className="sub-num">{s.n}</span>
             <span>{s.name}</span>
@@ -114,7 +141,7 @@ function MatchDetail({ match, onBack }) {
         </span>
       </div>
 
-      <Pitch home={lineup.home} away={lineup.away} homeColor={home.color} awayColor={away.color} />
+      <Pitch home={lineup.home} away={lineup.away} homeColor={home.color} awayColor={away.color} homeName={home.name} awayName={away.name} />
 
       <h3 className="section-title">サブメンバー</h3>
       <div className="subs">
