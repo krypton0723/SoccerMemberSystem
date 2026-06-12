@@ -107,6 +107,7 @@ def fixture_to_match(fix, home_meta, away_meta, lineup_data=None):
 
     entry = {
         "id":        str(fix["fixture"]["id"]),
+        "kickoff":   kick_jst.isoformat(),  # ソート用(結果情報は含まない)
         "group":     fix.get("league", {}).get("round", "")[-1:] or "?",
         "matchday":  fix.get("league", {}).get("round", ""),
         "dateLabel": kick_jst.strftime("%-m月%-d日（%a）").replace(
@@ -177,7 +178,7 @@ def main():
         # 日付順に並べて保存
         sorted_matches = sorted(
             current_by_id.values(),
-            key=lambda m: (m["dateLabel"], m["timeJST"])
+            key=lambda m: m.get("kickoff", "")
         )
         save(sorted_matches)
         print(f"✓ index.json を更新しました ({len(sorted_matches)} 試合)")
