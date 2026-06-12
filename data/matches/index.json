@@ -514,7 +514,234 @@
       "code": "BIH",
       "color": "#112855"
     },
-    "status": "pending"
+    "status": "released",
+    "capturedAt": "6/13 04:34 JST に取得・凍結",
+    "lineup": {
+      "home": {
+        "formation": "4-4-2",
+        "coach": "",
+        "xi": [
+          {
+            "n": 16,
+            "name": "Maxime Crépeau"
+          },
+          {
+            "n": 2,
+            "name": "Alistair Johnston"
+          },
+          {
+            "n": 22,
+            "name": "Richie Laryea"
+          },
+          {
+            "n": 8,
+            "name": "Ismaël Koné"
+          },
+          {
+            "n": 4,
+            "name": "Luc de Fougerolles"
+          },
+          {
+            "n": 13,
+            "name": "Derek Cornelius"
+          },
+          {
+            "n": 17,
+            "name": "Tajon Buchanan"
+          },
+          {
+            "n": 7,
+            "name": "Stephen Eustáquio"
+          },
+          {
+            "n": 12,
+            "name": "Tani Oluwaseyi"
+          },
+          {
+            "n": 10,
+            "name": "Jonathan David"
+          },
+          {
+            "n": 11,
+            "name": "Liam Millar"
+          }
+        ],
+        "subs": [
+          {
+            "n": 3,
+            "name": "Alfie Jones"
+          },
+          {
+            "n": 23,
+            "name": "Niko Sigur"
+          },
+          {
+            "n": 14,
+            "name": "Jacob Shaffelburg"
+          },
+          {
+            "n": 5,
+            "name": "Joel Waterman"
+          },
+          {
+            "n": 21,
+            "name": "Jonathan Osorio"
+          },
+          {
+            "n": 26,
+            "name": "Jayden Nelson"
+          },
+          {
+            "n": 9,
+            "name": "Cyle Larin"
+          },
+          {
+            "n": 20,
+            "name": "Ali Ahmed"
+          },
+          {
+            "n": 24,
+            "name": "Promise David"
+          },
+          {
+            "n": 18,
+            "name": "Owen Goodman"
+          },
+          {
+            "n": 19,
+            "name": "Alphonso Davies"
+          },
+          {
+            "n": 1,
+            "name": "Dayne St. Clair"
+          },
+          {
+            "n": 15,
+            "name": "Moïse Bombito"
+          },
+          {
+            "n": 25,
+            "name": "Nathan Saliba"
+          },
+          {
+            "n": 6,
+            "name": "Mathieu Choinière"
+          }
+        ]
+      },
+      "away": {
+        "formation": "4-4-2",
+        "coach": "",
+        "xi": [
+          {
+            "n": 1,
+            "name": "Nikola Vasilj"
+          },
+          {
+            "n": 7,
+            "name": "Amar Dedic"
+          },
+          {
+            "n": 5,
+            "name": "Sead Kolasinac"
+          },
+          {
+            "n": 6,
+            "name": "Benjamin Tahirovic"
+          },
+          {
+            "n": 18,
+            "name": "Nikola Katic"
+          },
+          {
+            "n": 4,
+            "name": "Tarik Muharemovic"
+          },
+          {
+            "n": 20,
+            "name": "Esmir Bajraktarevic"
+          },
+          {
+            "n": 13,
+            "name": "Ivan Basic"
+          },
+          {
+            "n": 25,
+            "name": "Jovo Lukic"
+          },
+          {
+            "n": 10,
+            "name": "Ermedin Demirovic"
+          },
+          {
+            "n": 15,
+            "name": "Amar Memic"
+          }
+        ],
+        "subs": [
+          {
+            "n": 11,
+            "name": "Edin Dzeko"
+          },
+          {
+            "n": 22,
+            "name": "Martin Zlomislic"
+          },
+          {
+            "n": 12,
+            "name": "Mladen Jurkas"
+          },
+          {
+            "n": 9,
+            "name": "Samed Bazdar"
+          },
+          {
+            "n": 16,
+            "name": "Amir Hadziahmetovic"
+          },
+          {
+            "n": 26,
+            "name": "Ermin Mahmic"
+          },
+          {
+            "n": 8,
+            "name": "Armin Gigovic"
+          },
+          {
+            "n": 21,
+            "name": "Stjepan Radeljic"
+          },
+          {
+            "n": 17,
+            "name": "Dzenis Burnic"
+          },
+          {
+            "n": 19,
+            "name": "Kerim Alajbegovic"
+          },
+          {
+            "n": 24,
+            "name": "Arjan Malic"
+          },
+          {
+            "n": 3,
+            "name": "Dennis Hadzikadunic"
+          },
+          {
+            "n": 23,
+            "name": "Haris Tabakovic"
+          },
+          {
+            "n": 14,
+            "name": "Ivan Sunjic"
+          },
+          {
+            "n": 2,
+            "name": "Nihad Mujakic"
+          }
+        ]
+      }
+    }
   },
   {
     "id": "760417",
