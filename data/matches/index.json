@@ -1258,7 +1258,230 @@
       "code": "MAR",
       "color": "#009060"
     },
-    "status": "pending"
+    "status": "released",
+    "capturedAt": "6/14 07:12 JST に取得・凍結",
+    "lineup": {
+      "home": {
+        "formation": "4-2-3-1",
+        "coach": "",
+        "xi": [
+          {
+            "n": 1,
+            "name": "Alisson Becker"
+          },
+          {
+            "n": 24,
+            "name": "Roger Ibañez"
+          },
+          {
+            "n": 16,
+            "name": "Douglas Santos"
+          },
+          {
+            "n": 8,
+            "name": "Bruno Guimarães"
+          },
+          {
+            "n": 4,
+            "name": "Marquinhos"
+          },
+          {
+            "n": 3,
+            "name": "Gabriel Magalhães"
+          },
+          {
+            "n": 20,
+            "name": "Lucas Paquetá"
+          },
+          {
+            "n": 5,
+            "name": "Casemiro"
+          },
+          {
+            "n": 25,
+            "name": "Igor Thiago"
+          },
+          {
+            "n": 11,
+            "name": "Raphinha"
+          },
+          {
+            "n": 7,
+            "name": "Vinícius Júnior"
+          }
+        ],
+        "subs": [
+          {
+            "n": 9,
+            "name": "Matheus Cunha"
+          },
+          {
+            "n": 23,
+            "name": "Ederson"
+          },
+          {
+            "n": 26,
+            "name": "Rayan"
+          },
+          {
+            "n": 15,
+            "name": "Léo Pereira"
+          },
+          {
+            "n": 17,
+            "name": "Fabinho"
+          },
+          {
+            "n": 2,
+            "name": "Éderson"
+          },
+          {
+            "n": 21,
+            "name": "Luiz Henrique"
+          },
+          {
+            "n": 22,
+            "name": "Gabriel Martinelli"
+          },
+          {
+            "n": 13,
+            "name": "Danilo"
+          },
+          {
+            "n": 6,
+            "name": "Alex Sandro"
+          },
+          {
+            "n": 19,
+            "name": "Endrick"
+          },
+          {
+            "n": 18,
+            "name": "Danilo Santos"
+          },
+          {
+            "n": 14,
+            "name": "Bremer"
+          },
+          {
+            "n": 12,
+            "name": "Weverton"
+          }
+        ]
+      },
+      "away": {
+        "formation": "4-2-3-1",
+        "coach": "",
+        "xi": [
+          {
+            "n": 1,
+            "name": "Yassine Bounou"
+          },
+          {
+            "n": 2,
+            "name": "Achraf Hakimi"
+          },
+          {
+            "n": 3,
+            "name": "Noussair Mazraoui"
+          },
+          {
+            "n": 24,
+            "name": "Neil El Aynaoui"
+          },
+          {
+            "n": 14,
+            "name": "Issa Diop"
+          },
+          {
+            "n": 18,
+            "name": "Chadi Riad"
+          },
+          {
+            "n": 10,
+            "name": "Brahim Díaz"
+          },
+          {
+            "n": 6,
+            "name": "Ayyoub Bouaddi"
+          },
+          {
+            "n": 11,
+            "name": "Ismael Saibari"
+          },
+          {
+            "n": 8,
+            "name": "Azzedine Ounahi"
+          },
+          {
+            "n": 23,
+            "name": "Bilal El Khannouss"
+          }
+        ],
+        "subs": [
+          {
+            "n": 22,
+            "name": "Ahmed Reda Tagnaouti"
+          },
+          {
+            "n": 17,
+            "name": "Amine Sbaï"
+          },
+          {
+            "n": 7,
+            "name": "Chemsdine Talbi"
+          },
+          {
+            "n": 9,
+            "name": "Soufiane Rahimi"
+          },
+          {
+            "n": 21,
+            "name": "Ayoube Amaimouni"
+          },
+          {
+            "n": 16,
+            "name": "Gessime Yassine"
+          },
+          {
+            "n": 15,
+            "name": "Samir El Mourabet"
+          },
+          {
+            "n": 26,
+            "name": "Anass Salah-Eddine"
+          },
+          {
+            "n": 20,
+            "name": "Ayoub El Kaabi"
+          },
+          {
+            "n": 5,
+            "name": "Marwane Saadane"
+          },
+          {
+            "n": 4,
+            "name": "Sofyan Amrabat"
+          },
+          {
+            "n": 19,
+            "name": "Youssef Belammari"
+          },
+          {
+            "n": 13,
+            "name": "Zakaria El Ouahdi"
+          },
+          {
+            "n": 12,
+            "name": "Munir El Kajoui"
+          },
+          {
+            "n": 25,
+            "name": "Redouane Halhal"
+          }
+        ]
+      }
+    }
   },
   {
     "id": "760418",
