@@ -755,14 +755,241 @@
     "home": {
       "name": "アメリカ",
       "code": "USA",
-      "color": "#213065"
+      "color": "#d42339"
     },
     "away": {
       "name": "パラグアイ",
       "code": "PAR",
       "color": "#ea2300"
     },
-    "status": "pending"
+    "status": "released",
+    "capturedAt": "6/13 09:24 JST に取得・凍結",
+    "lineup": {
+      "home": {
+        "formation": "4-2-3-1",
+        "coach": "",
+        "xi": [
+          {
+            "n": 24,
+            "name": "Matt Freese"
+          },
+          {
+            "n": 16,
+            "name": "Alex Freeman"
+          },
+          {
+            "n": 5,
+            "name": "Antonee Robinson"
+          },
+          {
+            "n": 4,
+            "name": "Tyler Adams"
+          },
+          {
+            "n": 3,
+            "name": "Chris Richards"
+          },
+          {
+            "n": 13,
+            "name": "Tim Ream"
+          },
+          {
+            "n": 2,
+            "name": "Sergiño Dest"
+          },
+          {
+            "n": 17,
+            "name": "Malik Tillman"
+          },
+          {
+            "n": 20,
+            "name": "Folarin Balogun"
+          },
+          {
+            "n": 8,
+            "name": "Weston McKennie"
+          },
+          {
+            "n": 10,
+            "name": "Christian Pulisic"
+          }
+        ],
+        "subs": [
+          {
+            "n": 26,
+            "name": "Alejandro Zendejas"
+          },
+          {
+            "n": 14,
+            "name": "Sebastian Berhalter"
+          },
+          {
+            "n": 9,
+            "name": "Ricardo Pepi"
+          },
+          {
+            "n": 15,
+            "name": "Cristian Roldan"
+          },
+          {
+            "n": 22,
+            "name": "Mark McKenzie"
+          },
+          {
+            "n": 23,
+            "name": "Joe Scally"
+          },
+          {
+            "n": 18,
+            "name": "Max Arfsten"
+          },
+          {
+            "n": 1,
+            "name": "Matt Turner"
+          },
+          {
+            "n": 19,
+            "name": "Haji Wright"
+          },
+          {
+            "n": 25,
+            "name": "Chris Brady"
+          },
+          {
+            "n": 11,
+            "name": "Brenden Aaronson"
+          },
+          {
+            "n": 7,
+            "name": "Giovanni Reyna"
+          },
+          {
+            "n": 21,
+            "name": "Timothy Weah"
+          },
+          {
+            "n": 12,
+            "name": "Miles Robinson"
+          },
+          {
+            "n": 6,
+            "name": "Auston Trusty"
+          }
+        ]
+      },
+      "away": {
+        "formation": "4-4-2",
+        "coach": "",
+        "xi": [
+          {
+            "n": 12,
+            "name": "Orlando Gil"
+          },
+          {
+            "n": 4,
+            "name": "Juan Cáceres"
+          },
+          {
+            "n": 6,
+            "name": "Júnior Alonso"
+          },
+          {
+            "n": 14,
+            "name": "Andrés Cubas"
+          },
+          {
+            "n": 15,
+            "name": "Gustavo Gómez"
+          },
+          {
+            "n": 3,
+            "name": "Omar Alderete"
+          },
+          {
+            "n": 8,
+            "name": "Diego Gómez"
+          },
+          {
+            "n": 16,
+            "name": "Damián Bobadilla"
+          },
+          {
+            "n": 19,
+            "name": "Julio Enciso"
+          },
+          {
+            "n": 9,
+            "name": "Antonio Sanabria"
+          },
+          {
+            "n": 10,
+            "name": "Miguel Almirón"
+          }
+        ],
+        "subs": [
+          {
+            "n": 18,
+            "name": "Alex Arce"
+          },
+          {
+            "n": 13,
+            "name": "José Canale"
+          },
+          {
+            "n": 21,
+            "name": "Gabriel Ávalos"
+          },
+          {
+            "n": 26,
+            "name": "Alexandro Maidana"
+          },
+          {
+            "n": 24,
+            "name": "Gustavo Caballero"
+          },
+          {
+            "n": 17,
+            "name": "Alejandro Romero Gamarra"
+          },
+          {
+            "n": 20,
+            "name": "Braian Ojeda"
+          },
+          {
+            "n": 22,
+            "name": "Gastón Olveira"
+          },
+          {
+            "n": 1,
+            "name": "Gatito Fernández"
+          },
+          {
+            "n": 25,
+            "name": "Isidro Pitta"
+          },
+          {
+            "n": 5,
+            "name": "Fabián Balbuena"
+          },
+          {
+            "n": 23,
+            "name": "Matías Galarza"
+          },
+          {
+            "n": 7,
+            "name": "Ramón Sosa"
+          },
+          {
+            "n": 11,
+            "name": "Mauricio"
+          },
+          {
+            "n": 2,
+            "name": "Gustavo Velázquez"
+          }
+        ]
+      }
+    }
   },
   {
     "id": "760420",
@@ -1349,6 +1576,69 @@
       "name": "パラグアイ",
       "code": "PAR",
       "color": "#ea2300"
+    },
+    "status": "pending"
+  },
+  {
+    "id": "760447",
+    "kickoff": "2026-06-21T02:00:00+09:00",
+    "group": "F",
+    "matchday": "グループステージ",
+    "dateLabel": "6月21日（日）",
+    "timeJST": "02:00",
+    "stadium": "NRG Stadium",
+    "city": "Houston, Texas",
+    "home": {
+      "name": "オランダ",
+      "code": "NED",
+      "color": "#fb5d00"
+    },
+    "away": {
+      "name": "スウェーデン",
+      "code": "SWE",
+      "color": "#fecb00"
+    },
+    "status": "pending"
+  },
+  {
+    "id": "760448",
+    "kickoff": "2026-06-21T05:00:00+09:00",
+    "group": "E",
+    "matchday": "グループステージ",
+    "dateLabel": "6月21日（日）",
+    "timeJST": "05:00",
+    "stadium": "BMO Field",
+    "city": "Toronto",
+    "home": {
+      "name": "ドイツ",
+      "code": "GER",
+      "color": "#000000"
+    },
+    "away": {
+      "name": "コートジボワール",
+      "code": "CIV",
+      "color": "#d48c00"
+    },
+    "status": "pending"
+  },
+  {
+    "id": "760446",
+    "kickoff": "2026-06-21T09:00:00+09:00",
+    "group": "E",
+    "matchday": "グループステージ",
+    "dateLabel": "6月21日（日）",
+    "timeJST": "09:00",
+    "stadium": "GEHA Field at Arrowhead Stadium",
+    "city": "Kansas City, Missouri",
+    "home": {
+      "name": "エクアドル",
+      "code": "ECU",
+      "color": "#ffdd00"
+    },
+    "away": {
+      "name": "キュラソー",
+      "code": "CUW",
+      "color": "#0537e4"
     },
     "status": "pending"
   }
