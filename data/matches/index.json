@@ -1010,7 +1010,234 @@
       "code": "SUI",
       "color": "#d72b2c"
     },
-    "status": "pending"
+    "status": "released",
+    "capturedAt": "6/14 04:43 JST に取得・凍結",
+    "lineup": {
+      "home": {
+        "formation": "4-3-3",
+        "coach": "",
+        "xi": [
+          {
+            "n": 1,
+            "name": "Mahmoud Abunada"
+          },
+          {
+            "n": 13,
+            "name": "Ayoub Al-Oui"
+          },
+          {
+            "n": 14,
+            "name": "Homam Ahmed"
+          },
+          {
+            "n": 23,
+            "name": "Assim Madibo"
+          },
+          {
+            "n": 2,
+            "name": "Pedro Miguel"
+          },
+          {
+            "n": 16,
+            "name": "Boualem Khoukhi"
+          },
+          {
+            "n": 5,
+            "name": "Jassem Gaber"
+          },
+          {
+            "n": 4,
+            "name": "Issa Laye"
+          },
+          {
+            "n": 15,
+            "name": "Yusuf Abdurisag"
+          },
+          {
+            "n": 8,
+            "name": "Edmílson Junior"
+          },
+          {
+            "n": 11,
+            "name": "Akram Afif"
+          }
+        ],
+        "subs": [
+          {
+            "n": 10,
+            "name": "Hassan Al-Haydos"
+          },
+          {
+            "n": 17,
+            "name": "Ahmed Al-Ganehi"
+          },
+          {
+            "n": 26,
+            "name": "Mohamed Manai"
+          },
+          {
+            "n": 9,
+            "name": "Mohammed Muntari"
+          },
+          {
+            "n": 3,
+            "name": "Lucas Mendes"
+          },
+          {
+            "n": 25,
+            "name": "Al-Hashmi Al-Hussain"
+          },
+          {
+            "n": 24,
+            "name": "Tahsin Jamshid"
+          },
+          {
+            "n": 22,
+            "name": "Meshaal Barsham"
+          },
+          {
+            "n": 18,
+            "name": "Sultan Al-Brake"
+          },
+          {
+            "n": 6,
+            "name": "Abdulaziz Hatem"
+          },
+          {
+            "n": 20,
+            "name": "Ahmed Fathy"
+          },
+          {
+            "n": 7,
+            "name": "Ahmed Alaaeldin"
+          },
+          {
+            "n": 19,
+            "name": "Almoez Ali"
+          },
+          {
+            "n": 21,
+            "name": "Salah Zakaria"
+          },
+          {
+            "n": 12,
+            "name": "Karim Boudiaf"
+          }
+        ]
+      },
+      "away": {
+        "formation": "4-3-3",
+        "coach": "",
+        "xi": [
+          {
+            "n": 1,
+            "name": "Gregor Kobel"
+          },
+          {
+            "n": 6,
+            "name": "Denis Zakaria"
+          },
+          {
+            "n": 13,
+            "name": "Ricardo Rodríguez"
+          },
+          {
+            "n": 10,
+            "name": "Granit Xhaka"
+          },
+          {
+            "n": 4,
+            "name": "Nico Elvedi"
+          },
+          {
+            "n": 5,
+            "name": "Manuel Akanji"
+          },
+          {
+            "n": 20,
+            "name": "Michel Aebischer"
+          },
+          {
+            "n": 8,
+            "name": "Remo Freuler"
+          },
+          {
+            "n": 7,
+            "name": "Breel Embolo"
+          },
+          {
+            "n": 11,
+            "name": "Dan Ndoye"
+          },
+          {
+            "n": 17,
+            "name": "Rubén Vargas"
+          }
+        ],
+        "subs": [
+          {
+            "n": 18,
+            "name": "Eray Cömert"
+          },
+          {
+            "n": 21,
+            "name": "Marvin Keller"
+          },
+          {
+            "n": 24,
+            "name": "Aurèle Amenda"
+          },
+          {
+            "n": 2,
+            "name": "Miro Muheim"
+          },
+          {
+            "n": 3,
+            "name": "Silvan Widmer"
+          },
+          {
+            "n": 19,
+            "name": "Noah Okafor"
+          },
+          {
+            "n": 25,
+            "name": "Luca Jaquez"
+          },
+          {
+            "n": 22,
+            "name": "Fabian Rieder"
+          },
+          {
+            "n": 15,
+            "name": "Djibril Sow"
+          },
+          {
+            "n": 23,
+            "name": "Zeki Amdouni"
+          },
+          {
+            "n": 12,
+            "name": "Yvon Mvogo"
+          },
+          {
+            "n": 16,
+            "name": "Christian Fassnacht"
+          },
+          {
+            "n": 9,
+            "name": "Johan Manzambi"
+          },
+          {
+            "n": 26,
+            "name": "Cedric Itten"
+          },
+          {
+            "n": 14,
+            "name": "Ardon Jashari"
+          }
+        ]
+      }
+    }
   },
   {
     "id": "760419",
