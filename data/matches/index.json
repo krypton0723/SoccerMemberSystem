@@ -1502,7 +1502,234 @@
       "code": "SCO",
       "color": "#1a2d69"
     },
-    "status": "pending"
+    "status": "released",
+    "capturedAt": "6/14 11:02 JST に取得・凍結",
+    "lineup": {
+      "home": {
+        "formation": "4-4-2",
+        "coach": "",
+        "xi": [
+          {
+            "n": 1,
+            "name": "Johny Placide"
+          },
+          {
+            "n": 2,
+            "name": "Carlens Arcus"
+          },
+          {
+            "n": 8,
+            "name": "Martin Expérience"
+          },
+          {
+            "n": 17,
+            "name": "Danley Jean Jacques"
+          },
+          {
+            "n": 4,
+            "name": "Ricardo Adé"
+          },
+          {
+            "n": 5,
+            "name": "Hannes Delcroix"
+          },
+          {
+            "n": 11,
+            "name": "Louicius Deedson"
+          },
+          {
+            "n": 10,
+            "name": "Jean-Ricner Bellegarde"
+          },
+          {
+            "n": 18,
+            "name": "Wilson Isidor"
+          },
+          {
+            "n": 20,
+            "name": "Frantzdy Pierrot"
+          },
+          {
+            "n": 15,
+            "name": "Ruben Providence"
+          }
+        ],
+        "subs": [
+          {
+            "n": 23,
+            "name": "Josué Duverger"
+          },
+          {
+            "n": 6,
+            "name": "Carl Sainté"
+          },
+          {
+            "n": 9,
+            "name": "Duckens Nazon"
+          },
+          {
+            "n": 24,
+            "name": "Wilguens Paugain"
+          },
+          {
+            "n": 21,
+            "name": "Josué Casimir"
+          },
+          {
+            "n": 16,
+            "name": "Lenny Joseph"
+          },
+          {
+            "n": 14,
+            "name": "Garven Metusala"
+          },
+          {
+            "n": 22,
+            "name": "Jean-Kévin Duverne"
+          },
+          {
+            "n": 26,
+            "name": "Woodensky Pierre"
+          },
+          {
+            "n": 25,
+            "name": "Dominique Simon"
+          },
+          {
+            "n": 3,
+            "name": "Keeto Thermoncy"
+          },
+          {
+            "n": 12,
+            "name": "Alexandre Pierre"
+          },
+          {
+            "n": 13,
+            "name": "Markhus Lacroix"
+          },
+          {
+            "n": 7,
+            "name": "Derrick Etienne Jr."
+          },
+          {
+            "n": 19,
+            "name": "Yassin Fortuné"
+          }
+        ]
+      },
+      "away": {
+        "formation": "4-4-2",
+        "coach": "",
+        "xi": [
+          {
+            "n": 1,
+            "name": "Angus Gunn"
+          },
+          {
+            "n": 2,
+            "name": "Aaron Hickey"
+          },
+          {
+            "n": 3,
+            "name": "Andy Robertson"
+          },
+          {
+            "n": 4,
+            "name": "Scott McTominay"
+          },
+          {
+            "n": 5,
+            "name": "Grant Hanley"
+          },
+          {
+            "n": 13,
+            "name": "Jack Hendry"
+          },
+          {
+            "n": 17,
+            "name": "Ben Gannon-Doak"
+          },
+          {
+            "n": 19,
+            "name": "Lewis Ferguson"
+          },
+          {
+            "n": 10,
+            "name": "Ché Adams"
+          },
+          {
+            "n": 20,
+            "name": "Lawrence Shankland"
+          },
+          {
+            "n": 7,
+            "name": "John McGinn"
+          }
+        ],
+        "subs": [
+          {
+            "n": 21,
+            "name": "Craig Gordon"
+          },
+          {
+            "n": 22,
+            "name": "Nathan Patterson"
+          },
+          {
+            "n": 15,
+            "name": "John Souttar"
+          },
+          {
+            "n": 11,
+            "name": "Ryan Christie"
+          },
+          {
+            "n": 8,
+            "name": "Tyler Fletcher"
+          },
+          {
+            "n": 24,
+            "name": "Anthony Ralston"
+          },
+          {
+            "n": 6,
+            "name": "Kieran Tierney"
+          },
+          {
+            "n": 14,
+            "name": "Ross Stewart"
+          },
+          {
+            "n": 9,
+            "name": "Lyndon Dykes"
+          },
+          {
+            "n": 23,
+            "name": "Kenny McLean"
+          },
+          {
+            "n": 25,
+            "name": "Findlay Curtis"
+          },
+          {
+            "n": 18,
+            "name": "George Hirst"
+          },
+          {
+            "n": 16,
+            "name": "Dominic Hyam"
+          },
+          {
+            "n": 26,
+            "name": "Scott McKenna"
+          },
+          {
+            "n": 12,
+            "name": "Liam Kelly"
+          }
+        ]
+      }
+    }
   },
   {
     "id": "760421",
@@ -2089,6 +2316,111 @@
       "name": "キュラソー",
       "code": "CUW",
       "color": "#0537e4"
+    },
+    "status": "pending"
+  },
+  {
+    "id": "760449",
+    "kickoff": "2026-06-21T13:00:00+09:00",
+    "group": "F",
+    "matchday": "グループステージ",
+    "dateLabel": "6月21日（日）",
+    "timeJST": "13:00",
+    "stadium": "Estadio BBVA",
+    "city": "Guadalupe",
+    "home": {
+      "name": "チュニジア",
+      "code": "TUN",
+      "color": "#D20300"
+    },
+    "away": {
+      "name": "日本",
+      "code": "JPN",
+      "color": "#ed1c24"
+    },
+    "status": "pending"
+  },
+  {
+    "id": "760453",
+    "kickoff": "2026-06-22T01:00:00+09:00",
+    "group": "H",
+    "matchday": "グループステージ",
+    "dateLabel": "6月22日（月）",
+    "timeJST": "01:00",
+    "stadium": "Mercedes-Benz Stadium",
+    "city": "Atlanta, Georgia",
+    "home": {
+      "name": "スペイン",
+      "code": "ESP",
+      "color": "#c60b1e"
+    },
+    "away": {
+      "name": "サウジアラビア",
+      "code": "KSA",
+      "color": "#dddddd"
+    },
+    "status": "pending"
+  },
+  {
+    "id": "760451",
+    "kickoff": "2026-06-22T04:00:00+09:00",
+    "group": "G",
+    "matchday": "グループステージ",
+    "dateLabel": "6月22日（月）",
+    "timeJST": "04:00",
+    "stadium": "SoFi Stadium",
+    "city": "Inglewood, California",
+    "home": {
+      "name": "ベルギー",
+      "code": "BEL",
+      "color": "#ef3340"
+    },
+    "away": {
+      "name": "イラン",
+      "code": "IRN",
+      "color": "#da0000"
+    },
+    "status": "pending"
+  },
+  {
+    "id": "760450",
+    "kickoff": "2026-06-22T07:00:00+09:00",
+    "group": "H",
+    "matchday": "グループステージ",
+    "dateLabel": "6月22日（月）",
+    "timeJST": "07:00",
+    "stadium": "Hard Rock Stadium",
+    "city": "Miami Gardens, Florida",
+    "home": {
+      "name": "ウルグアイ",
+      "code": "URU",
+      "color": "#003da5"
+    },
+    "away": {
+      "name": "カーボベルデ",
+      "code": "CPV",
+      "color": "#0000ff"
+    },
+    "status": "pending"
+  },
+  {
+    "id": "760452",
+    "kickoff": "2026-06-22T10:00:00+09:00",
+    "group": "G",
+    "matchday": "グループステージ",
+    "dateLabel": "6月22日（月）",
+    "timeJST": "10:00",
+    "stadium": "BC Place",
+    "city": "Vancouver",
+    "home": {
+      "name": "ニュージーランド",
+      "code": "NZL",
+      "color": "#273476"
+    },
+    "away": {
+      "name": "エジプト",
+      "code": "EGY",
+      "color": "#D20300"
     },
     "status": "pending"
   }
