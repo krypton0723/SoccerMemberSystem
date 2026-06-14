@@ -1991,14 +1991,241 @@
     "home": {
       "name": "ドイツ",
       "code": "GER",
-      "color": "#000000"
+      "color": "#FFFFFF"
     },
     "away": {
       "name": "キュラソー",
       "code": "CUW",
       "color": "#0537e4"
     },
-    "status": "pending"
+    "status": "released",
+    "capturedAt": "6/15 01:26 JST に取得・凍結",
+    "lineup": {
+      "home": {
+        "formation": "4-2-3-1",
+        "coach": "",
+        "xi": [
+          {
+            "n": 1,
+            "name": "Manuel Neuer"
+          },
+          {
+            "n": 6,
+            "name": "Joshua Kimmich"
+          },
+          {
+            "n": 18,
+            "name": "Nathaniel Brown"
+          },
+          {
+            "n": 23,
+            "name": "Felix Nmecha"
+          },
+          {
+            "n": 4,
+            "name": "Jonathan Tah"
+          },
+          {
+            "n": 15,
+            "name": "Nico Schlotterbeck"
+          },
+          {
+            "n": 19,
+            "name": "Leroy Sané"
+          },
+          {
+            "n": 5,
+            "name": "Aleksandar Pavlovic"
+          },
+          {
+            "n": 7,
+            "name": "Kai Havertz"
+          },
+          {
+            "n": 10,
+            "name": "Jamal Musiala"
+          },
+          {
+            "n": 17,
+            "name": "Florian Wirtz"
+          }
+        ],
+        "subs": [
+          {
+            "n": 22,
+            "name": "David Raum"
+          },
+          {
+            "n": 11,
+            "name": "Nick Woltemade"
+          },
+          {
+            "n": 16,
+            "name": "Angelo Stiller"
+          },
+          {
+            "n": 26,
+            "name": "Deniz Undav"
+          },
+          {
+            "n": 3,
+            "name": "Waldemar Anton"
+          },
+          {
+            "n": 9,
+            "name": "Jamie Leweling"
+          },
+          {
+            "n": 21,
+            "name": "Alexander Nübel"
+          },
+          {
+            "n": 8,
+            "name": "Leon Goretzka"
+          },
+          {
+            "n": 2,
+            "name": "Antonio Rüdiger"
+          },
+          {
+            "n": 24,
+            "name": "Malick Thiaw"
+          },
+          {
+            "n": 20,
+            "name": "Nadiem Amiri"
+          },
+          {
+            "n": 12,
+            "name": "Oliver Baumann"
+          },
+          {
+            "n": 13,
+            "name": "Pascal Gross"
+          },
+          {
+            "n": 25,
+            "name": "Assan Ouédraogo"
+          },
+          {
+            "n": 14,
+            "name": "Maximilian Beier"
+          }
+        ]
+      },
+      "away": {
+        "formation": "4-2-3-1",
+        "coach": "",
+        "xi": [
+          {
+            "n": 1,
+            "name": "Eloy Room"
+          },
+          {
+            "n": 5,
+            "name": "Sherel Floranus"
+          },
+          {
+            "n": 24,
+            "name": "Deveron Fonville"
+          },
+          {
+            "n": 10,
+            "name": "Leandro Bacuna"
+          },
+          {
+            "n": 23,
+            "name": "Riechedly Bazoer"
+          },
+          {
+            "n": 18,
+            "name": "Armando Obispo"
+          },
+          {
+            "n": 12,
+            "name": "Sontje Hansen"
+          },
+          {
+            "n": 8,
+            "name": "Livano Comenencia"
+          },
+          {
+            "n": 9,
+            "name": "Jürgen Locadia"
+          },
+          {
+            "n": 21,
+            "name": "Tahith Chong"
+          },
+          {
+            "n": 7,
+            "name": "Juninho Bacuna"
+          }
+        ],
+        "subs": [
+          {
+            "n": 15,
+            "name": "Ar'jany Martha"
+          },
+          {
+            "n": 3,
+            "name": "Juriën Gaari"
+          },
+          {
+            "n": 25,
+            "name": "Tyrick Bodak"
+          },
+          {
+            "n": 22,
+            "name": "Kevin Felida"
+          },
+          {
+            "n": 20,
+            "name": "Joshua Brenet"
+          },
+          {
+            "n": 19,
+            "name": "Gervane Kastaneer"
+          },
+          {
+            "n": 17,
+            "name": "Brandley Kuwas"
+          },
+          {
+            "n": 13,
+            "name": "Tyrese Noslin"
+          },
+          {
+            "n": 16,
+            "name": "Jearl Margaritha"
+          },
+          {
+            "n": 11,
+            "name": "Jeremy Antonisse"
+          },
+          {
+            "n": 2,
+            "name": "Shurandy Sambo"
+          },
+          {
+            "n": 26,
+            "name": "Trevor Doornbusch"
+          },
+          {
+            "n": 14,
+            "name": "Kenji Gorré"
+          },
+          {
+            "n": 6,
+            "name": "Godfried Roemeratoe"
+          },
+          {
+            "n": 4,
+            "name": "Roshon van Eijma"
+          }
+        ]
+      }
+    }
   },
   {
     "id": "760425",
