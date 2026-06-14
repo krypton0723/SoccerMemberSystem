@@ -1743,14 +1743,241 @@
     "home": {
       "name": "オーストラリア",
       "code": "AUS",
-      "color": "#2a2d7c"
+      "color": "#FFCD00"
     },
     "away": {
       "name": "トルコ",
       "code": "TUR",
       "color": "#ffffff"
     },
-    "status": "pending"
+    "status": "released",
+    "capturedAt": "6/14 15:55 JST に取得・凍結",
+    "lineup": {
+      "home": {
+        "formation": "5-4-1",
+        "coach": "",
+        "xi": [
+          {
+            "n": 18,
+            "name": "Patrick Beach"
+          },
+          {
+            "n": 4,
+            "name": "Jacob Italiano"
+          },
+          {
+            "n": 5,
+            "name": "Jordan Bos"
+          },
+          {
+            "n": 21,
+            "name": "Cameron Burgess"
+          },
+          {
+            "n": 19,
+            "name": "Harry Souttar"
+          },
+          {
+            "n": 3,
+            "name": "Alessandro Circati"
+          },
+          {
+            "n": 8,
+            "name": "Connor Metcalfe"
+          },
+          {
+            "n": 13,
+            "name": "Aiden O'Neill"
+          },
+          {
+            "n": 9,
+            "name": "Mohamed Toure"
+          },
+          {
+            "n": 24,
+            "name": "Paul Okon-Engstler"
+          },
+          {
+            "n": 17,
+            "name": "Nestory Irankunda"
+          }
+        ],
+        "subs": [
+          {
+            "n": 1,
+            "name": "Mathew Ryan"
+          },
+          {
+            "n": 15,
+            "name": "Kai Trewin"
+          },
+          {
+            "n": 14,
+            "name": "Cameron Devlin"
+          },
+          {
+            "n": 12,
+            "name": "Paul Izzo"
+          },
+          {
+            "n": 20,
+            "name": "Cristian Volpato"
+          },
+          {
+            "n": 6,
+            "name": "Jason Geria"
+          },
+          {
+            "n": 11,
+            "name": "Awer Mabil"
+          },
+          {
+            "n": 16,
+            "name": "Aziz Behich"
+          },
+          {
+            "n": 7,
+            "name": "Mathew Leckie"
+          },
+          {
+            "n": 10,
+            "name": "Ajdin Hrustic"
+          },
+          {
+            "n": 26,
+            "name": "Tete Yengi"
+          },
+          {
+            "n": 25,
+            "name": "Lucas Herrington"
+          },
+          {
+            "n": 2,
+            "name": "Milos Degenek"
+          },
+          {
+            "n": 22,
+            "name": "Jackson Irvine"
+          },
+          {
+            "n": 23,
+            "name": "Nishan Velupillay"
+          }
+        ]
+      },
+      "away": {
+        "formation": "4-2-3-1",
+        "coach": "",
+        "xi": [
+          {
+            "n": 23,
+            "name": "Ugurcan Çakir"
+          },
+          {
+            "n": 2,
+            "name": "Zeki Çelik"
+          },
+          {
+            "n": 20,
+            "name": "Ferdi Kadioglu"
+          },
+          {
+            "n": 10,
+            "name": "Hakan Çalhanoglu"
+          },
+          {
+            "n": 3,
+            "name": "Merih Demiral"
+          },
+          {
+            "n": 14,
+            "name": "Abdülkerim Bardakçi"
+          },
+          {
+            "n": 8,
+            "name": "Arda Güler"
+          },
+          {
+            "n": 16,
+            "name": "Ismail Yüksek"
+          },
+          {
+            "n": 7,
+            "name": "Kerem Aktürkoglu"
+          },
+          {
+            "n": 6,
+            "name": "Orkun Kökçü"
+          },
+          {
+            "n": 21,
+            "name": "Baris Alper Yilmaz"
+          }
+        ],
+        "subs": [
+          {
+            "n": 19,
+            "name": "Yunus Akgün"
+          },
+          {
+            "n": 9,
+            "name": "Deniz Gül"
+          },
+          {
+            "n": 22,
+            "name": "Kaan Ayhan"
+          },
+          {
+            "n": 11,
+            "name": "Kenan Yildiz"
+          },
+          {
+            "n": 24,
+            "name": "Oguz Aydin"
+          },
+          {
+            "n": 12,
+            "name": "Altay Bayindir"
+          },
+          {
+            "n": 5,
+            "name": "Salih Özcan"
+          },
+          {
+            "n": 26,
+            "name": "Can Uzun"
+          },
+          {
+            "n": 15,
+            "name": "Ozan Kabak"
+          },
+          {
+            "n": 25,
+            "name": "Samet Akaydin"
+          },
+          {
+            "n": 17,
+            "name": "Irfan Can Kahveci"
+          },
+          {
+            "n": 4,
+            "name": "Çaglar Söyüncü"
+          },
+          {
+            "n": 13,
+            "name": "Eren Elmali"
+          },
+          {
+            "n": 18,
+            "name": "Mert Müldür"
+          },
+          {
+            "n": 1,
+            "name": "Mert Günok"
+          }
+        ]
+      }
+    }
   },
   {
     "id": "760422",
