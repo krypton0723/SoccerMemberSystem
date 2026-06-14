@@ -2244,9 +2244,236 @@
     "away": {
       "name": "日本",
       "code": "JPN",
-      "color": "#ed1c24"
+      "color": "#000555"
     },
-    "status": "pending"
+    "status": "released",
+    "capturedAt": "6/15 04:53 JST に取得・凍結",
+    "lineup": {
+      "home": {
+        "formation": "4-3-3",
+        "coach": "",
+        "xi": [
+          {
+            "n": 1,
+            "name": "Bart Verbruggen"
+          },
+          {
+            "n": 22,
+            "name": "Denzel Dumfries"
+          },
+          {
+            "n": 15,
+            "name": "Micky van de Ven"
+          },
+          {
+            "n": 21,
+            "name": "Frenkie de Jong"
+          },
+          {
+            "n": 6,
+            "name": "Jan Paul van Hecke"
+          },
+          {
+            "n": 4,
+            "name": "Virgil van Dijk"
+          },
+          {
+            "n": 8,
+            "name": "Ryan Gravenberch"
+          },
+          {
+            "n": 14,
+            "name": "Tijjani Reijnders"
+          },
+          {
+            "n": 18,
+            "name": "Donyell Malen"
+          },
+          {
+            "n": 24,
+            "name": "Crysencio Summerville"
+          },
+          {
+            "n": 11,
+            "name": "Cody Gakpo"
+          }
+        ],
+        "subs": [
+          {
+            "n": 12,
+            "name": "Mats Wieffer"
+          },
+          {
+            "n": 2,
+            "name": "Lutsharel Geertruida"
+          },
+          {
+            "n": 7,
+            "name": "Justin Kluivert"
+          },
+          {
+            "n": 20,
+            "name": "Teun Koopmeiners"
+          },
+          {
+            "n": 16,
+            "name": "Guus Til"
+          },
+          {
+            "n": 13,
+            "name": "Robin Roefs"
+          },
+          {
+            "n": 26,
+            "name": "Quinten Timber"
+          },
+          {
+            "n": 5,
+            "name": "Nathan Aké"
+          },
+          {
+            "n": 9,
+            "name": "Wout Weghorst"
+          },
+          {
+            "n": 23,
+            "name": "Mark Flekken"
+          },
+          {
+            "n": 10,
+            "name": "Memphis Depay"
+          },
+          {
+            "n": 17,
+            "name": "Noa Lang"
+          },
+          {
+            "n": 3,
+            "name": "Marten de Roon"
+          },
+          {
+            "n": 25,
+            "name": "Jorrel Hato"
+          },
+          {
+            "n": 19,
+            "name": "Brian Brobbey"
+          }
+        ]
+      },
+      "away": {
+        "formation": "3-4-2-1",
+        "coach": "",
+        "xi": [
+          {
+            "n": 1,
+            "name": "Zion Suzuki"
+          },
+          {
+            "n": 10,
+            "name": "Ritsu Doan"
+          },
+          {
+            "n": 13,
+            "name": "Keito Nakamura"
+          },
+          {
+            "n": 21,
+            "name": "Hiroki Ito"
+          },
+          {
+            "n": 3,
+            "name": "Shogo Taniguchi"
+          },
+          {
+            "n": 16,
+            "name": "Tsuyoshi Watanabe"
+          },
+          {
+            "n": 24,
+            "name": "Kaishu Sano"
+          },
+          {
+            "n": 15,
+            "name": "Daichi Kamada"
+          },
+          {
+            "n": 18,
+            "name": "Ayase Ueda"
+          },
+          {
+            "n": 8,
+            "name": "Takefusa Kubo"
+          },
+          {
+            "n": 11,
+            "name": "Daizen Maeda"
+          }
+        ],
+        "subs": [
+          {
+            "n": 14,
+            "name": "Junya Ito"
+          },
+          {
+            "n": 19,
+            "name": "Koki Ogawa"
+          },
+          {
+            "n": 5,
+            "name": "Yuto Nagatomo"
+          },
+          {
+            "n": 26,
+            "name": "Kento Shiogai"
+          },
+          {
+            "n": 9,
+            "name": "Keisuke Goto"
+          },
+          {
+            "n": 17,
+            "name": "Yuito Suzuki"
+          },
+          {
+            "n": 20,
+            "name": "Ayumu Seko"
+          },
+          {
+            "n": 23,
+            "name": "Tomoki Hayakawa"
+          },
+          {
+            "n": 6,
+            "name": "Shuto Machino"
+          },
+          {
+            "n": 4,
+            "name": "Kou Itakura"
+          },
+          {
+            "n": 25,
+            "name": "Junnosuke Suzuki"
+          },
+          {
+            "n": 12,
+            "name": "Keisuke Osako"
+          },
+          {
+            "n": 7,
+            "name": "Ao Tanaka"
+          },
+          {
+            "n": 2,
+            "name": "Yukinari Sugawara"
+          },
+          {
+            "n": 22,
+            "name": "Takehiro Tomiyasu"
+          }
+        ]
+      }
+    }
   },
   {
     "id": "760423",
