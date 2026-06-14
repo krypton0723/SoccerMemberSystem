@@ -2487,14 +2487,241 @@
     "home": {
       "name": "コートジボワール",
       "code": "CIV",
-      "color": "#d48c00"
+      "color": "#FF8200"
     },
     "away": {
       "name": "エクアドル",
       "code": "ECU",
       "color": "#ffdd00"
     },
-    "status": "pending"
+    "status": "released",
+    "capturedAt": "6/15 07:43 JST に取得・凍結",
+    "lineup": {
+      "home": {
+        "formation": "4-4-2",
+        "coach": "",
+        "xi": [
+          {
+            "n": 1,
+            "name": "Yahia Fofana"
+          },
+          {
+            "n": 17,
+            "name": "Guela Doué"
+          },
+          {
+            "n": 3,
+            "name": "Ghislain Konan"
+          },
+          {
+            "n": 6,
+            "name": "Seko Fofana"
+          },
+          {
+            "n": 5,
+            "name": "Wilfried Singo"
+          },
+          {
+            "n": 20,
+            "name": "Emmanuel Agbadou"
+          },
+          {
+            "n": 11,
+            "name": "Yan Diomande"
+          },
+          {
+            "n": 8,
+            "name": "Franck Kessié"
+          },
+          {
+            "n": 12,
+            "name": "Elye Wahi"
+          },
+          {
+            "n": 19,
+            "name": "Nicolas Pépé"
+          },
+          {
+            "n": 24,
+            "name": "Bazoumana Touré"
+          }
+        ],
+        "subs": [
+          {
+            "n": 25,
+            "name": "Parfait Guiagon"
+          },
+          {
+            "n": 26,
+            "name": "Christ Inao Oulaï"
+          },
+          {
+            "n": 13,
+            "name": "Christopher Operi"
+          },
+          {
+            "n": 10,
+            "name": "Simon Adingra"
+          },
+          {
+            "n": 9,
+            "name": "Ange-Yoan Bonny"
+          },
+          {
+            "n": 14,
+            "name": "Oumar Diakité"
+          },
+          {
+            "n": 16,
+            "name": "Mohamed Koné"
+          },
+          {
+            "n": 18,
+            "name": "Ibrahim Sangaré"
+          },
+          {
+            "n": 2,
+            "name": "Ousmane Diomande"
+          },
+          {
+            "n": 21,
+            "name": "Evan Ndicka"
+          },
+          {
+            "n": 23,
+            "name": "Alban Lafont"
+          },
+          {
+            "n": 22,
+            "name": "Evann Guessand"
+          },
+          {
+            "n": 4,
+            "name": "Jean Michaël Seri"
+          },
+          {
+            "n": 15,
+            "name": "Amad Diallo"
+          },
+          {
+            "n": 7,
+            "name": "Odilon Kossounou"
+          }
+        ]
+      },
+      "away": {
+        "formation": "3-4-3",
+        "coach": "",
+        "xi": [
+          {
+            "n": 1,
+            "name": "Hernán Galíndez"
+          },
+          {
+            "n": 14,
+            "name": "Alan Minda"
+          },
+          {
+            "n": 15,
+            "name": "Pedro Vite"
+          },
+          {
+            "n": 3,
+            "name": "Piero Hincapié"
+          },
+          {
+            "n": 6,
+            "name": "Willian Pacho"
+          },
+          {
+            "n": 4,
+            "name": "Joel Ordóñez"
+          },
+          {
+            "n": 21,
+            "name": "Alan Franco"
+          },
+          {
+            "n": 23,
+            "name": "Moisés Caicedo"
+          },
+          {
+            "n": 13,
+            "name": "Enner Valencia"
+          },
+          {
+            "n": 19,
+            "name": "Gonzalo Plata"
+          },
+          {
+            "n": 9,
+            "name": "John Yeboah"
+          }
+        ],
+        "subs": [
+          {
+            "n": 11,
+            "name": "Kevin Rodríguez"
+          },
+          {
+            "n": 22,
+            "name": "Gonzalo Valle"
+          },
+          {
+            "n": 7,
+            "name": "Pervis Estupiñán"
+          },
+          {
+            "n": 18,
+            "name": "Denil Castillo"
+          },
+          {
+            "n": 16,
+            "name": "Jordy Caicedo"
+          },
+          {
+            "n": 20,
+            "name": "Nilson Angulo"
+          },
+          {
+            "n": 8,
+            "name": "Anthony Valencia"
+          },
+          {
+            "n": 17,
+            "name": "Ángelo Preciado"
+          },
+          {
+            "n": 10,
+            "name": "Kendry Páez"
+          },
+          {
+            "n": 26,
+            "name": "Yaimar Medina"
+          },
+          {
+            "n": 25,
+            "name": "Jackson Porozo"
+          },
+          {
+            "n": 2,
+            "name": "Félix Torres"
+          },
+          {
+            "n": 24,
+            "name": "Jeremy Arévalo"
+          },
+          {
+            "n": 5,
+            "name": "Jordy Alcívar"
+          },
+          {
+            "n": 12,
+            "name": "Moisés Ramírez"
+          }
+        ]
+      }
+    }
   },
   {
     "id": "760424",
