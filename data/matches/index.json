@@ -3475,14 +3475,233 @@
     "home": {
       "name": "サウジアラビア",
       "code": "KSA",
-      "color": "#dddddd"
+      "color": "#FFFFFF"
     },
     "away": {
       "name": "ウルグアイ",
       "code": "URU",
-      "color": "#003da5"
+      "color": "#55B5E5"
     },
-    "status": "pending"
+    "status": "released",
+    "capturedAt": "6/16 06:49 JST に取得・凍結",
+    "lineup": {
+      "home": {
+        "formation": "4-4-2",
+        "coach": "",
+        "xi": [
+          {
+            "n": 21,
+            "name": "Mohammed Al-Owais"
+          },
+          {
+            "n": 12,
+            "name": "Saud Abdulhamid"
+          },
+          {
+            "n": 24,
+            "name": "Moteb Al-Harbi"
+          },
+          {
+            "n": 23,
+            "name": "Mohamed Kanno"
+          },
+          {
+            "n": 5,
+            "name": "Hassan Al-Tambakti"
+          },
+          {
+            "n": 4,
+            "name": "Abdulelah Al-Amri"
+          },
+          {
+            "n": 26,
+            "name": "Mohammed Abu Al-Shamat"
+          },
+          {
+            "n": 15,
+            "name": "Abdullah Al-Khaibari"
+          },
+          {
+            "n": 9,
+            "name": "Feras Al-Brikan"
+          },
+          {
+            "n": 7,
+            "name": "Musab Al-Juwayr"
+          },
+          {
+            "n": 10,
+            "name": "Salem Al-Dawsari"
+          }
+        ],
+        "subs": [
+          {
+            "n": 25,
+            "name": "Jehad Thakri"
+          },
+          {
+            "n": 1,
+            "name": "Nawaf Al-Aqidi"
+          },
+          {
+            "n": 8,
+            "name": "Aiman Yahya"
+          },
+          {
+            "n": 17,
+            "name": "Khalid Al-Ghannam"
+          },
+          {
+            "n": 16,
+            "name": "Ziyad Al-Johani"
+          },
+          {
+            "n": 3,
+            "name": "Ali Lajami"
+          },
+          {
+            "n": 19,
+            "name": "Abdullah Al-Hamdan"
+          },
+          {
+            "n": 6,
+            "name": "Nasser Al-Dawsari"
+          },
+          {
+            "n": 2,
+            "name": "Ali Majrashi"
+          },
+          {
+            "n": 22,
+            "name": "Ahmed Al-Kassar"
+          },
+          {
+            "n": 18,
+            "name": "Ala Al-Hajji"
+          },
+          {
+            "n": 13,
+            "name": "Nawaf Boushal"
+          },
+          {
+            "n": 20,
+            "name": "Sultan Mandash"
+          },
+          {
+            "n": 14,
+            "name": "Hassan Kadish"
+          },
+          {
+            "n": 11,
+            "name": "Saleh Al-Shehri"
+          }
+        ]
+      },
+      "away": {
+        "formation": "4-4-2",
+        "coach": "",
+        "xi": [
+          {
+            "n": 23,
+            "name": "Fernando Muslera"
+          },
+          {
+            "n": 13,
+            "name": "Guillermo Varela"
+          },
+          {
+            "n": 17,
+            "name": "Matías Viña"
+          },
+          {
+            "n": 5,
+            "name": "Manuel Ugarte"
+          },
+          {
+            "n": 3,
+            "name": "Sebastián Cáceres"
+          },
+          {
+            "n": 16,
+            "name": "Mathías Olivera"
+          },
+          {
+            "n": 8,
+            "name": "Federico Valverde"
+          },
+          {
+            "n": 6,
+            "name": "Rodrigo Bentancur"
+          },
+          {
+            "n": 9,
+            "name": "Darwin Núñez"
+          },
+          {
+            "n": 21,
+            "name": "Federico Viñas"
+          },
+          {
+            "n": 20,
+            "name": "Maxi Araújo"
+          }
+        ],
+        "subs": [
+          {
+            "n": 7,
+            "name": "Nicolás de la Cruz"
+          },
+          {
+            "n": 15,
+            "name": "Emiliano Martínez"
+          },
+          {
+            "n": 22,
+            "name": "Joaquín Piquerez"
+          },
+          {
+            "n": 19,
+            "name": "Rodrigo Aguirre"
+          },
+          {
+            "n": 25,
+            "name": "Juan Manuel Sanabria"
+          },
+          {
+            "n": 14,
+            "name": "Agustín Canobbio"
+          },
+          {
+            "n": 12,
+            "name": "Santiago Mele"
+          },
+          {
+            "n": 1,
+            "name": "Sergio Rochet"
+          },
+          {
+            "n": 11,
+            "name": "Facundo Pellistri"
+          },
+          {
+            "n": 26,
+            "name": "Rodrigo Zalazar"
+          },
+          {
+            "n": 18,
+            "name": "Brian Rodríguez"
+          },
+          {
+            "n": 24,
+            "name": "Santiago Bueno"
+          },
+          {
+            "n": 2,
+            "name": "José María Giménez"
+          }
+        ]
+      }
+    }
   },
   {
     "id": "760427",
