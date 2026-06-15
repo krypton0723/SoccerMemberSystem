@@ -2742,7 +2742,234 @@
       "code": "TUN",
       "color": "#D20300"
     },
-    "status": "pending"
+    "status": "released",
+    "capturedAt": "6/15 11:13 JST に取得・凍結",
+    "lineup": {
+      "home": {
+        "formation": "3-4-1-2",
+        "coach": "",
+        "xi": [
+          {
+            "n": 23,
+            "name": "Kristoffer Nordfeldt"
+          },
+          {
+            "n": 21,
+            "name": "Alexander Bernhardsson"
+          },
+          {
+            "n": 5,
+            "name": "Gabriel Gudmundsson"
+          },
+          {
+            "n": 3,
+            "name": "Victor Lindelöf"
+          },
+          {
+            "n": 4,
+            "name": "Isak Hien"
+          },
+          {
+            "n": 2,
+            "name": "Gustaf Lagerbielke"
+          },
+          {
+            "n": 16,
+            "name": "Jesper Karlström"
+          },
+          {
+            "n": 18,
+            "name": "Yasin Ayari"
+          },
+          {
+            "n": 10,
+            "name": "Benjamin Nygren"
+          },
+          {
+            "n": 17,
+            "name": "Viktor Gyökeres"
+          },
+          {
+            "n": 9,
+            "name": "Alexander Isak"
+          }
+        ],
+        "subs": [
+          {
+            "n": 19,
+            "name": "Mattias Svanberg"
+          },
+          {
+            "n": 8,
+            "name": "Daniel Svensson"
+          },
+          {
+            "n": 25,
+            "name": "Gustaf Nilsson"
+          },
+          {
+            "n": 24,
+            "name": "Elliot Stroud"
+          },
+          {
+            "n": 12,
+            "name": "Viktor Johansson"
+          },
+          {
+            "n": 22,
+            "name": "Besfort Zeneli"
+          },
+          {
+            "n": 14,
+            "name": "Hjalmar Ekdal"
+          },
+          {
+            "n": 20,
+            "name": "Eric Smith"
+          },
+          {
+            "n": 11,
+            "name": "Anthony Elanga"
+          },
+          {
+            "n": 7,
+            "name": "Lucas Bergvall"
+          },
+          {
+            "n": 6,
+            "name": "Herman Johansson"
+          },
+          {
+            "n": 1,
+            "name": "Jacob Widell Zetterström"
+          },
+          {
+            "n": 26,
+            "name": "Taha Ali"
+          },
+          {
+            "n": 13,
+            "name": "Ken Sema"
+          },
+          {
+            "n": 15,
+            "name": "Carl Starfelt"
+          }
+        ]
+      },
+      "away": {
+        "formation": "4-2-3-1",
+        "coach": "",
+        "xi": [
+          {
+            "n": 1,
+            "name": "Mouhib Chamakh"
+          },
+          {
+            "n": 20,
+            "name": "Yan Valery"
+          },
+          {
+            "n": 21,
+            "name": "Mohamed Amine Ben Hamida"
+          },
+          {
+            "n": 17,
+            "name": "Ellyes Skhiri"
+          },
+          {
+            "n": 4,
+            "name": "Omar Rekik"
+          },
+          {
+            "n": 3,
+            "name": "Montassar Talbi"
+          },
+          {
+            "n": 25,
+            "name": "Anis Slimane"
+          },
+          {
+            "n": 13,
+            "name": "Rani Khedira"
+          },
+          {
+            "n": 8,
+            "name": "Elias Saad"
+          },
+          {
+            "n": 10,
+            "name": "Hannibal Mejbri"
+          },
+          {
+            "n": 2,
+            "name": "Ali Abdi"
+          }
+        ],
+        "subs": [
+          {
+            "n": 5,
+            "name": "Adem Arous"
+          },
+          {
+            "n": 14,
+            "name": "Khalil Ayari"
+          },
+          {
+            "n": 26,
+            "name": "Sebastian Tounekti"
+          },
+          {
+            "n": 6,
+            "name": "Dylan Bronn"
+          },
+          {
+            "n": 11,
+            "name": "Ismaël Gharbi"
+          },
+          {
+            "n": 9,
+            "name": "Hazem Mastouri"
+          },
+          {
+            "n": 23,
+            "name": "Moutaz Neffati"
+          },
+          {
+            "n": 7,
+            "name": "Elias Achouri"
+          },
+          {
+            "n": 24,
+            "name": "Raed Chikhaoui"
+          },
+          {
+            "n": 15,
+            "name": "Mohamed Hadj Mahmoud"
+          },
+          {
+            "n": 16,
+            "name": "Aymen Dahmen"
+          },
+          {
+            "n": 19,
+            "name": "Firas Chaouat"
+          },
+          {
+            "n": 18,
+            "name": "Rayan Elloumi"
+          },
+          {
+            "n": 12,
+            "name": "Mortadha Ben Ouanes"
+          },
+          {
+            "n": 22,
+            "name": "Sabri Ben Hessen"
+          }
+        ]
+      }
+    }
   },
   {
     "id": "760428",
@@ -3329,6 +3556,90 @@
       "name": "エジプト",
       "code": "EGY",
       "color": "#D20300"
+    },
+    "status": "pending"
+  },
+  {
+    "id": "760456",
+    "kickoff": "2026-06-23T02:00:00+09:00",
+    "group": "J",
+    "matchday": "グループステージ",
+    "dateLabel": "6月23日（火）",
+    "timeJST": "02:00",
+    "stadium": "AT&T Stadium",
+    "city": "Arlington, Texas",
+    "home": {
+      "name": "アルゼンチン",
+      "code": "ARG",
+      "color": "#74acdf"
+    },
+    "away": {
+      "name": "オーストリア",
+      "code": "AUT",
+      "color": "#d72b2c"
+    },
+    "status": "pending"
+  },
+  {
+    "id": "760457",
+    "kickoff": "2026-06-23T06:00:00+09:00",
+    "group": "I",
+    "matchday": "グループステージ",
+    "dateLabel": "6月23日（火）",
+    "timeJST": "06:00",
+    "stadium": "Lincoln Financial Field",
+    "city": "Philadelphia, Pennsylvania",
+    "home": {
+      "name": "フランス",
+      "code": "FRA",
+      "color": "#000080"
+    },
+    "away": {
+      "name": "イラク",
+      "code": "IRQ",
+      "color": "#0A4D2E"
+    },
+    "status": "pending"
+  },
+  {
+    "id": "760454",
+    "kickoff": "2026-06-23T09:00:00+09:00",
+    "group": "I",
+    "matchday": "グループステージ",
+    "dateLabel": "6月23日（火）",
+    "timeJST": "09:00",
+    "stadium": "MetLife Stadium",
+    "city": "East Rutherford, New Jersey",
+    "home": {
+      "name": "ノルウェー",
+      "code": "NOR",
+      "color": "#C8102E"
+    },
+    "away": {
+      "name": "セネガル",
+      "code": "SEN",
+      "color": "#006436"
+    },
+    "status": "pending"
+  },
+  {
+    "id": "760455",
+    "kickoff": "2026-06-23T12:00:00+09:00",
+    "group": "J",
+    "matchday": "グループステージ",
+    "dateLabel": "6月23日（火）",
+    "timeJST": "12:00",
+    "stadium": "Levi's Stadium",
+    "city": "Santa Clara, California",
+    "home": {
+      "name": "ヨルダン",
+      "code": "JOR",
+      "color": "#E70000"
+    },
+    "away": {
+      "name": "アルジェリア",
+      "code": "ALG",
+      "color": "#4F9A44"
     },
     "status": "pending"
   }
