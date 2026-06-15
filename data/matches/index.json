@@ -2988,9 +2988,236 @@
     "away": {
       "name": "カーボベルデ",
       "code": "CPV",
-      "color": "#0000ff"
+      "color": "#000080"
     },
-    "status": "pending"
+    "status": "released",
+    "capturedAt": "6/16 04:06 JST に取得・凍結",
+    "lineup": {
+      "home": {
+        "formation": "4-3-3",
+        "coach": "",
+        "xi": [
+          {
+            "n": 23,
+            "name": "Unai Simón"
+          },
+          {
+            "n": 5,
+            "name": "Marcos Llorente"
+          },
+          {
+            "n": 24,
+            "name": "Marc Cucurella"
+          },
+          {
+            "n": 16,
+            "name": "Rodri"
+          },
+          {
+            "n": 22,
+            "name": "Pau Cubarsí"
+          },
+          {
+            "n": 14,
+            "name": "Aymeric Laporte"
+          },
+          {
+            "n": 8,
+            "name": "Fabián Ruiz"
+          },
+          {
+            "n": 20,
+            "name": "Pedri"
+          },
+          {
+            "n": 21,
+            "name": "Mikel Oyarzabal"
+          },
+          {
+            "n": 7,
+            "name": "Ferran Torres"
+          },
+          {
+            "n": 9,
+            "name": "Gavi"
+          }
+        ],
+        "subs": [
+          {
+            "n": 1,
+            "name": "David Raya"
+          },
+          {
+            "n": 25,
+            "name": "Víctor Muñoz"
+          },
+          {
+            "n": 19,
+            "name": "Lamine Yamal"
+          },
+          {
+            "n": 11,
+            "name": "Yéremy Pino"
+          },
+          {
+            "n": 18,
+            "name": "Martín Zubimendi"
+          },
+          {
+            "n": 10,
+            "name": "Dani Olmo"
+          },
+          {
+            "n": 17,
+            "name": "Nico Williams"
+          },
+          {
+            "n": 6,
+            "name": "Mikel Merino"
+          },
+          {
+            "n": 12,
+            "name": "Pedro Porro"
+          },
+          {
+            "n": 26,
+            "name": "Borja Iglesias"
+          },
+          {
+            "n": 13,
+            "name": "Joan García"
+          },
+          {
+            "n": 15,
+            "name": "Álex Baena"
+          },
+          {
+            "n": 3,
+            "name": "Alejandro Grimaldo"
+          },
+          {
+            "n": 2,
+            "name": "Marc Pubill"
+          },
+          {
+            "n": 4,
+            "name": "Eric García"
+          }
+        ]
+      },
+      "away": {
+        "formation": "4-1-4-1",
+        "coach": "",
+        "xi": [
+          {
+            "n": 1,
+            "name": "Vozinha"
+          },
+          {
+            "n": 22,
+            "name": "Steven Moreira"
+          },
+          {
+            "n": 13,
+            "name": "Sidny Lopes Cabral"
+          },
+          {
+            "n": 6,
+            "name": "Kevin Pina"
+          },
+          {
+            "n": 4,
+            "name": "Pico Lopes"
+          },
+          {
+            "n": 3,
+            "name": "Diney Borges"
+          },
+          {
+            "n": 20,
+            "name": "Ryan Mendes"
+          },
+          {
+            "n": 15,
+            "name": "Laros Duarte"
+          },
+          {
+            "n": 19,
+            "name": "Dailon Livramento"
+          },
+          {
+            "n": 10,
+            "name": "Jamiro Monteiro"
+          },
+          {
+            "n": 7,
+            "name": "Jovane Cabral"
+          }
+        ],
+        "subs": [
+          {
+            "n": 2,
+            "name": "Stopira"
+          },
+          {
+            "n": 12,
+            "name": "Márcio Rosa"
+          },
+          {
+            "n": 26,
+            "name": "Hélio Varela"
+          },
+          {
+            "n": 24,
+            "name": "Wagner Pina"
+          },
+          {
+            "n": 9,
+            "name": "Gilson Benchimol"
+          },
+          {
+            "n": 11,
+            "name": "Garry Rodrigues"
+          },
+          {
+            "n": 18,
+            "name": "Telmo Arcanjo"
+          },
+          {
+            "n": 17,
+            "name": "Willy Semedo"
+          },
+          {
+            "n": 5,
+            "name": "Logan Costa"
+          },
+          {
+            "n": 16,
+            "name": "Yannick Semedo"
+          },
+          {
+            "n": 21,
+            "name": "Nuno da Costa"
+          },
+          {
+            "n": 8,
+            "name": "João Paulo"
+          },
+          {
+            "n": 23,
+            "name": "CJ dos Santos"
+          },
+          {
+            "n": 25,
+            "name": "Kelvin Pires"
+          },
+          {
+            "n": 14,
+            "name": "Deroy Duarte"
+          }
+        ]
+      }
+    }
   },
   {
     "id": "760426",
@@ -3004,14 +3231,237 @@
     "home": {
       "name": "ベルギー",
       "code": "BEL",
-      "color": "#ef3340"
+      "color": "#E30613"
     },
     "away": {
       "name": "エジプト",
       "code": "EGY",
       "color": "#D20300"
     },
-    "status": "pending"
+    "status": "released",
+    "capturedAt": "6/16 04:06 JST に取得・凍結",
+    "lineup": {
+      "home": {
+        "formation": "4-2-3-1",
+        "coach": "",
+        "xi": [
+          {
+            "n": 1,
+            "name": "Thibaut Courtois"
+          },
+          {
+            "n": 15,
+            "name": "Thomas Meunier"
+          },
+          {
+            "n": 21,
+            "name": "Timothy Castagne"
+          },
+          {
+            "n": 8,
+            "name": "Youri Tielemans"
+          },
+          {
+            "n": 25,
+            "name": "Nathan Ngoy"
+          },
+          {
+            "n": 4,
+            "name": "Brandon Mechele"
+          },
+          {
+            "n": 10,
+            "name": "Leandro Trossard"
+          },
+          {
+            "n": 24,
+            "name": "Amadou Onana"
+          },
+          {
+            "n": 17,
+            "name": "Charles De Ketelaere"
+          },
+          {
+            "n": 7,
+            "name": "Kevin De Bruyne"
+          },
+          {
+            "n": 11,
+            "name": "Jérémy Doku"
+          }
+        ],
+        "subs": [
+          {
+            "n": 13,
+            "name": "Mike Penders"
+          },
+          {
+            "n": 23,
+            "name": "Nicolas Raskin"
+          },
+          {
+            "n": 12,
+            "name": "Senne Lammens"
+          },
+          {
+            "n": 9,
+            "name": "Romelu Lukaku"
+          },
+          {
+            "n": 18,
+            "name": "Joaquin Seys"
+          },
+          {
+            "n": 19,
+            "name": "Diego Moreira"
+          },
+          {
+            "n": 3,
+            "name": "Arthur Theate"
+          },
+          {
+            "n": 26,
+            "name": "Matias Fernandez-Pardo"
+          },
+          {
+            "n": 22,
+            "name": "Alexis Saelemaekers"
+          },
+          {
+            "n": 14,
+            "name": "Dodi Lukébakio"
+          },
+          {
+            "n": 20,
+            "name": "Hans Vanaken"
+          },
+          {
+            "n": 6,
+            "name": "Axel Witsel"
+          },
+          {
+            "n": 5,
+            "name": "Maxim De Cuyper"
+          },
+          {
+            "n": 16,
+            "name": "Koni De Winter"
+          }
+        ]
+      },
+      "away": {
+        "formation": "4-2-3-1",
+        "coach": "",
+        "xi": [
+          {
+            "n": 23,
+            "name": "Mostafa Shoubir"
+          },
+          {
+            "n": 3,
+            "name": "Mohamed Hany"
+          },
+          {
+            "n": 13,
+            "name": "Ahmed Fatouh"
+          },
+          {
+            "n": 19,
+            "name": "Marawan Attia"
+          },
+          {
+            "n": 2,
+            "name": "Yasser Ibrahim"
+          },
+          {
+            "n": 14,
+            "name": "Hamdy Fathy"
+          },
+          {
+            "n": 10,
+            "name": "Mohamed Salah"
+          },
+          {
+            "n": 17,
+            "name": "Mohanad Lashin"
+          },
+          {
+            "n": 22,
+            "name": "Omar Marmoush"
+          },
+          {
+            "n": 8,
+            "name": "Emam Ashour"
+          },
+          {
+            "n": 11,
+            "name": "Mostafa Zico"
+          }
+        ],
+        "subs": [
+          {
+            "n": 5,
+            "name": "Ramy Rabia"
+          },
+          {
+            "n": 9,
+            "name": "Hamza Abdelkarim"
+          },
+          {
+            "n": 6,
+            "name": "Mohamed Abdelmoneim"
+          },
+          {
+            "n": 25,
+            "name": "Zizo"
+          },
+          {
+            "n": 24,
+            "name": "Tarek Alaa"
+          },
+          {
+            "n": 4,
+            "name": "Hossam Abdelmaguid"
+          },
+          {
+            "n": 20,
+            "name": "Ibrahim Adel"
+          },
+          {
+            "n": 12,
+            "name": "Haissem Hassan"
+          },
+          {
+            "n": 18,
+            "name": "Nabil Donga"
+          },
+          {
+            "n": 16,
+            "name": "Mahdy Soliman"
+          },
+          {
+            "n": 15,
+            "name": "Karim Hafez"
+          },
+          {
+            "n": 1,
+            "name": "Mohamed El Shenawy"
+          },
+          {
+            "n": 26,
+            "name": "Mohamed Alaa"
+          },
+          {
+            "n": 7,
+            "name": "Trézéguet"
+          },
+          {
+            "n": 21,
+            "name": "Mahmoud Saber"
+          }
+        ]
+      }
+    }
   },
   {
     "id": "760429",
