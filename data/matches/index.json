@@ -3715,14 +3715,237 @@
     "home": {
       "name": "イラン",
       "code": "IRN",
-      "color": "#da0000"
+      "color": "#FFFFFF"
     },
     "away": {
       "name": "ニュージーランド",
       "code": "NZL",
-      "color": "#273476"
+      "color": "#000000"
     },
-    "status": "pending"
+    "status": "released",
+    "capturedAt": "6/16 11:28 JST に取得・凍結",
+    "lineup": {
+      "home": {
+        "formation": "4-4-2",
+        "coach": "",
+        "xi": [
+          {
+            "n": 1,
+            "name": "Alireza Beiranvand"
+          },
+          {
+            "n": 23,
+            "name": "Ramin Rezaeian"
+          },
+          {
+            "n": 5,
+            "name": "Milad Mohammadi"
+          },
+          {
+            "n": 14,
+            "name": "Saman Ghoddos"
+          },
+          {
+            "n": 4,
+            "name": "Shoja Khalilzadeh"
+          },
+          {
+            "n": 19,
+            "name": "Ali Nemati"
+          },
+          {
+            "n": 8,
+            "name": "Mohammad Mohebbi"
+          },
+          {
+            "n": 6,
+            "name": "Saeid Ezatolahi"
+          },
+          {
+            "n": 9,
+            "name": "Mehdi Taremi"
+          },
+          {
+            "n": 20,
+            "name": "Shahriyar Moghanloo"
+          },
+          {
+            "n": 17,
+            "name": "Arya Yousefi"
+          }
+        ],
+        "subs": [
+          {
+            "n": 10,
+            "name": "Mehdi Ghayedi"
+          },
+          {
+            "n": 11,
+            "name": "Ali Alipour"
+          },
+          {
+            "n": 22,
+            "name": "Hossein Hosseini"
+          },
+          {
+            "n": 15,
+            "name": "Roozbeh Cheshmi"
+          },
+          {
+            "n": 7,
+            "name": "Alireza Jahanbakhsh"
+          },
+          {
+            "n": 26,
+            "name": "Amirmohammad Razzaghinia"
+          },
+          {
+            "n": 2,
+            "name": "Saleh Hardani"
+          },
+          {
+            "n": 3,
+            "name": "Ehsan Hajsafi"
+          },
+          {
+            "n": 12,
+            "name": "Payam Niazmand"
+          },
+          {
+            "n": 24,
+            "name": "Dennis Dargahi"
+          },
+          {
+            "n": 18,
+            "name": "Amirhossein Hosseinzadeh"
+          },
+          {
+            "n": 16,
+            "name": "Mehdi Torabi"
+          },
+          {
+            "n": 13,
+            "name": "Hossein Kanani"
+          },
+          {
+            "n": 25,
+            "name": "Danial Iri"
+          },
+          {
+            "n": 21,
+            "name": "Mohammad Ghorbani"
+          }
+        ]
+      },
+      "away": {
+        "formation": "4-2-3-1",
+        "coach": "",
+        "xi": [
+          {
+            "n": 1,
+            "name": "Max Crocombe"
+          },
+          {
+            "n": 2,
+            "name": "Tim Payne"
+          },
+          {
+            "n": 13,
+            "name": "Liberato Cacace"
+          },
+          {
+            "n": 8,
+            "name": "Marko Stamenic"
+          },
+          {
+            "n": 16,
+            "name": "Finn Surman"
+          },
+          {
+            "n": 5,
+            "name": "Michael Boxall"
+          },
+          {
+            "n": 20,
+            "name": "Callum McCowatt"
+          },
+          {
+            "n": 6,
+            "name": "Joe Bell"
+          },
+          {
+            "n": 9,
+            "name": "Chris Wood"
+          },
+          {
+            "n": 10,
+            "name": "Sarpreet Singh"
+          },
+          {
+            "n": 11,
+            "name": "Elijah Just"
+          }
+        ],
+        "subs": [
+          {
+            "n": 12,
+            "name": "Alex Paulsen"
+          },
+          {
+            "n": 19,
+            "name": "Ben Old"
+          },
+          {
+            "n": 21,
+            "name": "Jesse Randall"
+          },
+          {
+            "n": 24,
+            "name": "Callan Elliot"
+          },
+          {
+            "n": 3,
+            "name": "Francis de Vries"
+          },
+          {
+            "n": 18,
+            "name": "Ben Waine"
+          },
+          {
+            "n": 22,
+            "name": "Michael Woud"
+          },
+          {
+            "n": 4,
+            "name": "Tyler Bindon"
+          },
+          {
+            "n": 17,
+            "name": "Kosta Barbarouses"
+          },
+          {
+            "n": 26,
+            "name": "Tommy Smith"
+          },
+          {
+            "n": 25,
+            "name": "Lachlan Bayliss"
+          },
+          {
+            "n": 15,
+            "name": "Nando Pijnaker"
+          },
+          {
+            "n": 23,
+            "name": "Ryan Thomas"
+          },
+          {
+            "n": 14,
+            "name": "Alex Rufer"
+          }
+        ]
+      }
+    }
   },
   {
     "id": "760432",
@@ -4309,6 +4532,90 @@
       "name": "アルジェリア",
       "code": "ALG",
       "color": "#4F9A44"
+    },
+    "status": "pending"
+  },
+  {
+    "id": "760461",
+    "kickoff": "2026-06-24T02:00:00+09:00",
+    "group": "K",
+    "matchday": "グループステージ",
+    "dateLabel": "6月24日（水）",
+    "timeJST": "02:00",
+    "stadium": "NRG Stadium",
+    "city": "Houston, Texas",
+    "home": {
+      "name": "ポルトガル",
+      "code": "POR",
+      "color": "#da291c"
+    },
+    "away": {
+      "name": "ウズベキスタン",
+      "code": "UZB",
+      "color": "#0081d6"
+    },
+    "status": "pending"
+  },
+  {
+    "id": "760458",
+    "kickoff": "2026-06-24T05:00:00+09:00",
+    "group": "L",
+    "matchday": "グループステージ",
+    "dateLabel": "6月24日（水）",
+    "timeJST": "05:00",
+    "stadium": "Gillette Stadium",
+    "city": "Foxborough, Massachusetts",
+    "home": {
+      "name": "イングランド",
+      "code": "ENG",
+      "color": "#ffffff"
+    },
+    "away": {
+      "name": "ガーナ",
+      "code": "GHA",
+      "color": "#ce2931"
+    },
+    "status": "pending"
+  },
+  {
+    "id": "760460",
+    "kickoff": "2026-06-24T08:00:00+09:00",
+    "group": "L",
+    "matchday": "グループステージ",
+    "dateLabel": "6月24日（水）",
+    "timeJST": "08:00",
+    "stadium": "BMO Field",
+    "city": "Toronto",
+    "home": {
+      "name": "パナマ",
+      "code": "PAN",
+      "color": "#d21034"
+    },
+    "away": {
+      "name": "クロアチア",
+      "code": "CRO",
+      "color": "#ff0000"
+    },
+    "status": "pending"
+  },
+  {
+    "id": "760459",
+    "kickoff": "2026-06-24T11:00:00+09:00",
+    "group": "K",
+    "matchday": "グループステージ",
+    "dateLabel": "6月24日（水）",
+    "timeJST": "11:00",
+    "stadium": "Estadio Akron",
+    "city": "Guadalajara",
+    "home": {
+      "name": "コロンビア",
+      "code": "COL",
+      "color": "#fbd632"
+    },
+    "away": {
+      "name": "コンゴ民主共和国",
+      "code": "COD",
+      "color": "#418fde"
     },
     "status": "pending"
   }
