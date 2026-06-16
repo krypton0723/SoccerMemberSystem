@@ -4207,14 +4207,241 @@
     "home": {
       "name": "イラク",
       "code": "IRQ",
-      "color": "#00843d"
+      "color": "#0A4D2E"
     },
     "away": {
       "name": "ノルウェー",
       "code": "NOR",
-      "color": "#ef2b2d"
+      "color": "#C8102E"
     },
-    "status": "pending"
+    "status": "released",
+    "capturedAt": "6/17 06:44 JST に取得・凍結",
+    "lineup": {
+      "home": {
+        "formation": "4-4-2",
+        "coach": "",
+        "xi": [
+          {
+            "n": 12,
+            "name": "Jalal Hassan"
+          },
+          {
+            "n": 3,
+            "name": "Hussein Ali"
+          },
+          {
+            "n": 23,
+            "name": "Merchas Doski"
+          },
+          {
+            "n": 16,
+            "name": "Amir Al-Ammari"
+          },
+          {
+            "n": 4,
+            "name": "Zaid Tahseen"
+          },
+          {
+            "n": 5,
+            "name": "Akam Hashim"
+          },
+          {
+            "n": 8,
+            "name": "Ibrahim Bayesh"
+          },
+          {
+            "n": 24,
+            "name": "Zaid Ismael"
+          },
+          {
+            "n": 9,
+            "name": "Ali Al-Hamadi"
+          },
+          {
+            "n": 18,
+            "name": "Aymen Hussein"
+          },
+          {
+            "n": 17,
+            "name": "Ali Jasim"
+          }
+        ],
+        "subs": [
+          {
+            "n": 26,
+            "name": "Frans Putros"
+          },
+          {
+            "n": 25,
+            "name": "Mustafa Saadoon"
+          },
+          {
+            "n": 6,
+            "name": "Munaf Younus"
+          },
+          {
+            "n": 22,
+            "name": "Ahmed Basil"
+          },
+          {
+            "n": 2,
+            "name": "Rebin Sulaka"
+          },
+          {
+            "n": 11,
+            "name": "Ahmed Qasim"
+          },
+          {
+            "n": 7,
+            "name": "Youssef Amyn"
+          },
+          {
+            "n": 13,
+            "name": "Ali Yousif"
+          },
+          {
+            "n": 19,
+            "name": "Kevin Yakob"
+          },
+          {
+            "n": 15,
+            "name": "Ahmed Maknazi"
+          },
+          {
+            "n": 1,
+            "name": "Fahad Talib"
+          },
+          {
+            "n": 21,
+            "name": "Marko Farji"
+          },
+          {
+            "n": 20,
+            "name": "Aimar Sher"
+          },
+          {
+            "n": 10,
+            "name": "Mohanad Ali"
+          },
+          {
+            "n": 14,
+            "name": "Zidane Iqbal"
+          }
+        ]
+      },
+      "away": {
+        "formation": "4-3-3",
+        "coach": "",
+        "xi": [
+          {
+            "n": 1,
+            "name": "Ørjan Nyland"
+          },
+          {
+            "n": 26,
+            "name": "Julian Ryerson"
+          },
+          {
+            "n": 5,
+            "name": "David Møller Wolfe"
+          },
+          {
+            "n": 8,
+            "name": "Sander Berge"
+          },
+          {
+            "n": 3,
+            "name": "Kristoffer Ajer"
+          },
+          {
+            "n": 17,
+            "name": "Torbjørn Heggem"
+          },
+          {
+            "n": 10,
+            "name": "Martin Ødegaard"
+          },
+          {
+            "n": 14,
+            "name": "Fredrik Aursnes"
+          },
+          {
+            "n": 9,
+            "name": "Erling Haaland"
+          },
+          {
+            "n": 7,
+            "name": "Alexander Sørloth"
+          },
+          {
+            "n": 20,
+            "name": "Antonio Nusa"
+          }
+        ],
+        "subs": [
+          {
+            "n": 2,
+            "name": "Morten Thorsby"
+          },
+          {
+            "n": 24,
+            "name": "Sondre Langas"
+          },
+          {
+            "n": 22,
+            "name": "Oscar Bobb"
+          },
+          {
+            "n": 25,
+            "name": "Henrik Falchener"
+          },
+          {
+            "n": 18,
+            "name": "Kristian Thorstvedt"
+          },
+          {
+            "n": 4,
+            "name": "Leo Østigard"
+          },
+          {
+            "n": 21,
+            "name": "Andreas Schjelderup"
+          },
+          {
+            "n": 6,
+            "name": "Patrick Berg"
+          },
+          {
+            "n": 19,
+            "name": "Thelo Aasgaard"
+          },
+          {
+            "n": 13,
+            "name": "Egil Selvik"
+          },
+          {
+            "n": 11,
+            "name": "Jørgen Strand Larsen"
+          },
+          {
+            "n": 12,
+            "name": "Sander Tangvik"
+          },
+          {
+            "n": 23,
+            "name": "Jens Petter Hauge"
+          },
+          {
+            "n": 16,
+            "name": "Marcus Holmgren Pedersen"
+          },
+          {
+            "n": 15,
+            "name": "Fredrik André Bjørkan"
+          }
+        ]
+      }
+    }
   },
   {
     "id": "760433",
