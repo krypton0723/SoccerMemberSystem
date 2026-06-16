@@ -3959,14 +3959,241 @@
     "home": {
       "name": "フランス",
       "code": "FRA",
-      "color": "#0c2fff"
+      "color": "#000080"
     },
     "away": {
       "name": "セネガル",
       "code": "SEN",
-      "color": "#00853f"
+      "color": "#006436"
     },
-    "status": "pending"
+    "status": "released",
+    "capturedAt": "6/17 03:56 JST に取得・凍結",
+    "lineup": {
+      "home": {
+        "formation": "4-2-3-1",
+        "coach": "",
+        "xi": [
+          {
+            "n": 16,
+            "name": "Mike Maignan"
+          },
+          {
+            "n": 5,
+            "name": "Jules Koundé"
+          },
+          {
+            "n": 19,
+            "name": "Theo Hernández"
+          },
+          {
+            "n": 14,
+            "name": "Adrien Rabiot"
+          },
+          {
+            "n": 17,
+            "name": "William Saliba"
+          },
+          {
+            "n": 4,
+            "name": "Dayot Upamecano"
+          },
+          {
+            "n": 11,
+            "name": "Michael Olise"
+          },
+          {
+            "n": 8,
+            "name": "Aurélien Tchouaméni"
+          },
+          {
+            "n": 10,
+            "name": "Kylian Mbappé"
+          },
+          {
+            "n": 7,
+            "name": "Ousmane Dembélé"
+          },
+          {
+            "n": 20,
+            "name": "Désiré Doué"
+          }
+        ],
+        "subs": [
+          {
+            "n": 13,
+            "name": "N'Golo Kanté"
+          },
+          {
+            "n": 1,
+            "name": "Brice Samba"
+          },
+          {
+            "n": 3,
+            "name": "Lucas Digne"
+          },
+          {
+            "n": 18,
+            "name": "Warren Zaïre-Emery"
+          },
+          {
+            "n": 22,
+            "name": "Jean-Philippe Mateta"
+          },
+          {
+            "n": 23,
+            "name": "Robin Risser"
+          },
+          {
+            "n": 6,
+            "name": "Manu Koné"
+          },
+          {
+            "n": 21,
+            "name": "Lucas Hernández"
+          },
+          {
+            "n": 25,
+            "name": "Maghnes Akliouche"
+          },
+          {
+            "n": 24,
+            "name": "Rayan Cherki"
+          },
+          {
+            "n": 26,
+            "name": "Maxence Lacroix"
+          },
+          {
+            "n": 12,
+            "name": "Bradley Barcola"
+          },
+          {
+            "n": 15,
+            "name": "Ibrahima Konaté"
+          },
+          {
+            "n": 9,
+            "name": "Marcus Thuram"
+          },
+          {
+            "n": 2,
+            "name": "Malo Gusto"
+          }
+        ]
+      },
+      "away": {
+        "formation": "4-3-3",
+        "coach": "",
+        "xi": [
+          {
+            "n": 16,
+            "name": "Édouard Mendy"
+          },
+          {
+            "n": 15,
+            "name": "Krépin Diatta"
+          },
+          {
+            "n": 25,
+            "name": "El Hadji Malick Diouf"
+          },
+          {
+            "n": 5,
+            "name": "Idrissa Gueye"
+          },
+          {
+            "n": 3,
+            "name": "Kalidou Koulibaly"
+          },
+          {
+            "n": 19,
+            "name": "Moussa Niakhaté"
+          },
+          {
+            "n": 8,
+            "name": "Lamine Camara"
+          },
+          {
+            "n": 26,
+            "name": "Pape Gueye"
+          },
+          {
+            "n": 11,
+            "name": "Nicolas Jackson"
+          },
+          {
+            "n": 18,
+            "name": "Ismaïla Sarr"
+          },
+          {
+            "n": 10,
+            "name": "Sadio Mané"
+          }
+        ],
+        "subs": [
+          {
+            "n": 12,
+            "name": "Cherif Ndiaye"
+          },
+          {
+            "n": 2,
+            "name": "Mamadou Sarr"
+          },
+          {
+            "n": 21,
+            "name": "Habib Diarra"
+          },
+          {
+            "n": 14,
+            "name": "Ismail Jakobs"
+          },
+          {
+            "n": 6,
+            "name": "Pathé Ciss"
+          },
+          {
+            "n": 24,
+            "name": "Antoine Mendy"
+          },
+          {
+            "n": 1,
+            "name": "Yehvann Diouf"
+          },
+          {
+            "n": 22,
+            "name": "Bara Sapoko Ndiaye"
+          },
+          {
+            "n": 9,
+            "name": "Bamba Dieng"
+          },
+          {
+            "n": 4,
+            "name": "Abdoulaye Seck"
+          },
+          {
+            "n": 20,
+            "name": "Ibrahim Mbaye"
+          },
+          {
+            "n": 17,
+            "name": "Pape Matar Sarr"
+          },
+          {
+            "n": 23,
+            "name": "Mory Diaw"
+          },
+          {
+            "n": 7,
+            "name": "Assane Diao"
+          },
+          {
+            "n": 13,
+            "name": "Iliman Ndiaye"
+          }
+        ]
+      }
+    }
   },
   {
     "id": "760430",
