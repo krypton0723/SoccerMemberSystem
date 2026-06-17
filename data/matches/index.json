@@ -4460,9 +4460,236 @@
     "away": {
       "name": "アルジェリア",
       "code": "ALG",
-      "color": "#5bbd19"
+      "color": "#4F9A44"
     },
-    "status": "pending"
+    "status": "released",
+    "capturedAt": "6/17 10:44 JST に取得・凍結",
+    "lineup": {
+      "home": {
+        "formation": "4-4-2",
+        "coach": "",
+        "xi": [
+          {
+            "n": 23,
+            "name": "Emiliano Martínez"
+          },
+          {
+            "n": 4,
+            "name": "Gonzalo Montiel"
+          },
+          {
+            "n": 25,
+            "name": "Facundo Medina"
+          },
+          {
+            "n": 20,
+            "name": "Alexis Mac Allister"
+          },
+          {
+            "n": 13,
+            "name": "Cristian Romero"
+          },
+          {
+            "n": 6,
+            "name": "Lisandro Martínez"
+          },
+          {
+            "n": 7,
+            "name": "Rodrigo De Paul"
+          },
+          {
+            "n": 24,
+            "name": "Enzo Fernández"
+          },
+          {
+            "n": 22,
+            "name": "Lautaro Martínez"
+          },
+          {
+            "n": 10,
+            "name": "Lionel Messi"
+          },
+          {
+            "n": 16,
+            "name": "Thiago Almada"
+          }
+        ],
+        "subs": [
+          {
+            "n": 3,
+            "name": "Nicolás Tagliafico"
+          },
+          {
+            "n": 11,
+            "name": "Giovani Lo Celso"
+          },
+          {
+            "n": 1,
+            "name": "Juan Musso"
+          },
+          {
+            "n": 17,
+            "name": "Giuliano Simeone"
+          },
+          {
+            "n": 5,
+            "name": "Leandro Paredes"
+          },
+          {
+            "n": 8,
+            "name": "Valentín Barco"
+          },
+          {
+            "n": 9,
+            "name": "Julián Álvarez"
+          },
+          {
+            "n": 15,
+            "name": "Nico González"
+          },
+          {
+            "n": 26,
+            "name": "Nahuel Molina"
+          },
+          {
+            "n": 18,
+            "name": "Nico Paz"
+          },
+          {
+            "n": 21,
+            "name": "José Manuel López"
+          },
+          {
+            "n": 2,
+            "name": "Marcos Senesi"
+          },
+          {
+            "n": 12,
+            "name": "Gerónimo Rulli"
+          },
+          {
+            "n": 19,
+            "name": "Nicolás Otamendi"
+          },
+          {
+            "n": 14,
+            "name": "Exequiel Palacios"
+          }
+        ]
+      },
+      "away": {
+        "formation": "4-3-3",
+        "coach": "",
+        "xi": [
+          {
+            "n": 23,
+            "name": "Luca Zidane"
+          },
+          {
+            "n": 17,
+            "name": "Rafik Belghali"
+          },
+          {
+            "n": 15,
+            "name": "Rayan Aït-Nouri"
+          },
+          {
+            "n": 19,
+            "name": "Nabil Bentaleb"
+          },
+          {
+            "n": 2,
+            "name": "Aïssa Mandi"
+          },
+          {
+            "n": 21,
+            "name": "Ramy Bensebaini"
+          },
+          {
+            "n": 14,
+            "name": "Hicham Boudaoui"
+          },
+          {
+            "n": 22,
+            "name": "Ibrahim Maza"
+          },
+          {
+            "n": 9,
+            "name": "Amine Gouiri"
+          },
+          {
+            "n": 11,
+            "name": "Anis Hadj Moussa"
+          },
+          {
+            "n": 10,
+            "name": "Farès Chaïbi"
+          }
+        ],
+        "subs": [
+          {
+            "n": 7,
+            "name": "Riyad Mahrez"
+          },
+          {
+            "n": 12,
+            "name": "Nadhir Benbouali"
+          },
+          {
+            "n": 13,
+            "name": "Jaouen Hadjam"
+          },
+          {
+            "n": 5,
+            "name": "Zineddine Belaïd"
+          },
+          {
+            "n": 1,
+            "name": "Melvin Mastil"
+          },
+          {
+            "n": 25,
+            "name": "Farès Ghedjemis"
+          },
+          {
+            "n": 4,
+            "name": "Mohamed Amine Tougai"
+          },
+          {
+            "n": 8,
+            "name": "Houssem Aouar"
+          },
+          {
+            "n": 24,
+            "name": "Yassine Titraoui"
+          },
+          {
+            "n": 20,
+            "name": "Adil Boulbina"
+          },
+          {
+            "n": 26,
+            "name": "Samir Chergui"
+          },
+          {
+            "n": 3,
+            "name": "Achraf Abada"
+          },
+          {
+            "n": 18,
+            "name": "Mohamed Amoura"
+          },
+          {
+            "n": 16,
+            "name": "Oussama Benbot"
+          },
+          {
+            "n": 6,
+            "name": "Ramiz Zerrouki"
+          }
+        ]
+      }
+    }
   },
   {
     "id": "760431",
@@ -5070,6 +5297,132 @@
       "name": "コンゴ民主共和国",
       "code": "COD",
       "color": "#418fde"
+    },
+    "status": "pending"
+  },
+  {
+    "id": "760462",
+    "kickoff": "2026-06-25T04:00:00+09:00",
+    "group": "B",
+    "matchday": "グループステージ",
+    "dateLabel": "6月25日（木）",
+    "timeJST": "04:00",
+    "stadium": "Lumen Field",
+    "city": "Seattle, Washington",
+    "home": {
+      "name": "ボスニア・ヘルツェゴビナ",
+      "code": "BIH",
+      "color": "#112855"
+    },
+    "away": {
+      "name": "カタール",
+      "code": "QAT",
+      "color": "#691a40"
+    },
+    "status": "pending"
+  },
+  {
+    "id": "760463",
+    "kickoff": "2026-06-25T04:00:00+09:00",
+    "group": "B",
+    "matchday": "グループステージ",
+    "dateLabel": "6月25日（木）",
+    "timeJST": "04:00",
+    "stadium": "BC Place",
+    "city": "Vancouver",
+    "home": {
+      "name": "スイス",
+      "code": "SUI",
+      "color": "#FF0000"
+    },
+    "away": {
+      "name": "カナダ",
+      "code": "CAN",
+      "color": "#ed2224"
+    },
+    "status": "pending"
+  },
+  {
+    "id": "760464",
+    "kickoff": "2026-06-25T07:00:00+09:00",
+    "group": "C",
+    "matchday": "グループステージ",
+    "dateLabel": "6月25日（木）",
+    "timeJST": "07:00",
+    "stadium": "Mercedes-Benz Stadium",
+    "city": "Atlanta, Georgia",
+    "home": {
+      "name": "モロッコ",
+      "code": "MAR",
+      "color": "#df2027"
+    },
+    "away": {
+      "name": "ハイチ",
+      "code": "HAI",
+      "color": "#0033a0"
+    },
+    "status": "pending"
+  },
+  {
+    "id": "760465",
+    "kickoff": "2026-06-25T07:00:00+09:00",
+    "group": "C",
+    "matchday": "グループステージ",
+    "dateLabel": "6月25日（木）",
+    "timeJST": "07:00",
+    "stadium": "Hard Rock Stadium",
+    "city": "Miami Gardens, Florida",
+    "home": {
+      "name": "スコットランド",
+      "code": "SCO",
+      "color": "#1a2d69"
+    },
+    "away": {
+      "name": "ブラジル",
+      "code": "BRA",
+      "color": "#fee000"
+    },
+    "status": "pending"
+  },
+  {
+    "id": "760467",
+    "kickoff": "2026-06-25T10:00:00+09:00",
+    "group": "A",
+    "matchday": "グループステージ",
+    "dateLabel": "6月25日（木）",
+    "timeJST": "10:00",
+    "stadium": "Estadio Banorte",
+    "city": "Mexico City",
+    "home": {
+      "name": "チェコ",
+      "code": "CZE",
+      "color": "#d7141a"
+    },
+    "away": {
+      "name": "メキシコ",
+      "code": "MEX",
+      "color": "#006847"
+    },
+    "status": "pending"
+  },
+  {
+    "id": "760466",
+    "kickoff": "2026-06-25T10:00:00+09:00",
+    "group": "A",
+    "matchday": "グループステージ",
+    "dateLabel": "6月25日（木）",
+    "timeJST": "10:00",
+    "stadium": "Estadio BBVA",
+    "city": "Guadalupe",
+    "home": {
+      "name": "南アフリカ",
+      "code": "RSA",
+      "color": "#FFB81C"
+    },
+    "away": {
+      "name": "韓国",
+      "code": "KOR",
+      "color": "#ce2028"
     },
     "status": "pending"
   }
