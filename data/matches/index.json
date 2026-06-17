@@ -4958,7 +4958,234 @@
       "code": "COD",
       "color": "#418fde"
     },
-    "status": "pending"
+    "status": "released",
+    "capturedAt": "6/18 02:50 JST に取得・凍結",
+    "lineup": {
+      "home": {
+        "formation": "4-2-3-1",
+        "coach": "",
+        "xi": [
+          {
+            "n": 1,
+            "name": "Diogo Costa"
+          },
+          {
+            "n": 20,
+            "name": "João Cancelo"
+          },
+          {
+            "n": 25,
+            "name": "Nuno Mendes"
+          },
+          {
+            "n": 23,
+            "name": "Vitinha "
+          },
+          {
+            "n": 4,
+            "name": "Tomás Araújo"
+          },
+          {
+            "n": 13,
+            "name": "Renato Veiga"
+          },
+          {
+            "n": 10,
+            "name": "Bernardo Silva"
+          },
+          {
+            "n": 15,
+            "name": "João Neves"
+          },
+          {
+            "n": 7,
+            "name": "Cristiano Ronaldo"
+          },
+          {
+            "n": 8,
+            "name": "Bruno Fernandes"
+          },
+          {
+            "n": 18,
+            "name": "Pedro Neto"
+          }
+        ],
+        "subs": [
+          {
+            "n": 14,
+            "name": "Gonçalo Inácio"
+          },
+          {
+            "n": 24,
+            "name": "Samú Costa"
+          },
+          {
+            "n": 3,
+            "name": "Rúben Dias"
+          },
+          {
+            "n": 11,
+            "name": "João Félix"
+          },
+          {
+            "n": 12,
+            "name": "José Sá"
+          },
+          {
+            "n": 6,
+            "name": "Matheus Nunes"
+          },
+          {
+            "n": 16,
+            "name": "Francisco Trincão"
+          },
+          {
+            "n": 21,
+            "name": "Rúben Neves"
+          },
+          {
+            "n": 26,
+            "name": "Francisco Conceição"
+          },
+          {
+            "n": 2,
+            "name": "Nélson Semedo"
+          },
+          {
+            "n": 9,
+            "name": "Gonçalo Ramos"
+          },
+          {
+            "n": 22,
+            "name": "Rui Silva"
+          },
+          {
+            "n": 17,
+            "name": "Rafael Leão"
+          },
+          {
+            "n": 5,
+            "name": "Diogo Dalot"
+          },
+          {
+            "n": 19,
+            "name": "Gonçalo Guedes"
+          }
+        ]
+      },
+      "away": {
+        "formation": "5-3-2",
+        "coach": "",
+        "xi": [
+          {
+            "n": 1,
+            "name": "Lionel Mpasi"
+          },
+          {
+            "n": 2,
+            "name": "Aaron Wan-Bissaka"
+          },
+          {
+            "n": 26,
+            "name": "Arthur Masuaku"
+          },
+          {
+            "n": 3,
+            "name": "Steve Kapuadi"
+          },
+          {
+            "n": 4,
+            "name": "Axel Tuanzebe"
+          },
+          {
+            "n": 22,
+            "name": "Chancel Mbemba"
+          },
+          {
+            "n": 6,
+            "name": "Ngal'ayel Mukau"
+          },
+          {
+            "n": 8,
+            "name": "Samuel Moutoussamy"
+          },
+          {
+            "n": 17,
+            "name": "Cédric Bakambu"
+          },
+          {
+            "n": 20,
+            "name": "Yoane Wissa"
+          },
+          {
+            "n": 25,
+            "name": "Edo Kayembe"
+          }
+        ],
+        "subs": [
+          {
+            "n": 12,
+            "name": "Joris Kayembe"
+          },
+          {
+            "n": 10,
+            "name": "Théo Bongonda"
+          },
+          {
+            "n": 9,
+            "name": "Brian Cipenga"
+          },
+          {
+            "n": 24,
+            "name": "Gédéon Kalulu"
+          },
+          {
+            "n": 16,
+            "name": "Timothy Fayulu"
+          },
+          {
+            "n": 23,
+            "name": "Simon Banza"
+          },
+          {
+            "n": 14,
+            "name": "Noah Sadiki"
+          },
+          {
+            "n": 21,
+            "name": "Matthieu Epolo"
+          },
+          {
+            "n": 15,
+            "name": "Aaron Tshibola"
+          },
+          {
+            "n": 7,
+            "name": "Nathanaël Mbuku"
+          },
+          {
+            "n": 5,
+            "name": "Dylan Batubinsika"
+          },
+          {
+            "n": 19,
+            "name": "Fiston Mayele"
+          },
+          {
+            "n": 11,
+            "name": "Gaël Kakuta"
+          },
+          {
+            "n": 18,
+            "name": "Charles Pickel"
+          },
+          {
+            "n": 13,
+            "name": "Meschack Elia"
+          }
+        ]
+      }
+    }
   },
   {
     "id": "760437",
