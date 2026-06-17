@@ -4710,7 +4710,234 @@
       "code": "JOR",
       "color": "#E70000"
     },
-    "status": "pending"
+    "status": "released",
+    "capturedAt": "6/17 16:26 JST に取得・凍結",
+    "lineup": {
+      "home": {
+        "formation": "4-2-3-1",
+        "coach": "",
+        "xi": [
+          {
+            "n": 1,
+            "name": "Alexander Schlager"
+          },
+          {
+            "n": 5,
+            "name": "Stefan Posch"
+          },
+          {
+            "n": 16,
+            "name": "Phillipp Mwene"
+          },
+          {
+            "n": 4,
+            "name": "Xaver Schlager"
+          },
+          {
+            "n": 15,
+            "name": "Philipp Lienhart"
+          },
+          {
+            "n": 8,
+            "name": "David Alaba"
+          },
+          {
+            "n": 18,
+            "name": "Romano Schmid"
+          },
+          {
+            "n": 6,
+            "name": "Nicolas Seiwald"
+          },
+          {
+            "n": 14,
+            "name": "Sasa Kalajdzic"
+          },
+          {
+            "n": 20,
+            "name": "Konrad Laimer"
+          },
+          {
+            "n": 9,
+            "name": "Marcel Sabitzer"
+          }
+        ],
+        "subs": [
+          {
+            "n": 13,
+            "name": "Patrick Pentz"
+          },
+          {
+            "n": 12,
+            "name": "Florian Wiegele"
+          },
+          {
+            "n": 22,
+            "name": "Alexander Prass"
+          },
+          {
+            "n": 17,
+            "name": "Carney Chukwuemeka"
+          },
+          {
+            "n": 24,
+            "name": "Paul Wanner"
+          },
+          {
+            "n": 19,
+            "name": "Dejan Ljubicic"
+          },
+          {
+            "n": 10,
+            "name": "Florian Grillitsch"
+          },
+          {
+            "n": 23,
+            "name": "Marco Friedl"
+          },
+          {
+            "n": 11,
+            "name": "Michael Gregoritsch"
+          },
+          {
+            "n": 7,
+            "name": "Marko Arnautovic"
+          },
+          {
+            "n": 25,
+            "name": "Michael Svoboda"
+          },
+          {
+            "n": 2,
+            "name": "David Affengruber"
+          },
+          {
+            "n": 26,
+            "name": "Alessandro Schöpf"
+          },
+          {
+            "n": 21,
+            "name": "Patrick Wimmer"
+          },
+          {
+            "n": 3,
+            "name": "Kevin Danso"
+          }
+        ]
+      },
+      "away": {
+        "formation": "3-4-2-1",
+        "coach": "",
+        "xi": [
+          {
+            "n": 1,
+            "name": "Yazeed Abulaila"
+          },
+          {
+            "n": 23,
+            "name": "Ehsan Haddad"
+          },
+          {
+            "n": 20,
+            "name": "Mohannad Abu Taha"
+          },
+          {
+            "n": 16,
+            "name": "Mohammad Abualnadi"
+          },
+          {
+            "n": 5,
+            "name": "Yazan Al-Arab"
+          },
+          {
+            "n": 3,
+            "name": "Abdallah Nasib"
+          },
+          {
+            "n": 21,
+            "name": "Nizar Al-Rashdan"
+          },
+          {
+            "n": 8,
+            "name": "Noor Al-Rawabdeh"
+          },
+          {
+            "n": 10,
+            "name": "Mousa Al-Tamari"
+          },
+          {
+            "n": 11,
+            "name": "Odeh Fakhoury"
+          },
+          {
+            "n": 9,
+            "name": "Ali Olwan"
+          }
+        ],
+        "subs": [
+          {
+            "n": 17,
+            "name": "Saleem Obaid"
+          },
+          {
+            "n": 13,
+            "name": "Mahmoud Al-Mardi"
+          },
+          {
+            "n": 22,
+            "name": "Abdallah Al-Fakhouri"
+          },
+          {
+            "n": 12,
+            "name": "Nour Bani Ateyah"
+          },
+          {
+            "n": 2,
+            "name": "Mohammad Abu Hasheesh"
+          },
+          {
+            "n": 15,
+            "name": "Ibrahim Sadeh"
+          },
+          {
+            "n": 19,
+            "name": "Saed Al-Rosan"
+          },
+          {
+            "n": 6,
+            "name": "Amer Jamous"
+          },
+          {
+            "n": 18,
+            "name": "Mohammad Abughoush"
+          },
+          {
+            "n": 25,
+            "name": "Mohammad Al-Daoud"
+          },
+          {
+            "n": 4,
+            "name": "Husam Abu Dahab"
+          },
+          {
+            "n": 14,
+            "name": "Rajaei Ayed"
+          },
+          {
+            "n": 26,
+            "name": "Anas Badawi"
+          },
+          {
+            "n": 7,
+            "name": "Mohammed Abu Zraiq"
+          },
+          {
+            "n": 24,
+            "name": "Ali Azaizeh"
+          }
+        ]
+      }
+    }
   },
   {
     "id": "760435",
