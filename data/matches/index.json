@@ -5443,14 +5443,237 @@
     "home": {
       "name": "ガーナ",
       "code": "GHA",
-      "color": "#ce2931"
+      "color": "#fbd632"
     },
     "away": {
       "name": "パナマ",
       "code": "PAN",
       "color": "#d21034"
     },
-    "status": "pending"
+    "status": "released",
+    "capturedAt": "6/18 07:21 JST に取得・凍結",
+    "lineup": {
+      "home": {
+        "formation": "4-4-1-1",
+        "coach": "",
+        "xi": [
+          {
+            "n": 1,
+            "name": "Lawrence Ati Zigi"
+          },
+          {
+            "n": 26,
+            "name": "Marvin Senaya"
+          },
+          {
+            "n": 14,
+            "name": "Gideon Mensah"
+          },
+          {
+            "n": 15,
+            "name": "Elisha Owusu"
+          },
+          {
+            "n": 4,
+            "name": "Jonas Adjetey"
+          },
+          {
+            "n": 18,
+            "name": "Jerome Opoku"
+          },
+          {
+            "n": 11,
+            "name": "Antoine Semenyo"
+          },
+          {
+            "n": 3,
+            "name": "Caleb Yirenkyi"
+          },
+          {
+            "n": 9,
+            "name": "Jordan Ayew"
+          },
+          {
+            "n": 22,
+            "name": "Kamaldeen Sulemana"
+          },
+          {
+            "n": 24,
+            "name": "Ernest Nuamah"
+          }
+        ],
+        "subs": [
+          {
+            "n": 2,
+            "name": "Alidu Seidu"
+          },
+          {
+            "n": 12,
+            "name": "Joseph Anang"
+          },
+          {
+            "n": 21,
+            "name": "Kojo Peprah Oppong"
+          },
+          {
+            "n": 17,
+            "name": "Baba Rahman"
+          },
+          {
+            "n": 25,
+            "name": "Prince Adu"
+          },
+          {
+            "n": 16,
+            "name": "Benjamin Asare"
+          },
+          {
+            "n": 13,
+            "name": "Christopher Bonsu Baah"
+          },
+          {
+            "n": 10,
+            "name": "Brandon Thomas-Asante"
+          },
+          {
+            "n": 19,
+            "name": "Iñaki Williams"
+          },
+          {
+            "n": 7,
+            "name": "Fatawu Issahaku"
+          },
+          {
+            "n": 8,
+            "name": "Kwasi Sibo"
+          },
+          {
+            "n": 6,
+            "name": "Abdul Mumin"
+          },
+          {
+            "n": 23,
+            "name": "Derrick Luckassen"
+          },
+          {
+            "n": 20,
+            "name": "Augustine Boakye"
+          }
+        ]
+      },
+      "away": {
+        "formation": "4-4-2",
+        "coach": "",
+        "xi": [
+          {
+            "n": 22,
+            "name": "Orlando Mosquera"
+          },
+          {
+            "n": 2,
+            "name": "César Blackman"
+          },
+          {
+            "n": 16,
+            "name": "Andrés Andrade"
+          },
+          {
+            "n": 14,
+            "name": "Carlos Harvey"
+          },
+          {
+            "n": 13,
+            "name": "Jiovany Ramos"
+          },
+          {
+            "n": 3,
+            "name": "José Córdoba"
+          },
+          {
+            "n": 23,
+            "name": "Amir Murillo"
+          },
+          {
+            "n": 6,
+            "name": "Cristian Martínez"
+          },
+          {
+            "n": 18,
+            "name": "Cecilio Waterman"
+          },
+          {
+            "n": 11,
+            "name": "Édgar Yoel Bárcenas"
+          },
+          {
+            "n": 7,
+            "name": "José Luis Rodríguez"
+          }
+        ],
+        "subs": [
+          {
+            "n": 15,
+            "name": "Éric Davis"
+          },
+          {
+            "n": 24,
+            "name": "Azarias Londoño"
+          },
+          {
+            "n": 10,
+            "name": "Ismael Díaz"
+          },
+          {
+            "n": 25,
+            "name": "Roderick Miller"
+          },
+          {
+            "n": 19,
+            "name": "Alberto Quintero"
+          },
+          {
+            "n": 17,
+            "name": "José Fajardo"
+          },
+          {
+            "n": 8,
+            "name": "Adalberto Carrasquilla"
+          },
+          {
+            "n": 21,
+            "name": "César Yanis"
+          },
+          {
+            "n": 26,
+            "name": "Jorge Gutiérrez"
+          },
+          {
+            "n": 20,
+            "name": "Aníbal Godoy"
+          },
+          {
+            "n": 12,
+            "name": "César Samudio"
+          },
+          {
+            "n": 4,
+            "name": "Fidel Escobar"
+          },
+          {
+            "n": 5,
+            "name": "Edgardo Fariña"
+          },
+          {
+            "n": 9,
+            "name": "Tomás Rodríguez"
+          },
+          {
+            "n": 1,
+            "name": "Luis Mejía"
+          }
+        ]
+      }
+    }
   },
   {
     "id": "760436",
