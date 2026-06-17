@@ -5206,7 +5206,230 @@
       "code": "CRO",
       "color": "#ff0000"
     },
-    "status": "pending"
+    "status": "released",
+    "capturedAt": "6/18 05:21 JST に取得・凍結",
+    "lineup": {
+      "home": {
+        "formation": "4-2-3-1",
+        "coach": "",
+        "xi": [
+          {
+            "n": 1,
+            "name": "Jordan Pickford"
+          },
+          {
+            "n": 24,
+            "name": "Reece James"
+          },
+          {
+            "n": 3,
+            "name": "Nico O'Reilly"
+          },
+          {
+            "n": 4,
+            "name": "Declan Rice"
+          },
+          {
+            "n": 2,
+            "name": "Ezri Konsa"
+          },
+          {
+            "n": 5,
+            "name": "John Stones"
+          },
+          {
+            "n": 20,
+            "name": "Noni Madueke"
+          },
+          {
+            "n": 8,
+            "name": "Elliot Anderson"
+          },
+          {
+            "n": 9,
+            "name": "Harry Kane"
+          },
+          {
+            "n": 10,
+            "name": "Jude Bellingham"
+          },
+          {
+            "n": 18,
+            "name": "Anthony Gordon"
+          }
+        ],
+        "subs": [
+          {
+            "n": 17,
+            "name": "Morgan Rogers"
+          },
+          {
+            "n": 14,
+            "name": "Jordan Henderson"
+          },
+          {
+            "n": 21,
+            "name": "Eberechi Eze"
+          },
+          {
+            "n": 22,
+            "name": "Ivan Toney"
+          },
+          {
+            "n": 19,
+            "name": "Ollie Watkins"
+          },
+          {
+            "n": 16,
+            "name": "Kobbie Mainoo"
+          },
+          {
+            "n": 26,
+            "name": "Jarell Quansah"
+          },
+          {
+            "n": 25,
+            "name": "Djed Spence"
+          },
+          {
+            "n": 15,
+            "name": "Dan Burn"
+          },
+          {
+            "n": 23,
+            "name": "James Trafford"
+          },
+          {
+            "n": 6,
+            "name": "Marc Guéhi"
+          },
+          {
+            "n": 13,
+            "name": "Dean Henderson"
+          },
+          {
+            "n": 11,
+            "name": "Marcus Rashford"
+          },
+          {
+            "n": 7,
+            "name": "Bukayo Saka"
+          }
+        ]
+      },
+      "away": {
+        "formation": "3-4-2-1",
+        "coach": "",
+        "xi": [
+          {
+            "n": 1,
+            "name": "Dominik Livakovic"
+          },
+          {
+            "n": 2,
+            "name": "Josip Stanisic"
+          },
+          {
+            "n": 14,
+            "name": "Ivan Perisic"
+          },
+          {
+            "n": 4,
+            "name": "Josko Gvardiol"
+          },
+          {
+            "n": 22,
+            "name": "Luka Vuskovic"
+          },
+          {
+            "n": 6,
+            "name": "Josip Sutalo"
+          },
+          {
+            "n": 10,
+            "name": "Luka Modric"
+          },
+          {
+            "n": 15,
+            "name": "Mario Pasalic"
+          },
+          {
+            "n": 26,
+            "name": "Petar Musa"
+          },
+          {
+            "n": 17,
+            "name": "Petar Sucic"
+          },
+          {
+            "n": 16,
+            "name": "Martin Baturina"
+          }
+        ],
+        "subs": [
+          {
+            "n": 13,
+            "name": "Nikola Vlasic"
+          },
+          {
+            "n": 5,
+            "name": "Duje Caleta-Car"
+          },
+          {
+            "n": 21,
+            "name": "Luka Sucic"
+          },
+          {
+            "n": 11,
+            "name": "Ante Budimir"
+          },
+          {
+            "n": 8,
+            "name": "Mateo Kovacic"
+          },
+          {
+            "n": 19,
+            "name": "Toni Fruk"
+          },
+          {
+            "n": 20,
+            "name": "Igor Matanovic"
+          },
+          {
+            "n": 9,
+            "name": "Andrej Kramaric"
+          },
+          {
+            "n": 23,
+            "name": "Dominik Kotarski"
+          },
+          {
+            "n": 7,
+            "name": "Nikola Moro"
+          },
+          {
+            "n": 25,
+            "name": "Martin Erlic"
+          },
+          {
+            "n": 3,
+            "name": "Marin Pongracic"
+          },
+          {
+            "n": 18,
+            "name": "Kristijan Jakic"
+          },
+          {
+            "n": 24,
+            "name": "Marco Pasalic"
+          },
+          {
+            "n": 12,
+            "name": "Ivor Pandur"
+          }
+        ]
+      }
+    }
   },
   {
     "id": "760434",
