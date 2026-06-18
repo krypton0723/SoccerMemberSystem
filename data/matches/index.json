@@ -5940,9 +5940,224 @@
     "away": {
       "name": "南アフリカ",
       "code": "RSA",
-      "color": "#087d5a"
+      "color": "#FFB81C"
     },
-    "status": "pending"
+    "status": "released",
+    "capturedAt": "6/19 03:08 JST に取得・凍結",
+    "lineup": {
+      "home": {
+        "formation": "3-5-2",
+        "coach": "",
+        "xi": [
+          {
+            "n": 1,
+            "name": "Matej Kovár"
+          },
+          {
+            "n": 5,
+            "name": "Vladimír Coufal"
+          },
+          {
+            "n": 24,
+            "name": "Alexandr Sojka"
+          },
+          {
+            "n": 7,
+            "name": "Ladislav Krejcí"
+          },
+          {
+            "n": 4,
+            "name": "Robin Hranác"
+          },
+          {
+            "n": 3,
+            "name": "Tomás Holes"
+          },
+          {
+            "n": 8,
+            "name": "Vladimír Darida"
+          },
+          {
+            "n": 18,
+            "name": "Michal Sadílek"
+          },
+          {
+            "n": 9,
+            "name": "Adam Hlozek"
+          },
+          {
+            "n": 10,
+            "name": "Patrik Schick"
+          },
+          {
+            "n": 12,
+            "name": "Lukás Cerv"
+          }
+        ],
+        "subs": [
+          {
+            "n": 20,
+            "name": "Jaroslav Zelený"
+          },
+          {
+            "n": 13,
+            "name": "Mojmír Chytil"
+          },
+          {
+            "n": 6,
+            "name": "Stepán Chaloupek"
+          },
+          {
+            "n": 26,
+            "name": "Denis Visinský"
+          },
+          {
+            "n": 11,
+            "name": "Jan Kuchta"
+          },
+          {
+            "n": 17,
+            "name": "Lukás Provod"
+          },
+          {
+            "n": 19,
+            "name": "Tomás Chorý"
+          },
+          {
+            "n": 22,
+            "name": "Tomás Soucek"
+          },
+          {
+            "n": 21,
+            "name": "David Doudera"
+          },
+          {
+            "n": 23,
+            "name": "Lukás Hornícek"
+          },
+          {
+            "n": 16,
+            "name": "Jindrich Stanek"
+          },
+          {
+            "n": 25,
+            "name": "Hugo Sochurek"
+          },
+          {
+            "n": 2,
+            "name": "David Zima"
+          },
+          {
+            "n": 15,
+            "name": "Pavel Sulc"
+          }
+        ]
+      },
+      "away": {
+        "formation": "4-3-3",
+        "coach": "",
+        "xi": [
+          {
+            "n": 1,
+            "name": "Ronwen Williams"
+          },
+          {
+            "n": 20,
+            "name": "Khuliso Mudau"
+          },
+          {
+            "n": 6,
+            "name": "Aubrey Modiba"
+          },
+          {
+            "n": 4,
+            "name": "Teboho Mokoena"
+          },
+          {
+            "n": 21,
+            "name": "Ime Okon"
+          },
+          {
+            "n": 14,
+            "name": "Mbekezeli Mbokazi"
+          },
+          {
+            "n": 5,
+            "name": "Thalente Mbatha"
+          },
+          {
+            "n": 23,
+            "name": "Jayden Adams"
+          },
+          {
+            "n": 15,
+            "name": "Iqraam Rayners"
+          },
+          {
+            "n": 12,
+            "name": "Thapelo Maseko"
+          },
+          {
+            "n": 7,
+            "name": "Oswin Appollis"
+          }
+        ],
+        "subs": [
+          {
+            "n": 16,
+            "name": "Sipho Chaine"
+          },
+          {
+            "n": 19,
+            "name": "Nkosinathi Sibisi"
+          },
+          {
+            "n": 18,
+            "name": "Samukele Kabini"
+          },
+          {
+            "n": 22,
+            "name": "Ricardo Goss"
+          },
+          {
+            "n": 2,
+            "name": "Thabang Matuludi"
+          },
+          {
+            "n": 8,
+            "name": "Tshepang Moremi"
+          },
+          {
+            "n": 24,
+            "name": "Olwethu Makhanya"
+          },
+          {
+            "n": 25,
+            "name": "Kamogelo Sebelebele"
+          },
+          {
+            "n": 17,
+            "name": "Evidence Makgopa"
+          },
+          {
+            "n": 3,
+            "name": "Khulumani Ndamane"
+          },
+          {
+            "n": 9,
+            "name": "Lyle Foster"
+          },
+          {
+            "n": 10,
+            "name": "Relebohile Mofokeng"
+          },
+          {
+            "n": 26,
+            "name": "Bradley Cross"
+          }
+        ]
+      }
+    }
   },
   {
     "id": "760439",
@@ -5956,14 +6171,237 @@
     "home": {
       "name": "スイス",
       "code": "SUI",
-      "color": "#d72b2c"
+      "color": "#FF0000"
     },
     "away": {
       "name": "ボスニア・ヘルツェゴビナ",
       "code": "BIH",
       "color": "#112855"
     },
-    "status": "pending"
+    "status": "released",
+    "capturedAt": "6/19 03:08 JST に取得・凍結",
+    "lineup": {
+      "home": {
+        "formation": "4-3-3",
+        "coach": "",
+        "xi": [
+          {
+            "n": 1,
+            "name": "Gregor Kobel"
+          },
+          {
+            "n": 3,
+            "name": "Silvan Widmer"
+          },
+          {
+            "n": 13,
+            "name": "Ricardo Rodríguez"
+          },
+          {
+            "n": 10,
+            "name": "Granit Xhaka"
+          },
+          {
+            "n": 4,
+            "name": "Nico Elvedi"
+          },
+          {
+            "n": 5,
+            "name": "Manuel Akanji"
+          },
+          {
+            "n": 20,
+            "name": "Michel Aebischer"
+          },
+          {
+            "n": 8,
+            "name": "Remo Freuler"
+          },
+          {
+            "n": 7,
+            "name": "Breel Embolo"
+          },
+          {
+            "n": 22,
+            "name": "Fabian Rieder"
+          },
+          {
+            "n": 11,
+            "name": "Dan Ndoye"
+          }
+        ],
+        "subs": [
+          {
+            "n": 12,
+            "name": "Yvon Mvogo"
+          },
+          {
+            "n": 16,
+            "name": "Christian Fassnacht"
+          },
+          {
+            "n": 15,
+            "name": "Djibril Sow"
+          },
+          {
+            "n": 25,
+            "name": "Luca Jaquez"
+          },
+          {
+            "n": 24,
+            "name": "Aurèle Amenda"
+          },
+          {
+            "n": 18,
+            "name": "Eray Cömert"
+          },
+          {
+            "n": 21,
+            "name": "Marvin Keller"
+          },
+          {
+            "n": 19,
+            "name": "Noah Okafor"
+          },
+          {
+            "n": 6,
+            "name": "Denis Zakaria"
+          },
+          {
+            "n": 23,
+            "name": "Zeki Amdouni"
+          },
+          {
+            "n": 26,
+            "name": "Cedric Itten"
+          },
+          {
+            "n": 17,
+            "name": "Rubén Vargas"
+          },
+          {
+            "n": 9,
+            "name": "Johan Manzambi"
+          },
+          {
+            "n": 14,
+            "name": "Ardon Jashari"
+          }
+        ]
+      },
+      "away": {
+        "formation": "4-4-2",
+        "coach": "",
+        "xi": [
+          {
+            "n": 1,
+            "name": "Nikola Vasilj"
+          },
+          {
+            "n": 7,
+            "name": "Amar Dedic"
+          },
+          {
+            "n": 5,
+            "name": "Sead Kolasinac"
+          },
+          {
+            "n": 6,
+            "name": "Benjamin Tahirovic"
+          },
+          {
+            "n": 4,
+            "name": "Tarik Muharemovic"
+          },
+          {
+            "n": 18,
+            "name": "Nikola Katic"
+          },
+          {
+            "n": 15,
+            "name": "Amar Memic"
+          },
+          {
+            "n": 14,
+            "name": "Ivan Sunjic"
+          },
+          {
+            "n": 11,
+            "name": "Edin Dzeko"
+          },
+          {
+            "n": 10,
+            "name": "Ermedin Demirovic"
+          },
+          {
+            "n": 19,
+            "name": "Kerim Alajbegovic"
+          }
+        ],
+        "subs": [
+          {
+            "n": 26,
+            "name": "Ermin Mahmic"
+          },
+          {
+            "n": 22,
+            "name": "Martin Zlomislic"
+          },
+          {
+            "n": 2,
+            "name": "Nihad Mujakic"
+          },
+          {
+            "n": 17,
+            "name": "Dzenis Burnic"
+          },
+          {
+            "n": 3,
+            "name": "Dennis Hadzikadunic"
+          },
+          {
+            "n": 24,
+            "name": "Arjan Malic"
+          },
+          {
+            "n": 13,
+            "name": "Ivan Basic"
+          },
+          {
+            "n": 16,
+            "name": "Amir Hadziahmetovic"
+          },
+          {
+            "n": 9,
+            "name": "Samed Bazdar"
+          },
+          {
+            "n": 25,
+            "name": "Jovo Lukic"
+          },
+          {
+            "n": 21,
+            "name": "Stjepan Radeljic"
+          },
+          {
+            "n": 23,
+            "name": "Haris Tabakovic"
+          },
+          {
+            "n": 12,
+            "name": "Mladen Jurkas"
+          },
+          {
+            "n": 20,
+            "name": "Esmir Bajraktarevic"
+          },
+          {
+            "n": 8,
+            "name": "Armin Gigovic"
+          }
+        ]
+      }
+    }
   },
   {
     "id": "760440",
