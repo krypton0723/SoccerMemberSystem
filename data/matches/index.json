@@ -5687,14 +5687,241 @@
     "home": {
       "name": "ウズベキスタン",
       "code": "UZB",
-      "color": "#0081d6"
+      "color": "#ffffff"
     },
     "away": {
       "name": "コロンビア",
       "code": "COL",
       "color": "#fbd632"
     },
-    "status": "pending"
+    "status": "released",
+    "capturedAt": "6/18 11:10 JST に取得・凍結",
+    "lineup": {
+      "home": {
+        "formation": "3-4-2-1",
+        "coach": "",
+        "xi": [
+          {
+            "n": 1,
+            "name": "Utkir Yusupov"
+          },
+          {
+            "n": 24,
+            "name": "Behruzjon Karimov"
+          },
+          {
+            "n": 13,
+            "name": "Sherzod Nasrullaev"
+          },
+          {
+            "n": 5,
+            "name": "Rustam Ashurmatov"
+          },
+          {
+            "n": 18,
+            "name": "Abdulla Abdullaev"
+          },
+          {
+            "n": 2,
+            "name": "Abdukodir Khusanov"
+          },
+          {
+            "n": 6,
+            "name": "Akmal Mozgovoy"
+          },
+          {
+            "n": 7,
+            "name": "Otabek Shukurov"
+          },
+          {
+            "n": 14,
+            "name": "Eldor Shomurodov"
+          },
+          {
+            "n": 22,
+            "name": "Abbosbek Fayzullaev"
+          },
+          {
+            "n": 11,
+            "name": "Oston Urunov"
+          }
+        ],
+        "subs": [
+          {
+            "n": 25,
+            "name": "Avazbek Ulmasaliyev"
+          },
+          {
+            "n": 16,
+            "name": "Botirali Ergashev"
+          },
+          {
+            "n": 4,
+            "name": "Farrukh Sayfiev"
+          },
+          {
+            "n": 20,
+            "name": "Azizbek Amonov"
+          },
+          {
+            "n": 26,
+            "name": "Jakhongir Urozov"
+          },
+          {
+            "n": 3,
+            "name": "Khojiakbar Alijonov"
+          },
+          {
+            "n": 15,
+            "name": "Umar Eshmurodov"
+          },
+          {
+            "n": 19,
+            "name": "Azizjon Ganiev"
+          },
+          {
+            "n": 17,
+            "name": "Dostonbek Khamdamov"
+          },
+          {
+            "n": 9,
+            "name": "Odiljon Xamrobekov"
+          },
+          {
+            "n": 21,
+            "name": "Igor Sergeev"
+          },
+          {
+            "n": 8,
+            "name": "Jamshid Iskanderov"
+          },
+          {
+            "n": 23,
+            "name": "Sherzod Esanov"
+          },
+          {
+            "n": 10,
+            "name": "Ruslanbek Jiyanov"
+          },
+          {
+            "n": 12,
+            "name": "Abduvohid Nematov"
+          }
+        ]
+      },
+      "away": {
+        "formation": "4-2-3-1",
+        "coach": "",
+        "xi": [
+          {
+            "n": 12,
+            "name": "Camilo Vargas"
+          },
+          {
+            "n": 2,
+            "name": "Daniel Muñoz"
+          },
+          {
+            "n": 17,
+            "name": "Johan Mojica"
+          },
+          {
+            "n": 14,
+            "name": "Gustavo Puerta"
+          },
+          {
+            "n": 23,
+            "name": "Davinson Sánchez"
+          },
+          {
+            "n": 3,
+            "name": "Jhon Lucumí"
+          },
+          {
+            "n": 11,
+            "name": "Jhon Arias"
+          },
+          {
+            "n": 16,
+            "name": "Jefferson Lerma"
+          },
+          {
+            "n": 25,
+            "name": "Luis Suárez"
+          },
+          {
+            "n": 10,
+            "name": "James Rodríguez"
+          },
+          {
+            "n": 7,
+            "name": "Luis Díaz"
+          }
+        ],
+        "subs": [
+          {
+            "n": 1,
+            "name": "David Ospina"
+          },
+          {
+            "n": 13,
+            "name": "Yerry Mina"
+          },
+          {
+            "n": 20,
+            "name": "Juan Fernando Quintero"
+          },
+          {
+            "n": 9,
+            "name": "Jhon Córdoba"
+          },
+          {
+            "n": 18,
+            "name": "Willer Ditta"
+          },
+          {
+            "n": 24,
+            "name": "Álvaro Montero"
+          },
+          {
+            "n": 4,
+            "name": "Santiago Arias"
+          },
+          {
+            "n": 21,
+            "name": "Jáminton Campaz"
+          },
+          {
+            "n": 22,
+            "name": "Deiver Machado"
+          },
+          {
+            "n": 5,
+            "name": "Kevin Castaño"
+          },
+          {
+            "n": 15,
+            "name": "Juan Portilla"
+          },
+          {
+            "n": 8,
+            "name": "Jorge Carrascal"
+          },
+          {
+            "n": 26,
+            "name": "Andrés Gómez"
+          },
+          {
+            "n": 6,
+            "name": "Richard Ríos"
+          },
+          {
+            "n": 19,
+            "name": "Cucho Hernández"
+          }
+        ]
+      }
+    }
   },
   {
     "id": "760438",
@@ -6323,6 +6550,132 @@
       "name": "韓国",
       "code": "KOR",
       "color": "#ce2028"
+    },
+    "status": "pending"
+  },
+  {
+    "id": "760473",
+    "kickoff": "2026-06-26T05:00:00+09:00",
+    "group": "E",
+    "matchday": "グループステージ",
+    "dateLabel": "6月26日（金）",
+    "timeJST": "05:00",
+    "stadium": "Lincoln Financial Field",
+    "city": "Philadelphia, Pennsylvania",
+    "home": {
+      "name": "キュラソー",
+      "code": "CUW",
+      "color": "#0537e4"
+    },
+    "away": {
+      "name": "コートジボワール",
+      "code": "CIV",
+      "color": "#FF8200"
+    },
+    "status": "pending"
+  },
+  {
+    "id": "760468",
+    "kickoff": "2026-06-26T05:00:00+09:00",
+    "group": "E",
+    "matchday": "グループステージ",
+    "dateLabel": "6月26日（金）",
+    "timeJST": "05:00",
+    "stadium": "MetLife Stadium",
+    "city": "East Rutherford, New Jersey",
+    "home": {
+      "name": "エクアドル",
+      "code": "ECU",
+      "color": "#ffdd00"
+    },
+    "away": {
+      "name": "ドイツ",
+      "code": "GER",
+      "color": "#FFFFFF"
+    },
+    "status": "pending"
+  },
+  {
+    "id": "760471",
+    "kickoff": "2026-06-26T08:00:00+09:00",
+    "group": "F",
+    "matchday": "グループステージ",
+    "dateLabel": "6月26日（金）",
+    "timeJST": "08:00",
+    "stadium": "AT&T Stadium",
+    "city": "Arlington, Texas",
+    "home": {
+      "name": "日本",
+      "code": "JPN",
+      "color": "#000555"
+    },
+    "away": {
+      "name": "スウェーデン",
+      "code": "SWE",
+      "color": "#fecb00"
+    },
+    "status": "pending"
+  },
+  {
+    "id": "760472",
+    "kickoff": "2026-06-26T08:00:00+09:00",
+    "group": "F",
+    "matchday": "グループステージ",
+    "dateLabel": "6月26日（金）",
+    "timeJST": "08:00",
+    "stadium": "GEHA Field at Arrowhead Stadium",
+    "city": "Kansas City, Missouri",
+    "home": {
+      "name": "チュニジア",
+      "code": "TUN",
+      "color": "#D20300"
+    },
+    "away": {
+      "name": "オランダ",
+      "code": "NED",
+      "color": "#fb5d00"
+    },
+    "status": "pending"
+  },
+  {
+    "id": "760469",
+    "kickoff": "2026-06-26T11:00:00+09:00",
+    "group": "D",
+    "matchday": "グループステージ",
+    "dateLabel": "6月26日（金）",
+    "timeJST": "11:00",
+    "stadium": "Levi's Stadium",
+    "city": "Santa Clara, California",
+    "home": {
+      "name": "パラグアイ",
+      "code": "PAR",
+      "color": "#ea2300"
+    },
+    "away": {
+      "name": "オーストラリア",
+      "code": "AUS",
+      "color": "#FFCD00"
+    },
+    "status": "pending"
+  },
+  {
+    "id": "760470",
+    "kickoff": "2026-06-26T11:00:00+09:00",
+    "group": "D",
+    "matchday": "グループステージ",
+    "dateLabel": "6月26日（金）",
+    "timeJST": "11:00",
+    "stadium": "SoFi Stadium",
+    "city": "Inglewood, California",
+    "home": {
+      "name": "トルコ",
+      "code": "TUR",
+      "color": "#ffffff"
+    },
+    "away": {
+      "name": "アメリカ",
+      "code": "USA",
+      "color": "#d42339"
     },
     "status": "pending"
   }
