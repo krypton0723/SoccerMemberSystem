@@ -29,47 +29,69 @@
         "xi": [
           {
             "n": 1,
-            "name": "Raúl Rangel"
+            "name": "Raúl Rangel",
+            "pos": "G",
+            "fp": 1
           },
           {
             "n": 15,
-            "name": "Israel Reyes"
+            "name": "Israel Reyes",
+            "pos": "RB",
+            "fp": 2
           },
           {
             "n": 23,
-            "name": "Jesús Gallardo"
+            "name": "Jesús Gallardo",
+            "pos": "LB",
+            "fp": 3
           },
           {
             "n": 6,
-            "name": "Érik Lira"
+            "name": "Érik Lira",
+            "pos": "DM",
+            "fp": 4
           },
           {
             "n": 3,
-            "name": "César Montes"
+            "name": "César Montes",
+            "pos": "CD-R",
+            "fp": 5
           },
           {
             "n": 5,
-            "name": "Johan Vásquez"
+            "name": "Johan Vásquez",
+            "pos": "CD-L",
+            "fp": 6
           },
           {
             "n": 25,
-            "name": "Roberto Alvarado"
+            "name": "Roberto Alvarado",
+            "pos": "RM",
+            "fp": 7
           },
           {
             "n": 26,
-            "name": "Brian Gutiérrez"
+            "name": "Brian Gutiérrez",
+            "pos": "CM-R",
+            "fp": 8
           },
           {
             "n": 9,
-            "name": "Raúl Jiménez"
+            "name": "Raúl Jiménez",
+            "pos": "F",
+            "fp": 9
           },
           {
             "n": 8,
-            "name": "Álvaro Fidalgo"
+            "name": "Álvaro Fidalgo",
+            "pos": "CM-L",
+            "fp": 10
           },
           {
             "n": 16,
-            "name": "Julián Quiñones"
+            "name": "Julián Quiñones",
+            "pos": "LM",
+            "fp": 11
           }
         ],
         "subs": [
@@ -141,47 +163,69 @@
         "xi": [
           {
             "n": 1,
-            "name": "Ronwen Williams"
+            "name": "Ronwen Williams",
+            "pos": "G",
+            "fp": 1
           },
           {
             "n": 20,
-            "name": "Khuliso Mudau"
+            "name": "Khuliso Mudau",
+            "pos": "RB",
+            "fp": 2
           },
           {
             "n": 6,
-            "name": "Aubrey Modiba"
+            "name": "Aubrey Modiba",
+            "pos": "LB",
+            "fp": 3
           },
           {
             "n": 14,
-            "name": "Mbekezeli Mbokazi"
+            "name": "Mbekezeli Mbokazi",
+            "pos": "CD-L",
+            "fp": 4
           },
           {
             "n": 21,
-            "name": "Ime Okon"
+            "name": "Ime Okon",
+            "pos": "CD",
+            "fp": 5
           },
           {
             "n": 19,
-            "name": "Nkosinathi Sibisi"
+            "name": "Nkosinathi Sibisi",
+            "pos": "CD-R",
+            "fp": 6
           },
           {
             "n": 4,
-            "name": "Teboho Mokoena"
+            "name": "Teboho Mokoena",
+            "pos": "CM-R",
+            "fp": 7
           },
           {
             "n": 13,
-            "name": "Sphephelo Sithole"
+            "name": "Sphephelo Sithole",
+            "pos": "CM",
+            "fp": 8
           },
           {
             "n": 9,
-            "name": "Lyle Foster"
+            "name": "Lyle Foster",
+            "pos": "CF-L",
+            "fp": 9
           },
           {
             "n": 15,
-            "name": "Iqraam Rayners"
+            "name": "Iqraam Rayners",
+            "pos": "CF-R",
+            "fp": 10
           },
           {
             "n": 23,
-            "name": "Jayden Adams"
+            "name": "Jayden Adams",
+            "pos": "CM-L",
+            "fp": 11
           }
         ],
         "subs": [
@@ -279,47 +323,69 @@
         "xi": [
           {
             "n": 1,
-            "name": "Kim Seung-Gyu"
+            "name": "Kim Seung-Gyu",
+            "pos": "G",
+            "fp": 1
           },
           {
             "n": 22,
-            "name": "Seol Young-Woo"
+            "name": "Seol Young-Woo",
+            "pos": "RM",
+            "fp": 2
           },
           {
             "n": 13,
-            "name": "Lee Tae-Seok"
+            "name": "Lee Tae-Seok",
+            "pos": "LM",
+            "fp": 3
           },
           {
             "n": 3,
-            "name": "Lee Gi-Hyuk"
+            "name": "Lee Gi-Hyuk",
+            "pos": "CD-L",
+            "fp": 4
           },
           {
             "n": 4,
-            "name": "Kim Min-Jae"
+            "name": "Kim Min-Jae",
+            "pos": "CD",
+            "fp": 5
           },
           {
             "n": 2,
-            "name": "Lee Han-Beom"
+            "name": "Lee Han-Beom",
+            "pos": "CD-R",
+            "fp": 6
           },
           {
             "n": 6,
-            "name": "Hwang In-Beom"
+            "name": "Hwang In-Beom",
+            "pos": "CM-R",
+            "fp": 7
           },
           {
             "n": 8,
-            "name": "Paik Seung-Ho"
+            "name": "Paik Seung-Ho",
+            "pos": "CM-L",
+            "fp": 8
           },
           {
             "n": 7,
-            "name": "Son Heung-Min"
+            "name": "Son Heung-Min",
+            "pos": "F",
+            "fp": 9
           },
           {
             "n": 19,
-            "name": "Lee Kang-In"
+            "name": "Lee Kang-In",
+            "pos": "CF-R",
+            "fp": 10
           },
           {
             "n": 10,
-            "name": "Lee Jae-Sung"
+            "name": "Lee Jae-Sung",
+            "pos": "CF-L",
+            "fp": 11
           }
         ],
         "subs": [
@@ -391,47 +457,69 @@
         "xi": [
           {
             "n": 1,
-            "name": "Matej Kovár"
+            "name": "Matej Kovár",
+            "pos": "G",
+            "fp": 1
           },
           {
             "n": 5,
-            "name": "Vladimír Coufal"
+            "name": "Vladimír Coufal",
+            "pos": "RM",
+            "fp": 2
           },
           {
             "n": 20,
-            "name": "Jaroslav Zelený"
+            "name": "Jaroslav Zelený",
+            "pos": "LM",
+            "fp": 3
           },
           {
             "n": 7,
-            "name": "Ladislav Krejcí"
+            "name": "Ladislav Krejcí",
+            "pos": "CD-L",
+            "fp": 4
           },
           {
             "n": 4,
-            "name": "Robin Hranác"
+            "name": "Robin Hranác",
+            "pos": "CD",
+            "fp": 5
           },
           {
             "n": 6,
-            "name": "Stepán Chaloupek"
+            "name": "Stepán Chaloupek",
+            "pos": "CD-R",
+            "fp": 6
           },
           {
             "n": 22,
-            "name": "Tomás Soucek"
+            "name": "Tomás Soucek",
+            "pos": "CM-R",
+            "fp": 7
           },
           {
             "n": 24,
-            "name": "Alexandr Sojka"
+            "name": "Alexandr Sojka",
+            "pos": "CM-L",
+            "fp": 8
           },
           {
             "n": 10,
-            "name": "Patrik Schick"
+            "name": "Patrik Schick",
+            "pos": "F",
+            "fp": 9
           },
           {
             "n": 17,
-            "name": "Lukás Provod"
+            "name": "Lukás Provod",
+            "pos": "CF-R",
+            "fp": 10
           },
           {
             "n": 15,
-            "name": "Pavel Sulc"
+            "name": "Pavel Sulc",
+            "pos": "CF-L",
+            "fp": 11
           }
         ],
         "subs": [
@@ -527,47 +615,69 @@
         "xi": [
           {
             "n": 16,
-            "name": "Maxime Crépeau"
+            "name": "Maxime Crépeau",
+            "pos": "G",
+            "fp": 1
           },
           {
             "n": 2,
-            "name": "Alistair Johnston"
+            "name": "Alistair Johnston",
+            "pos": "RB",
+            "fp": 2
           },
           {
             "n": 22,
-            "name": "Richie Laryea"
+            "name": "Richie Laryea",
+            "pos": "LB",
+            "fp": 3
           },
           {
             "n": 8,
-            "name": "Ismaël Koné"
+            "name": "Ismaël Koné",
+            "pos": "CM-R",
+            "fp": 4
           },
           {
             "n": 4,
-            "name": "Luc de Fougerolles"
+            "name": "Luc de Fougerolles",
+            "pos": "CD-R",
+            "fp": 5
           },
           {
             "n": 13,
-            "name": "Derek Cornelius"
+            "name": "Derek Cornelius",
+            "pos": "CD-L",
+            "fp": 6
           },
           {
             "n": 17,
-            "name": "Tajon Buchanan"
+            "name": "Tajon Buchanan",
+            "pos": "RM",
+            "fp": 7
           },
           {
             "n": 7,
-            "name": "Stephen Eustáquio"
+            "name": "Stephen Eustáquio",
+            "pos": "CM-L",
+            "fp": 8
           },
           {
             "n": 12,
-            "name": "Tani Oluwaseyi"
+            "name": "Tani Oluwaseyi",
+            "pos": "CF-L",
+            "fp": 9
           },
           {
             "n": 10,
-            "name": "Jonathan David"
+            "name": "Jonathan David",
+            "pos": "CF-R",
+            "fp": 10
           },
           {
             "n": 11,
-            "name": "Liam Millar"
+            "name": "Liam Millar",
+            "pos": "LM",
+            "fp": 11
           }
         ],
         "subs": [
@@ -639,47 +749,69 @@
         "xi": [
           {
             "n": 1,
-            "name": "Nikola Vasilj"
+            "name": "Nikola Vasilj",
+            "pos": "G",
+            "fp": 1
           },
           {
             "n": 7,
-            "name": "Amar Dedic"
+            "name": "Amar Dedic",
+            "pos": "RB",
+            "fp": 2
           },
           {
             "n": 5,
-            "name": "Sead Kolasinac"
+            "name": "Sead Kolasinac",
+            "pos": "LB",
+            "fp": 3
           },
           {
             "n": 6,
-            "name": "Benjamin Tahirovic"
+            "name": "Benjamin Tahirovic",
+            "pos": "CM-R",
+            "fp": 4
           },
           {
             "n": 18,
-            "name": "Nikola Katic"
+            "name": "Nikola Katic",
+            "pos": "CD-R",
+            "fp": 5
           },
           {
             "n": 4,
-            "name": "Tarik Muharemovic"
+            "name": "Tarik Muharemovic",
+            "pos": "CD-L",
+            "fp": 6
           },
           {
             "n": 20,
-            "name": "Esmir Bajraktarevic"
+            "name": "Esmir Bajraktarevic",
+            "pos": "RM",
+            "fp": 7
           },
           {
             "n": 13,
-            "name": "Ivan Basic"
+            "name": "Ivan Basic",
+            "pos": "CM-L",
+            "fp": 8
           },
           {
             "n": 25,
-            "name": "Jovo Lukic"
+            "name": "Jovo Lukic",
+            "pos": "CF-L",
+            "fp": 9
           },
           {
             "n": 10,
-            "name": "Ermedin Demirovic"
+            "name": "Ermedin Demirovic",
+            "pos": "CF-R",
+            "fp": 10
           },
           {
             "n": 15,
-            "name": "Amar Memic"
+            "name": "Amar Memic",
+            "pos": "LM",
+            "fp": 11
           }
         ],
         "subs": [
@@ -775,47 +907,69 @@
         "xi": [
           {
             "n": 24,
-            "name": "Matt Freese"
+            "name": "Matt Freese",
+            "pos": "G",
+            "fp": 1
           },
           {
             "n": 16,
-            "name": "Alex Freeman"
+            "name": "Alex Freeman",
+            "pos": "RB",
+            "fp": 2
           },
           {
             "n": 5,
-            "name": "Antonee Robinson"
+            "name": "Antonee Robinson",
+            "pos": "LB",
+            "fp": 3
           },
           {
             "n": 4,
-            "name": "Tyler Adams"
+            "name": "Tyler Adams",
+            "pos": "RM",
+            "fp": 8
           },
           {
             "n": 3,
-            "name": "Chris Richards"
+            "name": "Chris Richards",
+            "pos": "CD-R",
+            "fp": 5
           },
           {
             "n": 13,
-            "name": "Tim Ream"
+            "name": "Tim Ream",
+            "pos": "CD-L",
+            "fp": 6
           },
           {
             "n": 2,
-            "name": "Sergiño Dest"
+            "name": "Sergiño Dest",
+            "pos": "AM-R",
+            "fp": 7
           },
           {
             "n": 17,
-            "name": "Malik Tillman"
+            "name": "Malik Tillman",
+            "pos": "LM",
+            "fp": 4
           },
           {
             "n": 20,
-            "name": "Folarin Balogun"
+            "name": "Folarin Balogun",
+            "pos": "F",
+            "fp": 9
           },
           {
             "n": 8,
-            "name": "Weston McKennie"
+            "name": "Weston McKennie",
+            "pos": "AM",
+            "fp": 10
           },
           {
             "n": 10,
-            "name": "Christian Pulisic"
+            "name": "Christian Pulisic",
+            "pos": "AM-L",
+            "fp": 11
           }
         ],
         "subs": [
@@ -887,47 +1041,69 @@
         "xi": [
           {
             "n": 12,
-            "name": "Orlando Gil"
+            "name": "Orlando Gil",
+            "pos": "G",
+            "fp": 1
           },
           {
             "n": 4,
-            "name": "Juan Cáceres"
+            "name": "Juan Cáceres",
+            "pos": "RB",
+            "fp": 2
           },
           {
             "n": 6,
-            "name": "Júnior Alonso"
+            "name": "Júnior Alonso",
+            "pos": "LB",
+            "fp": 3
           },
           {
             "n": 14,
-            "name": "Andrés Cubas"
+            "name": "Andrés Cubas",
+            "pos": "CM-R",
+            "fp": 4
           },
           {
             "n": 15,
-            "name": "Gustavo Gómez"
+            "name": "Gustavo Gómez",
+            "pos": "CD-R",
+            "fp": 5
           },
           {
             "n": 3,
-            "name": "Omar Alderete"
+            "name": "Omar Alderete",
+            "pos": "CD-L",
+            "fp": 6
           },
           {
             "n": 8,
-            "name": "Diego Gómez"
+            "name": "Diego Gómez",
+            "pos": "RM",
+            "fp": 7
           },
           {
             "n": 16,
-            "name": "Damián Bobadilla"
+            "name": "Damián Bobadilla",
+            "pos": "CM-L",
+            "fp": 8
           },
           {
             "n": 19,
-            "name": "Julio Enciso"
+            "name": "Julio Enciso",
+            "pos": "CF-L",
+            "fp": 9
           },
           {
             "n": 9,
-            "name": "Antonio Sanabria"
+            "name": "Antonio Sanabria",
+            "pos": "CF-R",
+            "fp": 10
           },
           {
             "n": 10,
-            "name": "Miguel Almirón"
+            "name": "Miguel Almirón",
+            "pos": "LM",
+            "fp": 11
           }
         ],
         "subs": [
@@ -1023,47 +1199,69 @@
         "xi": [
           {
             "n": 1,
-            "name": "Mahmoud Abunada"
+            "name": "Mahmoud Abunada",
+            "pos": "G",
+            "fp": 1
           },
           {
             "n": 13,
-            "name": "Ayoub Al-Oui"
+            "name": "Ayoub Al-Oui",
+            "pos": "RB",
+            "fp": 2
           },
           {
             "n": 14,
-            "name": "Homam Ahmed"
+            "name": "Homam Ahmed",
+            "pos": "LB",
+            "fp": 3
           },
           {
             "n": 23,
-            "name": "Assim Madibo"
+            "name": "Assim Madibo",
+            "pos": "CM",
+            "fp": 4
           },
           {
             "n": 2,
-            "name": "Pedro Miguel"
+            "name": "Pedro Miguel",
+            "pos": "CD-R",
+            "fp": 5
           },
           {
             "n": 16,
-            "name": "Boualem Khoukhi"
+            "name": "Boualem Khoukhi",
+            "pos": "CD-L",
+            "fp": 6
           },
           {
             "n": 5,
-            "name": "Jassem Gaber"
+            "name": "Jassem Gaber",
+            "pos": "RM",
+            "fp": 7
           },
           {
             "n": 4,
-            "name": "Issa Laye"
+            "name": "Issa Laye",
+            "pos": "LM",
+            "fp": 8
           },
           {
             "n": 15,
-            "name": "Yusuf Abdurisag"
+            "name": "Yusuf Abdurisag",
+            "pos": "F",
+            "fp": 9
           },
           {
             "n": 8,
-            "name": "Edmílson Junior"
+            "name": "Edmílson Junior",
+            "pos": "RF",
+            "fp": 10
           },
           {
             "n": 11,
-            "name": "Akram Afif"
+            "name": "Akram Afif",
+            "pos": "LF",
+            "fp": 11
           }
         ],
         "subs": [
@@ -1135,47 +1333,69 @@
         "xi": [
           {
             "n": 1,
-            "name": "Gregor Kobel"
+            "name": "Gregor Kobel",
+            "pos": "G",
+            "fp": 1
           },
           {
             "n": 6,
-            "name": "Denis Zakaria"
+            "name": "Denis Zakaria",
+            "pos": "RB",
+            "fp": 2
           },
           {
             "n": 13,
-            "name": "Ricardo Rodríguez"
+            "name": "Ricardo Rodríguez",
+            "pos": "LB",
+            "fp": 3
           },
           {
             "n": 10,
-            "name": "Granit Xhaka"
+            "name": "Granit Xhaka",
+            "pos": "CM",
+            "fp": 4
           },
           {
             "n": 4,
-            "name": "Nico Elvedi"
+            "name": "Nico Elvedi",
+            "pos": "CD-R",
+            "fp": 5
           },
           {
             "n": 5,
-            "name": "Manuel Akanji"
+            "name": "Manuel Akanji",
+            "pos": "CD-L",
+            "fp": 6
           },
           {
             "n": 20,
-            "name": "Michel Aebischer"
+            "name": "Michel Aebischer",
+            "pos": "RM",
+            "fp": 7
           },
           {
             "n": 8,
-            "name": "Remo Freuler"
+            "name": "Remo Freuler",
+            "pos": "LM",
+            "fp": 8
           },
           {
             "n": 7,
-            "name": "Breel Embolo"
+            "name": "Breel Embolo",
+            "pos": "F",
+            "fp": 9
           },
           {
             "n": 11,
-            "name": "Dan Ndoye"
+            "name": "Dan Ndoye",
+            "pos": "RF",
+            "fp": 10
           },
           {
             "n": 17,
-            "name": "Rubén Vargas"
+            "name": "Rubén Vargas",
+            "pos": "LF",
+            "fp": 11
           }
         ],
         "subs": [
@@ -1271,47 +1491,69 @@
         "xi": [
           {
             "n": 1,
-            "name": "Alisson Becker"
+            "name": "Alisson Becker",
+            "pos": "G",
+            "fp": 1
           },
           {
             "n": 24,
-            "name": "Roger Ibañez"
+            "name": "Roger Ibañez",
+            "pos": "RB",
+            "fp": 2
           },
           {
             "n": 16,
-            "name": "Douglas Santos"
+            "name": "Douglas Santos",
+            "pos": "LB",
+            "fp": 3
           },
           {
             "n": 8,
-            "name": "Bruno Guimarães"
+            "name": "Bruno Guimarães",
+            "pos": "LM",
+            "fp": 4
           },
           {
             "n": 4,
-            "name": "Marquinhos"
+            "name": "Marquinhos",
+            "pos": "CD-R",
+            "fp": 5
           },
           {
             "n": 3,
-            "name": "Gabriel Magalhães"
+            "name": "Gabriel Magalhães",
+            "pos": "CD-L",
+            "fp": 6
           },
           {
             "n": 20,
-            "name": "Lucas Paquetá"
+            "name": "Lucas Paquetá",
+            "pos": "AM-R",
+            "fp": 7
           },
           {
             "n": 5,
-            "name": "Casemiro"
+            "name": "Casemiro",
+            "pos": "RM",
+            "fp": 8
           },
           {
             "n": 25,
-            "name": "Igor Thiago"
+            "name": "Igor Thiago",
+            "pos": "F",
+            "fp": 9
           },
           {
             "n": 11,
-            "name": "Raphinha"
+            "name": "Raphinha",
+            "pos": "AM",
+            "fp": 10
           },
           {
             "n": 7,
-            "name": "Vinícius Júnior"
+            "name": "Vinícius Júnior",
+            "pos": "AM-L",
+            "fp": 11
           }
         ],
         "subs": [
@@ -1379,47 +1621,69 @@
         "xi": [
           {
             "n": 1,
-            "name": "Yassine Bounou"
+            "name": "Yassine Bounou",
+            "pos": "G",
+            "fp": 1
           },
           {
             "n": 2,
-            "name": "Achraf Hakimi"
+            "name": "Achraf Hakimi",
+            "pos": "RB",
+            "fp": 2
           },
           {
             "n": 3,
-            "name": "Noussair Mazraoui"
+            "name": "Noussair Mazraoui",
+            "pos": "LB",
+            "fp": 3
           },
           {
             "n": 24,
-            "name": "Neil El Aynaoui"
+            "name": "Neil El Aynaoui",
+            "pos": "RM",
+            "fp": 8
           },
           {
             "n": 14,
-            "name": "Issa Diop"
+            "name": "Issa Diop",
+            "pos": "CD-R",
+            "fp": 5
           },
           {
             "n": 18,
-            "name": "Chadi Riad"
+            "name": "Chadi Riad",
+            "pos": "CD-L",
+            "fp": 6
           },
           {
             "n": 10,
-            "name": "Brahim Díaz"
+            "name": "Brahim Díaz",
+            "pos": "AM-R",
+            "fp": 7
           },
           {
             "n": 6,
-            "name": "Ayyoub Bouaddi"
+            "name": "Ayyoub Bouaddi",
+            "pos": "LM",
+            "fp": 4
           },
           {
             "n": 11,
-            "name": "Ismael Saibari"
+            "name": "Ismael Saibari",
+            "pos": "F",
+            "fp": 9
           },
           {
             "n": 8,
-            "name": "Azzedine Ounahi"
+            "name": "Azzedine Ounahi",
+            "pos": "AM",
+            "fp": 10
           },
           {
             "n": 23,
-            "name": "Bilal El Khannouss"
+            "name": "Bilal El Khannouss",
+            "pos": "AM-L",
+            "fp": 11
           }
         ],
         "subs": [
@@ -1515,47 +1779,69 @@
         "xi": [
           {
             "n": 1,
-            "name": "Johny Placide"
+            "name": "Johny Placide",
+            "pos": "G",
+            "fp": 1
           },
           {
             "n": 2,
-            "name": "Carlens Arcus"
+            "name": "Carlens Arcus",
+            "pos": "RB",
+            "fp": 2
           },
           {
             "n": 8,
-            "name": "Martin Expérience"
+            "name": "Martin Expérience",
+            "pos": "LB",
+            "fp": 3
           },
           {
             "n": 17,
-            "name": "Danley Jean Jacques"
+            "name": "Danley Jean Jacques",
+            "pos": "CM-R",
+            "fp": 4
           },
           {
             "n": 4,
-            "name": "Ricardo Adé"
+            "name": "Ricardo Adé",
+            "pos": "CD-R",
+            "fp": 5
           },
           {
             "n": 5,
-            "name": "Hannes Delcroix"
+            "name": "Hannes Delcroix",
+            "pos": "CD-L",
+            "fp": 6
           },
           {
             "n": 11,
-            "name": "Louicius Deedson"
+            "name": "Louicius Deedson",
+            "pos": "RM",
+            "fp": 7
           },
           {
             "n": 10,
-            "name": "Jean-Ricner Bellegarde"
+            "name": "Jean-Ricner Bellegarde",
+            "pos": "CM-L",
+            "fp": 8
           },
           {
             "n": 18,
-            "name": "Wilson Isidor"
+            "name": "Wilson Isidor",
+            "pos": "CF-L",
+            "fp": 9
           },
           {
             "n": 20,
-            "name": "Frantzdy Pierrot"
+            "name": "Frantzdy Pierrot",
+            "pos": "CF-R",
+            "fp": 10
           },
           {
             "n": 15,
-            "name": "Ruben Providence"
+            "name": "Ruben Providence",
+            "pos": "LM",
+            "fp": 11
           }
         ],
         "subs": [
@@ -1627,47 +1913,69 @@
         "xi": [
           {
             "n": 1,
-            "name": "Angus Gunn"
+            "name": "Angus Gunn",
+            "pos": "G",
+            "fp": 1
           },
           {
             "n": 2,
-            "name": "Aaron Hickey"
+            "name": "Aaron Hickey",
+            "pos": "RB",
+            "fp": 2
           },
           {
             "n": 3,
-            "name": "Andy Robertson"
+            "name": "Andy Robertson",
+            "pos": "LB",
+            "fp": 3
           },
           {
             "n": 4,
-            "name": "Scott McTominay"
+            "name": "Scott McTominay",
+            "pos": "CM-R",
+            "fp": 4
           },
           {
             "n": 5,
-            "name": "Grant Hanley"
+            "name": "Grant Hanley",
+            "pos": "CD-R",
+            "fp": 5
           },
           {
             "n": 13,
-            "name": "Jack Hendry"
+            "name": "Jack Hendry",
+            "pos": "CD-L",
+            "fp": 6
           },
           {
             "n": 17,
-            "name": "Ben Gannon-Doak"
+            "name": "Ben Gannon-Doak",
+            "pos": "RM",
+            "fp": 7
           },
           {
             "n": 19,
-            "name": "Lewis Ferguson"
+            "name": "Lewis Ferguson",
+            "pos": "CM-L",
+            "fp": 8
           },
           {
             "n": 10,
-            "name": "Ché Adams"
+            "name": "Ché Adams",
+            "pos": "CF-L",
+            "fp": 9
           },
           {
             "n": 20,
-            "name": "Lawrence Shankland"
+            "name": "Lawrence Shankland",
+            "pos": "CF-R",
+            "fp": 10
           },
           {
             "n": 7,
-            "name": "John McGinn"
+            "name": "John McGinn",
+            "pos": "LM",
+            "fp": 11
           }
         ],
         "subs": [
@@ -1763,47 +2071,69 @@
         "xi": [
           {
             "n": 18,
-            "name": "Patrick Beach"
+            "name": "Patrick Beach",
+            "pos": "G",
+            "fp": 1
           },
           {
             "n": 4,
-            "name": "Jacob Italiano"
+            "name": "Jacob Italiano",
+            "pos": "RB",
+            "fp": 2
           },
           {
             "n": 5,
-            "name": "Jordan Bos"
+            "name": "Jordan Bos",
+            "pos": "LB",
+            "fp": 3
           },
           {
             "n": 21,
-            "name": "Cameron Burgess"
+            "name": "Cameron Burgess",
+            "pos": "CD-L",
+            "fp": 4
           },
           {
             "n": 19,
-            "name": "Harry Souttar"
+            "name": "Harry Souttar",
+            "pos": "CD",
+            "fp": 5
           },
           {
             "n": 3,
-            "name": "Alessandro Circati"
+            "name": "Alessandro Circati",
+            "pos": "CD-R",
+            "fp": 6
           },
           {
             "n": 8,
-            "name": "Connor Metcalfe"
+            "name": "Connor Metcalfe",
+            "pos": "RM",
+            "fp": 7
           },
           {
             "n": 13,
-            "name": "Aiden O'Neill"
+            "name": "Aiden O'Neill",
+            "pos": "CM-R",
+            "fp": 8
           },
           {
             "n": 9,
-            "name": "Mohamed Toure"
+            "name": "Mohamed Toure",
+            "pos": "F",
+            "fp": 9
           },
           {
             "n": 24,
-            "name": "Paul Okon-Engstler"
+            "name": "Paul Okon-Engstler",
+            "pos": "CM-L",
+            "fp": 10
           },
           {
             "n": 17,
-            "name": "Nestory Irankunda"
+            "name": "Nestory Irankunda",
+            "pos": "LM",
+            "fp": 11
           }
         ],
         "subs": [
@@ -1875,47 +2205,69 @@
         "xi": [
           {
             "n": 23,
-            "name": "Ugurcan Çakir"
+            "name": "Ugurcan Çakir",
+            "pos": "G",
+            "fp": 1
           },
           {
             "n": 2,
-            "name": "Zeki Çelik"
+            "name": "Zeki Çelik",
+            "pos": "RB",
+            "fp": 2
           },
           {
             "n": 20,
-            "name": "Ferdi Kadioglu"
+            "name": "Ferdi Kadioglu",
+            "pos": "LB",
+            "fp": 3
           },
           {
             "n": 10,
-            "name": "Hakan Çalhanoglu"
+            "name": "Hakan Çalhanoglu",
+            "pos": "LM",
+            "fp": 4
           },
           {
             "n": 3,
-            "name": "Merih Demiral"
+            "name": "Merih Demiral",
+            "pos": "CD-R",
+            "fp": 5
           },
           {
             "n": 14,
-            "name": "Abdülkerim Bardakçi"
+            "name": "Abdülkerim Bardakçi",
+            "pos": "CD-L",
+            "fp": 6
           },
           {
             "n": 8,
-            "name": "Arda Güler"
+            "name": "Arda Güler",
+            "pos": "AM-R",
+            "fp": 7
           },
           {
             "n": 16,
-            "name": "Ismail Yüksek"
+            "name": "Ismail Yüksek",
+            "pos": "RM",
+            "fp": 8
           },
           {
             "n": 7,
-            "name": "Kerem Aktürkoglu"
+            "name": "Kerem Aktürkoglu",
+            "pos": "F",
+            "fp": 9
           },
           {
             "n": 6,
-            "name": "Orkun Kökçü"
+            "name": "Orkun Kökçü",
+            "pos": "AM",
+            "fp": 10
           },
           {
             "n": 21,
-            "name": "Baris Alper Yilmaz"
+            "name": "Baris Alper Yilmaz",
+            "pos": "AM-L",
+            "fp": 11
           }
         ],
         "subs": [
@@ -2011,47 +2363,69 @@
         "xi": [
           {
             "n": 1,
-            "name": "Manuel Neuer"
+            "name": "Manuel Neuer",
+            "pos": "G",
+            "fp": 1
           },
           {
             "n": 6,
-            "name": "Joshua Kimmich"
+            "name": "Joshua Kimmich",
+            "pos": "RB",
+            "fp": 2
           },
           {
             "n": 18,
-            "name": "Nathaniel Brown"
+            "name": "Nathaniel Brown",
+            "pos": "LB",
+            "fp": 3
           },
           {
             "n": 23,
-            "name": "Felix Nmecha"
+            "name": "Felix Nmecha",
+            "pos": "RM",
+            "fp": 8
           },
           {
             "n": 4,
-            "name": "Jonathan Tah"
+            "name": "Jonathan Tah",
+            "pos": "CD-R",
+            "fp": 5
           },
           {
             "n": 15,
-            "name": "Nico Schlotterbeck"
+            "name": "Nico Schlotterbeck",
+            "pos": "CD-L",
+            "fp": 6
           },
           {
             "n": 19,
-            "name": "Leroy Sané"
+            "name": "Leroy Sané",
+            "pos": "AM-R",
+            "fp": 7
           },
           {
             "n": 5,
-            "name": "Aleksandar Pavlovic"
+            "name": "Aleksandar Pavlovic",
+            "pos": "LM",
+            "fp": 4
           },
           {
             "n": 7,
-            "name": "Kai Havertz"
+            "name": "Kai Havertz",
+            "pos": "F",
+            "fp": 9
           },
           {
             "n": 10,
-            "name": "Jamal Musiala"
+            "name": "Jamal Musiala",
+            "pos": "AM",
+            "fp": 10
           },
           {
             "n": 17,
-            "name": "Florian Wirtz"
+            "name": "Florian Wirtz",
+            "pos": "AM-L",
+            "fp": 11
           }
         ],
         "subs": [
@@ -2123,47 +2497,69 @@
         "xi": [
           {
             "n": 1,
-            "name": "Eloy Room"
+            "name": "Eloy Room",
+            "pos": "G",
+            "fp": 1
           },
           {
             "n": 5,
-            "name": "Sherel Floranus"
+            "name": "Sherel Floranus",
+            "pos": "RB",
+            "fp": 2
           },
           {
             "n": 24,
-            "name": "Deveron Fonville"
+            "name": "Deveron Fonville",
+            "pos": "LB",
+            "fp": 3
           },
           {
             "n": 10,
-            "name": "Leandro Bacuna"
+            "name": "Leandro Bacuna",
+            "pos": "CM",
+            "fp": 4
           },
           {
             "n": 23,
-            "name": "Riechedly Bazoer"
+            "name": "Riechedly Bazoer",
+            "pos": "CD-R",
+            "fp": 5
           },
           {
             "n": 18,
-            "name": "Armando Obispo"
+            "name": "Armando Obispo",
+            "pos": "CD-L",
+            "fp": 6
           },
           {
             "n": 12,
-            "name": "Sontje Hansen"
+            "name": "Sontje Hansen",
+            "pos": "M",
+            "fp": 10
           },
           {
             "n": 8,
-            "name": "Livano Comenencia"
+            "name": "Livano Comenencia",
+            "pos": "RM",
+            "fp": 7
           },
           {
             "n": 9,
-            "name": "Jürgen Locadia"
+            "name": "Jürgen Locadia",
+            "pos": "CF-R",
+            "fp": 9
           },
           {
             "n": 21,
-            "name": "Tahith Chong"
+            "name": "Tahith Chong",
+            "pos": "AM",
+            "fp": 8
           },
           {
             "n": 7,
-            "name": "Juninho Bacuna"
+            "name": "Juninho Bacuna",
+            "pos": "LM",
+            "fp": 11
           }
         ],
         "subs": [
@@ -2259,47 +2655,69 @@
         "xi": [
           {
             "n": 1,
-            "name": "Bart Verbruggen"
+            "name": "Bart Verbruggen",
+            "pos": "G",
+            "fp": 1
           },
           {
             "n": 22,
-            "name": "Denzel Dumfries"
+            "name": "Denzel Dumfries",
+            "pos": "RB",
+            "fp": 2
           },
           {
             "n": 15,
-            "name": "Micky van de Ven"
+            "name": "Micky van de Ven",
+            "pos": "LB",
+            "fp": 3
           },
           {
             "n": 21,
-            "name": "Frenkie de Jong"
+            "name": "Frenkie de Jong",
+            "pos": "CM",
+            "fp": 4
           },
           {
             "n": 6,
-            "name": "Jan Paul van Hecke"
+            "name": "Jan Paul van Hecke",
+            "pos": "CD-R",
+            "fp": 5
           },
           {
             "n": 4,
-            "name": "Virgil van Dijk"
+            "name": "Virgil van Dijk",
+            "pos": "CD-L",
+            "fp": 6
           },
           {
             "n": 8,
-            "name": "Ryan Gravenberch"
+            "name": "Ryan Gravenberch",
+            "pos": "RM",
+            "fp": 7
           },
           {
             "n": 14,
-            "name": "Tijjani Reijnders"
+            "name": "Tijjani Reijnders",
+            "pos": "LM",
+            "fp": 8
           },
           {
             "n": 18,
-            "name": "Donyell Malen"
+            "name": "Donyell Malen",
+            "pos": "F",
+            "fp": 9
           },
           {
             "n": 24,
-            "name": "Crysencio Summerville"
+            "name": "Crysencio Summerville",
+            "pos": "RF",
+            "fp": 10
           },
           {
             "n": 11,
-            "name": "Cody Gakpo"
+            "name": "Cody Gakpo",
+            "pos": "LF",
+            "fp": 11
           }
         ],
         "subs": [
@@ -2371,47 +2789,69 @@
         "xi": [
           {
             "n": 1,
-            "name": "Zion Suzuki"
+            "name": "Zion Suzuki",
+            "pos": "G",
+            "fp": 1
           },
           {
             "n": 10,
-            "name": "Ritsu Doan"
+            "name": "Ritsu Doan",
+            "pos": "RM",
+            "fp": 2
           },
           {
             "n": 13,
-            "name": "Keito Nakamura"
+            "name": "Keito Nakamura",
+            "pos": "LM",
+            "fp": 3
           },
           {
             "n": 21,
-            "name": "Hiroki Ito"
+            "name": "Hiroki Ito",
+            "pos": "CD-L",
+            "fp": 4
           },
           {
             "n": 3,
-            "name": "Shogo Taniguchi"
+            "name": "Shogo Taniguchi",
+            "pos": "CD",
+            "fp": 5
           },
           {
             "n": 16,
-            "name": "Tsuyoshi Watanabe"
+            "name": "Tsuyoshi Watanabe",
+            "pos": "CD-R",
+            "fp": 6
           },
           {
             "n": 24,
-            "name": "Kaishu Sano"
+            "name": "Kaishu Sano",
+            "pos": "CM-R",
+            "fp": 7
           },
           {
             "n": 15,
-            "name": "Daichi Kamada"
+            "name": "Daichi Kamada",
+            "pos": "CM-L",
+            "fp": 8
           },
           {
             "n": 18,
-            "name": "Ayase Ueda"
+            "name": "Ayase Ueda",
+            "pos": "F",
+            "fp": 9
           },
           {
             "n": 8,
-            "name": "Takefusa Kubo"
+            "name": "Takefusa Kubo",
+            "pos": "CF-R",
+            "fp": 10
           },
           {
             "n": 11,
-            "name": "Daizen Maeda"
+            "name": "Daizen Maeda",
+            "pos": "CF-L",
+            "fp": 11
           }
         ],
         "subs": [
@@ -2507,47 +2947,69 @@
         "xi": [
           {
             "n": 1,
-            "name": "Yahia Fofana"
+            "name": "Yahia Fofana",
+            "pos": "G",
+            "fp": 1
           },
           {
             "n": 17,
-            "name": "Guela Doué"
+            "name": "Guela Doué",
+            "pos": "RB",
+            "fp": 2
           },
           {
             "n": 3,
-            "name": "Ghislain Konan"
+            "name": "Ghislain Konan",
+            "pos": "LB",
+            "fp": 3
           },
           {
             "n": 6,
-            "name": "Seko Fofana"
+            "name": "Seko Fofana",
+            "pos": "CM-L",
+            "fp": 8
           },
           {
             "n": 5,
-            "name": "Wilfried Singo"
+            "name": "Wilfried Singo",
+            "pos": "CD-R",
+            "fp": 5
           },
           {
             "n": 20,
-            "name": "Emmanuel Agbadou"
+            "name": "Emmanuel Agbadou",
+            "pos": "CD-L",
+            "fp": 6
           },
           {
             "n": 11,
-            "name": "Yan Diomande"
+            "name": "Yan Diomande",
+            "pos": "RM",
+            "fp": 7
           },
           {
             "n": 8,
-            "name": "Franck Kessié"
+            "name": "Franck Kessié",
+            "pos": "CM-R",
+            "fp": 4
           },
           {
             "n": 12,
-            "name": "Elye Wahi"
+            "name": "Elye Wahi",
+            "pos": "CF-L",
+            "fp": 9
           },
           {
             "n": 19,
-            "name": "Nicolas Pépé"
+            "name": "Nicolas Pépé",
+            "pos": "CF-R",
+            "fp": 10
           },
           {
             "n": 24,
-            "name": "Bazoumana Touré"
+            "name": "Bazoumana Touré",
+            "pos": "LM",
+            "fp": 11
           }
         ],
         "subs": [
@@ -2619,47 +3081,69 @@
         "xi": [
           {
             "n": 1,
-            "name": "Hernán Galíndez"
+            "name": "Hernán Galíndez",
+            "pos": "G",
+            "fp": 1
           },
           {
             "n": 14,
-            "name": "Alan Minda"
+            "name": "Alan Minda",
+            "pos": "LM",
+            "fp": 11
           },
           {
             "n": 15,
-            "name": "Pedro Vite"
+            "name": "Pedro Vite",
+            "pos": "CM-L",
+            "fp": 8
           },
           {
             "n": 3,
-            "name": "Piero Hincapié"
+            "name": "Piero Hincapié",
+            "pos": "LB",
+            "fp": 3
           },
           {
             "n": 6,
-            "name": "Willian Pacho"
+            "name": "Willian Pacho",
+            "pos": "CD-L",
+            "fp": 6
           },
           {
             "n": 4,
-            "name": "Joel Ordóñez"
+            "name": "Joel Ordóñez",
+            "pos": "CD-R",
+            "fp": 5
           },
           {
             "n": 21,
-            "name": "Alan Franco"
+            "name": "Alan Franco",
+            "pos": "RB",
+            "fp": 2
           },
           {
             "n": 23,
-            "name": "Moisés Caicedo"
+            "name": "Moisés Caicedo",
+            "pos": "CM-R",
+            "fp": 4
           },
           {
             "n": 13,
-            "name": "Enner Valencia"
+            "name": "Enner Valencia",
+            "pos": "CF-L",
+            "fp": 9
           },
           {
             "n": 19,
-            "name": "Gonzalo Plata"
+            "name": "Gonzalo Plata",
+            "pos": "CF-R",
+            "fp": 10
           },
           {
             "n": 9,
-            "name": "John Yeboah"
+            "name": "John Yeboah",
+            "pos": "RM",
+            "fp": 7
           }
         ],
         "subs": [
@@ -2755,47 +3239,69 @@
         "xi": [
           {
             "n": 23,
-            "name": "Kristoffer Nordfeldt"
+            "name": "Kristoffer Nordfeldt",
+            "pos": "G",
+            "fp": 1
           },
           {
             "n": 21,
-            "name": "Alexander Bernhardsson"
+            "name": "Alexander Bernhardsson",
+            "pos": "RM",
+            "fp": 2
           },
           {
             "n": 5,
-            "name": "Gabriel Gudmundsson"
+            "name": "Gabriel Gudmundsson",
+            "pos": "LM",
+            "fp": 3
           },
           {
             "n": 3,
-            "name": "Victor Lindelöf"
+            "name": "Victor Lindelöf",
+            "pos": "CD-L",
+            "fp": 6
           },
           {
             "n": 4,
-            "name": "Isak Hien"
+            "name": "Isak Hien",
+            "pos": "CD",
+            "fp": 4
           },
           {
             "n": 2,
-            "name": "Gustaf Lagerbielke"
+            "name": "Gustaf Lagerbielke",
+            "pos": "CD-R",
+            "fp": 5
           },
           {
             "n": 16,
-            "name": "Jesper Karlström"
+            "name": "Jesper Karlström",
+            "pos": "SW",
+            "fp": 8
           },
           {
             "n": 18,
-            "name": "Yasin Ayari"
+            "name": "Yasin Ayari",
+            "pos": "CM-L",
+            "fp": 11
           },
           {
             "n": 10,
-            "name": "Benjamin Nygren"
+            "name": "Benjamin Nygren",
+            "pos": "CM-R",
+            "fp": 7
           },
           {
             "n": 17,
-            "name": "Viktor Gyökeres"
+            "name": "Viktor Gyökeres",
+            "pos": "CF-R",
+            "fp": 9
           },
           {
             "n": 9,
-            "name": "Alexander Isak"
+            "name": "Alexander Isak",
+            "pos": "CF-L",
+            "fp": 10
           }
         ],
         "subs": [
@@ -2867,47 +3373,69 @@
         "xi": [
           {
             "n": 1,
-            "name": "Mouhib Chamakh"
+            "name": "Mouhib Chamakh",
+            "pos": "G",
+            "fp": 1
           },
           {
             "n": 20,
-            "name": "Yan Valery"
+            "name": "Yan Valery",
+            "pos": "RB",
+            "fp": 2
           },
           {
             "n": 21,
-            "name": "Mohamed Amine Ben Hamida"
+            "name": "Mohamed Amine Ben Hamida",
+            "pos": "CD-L",
+            "fp": 4
           },
           {
             "n": 17,
-            "name": "Ellyes Skhiri"
+            "name": "Ellyes Skhiri",
+            "pos": "CM",
+            "fp": 8
           },
           {
             "n": 4,
-            "name": "Omar Rekik"
+            "name": "Omar Rekik",
+            "pos": "CD-R",
+            "fp": 6
           },
           {
             "n": 3,
-            "name": "Montassar Talbi"
+            "name": "Montassar Talbi",
+            "pos": "CD",
+            "fp": 5
           },
           {
             "n": 25,
-            "name": "Anis Slimane"
+            "name": "Anis Slimane",
+            "pos": "CF-L",
+            "fp": 9
           },
           {
             "n": 13,
-            "name": "Rani Khedira"
+            "name": "Rani Khedira",
+            "pos": "CM-R",
+            "fp": 7
           },
           {
             "n": 8,
-            "name": "Elias Saad"
+            "name": "Elias Saad",
+            "pos": "CF-R",
+            "fp": 10
           },
           {
             "n": 10,
-            "name": "Hannibal Mejbri"
+            "name": "Hannibal Mejbri",
+            "pos": "CM-L",
+            "fp": 11
           },
           {
             "n": 2,
-            "name": "Ali Abdi"
+            "name": "Ali Abdi",
+            "pos": "LB",
+            "fp": 3
           }
         ],
         "subs": [
@@ -3003,47 +3531,69 @@
         "xi": [
           {
             "n": 23,
-            "name": "Unai Simón"
+            "name": "Unai Simón",
+            "pos": "G",
+            "fp": 1
           },
           {
             "n": 5,
-            "name": "Marcos Llorente"
+            "name": "Marcos Llorente",
+            "pos": "RB",
+            "fp": 2
           },
           {
             "n": 24,
-            "name": "Marc Cucurella"
+            "name": "Marc Cucurella",
+            "pos": "LB",
+            "fp": 3
           },
           {
             "n": 16,
-            "name": "Rodri"
+            "name": "Rodri",
+            "pos": "CM",
+            "fp": 4
           },
           {
             "n": 22,
-            "name": "Pau Cubarsí"
+            "name": "Pau Cubarsí",
+            "pos": "CD-R",
+            "fp": 5
           },
           {
             "n": 14,
-            "name": "Aymeric Laporte"
+            "name": "Aymeric Laporte",
+            "pos": "CD-L",
+            "fp": 6
           },
           {
             "n": 8,
-            "name": "Fabián Ruiz"
+            "name": "Fabián Ruiz",
+            "pos": "RM",
+            "fp": 7
           },
           {
             "n": 20,
-            "name": "Pedri"
+            "name": "Pedri",
+            "pos": "LM",
+            "fp": 8
           },
           {
             "n": 21,
-            "name": "Mikel Oyarzabal"
+            "name": "Mikel Oyarzabal",
+            "pos": "F",
+            "fp": 9
           },
           {
             "n": 7,
-            "name": "Ferran Torres"
+            "name": "Ferran Torres",
+            "pos": "RF",
+            "fp": 10
           },
           {
             "n": 9,
-            "name": "Gavi"
+            "name": "Gavi",
+            "pos": "LF",
+            "fp": 11
           }
         ],
         "subs": [
@@ -3115,47 +3665,69 @@
         "xi": [
           {
             "n": 1,
-            "name": "Vozinha"
+            "name": "Vozinha",
+            "pos": "G",
+            "fp": 1
           },
           {
             "n": 22,
-            "name": "Steven Moreira"
+            "name": "Steven Moreira",
+            "pos": "RB",
+            "fp": 2
           },
           {
             "n": 13,
-            "name": "Sidny Lopes Cabral"
+            "name": "Sidny Lopes Cabral",
+            "pos": "LB",
+            "fp": 3
           },
           {
             "n": 6,
-            "name": "Kevin Pina"
+            "name": "Kevin Pina",
+            "pos": "DM",
+            "fp": 4
           },
           {
             "n": 4,
-            "name": "Pico Lopes"
+            "name": "Pico Lopes",
+            "pos": "CD-R",
+            "fp": 5
           },
           {
             "n": 3,
-            "name": "Diney Borges"
+            "name": "Diney Borges",
+            "pos": "CD-L",
+            "fp": 6
           },
           {
             "n": 20,
-            "name": "Ryan Mendes"
+            "name": "Ryan Mendes",
+            "pos": "RM",
+            "fp": 7
           },
           {
             "n": 15,
-            "name": "Laros Duarte"
+            "name": "Laros Duarte",
+            "pos": "CM-R",
+            "fp": 8
           },
           {
             "n": 19,
-            "name": "Dailon Livramento"
+            "name": "Dailon Livramento",
+            "pos": "F",
+            "fp": 9
           },
           {
             "n": 10,
-            "name": "Jamiro Monteiro"
+            "name": "Jamiro Monteiro",
+            "pos": "CM-L",
+            "fp": 10
           },
           {
             "n": 7,
-            "name": "Jovane Cabral"
+            "name": "Jovane Cabral",
+            "pos": "LM",
+            "fp": 11
           }
         ],
         "subs": [
@@ -3251,47 +3823,69 @@
         "xi": [
           {
             "n": 1,
-            "name": "Thibaut Courtois"
+            "name": "Thibaut Courtois",
+            "pos": "G",
+            "fp": 1
           },
           {
             "n": 15,
-            "name": "Thomas Meunier"
+            "name": "Thomas Meunier",
+            "pos": "RB",
+            "fp": 2
           },
           {
             "n": 21,
-            "name": "Timothy Castagne"
+            "name": "Timothy Castagne",
+            "pos": "LB",
+            "fp": 3
           },
           {
             "n": 8,
-            "name": "Youri Tielemans"
+            "name": "Youri Tielemans",
+            "pos": "LM",
+            "fp": 4
           },
           {
             "n": 25,
-            "name": "Nathan Ngoy"
+            "name": "Nathan Ngoy",
+            "pos": "CD-R",
+            "fp": 5
           },
           {
             "n": 4,
-            "name": "Brandon Mechele"
+            "name": "Brandon Mechele",
+            "pos": "CD-L",
+            "fp": 6
           },
           {
             "n": 10,
-            "name": "Leandro Trossard"
+            "name": "Leandro Trossard",
+            "pos": "AM-R",
+            "fp": 7
           },
           {
             "n": 24,
-            "name": "Amadou Onana"
+            "name": "Amadou Onana",
+            "pos": "RM",
+            "fp": 8
           },
           {
             "n": 17,
-            "name": "Charles De Ketelaere"
+            "name": "Charles De Ketelaere",
+            "pos": "F",
+            "fp": 9
           },
           {
             "n": 7,
-            "name": "Kevin De Bruyne"
+            "name": "Kevin De Bruyne",
+            "pos": "AM",
+            "fp": 10
           },
           {
             "n": 11,
-            "name": "Jérémy Doku"
+            "name": "Jérémy Doku",
+            "pos": "AM-L",
+            "fp": 11
           }
         ],
         "subs": [
@@ -3359,47 +3953,69 @@
         "xi": [
           {
             "n": 23,
-            "name": "Mostafa Shoubir"
+            "name": "Mostafa Shoubir",
+            "pos": "G",
+            "fp": 1
           },
           {
             "n": 3,
-            "name": "Mohamed Hany"
+            "name": "Mohamed Hany",
+            "pos": "RB",
+            "fp": 2
           },
           {
             "n": 13,
-            "name": "Ahmed Fatouh"
+            "name": "Ahmed Fatouh",
+            "pos": "LB",
+            "fp": 3
           },
           {
             "n": 19,
-            "name": "Marawan Attia"
+            "name": "Marawan Attia",
+            "pos": "RM",
+            "fp": 8
           },
           {
             "n": 2,
-            "name": "Yasser Ibrahim"
+            "name": "Yasser Ibrahim",
+            "pos": "CD-R",
+            "fp": 5
           },
           {
             "n": 14,
-            "name": "Hamdy Fathy"
+            "name": "Hamdy Fathy",
+            "pos": "CD-L",
+            "fp": 6
           },
           {
             "n": 10,
-            "name": "Mohamed Salah"
+            "name": "Mohamed Salah",
+            "pos": "AM",
+            "fp": 10
           },
           {
             "n": 17,
-            "name": "Mohanad Lashin"
+            "name": "Mohanad Lashin",
+            "pos": "LM",
+            "fp": 4
           },
           {
             "n": 22,
-            "name": "Omar Marmoush"
+            "name": "Omar Marmoush",
+            "pos": "F",
+            "fp": 9
           },
           {
             "n": 8,
-            "name": "Emam Ashour"
+            "name": "Emam Ashour",
+            "pos": "AM-L",
+            "fp": 11
           },
           {
             "n": 11,
-            "name": "Mostafa Zico"
+            "name": "Mostafa Zico",
+            "pos": "AM-R",
+            "fp": 7
           }
         ],
         "subs": [
@@ -3495,47 +4111,69 @@
         "xi": [
           {
             "n": 21,
-            "name": "Mohammed Al-Owais"
+            "name": "Mohammed Al-Owais",
+            "pos": "G",
+            "fp": 1
           },
           {
             "n": 12,
-            "name": "Saud Abdulhamid"
+            "name": "Saud Abdulhamid",
+            "pos": "RB",
+            "fp": 2
           },
           {
             "n": 24,
-            "name": "Moteb Al-Harbi"
+            "name": "Moteb Al-Harbi",
+            "pos": "LB",
+            "fp": 3
           },
           {
             "n": 23,
-            "name": "Mohamed Kanno"
+            "name": "Mohamed Kanno",
+            "pos": "CM-R",
+            "fp": 4
           },
           {
             "n": 5,
-            "name": "Hassan Al-Tambakti"
+            "name": "Hassan Al-Tambakti",
+            "pos": "CD-L",
+            "fp": 6
           },
           {
             "n": 4,
-            "name": "Abdulelah Al-Amri"
+            "name": "Abdulelah Al-Amri",
+            "pos": "CD-R",
+            "fp": 5
           },
           {
             "n": 26,
-            "name": "Mohammed Abu Al-Shamat"
+            "name": "Mohammed Abu Al-Shamat",
+            "pos": "RM",
+            "fp": 7
           },
           {
             "n": 15,
-            "name": "Abdullah Al-Khaibari"
+            "name": "Abdullah Al-Khaibari",
+            "pos": "CM-L",
+            "fp": 8
           },
           {
             "n": 9,
-            "name": "Feras Al-Brikan"
+            "name": "Feras Al-Brikan",
+            "pos": "CF-R",
+            "fp": 10
           },
           {
             "n": 7,
-            "name": "Musab Al-Juwayr"
+            "name": "Musab Al-Juwayr",
+            "pos": "CF-L",
+            "fp": 9
           },
           {
             "n": 10,
-            "name": "Salem Al-Dawsari"
+            "name": "Salem Al-Dawsari",
+            "pos": "LM",
+            "fp": 11
           }
         ],
         "subs": [
@@ -3607,47 +4245,69 @@
         "xi": [
           {
             "n": 23,
-            "name": "Fernando Muslera"
+            "name": "Fernando Muslera",
+            "pos": "G",
+            "fp": 1
           },
           {
             "n": 13,
-            "name": "Guillermo Varela"
+            "name": "Guillermo Varela",
+            "pos": "RB",
+            "fp": 2
           },
           {
             "n": 17,
-            "name": "Matías Viña"
+            "name": "Matías Viña",
+            "pos": "LB",
+            "fp": 3
           },
           {
             "n": 5,
-            "name": "Manuel Ugarte"
+            "name": "Manuel Ugarte",
+            "pos": "RM",
+            "fp": 8
           },
           {
             "n": 3,
-            "name": "Sebastián Cáceres"
+            "name": "Sebastián Cáceres",
+            "pos": "CD-R",
+            "fp": 5
           },
           {
             "n": 16,
-            "name": "Mathías Olivera"
+            "name": "Mathías Olivera",
+            "pos": "CD-L",
+            "fp": 6
           },
           {
             "n": 8,
-            "name": "Federico Valverde"
+            "name": "Federico Valverde",
+            "pos": "AM-R",
+            "fp": 7
           },
           {
             "n": 6,
-            "name": "Rodrigo Bentancur"
+            "name": "Rodrigo Bentancur",
+            "pos": "LM",
+            "fp": 4
           },
           {
             "n": 9,
-            "name": "Darwin Núñez"
+            "name": "Darwin Núñez",
+            "pos": "F",
+            "fp": 9
           },
           {
             "n": 21,
-            "name": "Federico Viñas"
+            "name": "Federico Viñas",
+            "pos": "AM",
+            "fp": 10
           },
           {
             "n": 20,
-            "name": "Maxi Araújo"
+            "name": "Maxi Araújo",
+            "pos": "AM-L",
+            "fp": 11
           }
         ],
         "subs": [
@@ -3735,47 +4395,69 @@
         "xi": [
           {
             "n": 1,
-            "name": "Alireza Beiranvand"
+            "name": "Alireza Beiranvand",
+            "pos": "G",
+            "fp": 1
           },
           {
             "n": 23,
-            "name": "Ramin Rezaeian"
+            "name": "Ramin Rezaeian",
+            "pos": "RB",
+            "fp": 2
           },
           {
             "n": 5,
-            "name": "Milad Mohammadi"
+            "name": "Milad Mohammadi",
+            "pos": "LB",
+            "fp": 3
           },
           {
             "n": 14,
-            "name": "Saman Ghoddos"
+            "name": "Saman Ghoddos",
+            "pos": "CM-R",
+            "fp": 4
           },
           {
             "n": 4,
-            "name": "Shoja Khalilzadeh"
+            "name": "Shoja Khalilzadeh",
+            "pos": "CD-R",
+            "fp": 5
           },
           {
             "n": 19,
-            "name": "Ali Nemati"
+            "name": "Ali Nemati",
+            "pos": "CD-L",
+            "fp": 6
           },
           {
             "n": 8,
-            "name": "Mohammad Mohebbi"
+            "name": "Mohammad Mohebbi",
+            "pos": "RM",
+            "fp": 7
           },
           {
             "n": 6,
-            "name": "Saeid Ezatolahi"
+            "name": "Saeid Ezatolahi",
+            "pos": "CM-L",
+            "fp": 8
           },
           {
             "n": 9,
-            "name": "Mehdi Taremi"
+            "name": "Mehdi Taremi",
+            "pos": "CF-L",
+            "fp": 9
           },
           {
             "n": 20,
-            "name": "Shahriyar Moghanloo"
+            "name": "Shahriyar Moghanloo",
+            "pos": "CF-R",
+            "fp": 10
           },
           {
             "n": 17,
-            "name": "Arya Yousefi"
+            "name": "Arya Yousefi",
+            "pos": "LM",
+            "fp": 11
           }
         ],
         "subs": [
@@ -3847,47 +4529,69 @@
         "xi": [
           {
             "n": 1,
-            "name": "Max Crocombe"
+            "name": "Max Crocombe",
+            "pos": "G",
+            "fp": 1
           },
           {
             "n": 2,
-            "name": "Tim Payne"
+            "name": "Tim Payne",
+            "pos": "RB",
+            "fp": 2
           },
           {
             "n": 13,
-            "name": "Liberato Cacace"
+            "name": "Liberato Cacace",
+            "pos": "LB",
+            "fp": 3
           },
           {
             "n": 8,
-            "name": "Marko Stamenic"
+            "name": "Marko Stamenic",
+            "pos": "LM",
+            "fp": 4
           },
           {
             "n": 16,
-            "name": "Finn Surman"
+            "name": "Finn Surman",
+            "pos": "CD-R",
+            "fp": 5
           },
           {
             "n": 5,
-            "name": "Michael Boxall"
+            "name": "Michael Boxall",
+            "pos": "CD-L",
+            "fp": 6
           },
           {
             "n": 20,
-            "name": "Callum McCowatt"
+            "name": "Callum McCowatt",
+            "pos": "AM-R",
+            "fp": 7
           },
           {
             "n": 6,
-            "name": "Joe Bell"
+            "name": "Joe Bell",
+            "pos": "RM",
+            "fp": 8
           },
           {
             "n": 9,
-            "name": "Chris Wood"
+            "name": "Chris Wood",
+            "pos": "F",
+            "fp": 9
           },
           {
             "n": 10,
-            "name": "Sarpreet Singh"
+            "name": "Sarpreet Singh",
+            "pos": "AM",
+            "fp": 10
           },
           {
             "n": 11,
-            "name": "Elijah Just"
+            "name": "Elijah Just",
+            "pos": "AM-L",
+            "fp": 11
           }
         ],
         "subs": [
@@ -3979,47 +4683,69 @@
         "xi": [
           {
             "n": 16,
-            "name": "Mike Maignan"
+            "name": "Mike Maignan",
+            "pos": "G",
+            "fp": 1
           },
           {
             "n": 5,
-            "name": "Jules Koundé"
+            "name": "Jules Koundé",
+            "pos": "RB",
+            "fp": 2
           },
           {
             "n": 19,
-            "name": "Theo Hernández"
+            "name": "Theo Hernández",
+            "pos": "LB",
+            "fp": 3
           },
           {
             "n": 14,
-            "name": "Adrien Rabiot"
+            "name": "Adrien Rabiot",
+            "pos": "LM",
+            "fp": 4
           },
           {
             "n": 17,
-            "name": "William Saliba"
+            "name": "William Saliba",
+            "pos": "CD-L",
+            "fp": 6
           },
           {
             "n": 4,
-            "name": "Dayot Upamecano"
+            "name": "Dayot Upamecano",
+            "pos": "CD-R",
+            "fp": 5
           },
           {
             "n": 11,
-            "name": "Michael Olise"
+            "name": "Michael Olise",
+            "pos": "AM-R",
+            "fp": 7
           },
           {
             "n": 8,
-            "name": "Aurélien Tchouaméni"
+            "name": "Aurélien Tchouaméni",
+            "pos": "RM",
+            "fp": 8
           },
           {
             "n": 10,
-            "name": "Kylian Mbappé"
+            "name": "Kylian Mbappé",
+            "pos": "F",
+            "fp": 9
           },
           {
             "n": 7,
-            "name": "Ousmane Dembélé"
+            "name": "Ousmane Dembélé",
+            "pos": "AM",
+            "fp": 10
           },
           {
             "n": 20,
-            "name": "Désiré Doué"
+            "name": "Désiré Doué",
+            "pos": "AM-L",
+            "fp": 11
           }
         ],
         "subs": [
@@ -4091,47 +4817,69 @@
         "xi": [
           {
             "n": 16,
-            "name": "Édouard Mendy"
+            "name": "Édouard Mendy",
+            "pos": "G",
+            "fp": 1
           },
           {
             "n": 15,
-            "name": "Krépin Diatta"
+            "name": "Krépin Diatta",
+            "pos": "RB",
+            "fp": 2
           },
           {
             "n": 25,
-            "name": "El Hadji Malick Diouf"
+            "name": "El Hadji Malick Diouf",
+            "pos": "LB",
+            "fp": 3
           },
           {
             "n": 5,
-            "name": "Idrissa Gueye"
+            "name": "Idrissa Gueye",
+            "pos": "RM",
+            "fp": 8
           },
           {
             "n": 3,
-            "name": "Kalidou Koulibaly"
+            "name": "Kalidou Koulibaly",
+            "pos": "CD-R",
+            "fp": 5
           },
           {
             "n": 19,
-            "name": "Moussa Niakhaté"
+            "name": "Moussa Niakhaté",
+            "pos": "CD-L",
+            "fp": 6
           },
           {
             "n": 8,
-            "name": "Lamine Camara"
+            "name": "Lamine Camara",
+            "pos": "AM",
+            "fp": 10
           },
           {
             "n": 26,
-            "name": "Pape Gueye"
+            "name": "Pape Gueye",
+            "pos": "LM",
+            "fp": 4
           },
           {
             "n": 11,
-            "name": "Nicolas Jackson"
+            "name": "Nicolas Jackson",
+            "pos": "F",
+            "fp": 9
           },
           {
             "n": 18,
-            "name": "Ismaïla Sarr"
+            "name": "Ismaïla Sarr",
+            "pos": "AM-R",
+            "fp": 7
           },
           {
             "n": 10,
-            "name": "Sadio Mané"
+            "name": "Sadio Mané",
+            "pos": "AM-L",
+            "fp": 11
           }
         ],
         "subs": [
@@ -4227,47 +4975,69 @@
         "xi": [
           {
             "n": 12,
-            "name": "Jalal Hassan"
+            "name": "Jalal Hassan",
+            "pos": "G",
+            "fp": 1
           },
           {
             "n": 3,
-            "name": "Hussein Ali"
+            "name": "Hussein Ali",
+            "pos": "RB",
+            "fp": 2
           },
           {
             "n": 23,
-            "name": "Merchas Doski"
+            "name": "Merchas Doski",
+            "pos": "LB",
+            "fp": 3
           },
           {
             "n": 16,
-            "name": "Amir Al-Ammari"
+            "name": "Amir Al-Ammari",
+            "pos": "CM-L",
+            "fp": 8
           },
           {
             "n": 4,
-            "name": "Zaid Tahseen"
+            "name": "Zaid Tahseen",
+            "pos": "CD-R",
+            "fp": 5
           },
           {
             "n": 5,
-            "name": "Akam Hashim"
+            "name": "Akam Hashim",
+            "pos": "CD-L",
+            "fp": 6
           },
           {
             "n": 8,
-            "name": "Ibrahim Bayesh"
+            "name": "Ibrahim Bayesh",
+            "pos": "RM",
+            "fp": 7
           },
           {
             "n": 24,
-            "name": "Zaid Ismael"
+            "name": "Zaid Ismael",
+            "pos": "CM-R",
+            "fp": 4
           },
           {
             "n": 9,
-            "name": "Ali Al-Hamadi"
+            "name": "Ali Al-Hamadi",
+            "pos": "CF-L",
+            "fp": 9
           },
           {
             "n": 18,
-            "name": "Aymen Hussein"
+            "name": "Aymen Hussein",
+            "pos": "CF-R",
+            "fp": 10
           },
           {
             "n": 17,
-            "name": "Ali Jasim"
+            "name": "Ali Jasim",
+            "pos": "LM",
+            "fp": 11
           }
         ],
         "subs": [
@@ -4339,47 +5109,69 @@
         "xi": [
           {
             "n": 1,
-            "name": "Ørjan Nyland"
+            "name": "Ørjan Nyland",
+            "pos": "G",
+            "fp": 1
           },
           {
             "n": 26,
-            "name": "Julian Ryerson"
+            "name": "Julian Ryerson",
+            "pos": "RB",
+            "fp": 2
           },
           {
             "n": 5,
-            "name": "David Møller Wolfe"
+            "name": "David Møller Wolfe",
+            "pos": "LB",
+            "fp": 3
           },
           {
             "n": 8,
-            "name": "Sander Berge"
+            "name": "Sander Berge",
+            "pos": "CM-R",
+            "fp": 4
           },
           {
             "n": 3,
-            "name": "Kristoffer Ajer"
+            "name": "Kristoffer Ajer",
+            "pos": "CD-R",
+            "fp": 5
           },
           {
             "n": 17,
-            "name": "Torbjørn Heggem"
+            "name": "Torbjørn Heggem",
+            "pos": "CD-L",
+            "fp": 6
           },
           {
             "n": 10,
-            "name": "Martin Ødegaard"
+            "name": "Martin Ødegaard",
+            "pos": "RM",
+            "fp": 7
           },
           {
             "n": 14,
-            "name": "Fredrik Aursnes"
+            "name": "Fredrik Aursnes",
+            "pos": "CM-L",
+            "fp": 8
           },
           {
             "n": 9,
-            "name": "Erling Haaland"
+            "name": "Erling Haaland",
+            "pos": "CF-L",
+            "fp": 9
           },
           {
             "n": 7,
-            "name": "Alexander Sørloth"
+            "name": "Alexander Sørloth",
+            "pos": "CF-R",
+            "fp": 10
           },
           {
             "n": 20,
-            "name": "Antonio Nusa"
+            "name": "Antonio Nusa",
+            "pos": "LM",
+            "fp": 11
           }
         ],
         "subs": [
@@ -4475,47 +5267,69 @@
         "xi": [
           {
             "n": 23,
-            "name": "Emiliano Martínez"
+            "name": "Emiliano Martínez",
+            "pos": "G",
+            "fp": 1
           },
           {
             "n": 4,
-            "name": "Gonzalo Montiel"
+            "name": "Gonzalo Montiel",
+            "pos": "RB",
+            "fp": 2
           },
           {
             "n": 25,
-            "name": "Facundo Medina"
+            "name": "Facundo Medina",
+            "pos": "LB",
+            "fp": 3
           },
           {
             "n": 20,
-            "name": "Alexis Mac Allister"
+            "name": "Alexis Mac Allister",
+            "pos": "CM-R",
+            "fp": 4
           },
           {
             "n": 13,
-            "name": "Cristian Romero"
+            "name": "Cristian Romero",
+            "pos": "CD-R",
+            "fp": 5
           },
           {
             "n": 6,
-            "name": "Lisandro Martínez"
+            "name": "Lisandro Martínez",
+            "pos": "CD-L",
+            "fp": 6
           },
           {
             "n": 7,
-            "name": "Rodrigo De Paul"
+            "name": "Rodrigo De Paul",
+            "pos": "RM",
+            "fp": 7
           },
           {
             "n": 24,
-            "name": "Enzo Fernández"
+            "name": "Enzo Fernández",
+            "pos": "CM-L",
+            "fp": 8
           },
           {
             "n": 22,
-            "name": "Lautaro Martínez"
+            "name": "Lautaro Martínez",
+            "pos": "CF-L",
+            "fp": 9
           },
           {
             "n": 10,
-            "name": "Lionel Messi"
+            "name": "Lionel Messi",
+            "pos": "CF-R",
+            "fp": 10
           },
           {
             "n": 16,
-            "name": "Thiago Almada"
+            "name": "Thiago Almada",
+            "pos": "LM",
+            "fp": 11
           }
         ],
         "subs": [
@@ -4587,47 +5401,69 @@
         "xi": [
           {
             "n": 23,
-            "name": "Luca Zidane"
+            "name": "Luca Zidane",
+            "pos": "G",
+            "fp": 1
           },
           {
             "n": 17,
-            "name": "Rafik Belghali"
+            "name": "Rafik Belghali",
+            "pos": "RB",
+            "fp": 2
           },
           {
             "n": 15,
-            "name": "Rayan Aït-Nouri"
+            "name": "Rayan Aït-Nouri",
+            "pos": "LB",
+            "fp": 3
           },
           {
             "n": 19,
-            "name": "Nabil Bentaleb"
+            "name": "Nabil Bentaleb",
+            "pos": "CM",
+            "fp": 4
           },
           {
             "n": 2,
-            "name": "Aïssa Mandi"
+            "name": "Aïssa Mandi",
+            "pos": "CD-R",
+            "fp": 5
           },
           {
             "n": 21,
-            "name": "Ramy Bensebaini"
+            "name": "Ramy Bensebaini",
+            "pos": "CD-L",
+            "fp": 6
           },
           {
             "n": 14,
-            "name": "Hicham Boudaoui"
+            "name": "Hicham Boudaoui",
+            "pos": "RM",
+            "fp": 7
           },
           {
             "n": 22,
-            "name": "Ibrahim Maza"
+            "name": "Ibrahim Maza",
+            "pos": "LM",
+            "fp": 8
           },
           {
             "n": 9,
-            "name": "Amine Gouiri"
+            "name": "Amine Gouiri",
+            "pos": "F",
+            "fp": 9
           },
           {
             "n": 11,
-            "name": "Anis Hadj Moussa"
+            "name": "Anis Hadj Moussa",
+            "pos": "RF",
+            "fp": 10
           },
           {
             "n": 10,
-            "name": "Farès Chaïbi"
+            "name": "Farès Chaïbi",
+            "pos": "LF",
+            "fp": 11
           }
         ],
         "subs": [
@@ -4723,47 +5559,69 @@
         "xi": [
           {
             "n": 1,
-            "name": "Alexander Schlager"
+            "name": "Alexander Schlager",
+            "pos": "G",
+            "fp": 1
           },
           {
             "n": 5,
-            "name": "Stefan Posch"
+            "name": "Stefan Posch",
+            "pos": "RB",
+            "fp": 2
           },
           {
             "n": 16,
-            "name": "Phillipp Mwene"
+            "name": "Phillipp Mwene",
+            "pos": "LB",
+            "fp": 3
           },
           {
             "n": 4,
-            "name": "Xaver Schlager"
+            "name": "Xaver Schlager",
+            "pos": "LM",
+            "fp": 4
           },
           {
             "n": 15,
-            "name": "Philipp Lienhart"
+            "name": "Philipp Lienhart",
+            "pos": "CD-R",
+            "fp": 5
           },
           {
             "n": 8,
-            "name": "David Alaba"
+            "name": "David Alaba",
+            "pos": "CD-L",
+            "fp": 6
           },
           {
             "n": 18,
-            "name": "Romano Schmid"
+            "name": "Romano Schmid",
+            "pos": "AM-R",
+            "fp": 7
           },
           {
             "n": 6,
-            "name": "Nicolas Seiwald"
+            "name": "Nicolas Seiwald",
+            "pos": "RM",
+            "fp": 8
           },
           {
             "n": 14,
-            "name": "Sasa Kalajdzic"
+            "name": "Sasa Kalajdzic",
+            "pos": "F",
+            "fp": 9
           },
           {
             "n": 20,
-            "name": "Konrad Laimer"
+            "name": "Konrad Laimer",
+            "pos": "AM",
+            "fp": 10
           },
           {
             "n": 9,
-            "name": "Marcel Sabitzer"
+            "name": "Marcel Sabitzer",
+            "pos": "AM-L",
+            "fp": 11
           }
         ],
         "subs": [
@@ -4835,47 +5693,69 @@
         "xi": [
           {
             "n": 1,
-            "name": "Yazeed Abulaila"
+            "name": "Yazeed Abulaila",
+            "pos": "G",
+            "fp": 1
           },
           {
             "n": 23,
-            "name": "Ehsan Haddad"
+            "name": "Ehsan Haddad",
+            "pos": "RM",
+            "fp": 2
           },
           {
             "n": 20,
-            "name": "Mohannad Abu Taha"
+            "name": "Mohannad Abu Taha",
+            "pos": "LM",
+            "fp": 3
           },
           {
             "n": 16,
-            "name": "Mohammad Abualnadi"
+            "name": "Mohammad Abualnadi",
+            "pos": "CD-L",
+            "fp": 4
           },
           {
             "n": 5,
-            "name": "Yazan Al-Arab"
+            "name": "Yazan Al-Arab",
+            "pos": "CD",
+            "fp": 5
           },
           {
             "n": 3,
-            "name": "Abdallah Nasib"
+            "name": "Abdallah Nasib",
+            "pos": "CD-R",
+            "fp": 6
           },
           {
             "n": 21,
-            "name": "Nizar Al-Rashdan"
+            "name": "Nizar Al-Rashdan",
+            "pos": "CM-R",
+            "fp": 7
           },
           {
             "n": 8,
-            "name": "Noor Al-Rawabdeh"
+            "name": "Noor Al-Rawabdeh",
+            "pos": "CM-L",
+            "fp": 8
           },
           {
             "n": 10,
-            "name": "Mousa Al-Tamari"
+            "name": "Mousa Al-Tamari",
+            "pos": "F",
+            "fp": 9
           },
           {
             "n": 11,
-            "name": "Odeh Fakhoury"
+            "name": "Odeh Fakhoury",
+            "pos": "CF-R",
+            "fp": 10
           },
           {
             "n": 9,
-            "name": "Ali Olwan"
+            "name": "Ali Olwan",
+            "pos": "CF-L",
+            "fp": 11
           }
         ],
         "subs": [
@@ -4971,47 +5851,69 @@
         "xi": [
           {
             "n": 1,
-            "name": "Diogo Costa"
+            "name": "Diogo Costa",
+            "pos": "G",
+            "fp": 1
           },
           {
             "n": 20,
-            "name": "João Cancelo"
+            "name": "João Cancelo",
+            "pos": "RB",
+            "fp": 2
           },
           {
             "n": 25,
-            "name": "Nuno Mendes"
+            "name": "Nuno Mendes",
+            "pos": "LB",
+            "fp": 3
           },
           {
             "n": 23,
-            "name": "Vitinha "
+            "name": "Vitinha ",
+            "pos": "LM",
+            "fp": 4
           },
           {
             "n": 4,
-            "name": "Tomás Araújo"
+            "name": "Tomás Araújo",
+            "pos": "CD-R",
+            "fp": 5
           },
           {
             "n": 13,
-            "name": "Renato Veiga"
+            "name": "Renato Veiga",
+            "pos": "CD-L",
+            "fp": 6
           },
           {
             "n": 10,
-            "name": "Bernardo Silva"
+            "name": "Bernardo Silva",
+            "pos": "AM-R",
+            "fp": 7
           },
           {
             "n": 15,
-            "name": "João Neves"
+            "name": "João Neves",
+            "pos": "RM",
+            "fp": 8
           },
           {
             "n": 7,
-            "name": "Cristiano Ronaldo"
+            "name": "Cristiano Ronaldo",
+            "pos": "F",
+            "fp": 9
           },
           {
             "n": 8,
-            "name": "Bruno Fernandes"
+            "name": "Bruno Fernandes",
+            "pos": "AM",
+            "fp": 10
           },
           {
             "n": 18,
-            "name": "Pedro Neto"
+            "name": "Pedro Neto",
+            "pos": "AM-L",
+            "fp": 11
           }
         ],
         "subs": [
@@ -5083,47 +5985,69 @@
         "xi": [
           {
             "n": 1,
-            "name": "Lionel Mpasi"
+            "name": "Lionel Mpasi",
+            "pos": "G",
+            "fp": 1
           },
           {
             "n": 2,
-            "name": "Aaron Wan-Bissaka"
+            "name": "Aaron Wan-Bissaka",
+            "pos": "RB",
+            "fp": 2
           },
           {
             "n": 26,
-            "name": "Arthur Masuaku"
+            "name": "Arthur Masuaku",
+            "pos": "LB",
+            "fp": 3
           },
           {
             "n": 3,
-            "name": "Steve Kapuadi"
+            "name": "Steve Kapuadi",
+            "pos": "CD-L",
+            "fp": 4
           },
           {
             "n": 4,
-            "name": "Axel Tuanzebe"
+            "name": "Axel Tuanzebe",
+            "pos": "CD",
+            "fp": 5
           },
           {
             "n": 22,
-            "name": "Chancel Mbemba"
+            "name": "Chancel Mbemba",
+            "pos": "CD-R",
+            "fp": 6
           },
           {
             "n": 6,
-            "name": "Ngal'ayel Mukau"
+            "name": "Ngal'ayel Mukau",
+            "pos": "CM-R",
+            "fp": 7
           },
           {
             "n": 8,
-            "name": "Samuel Moutoussamy"
+            "name": "Samuel Moutoussamy",
+            "pos": "CM",
+            "fp": 8
           },
           {
             "n": 17,
-            "name": "Cédric Bakambu"
+            "name": "Cédric Bakambu",
+            "pos": "CF-L",
+            "fp": 9
           },
           {
             "n": 20,
-            "name": "Yoane Wissa"
+            "name": "Yoane Wissa",
+            "pos": "CF-R",
+            "fp": 10
           },
           {
             "n": 25,
-            "name": "Edo Kayembe"
+            "name": "Edo Kayembe",
+            "pos": "CM-L",
+            "fp": 11
           }
         ],
         "subs": [
@@ -5219,47 +6143,69 @@
         "xi": [
           {
             "n": 1,
-            "name": "Jordan Pickford"
+            "name": "Jordan Pickford",
+            "pos": "G",
+            "fp": 1
           },
           {
             "n": 24,
-            "name": "Reece James"
+            "name": "Reece James",
+            "pos": "RB",
+            "fp": 2
           },
           {
             "n": 3,
-            "name": "Nico O'Reilly"
+            "name": "Nico O'Reilly",
+            "pos": "LB",
+            "fp": 3
           },
           {
             "n": 4,
-            "name": "Declan Rice"
+            "name": "Declan Rice",
+            "pos": "LM",
+            "fp": 4
           },
           {
             "n": 2,
-            "name": "Ezri Konsa"
+            "name": "Ezri Konsa",
+            "pos": "CD-R",
+            "fp": 5
           },
           {
             "n": 5,
-            "name": "John Stones"
+            "name": "John Stones",
+            "pos": "CD-L",
+            "fp": 6
           },
           {
             "n": 20,
-            "name": "Noni Madueke"
+            "name": "Noni Madueke",
+            "pos": "AM-R",
+            "fp": 7
           },
           {
             "n": 8,
-            "name": "Elliot Anderson"
+            "name": "Elliot Anderson",
+            "pos": "RM",
+            "fp": 8
           },
           {
             "n": 9,
-            "name": "Harry Kane"
+            "name": "Harry Kane",
+            "pos": "F",
+            "fp": 9
           },
           {
             "n": 10,
-            "name": "Jude Bellingham"
+            "name": "Jude Bellingham",
+            "pos": "AM",
+            "fp": 10
           },
           {
             "n": 18,
-            "name": "Anthony Gordon"
+            "name": "Anthony Gordon",
+            "pos": "AM-L",
+            "fp": 11
           }
         ],
         "subs": [
@@ -5327,47 +6273,69 @@
         "xi": [
           {
             "n": 1,
-            "name": "Dominik Livakovic"
+            "name": "Dominik Livakovic",
+            "pos": "G",
+            "fp": 1
           },
           {
             "n": 2,
-            "name": "Josip Stanisic"
+            "name": "Josip Stanisic",
+            "pos": "RM",
+            "fp": 2
           },
           {
             "n": 14,
-            "name": "Ivan Perisic"
+            "name": "Ivan Perisic",
+            "pos": "LM",
+            "fp": 3
           },
           {
             "n": 4,
-            "name": "Josko Gvardiol"
+            "name": "Josko Gvardiol",
+            "pos": "CD-L",
+            "fp": 4
           },
           {
             "n": 22,
-            "name": "Luka Vuskovic"
+            "name": "Luka Vuskovic",
+            "pos": "CD",
+            "fp": 5
           },
           {
             "n": 6,
-            "name": "Josip Sutalo"
+            "name": "Josip Sutalo",
+            "pos": "CD-R",
+            "fp": 6
           },
           {
             "n": 10,
-            "name": "Luka Modric"
+            "name": "Luka Modric",
+            "pos": "CM-R",
+            "fp": 7
           },
           {
             "n": 15,
-            "name": "Mario Pasalic"
+            "name": "Mario Pasalic",
+            "pos": "CM-L",
+            "fp": 8
           },
           {
             "n": 26,
-            "name": "Petar Musa"
+            "name": "Petar Musa",
+            "pos": "F",
+            "fp": 9
           },
           {
             "n": 17,
-            "name": "Petar Sucic"
+            "name": "Petar Sucic",
+            "pos": "CF-R",
+            "fp": 10
           },
           {
             "n": 16,
-            "name": "Martin Baturina"
+            "name": "Martin Baturina",
+            "pos": "CF-L",
+            "fp": 11
           }
         ],
         "subs": [
@@ -5463,47 +6431,69 @@
         "xi": [
           {
             "n": 1,
-            "name": "Lawrence Ati Zigi"
+            "name": "Lawrence Ati Zigi",
+            "pos": "G",
+            "fp": 1
           },
           {
             "n": 26,
-            "name": "Marvin Senaya"
+            "name": "Marvin Senaya",
+            "pos": "RB",
+            "fp": 2
           },
           {
             "n": 14,
-            "name": "Gideon Mensah"
+            "name": "Gideon Mensah",
+            "pos": "LB",
+            "fp": 3
           },
           {
             "n": 15,
-            "name": "Elisha Owusu"
+            "name": "Elisha Owusu",
+            "pos": "CM",
+            "fp": 4
           },
           {
             "n": 4,
-            "name": "Jonas Adjetey"
+            "name": "Jonas Adjetey",
+            "pos": "CD-R",
+            "fp": 5
           },
           {
             "n": 18,
-            "name": "Jerome Opoku"
+            "name": "Jerome Opoku",
+            "pos": "CD-L",
+            "fp": 6
           },
           {
             "n": 11,
-            "name": "Antoine Semenyo"
+            "name": "Antoine Semenyo",
+            "pos": "LF",
+            "fp": 11
           },
           {
             "n": 3,
-            "name": "Caleb Yirenkyi"
+            "name": "Caleb Yirenkyi",
+            "pos": "RM",
+            "fp": 7
           },
           {
             "n": 9,
-            "name": "Jordan Ayew"
+            "name": "Jordan Ayew",
+            "pos": "F",
+            "fp": 9
           },
           {
             "n": 22,
-            "name": "Kamaldeen Sulemana"
+            "name": "Kamaldeen Sulemana",
+            "pos": "LM",
+            "fp": 8
           },
           {
             "n": 24,
-            "name": "Ernest Nuamah"
+            "name": "Ernest Nuamah",
+            "pos": "RF",
+            "fp": 10
           }
         ],
         "subs": [
@@ -5571,47 +6561,69 @@
         "xi": [
           {
             "n": 22,
-            "name": "Orlando Mosquera"
+            "name": "Orlando Mosquera",
+            "pos": "G",
+            "fp": 1
           },
           {
             "n": 2,
-            "name": "César Blackman"
+            "name": "César Blackman",
+            "pos": "LM",
+            "fp": 3
           },
           {
             "n": 16,
-            "name": "Andrés Andrade"
+            "name": "Andrés Andrade",
+            "pos": "CD-L",
+            "fp": 4
           },
           {
             "n": 14,
-            "name": "Carlos Harvey"
+            "name": "Carlos Harvey",
+            "pos": "CM-R",
+            "fp": 7
           },
           {
             "n": 13,
-            "name": "Jiovany Ramos"
+            "name": "Jiovany Ramos",
+            "pos": "CD-R",
+            "fp": 6
           },
           {
             "n": 3,
-            "name": "José Córdoba"
+            "name": "José Córdoba",
+            "pos": "CD",
+            "fp": 5
           },
           {
             "n": 23,
-            "name": "Amir Murillo"
+            "name": "Amir Murillo",
+            "pos": "RM",
+            "fp": 2
           },
           {
             "n": 6,
-            "name": "Cristian Martínez"
+            "name": "Cristian Martínez",
+            "pos": "CF-R",
+            "fp": 10
           },
           {
             "n": 18,
-            "name": "Cecilio Waterman"
+            "name": "Cecilio Waterman",
+            "pos": "F",
+            "fp": 9
           },
           {
             "n": 11,
-            "name": "Édgar Yoel Bárcenas"
+            "name": "Édgar Yoel Bárcenas",
+            "pos": "CM-L",
+            "fp": 8
           },
           {
             "n": 7,
-            "name": "José Luis Rodríguez"
+            "name": "José Luis Rodríguez",
+            "pos": "CF-L",
+            "fp": 11
           }
         ],
         "subs": [
@@ -5707,47 +6719,69 @@
         "xi": [
           {
             "n": 1,
-            "name": "Utkir Yusupov"
+            "name": "Utkir Yusupov",
+            "pos": "G",
+            "fp": 1
           },
           {
             "n": 24,
-            "name": "Behruzjon Karimov"
+            "name": "Behruzjon Karimov",
+            "pos": "RM",
+            "fp": 2
           },
           {
             "n": 13,
-            "name": "Sherzod Nasrullaev"
+            "name": "Sherzod Nasrullaev",
+            "pos": "LM",
+            "fp": 3
           },
           {
             "n": 5,
-            "name": "Rustam Ashurmatov"
+            "name": "Rustam Ashurmatov",
+            "pos": "CD-L",
+            "fp": 4
           },
           {
             "n": 18,
-            "name": "Abdulla Abdullaev"
+            "name": "Abdulla Abdullaev",
+            "pos": "CD",
+            "fp": 5
           },
           {
             "n": 2,
-            "name": "Abdukodir Khusanov"
+            "name": "Abdukodir Khusanov",
+            "pos": "CD-R",
+            "fp": 6
           },
           {
             "n": 6,
-            "name": "Akmal Mozgovoy"
+            "name": "Akmal Mozgovoy",
+            "pos": "CM-R",
+            "fp": 7
           },
           {
             "n": 7,
-            "name": "Otabek Shukurov"
+            "name": "Otabek Shukurov",
+            "pos": "CM-L",
+            "fp": 8
           },
           {
             "n": 14,
-            "name": "Eldor Shomurodov"
+            "name": "Eldor Shomurodov",
+            "pos": "F",
+            "fp": 9
           },
           {
             "n": 22,
-            "name": "Abbosbek Fayzullaev"
+            "name": "Abbosbek Fayzullaev",
+            "pos": "CF-R",
+            "fp": 10
           },
           {
             "n": 11,
-            "name": "Oston Urunov"
+            "name": "Oston Urunov",
+            "pos": "CF-L",
+            "fp": 11
           }
         ],
         "subs": [
@@ -5819,47 +6853,69 @@
         "xi": [
           {
             "n": 12,
-            "name": "Camilo Vargas"
+            "name": "Camilo Vargas",
+            "pos": "G",
+            "fp": 1
           },
           {
             "n": 2,
-            "name": "Daniel Muñoz"
+            "name": "Daniel Muñoz",
+            "pos": "RB",
+            "fp": 2
           },
           {
             "n": 17,
-            "name": "Johan Mojica"
+            "name": "Johan Mojica",
+            "pos": "LB",
+            "fp": 3
           },
           {
             "n": 14,
-            "name": "Gustavo Puerta"
+            "name": "Gustavo Puerta",
+            "pos": "RM",
+            "fp": 7
           },
           {
             "n": 23,
-            "name": "Davinson Sánchez"
+            "name": "Davinson Sánchez",
+            "pos": "CD-R",
+            "fp": 5
           },
           {
             "n": 3,
-            "name": "Jhon Lucumí"
+            "name": "Jhon Lucumí",
+            "pos": "CD-L",
+            "fp": 6
           },
           {
             "n": 11,
-            "name": "Jhon Arias"
+            "name": "Jhon Arias",
+            "pos": "LM",
+            "fp": 8
           },
           {
             "n": 16,
-            "name": "Jefferson Lerma"
+            "name": "Jefferson Lerma",
+            "pos": "CM",
+            "fp": 4
           },
           {
             "n": 25,
-            "name": "Luis Suárez"
+            "name": "Luis Suárez",
+            "pos": "F",
+            "fp": 9
           },
           {
             "n": 10,
-            "name": "James Rodríguez"
+            "name": "James Rodríguez",
+            "pos": "RF",
+            "fp": 10
           },
           {
             "n": 7,
-            "name": "Luis Díaz"
+            "name": "Luis Díaz",
+            "pos": "LF",
+            "fp": 11
           }
         ],
         "subs": [
@@ -5955,47 +7011,69 @@
         "xi": [
           {
             "n": 1,
-            "name": "Matej Kovár"
+            "name": "Matej Kovár",
+            "pos": "G",
+            "fp": 1
           },
           {
             "n": 5,
-            "name": "Vladimír Coufal"
+            "name": "Vladimír Coufal",
+            "pos": "RM",
+            "fp": 2
           },
           {
             "n": 24,
-            "name": "Alexandr Sojka"
+            "name": "Alexandr Sojka",
+            "pos": "LM",
+            "fp": 3
           },
           {
             "n": 7,
-            "name": "Ladislav Krejcí"
+            "name": "Ladislav Krejcí",
+            "pos": "CD-L",
+            "fp": 4
           },
           {
             "n": 4,
-            "name": "Robin Hranác"
+            "name": "Robin Hranác",
+            "pos": "CD",
+            "fp": 5
           },
           {
             "n": 3,
-            "name": "Tomás Holes"
+            "name": "Tomás Holes",
+            "pos": "CD-R",
+            "fp": 6
           },
           {
             "n": 8,
-            "name": "Vladimír Darida"
+            "name": "Vladimír Darida",
+            "pos": "CM-R",
+            "fp": 7
           },
           {
             "n": 18,
-            "name": "Michal Sadílek"
+            "name": "Michal Sadílek",
+            "pos": "CM-L",
+            "fp": 8
           },
           {
             "n": 9,
-            "name": "Adam Hlozek"
+            "name": "Adam Hlozek",
+            "pos": "CF-L",
+            "fp": 9
           },
           {
             "n": 10,
-            "name": "Patrik Schick"
+            "name": "Patrik Schick",
+            "pos": "CF-R",
+            "fp": 10
           },
           {
             "n": 12,
-            "name": "Lukás Cerv"
+            "name": "Lukás Cerv",
+            "pos": "AM",
+            "fp": 11
           }
         ],
         "subs": [
@@ -6063,47 +7141,69 @@
         "xi": [
           {
             "n": 1,
-            "name": "Ronwen Williams"
+            "name": "Ronwen Williams",
+            "pos": "G",
+            "fp": 1
           },
           {
             "n": 20,
-            "name": "Khuliso Mudau"
+            "name": "Khuliso Mudau",
+            "pos": "RB",
+            "fp": 2
           },
           {
             "n": 6,
-            "name": "Aubrey Modiba"
+            "name": "Aubrey Modiba",
+            "pos": "LB",
+            "fp": 3
           },
           {
             "n": 4,
-            "name": "Teboho Mokoena"
+            "name": "Teboho Mokoena",
+            "pos": "CM",
+            "fp": 4
           },
           {
             "n": 21,
-            "name": "Ime Okon"
+            "name": "Ime Okon",
+            "pos": "CD-R",
+            "fp": 5
           },
           {
             "n": 14,
-            "name": "Mbekezeli Mbokazi"
+            "name": "Mbekezeli Mbokazi",
+            "pos": "CD-L",
+            "fp": 6
           },
           {
             "n": 5,
-            "name": "Thalente Mbatha"
+            "name": "Thalente Mbatha",
+            "pos": "RM",
+            "fp": 7
           },
           {
             "n": 23,
-            "name": "Jayden Adams"
+            "name": "Jayden Adams",
+            "pos": "LM",
+            "fp": 8
           },
           {
             "n": 15,
-            "name": "Iqraam Rayners"
+            "name": "Iqraam Rayners",
+            "pos": "F",
+            "fp": 9
           },
           {
             "n": 12,
-            "name": "Thapelo Maseko"
+            "name": "Thapelo Maseko",
+            "pos": "RF",
+            "fp": 10
           },
           {
             "n": 7,
-            "name": "Oswin Appollis"
+            "name": "Oswin Appollis",
+            "pos": "LF",
+            "fp": 11
           }
         ],
         "subs": [
@@ -6191,47 +7291,69 @@
         "xi": [
           {
             "n": 1,
-            "name": "Gregor Kobel"
+            "name": "Gregor Kobel",
+            "pos": "G",
+            "fp": 1
           },
           {
             "n": 3,
-            "name": "Silvan Widmer"
+            "name": "Silvan Widmer",
+            "pos": "RB",
+            "fp": 2
           },
           {
             "n": 13,
-            "name": "Ricardo Rodríguez"
+            "name": "Ricardo Rodríguez",
+            "pos": "LB",
+            "fp": 3
           },
           {
             "n": 10,
-            "name": "Granit Xhaka"
+            "name": "Granit Xhaka",
+            "pos": "CM",
+            "fp": 4
           },
           {
             "n": 4,
-            "name": "Nico Elvedi"
+            "name": "Nico Elvedi",
+            "pos": "CD-R",
+            "fp": 5
           },
           {
             "n": 5,
-            "name": "Manuel Akanji"
+            "name": "Manuel Akanji",
+            "pos": "CD-L",
+            "fp": 6
           },
           {
             "n": 20,
-            "name": "Michel Aebischer"
+            "name": "Michel Aebischer",
+            "pos": "RM",
+            "fp": 7
           },
           {
             "n": 8,
-            "name": "Remo Freuler"
+            "name": "Remo Freuler",
+            "pos": "LM",
+            "fp": 11
           },
           {
             "n": 7,
-            "name": "Breel Embolo"
+            "name": "Breel Embolo",
+            "pos": "CF-R",
+            "fp": 9
           },
           {
             "n": 22,
-            "name": "Fabian Rieder"
+            "name": "Fabian Rieder",
+            "pos": "AM",
+            "fp": 8
           },
           {
             "n": 11,
-            "name": "Dan Ndoye"
+            "name": "Dan Ndoye",
+            "pos": "M",
+            "fp": 10
           }
         ],
         "subs": [
@@ -6299,47 +7421,69 @@
         "xi": [
           {
             "n": 1,
-            "name": "Nikola Vasilj"
+            "name": "Nikola Vasilj",
+            "pos": "G",
+            "fp": 1
           },
           {
             "n": 7,
-            "name": "Amar Dedic"
+            "name": "Amar Dedic",
+            "pos": "RB",
+            "fp": 2
           },
           {
             "n": 5,
-            "name": "Sead Kolasinac"
+            "name": "Sead Kolasinac",
+            "pos": "LB",
+            "fp": 3
           },
           {
             "n": 6,
-            "name": "Benjamin Tahirovic"
+            "name": "Benjamin Tahirovic",
+            "pos": "CM-R",
+            "fp": 4
           },
           {
             "n": 4,
-            "name": "Tarik Muharemovic"
+            "name": "Tarik Muharemovic",
+            "pos": "CD-L",
+            "fp": 6
           },
           {
             "n": 18,
-            "name": "Nikola Katic"
+            "name": "Nikola Katic",
+            "pos": "CD-R",
+            "fp": 5
           },
           {
             "n": 15,
-            "name": "Amar Memic"
+            "name": "Amar Memic",
+            "pos": "RM",
+            "fp": 7
           },
           {
             "n": 14,
-            "name": "Ivan Sunjic"
+            "name": "Ivan Sunjic",
+            "pos": "CM-L",
+            "fp": 8
           },
           {
             "n": 11,
-            "name": "Edin Dzeko"
+            "name": "Edin Dzeko",
+            "pos": "CF-L",
+            "fp": 9
           },
           {
             "n": 10,
-            "name": "Ermedin Demirovic"
+            "name": "Ermedin Demirovic",
+            "pos": "CF-R",
+            "fp": 10
           },
           {
             "n": 19,
-            "name": "Kerim Alajbegovic"
+            "name": "Kerim Alajbegovic",
+            "pos": "LM",
+            "fp": 11
           }
         ],
         "subs": [
@@ -6435,47 +7579,69 @@
         "xi": [
           {
             "n": 16,
-            "name": "Maxime Crépeau"
+            "name": "Maxime Crépeau",
+            "pos": "G",
+            "fp": 1
           },
           {
             "n": 2,
-            "name": "Alistair Johnston"
+            "name": "Alistair Johnston",
+            "pos": "RB",
+            "fp": 2
           },
           {
             "n": 22,
-            "name": "Richie Laryea"
+            "name": "Richie Laryea",
+            "pos": "LB",
+            "fp": 3
           },
           {
             "n": 8,
-            "name": "Ismaël Koné"
+            "name": "Ismaël Koné",
+            "pos": "CM-R",
+            "fp": 4
           },
           {
             "n": 4,
-            "name": "Luc de Fougerolles"
+            "name": "Luc de Fougerolles",
+            "pos": "CD-R",
+            "fp": 5
           },
           {
             "n": 13,
-            "name": "Derek Cornelius"
+            "name": "Derek Cornelius",
+            "pos": "CD-L",
+            "fp": 6
           },
           {
             "n": 17,
-            "name": "Tajon Buchanan"
+            "name": "Tajon Buchanan",
+            "pos": "RM",
+            "fp": 7
           },
           {
             "n": 7,
-            "name": "Stephen Eustáquio"
+            "name": "Stephen Eustáquio",
+            "pos": "CM-L",
+            "fp": 8
           },
           {
             "n": 9,
-            "name": "Cyle Larin"
+            "name": "Cyle Larin",
+            "pos": "CF-L",
+            "fp": 9
           },
           {
             "n": 10,
-            "name": "Jonathan David"
+            "name": "Jonathan David",
+            "pos": "CF-R",
+            "fp": 10
           },
           {
             "n": 20,
-            "name": "Ali Ahmed"
+            "name": "Ali Ahmed",
+            "pos": "LM",
+            "fp": 11
           }
         ],
         "subs": [
@@ -6543,47 +7709,69 @@
         "xi": [
           {
             "n": 1,
-            "name": "Mahmoud Abunada"
+            "name": "Mahmoud Abunada",
+            "pos": "G",
+            "fp": 1
           },
           {
             "n": 13,
-            "name": "Ayoub Al-Oui"
+            "name": "Ayoub Al-Oui",
+            "pos": "RB",
+            "fp": 2
           },
           {
             "n": 14,
-            "name": "Homam Ahmed"
+            "name": "Homam Ahmed",
+            "pos": "LB",
+            "fp": 3
           },
           {
             "n": 23,
-            "name": "Assim Madibo"
+            "name": "Assim Madibo",
+            "pos": "CM",
+            "fp": 4
           },
           {
             "n": 2,
-            "name": "Pedro Miguel"
+            "name": "Pedro Miguel",
+            "pos": "CD-R",
+            "fp": 5
           },
           {
             "n": 16,
-            "name": "Boualem Khoukhi"
+            "name": "Boualem Khoukhi",
+            "pos": "CD-L",
+            "fp": 6
           },
           {
             "n": 5,
-            "name": "Jassem Gaber"
+            "name": "Jassem Gaber",
+            "pos": "RM",
+            "fp": 7
           },
           {
             "n": 4,
-            "name": "Issa Laye"
+            "name": "Issa Laye",
+            "pos": "LM",
+            "fp": 8
           },
           {
             "n": 15,
-            "name": "Yusuf Abdurisag"
+            "name": "Yusuf Abdurisag",
+            "pos": "F",
+            "fp": 9
           },
           {
             "n": 8,
-            "name": "Edmílson Junior"
+            "name": "Edmílson Junior",
+            "pos": "RF",
+            "fp": 10
           },
           {
             "n": 11,
-            "name": "Akram Afif"
+            "name": "Akram Afif",
+            "pos": "LF",
+            "fp": 11
           }
         ],
         "subs": [
@@ -6679,47 +7867,69 @@
         "xi": [
           {
             "n": 1,
-            "name": "Raúl Rangel"
+            "name": "Raúl Rangel",
+            "pos": "G",
+            "fp": 1
           },
           {
             "n": 2,
-            "name": "Jorge Sánchez"
+            "name": "Jorge Sánchez",
+            "pos": "RB",
+            "fp": 2
           },
           {
             "n": 23,
-            "name": "Jesús Gallardo"
+            "name": "Jesús Gallardo",
+            "pos": "LB",
+            "fp": 3
           },
           {
             "n": 6,
-            "name": "Érik Lira"
+            "name": "Érik Lira",
+            "pos": "CM",
+            "fp": 4
           },
           {
             "n": 4,
-            "name": "Edson Álvarez"
+            "name": "Edson Álvarez",
+            "pos": "CD-R",
+            "fp": 5
           },
           {
             "n": 5,
-            "name": "Johan Vásquez"
+            "name": "Johan Vásquez",
+            "pos": "CD-L",
+            "fp": 6
           },
           {
             "n": 7,
-            "name": "Luis Romo"
+            "name": "Luis Romo",
+            "pos": "LM",
+            "fp": 8
           },
           {
             "n": 26,
-            "name": "Brian Gutiérrez"
+            "name": "Brian Gutiérrez",
+            "pos": "RM",
+            "fp": 7
           },
           {
             "n": 9,
-            "name": "Raúl Jiménez"
+            "name": "Raúl Jiménez",
+            "pos": "F",
+            "fp": 9
           },
           {
             "n": 25,
-            "name": "Roberto Alvarado"
+            "name": "Roberto Alvarado",
+            "pos": "RF",
+            "fp": 10
           },
           {
             "n": 16,
-            "name": "Julián Quiñones"
+            "name": "Julián Quiñones",
+            "pos": "LF",
+            "fp": 11
           }
         ],
         "subs": [
@@ -6787,47 +7997,69 @@
         "xi": [
           {
             "n": 1,
-            "name": "Kim Seung-Gyu"
+            "name": "Kim Seung-Gyu",
+            "pos": "G",
+            "fp": 1
           },
           {
             "n": 22,
-            "name": "Seol Young-Woo"
+            "name": "Seol Young-Woo",
+            "pos": "LM",
+            "fp": 3
           },
           {
             "n": 15,
-            "name": "Kim Moon-Hwan"
+            "name": "Kim Moon-Hwan",
+            "pos": "RM",
+            "fp": 2
           },
           {
             "n": 3,
-            "name": "Lee Gi-Hyuk"
+            "name": "Lee Gi-Hyuk",
+            "pos": "CD-L",
+            "fp": 4
           },
           {
             "n": 4,
-            "name": "Kim Min-Jae"
+            "name": "Kim Min-Jae",
+            "pos": "CD",
+            "fp": 5
           },
           {
             "n": 2,
-            "name": "Lee Han-Beom"
+            "name": "Lee Han-Beom",
+            "pos": "CD-R",
+            "fp": 6
           },
           {
             "n": 6,
-            "name": "Hwang In-Beom"
+            "name": "Hwang In-Beom",
+            "pos": "CM-R",
+            "fp": 7
           },
           {
             "n": 8,
-            "name": "Paik Seung-Ho"
+            "name": "Paik Seung-Ho",
+            "pos": "CM-L",
+            "fp": 8
           },
           {
             "n": 7,
-            "name": "Son Heung-Min"
+            "name": "Son Heung-Min",
+            "pos": "F",
+            "fp": 9
           },
           {
             "n": 19,
-            "name": "Lee Kang-In"
+            "name": "Lee Kang-In",
+            "pos": "CF-R",
+            "fp": 10
           },
           {
             "n": 10,
-            "name": "Lee Jae-Sung"
+            "name": "Lee Jae-Sung",
+            "pos": "CF-L",
+            "fp": 11
           }
         ],
         "subs": [

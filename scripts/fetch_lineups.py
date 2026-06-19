@@ -147,6 +147,8 @@ def build_lineup(roster_obj):
         d = {
             "n": int(p.get("jersey") or 0),
             "name": p.get("athlete", {}).get("displayName", ""),
+            "pos": p.get("position", {}).get("abbreviation", ""),
+            "fp": int(p.get("formationPlace") or 0),
         }
         if with_gk and p.get("position", {}).get("abbreviation") == "G":
             d["gk"] = True

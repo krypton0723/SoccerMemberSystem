@@ -21,6 +21,29 @@ function effectiveAwayColor(homeColor, awayColor, awayAltColor) {
 }
 
 // ─────────────────────────────────────────────
+// ポジション → 行・左右 マッピング
+// ─────────────────────────────────────────────
+function positionTier(pos) {
+  if (!pos) return 30;
+  if (pos === "G" || pos === "GK") return 0;
+  if (/^(CB|CD|RB|LB|RWB|LWB|DF|DC|WB|SW)/.test(pos)) return 10;
+  if (/^(DM|CDM|DH|MFD)/.test(pos)) return 20;
+  if (/^(CM|RM|LM|MF|WM)/.test(pos)) return 30;
+  if (/^(AM|CAM|SS|CF-R|CF-L|CAM-R|CAM-L)/.test(pos)) return 40;
+  if (pos === "F" || pos === "CF" || /^(ST|RW|LW|FW)/.test(pos)) return 50;
+  return 30;
+}
+// L/R を位置名から読み取り、左右インデックスを返す（低=左）
+function positionXWeight(pos) {
+  if (!pos) return 0;
+  if (/^L/.test(pos)) return -2;
+  if (/-L$/.test(pos)) return -1;
+  if (/^R/.test(pos)) return 2;
+  if (/-R$/.test(pos)) return 1;
+  return 0;
+}
+
+// ─────────────────────────────────────────────
 // フォーメーション図コンポーネント
 // ─────────────────────────────────────────────
 const rowsOf = (formation) => [1, ...formation.split("-").map(Number)];
@@ -28,16 +51,27 @@ const rowsOf = (formation) => [1, ...formation.split("-").map(Number)];
 function playerPositions(team, side) {
   const rows = rowsOf(team.formation);
   const W = 420;
+
+  // tier(守備→攻撃)→xWeight(左→右)→fp の順でソートし行に割り当てる
+  const sorted = [...team.xi].sort((a, b) => {
+    const t = positionTier(a.pos) - positionTier(b.pos);
+    if (t !== 0) return t;
+    const x = positionXWeight(a.pos) - positionXWeight(b.pos);
+    if (x !== 0) return x;
+    return (a.fp || 0) - (b.fp || 0);
+  });
+
   const pts = [];
   let idx = 0;
   rows.forEach((count, r) => {
     const t = rows.length === 1 ? 0 : r / (rows.length - 1);
     const y = side === "home" ? 598 - t * 245 : 44 + t * 243;
     for (let j = 0; j < count; j++) {
+      const p = sorted[idx++];
+      if (!p) return;
       let x = (W * (j + 1)) / (count + 1);
       if (side === "away") x = W - x;
-      pts.push({ ...team.xi[idx], x, y });
-      idx++;
+      pts.push({ ...p, x, y });
     }
   });
   return pts;
