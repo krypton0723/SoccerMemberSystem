@@ -8139,14 +8139,341 @@
     "home": {
       "name": "アメリカ",
       "code": "USA",
-      "color": "#213065"
+      "color": "#d42339",
+      "altColor": "#213065"
     },
     "away": {
       "name": "オーストラリア",
       "code": "AUS",
-      "color": "#2a2d7c"
+      "color": "#FFCD00",
+      "altColor": "#FFCD00"
     },
-    "status": "pending"
+    "status": "released",
+    "capturedAt": "6/20 04:15 JST に取得・凍結",
+    "lineup": {
+      "home": {
+        "formation": "4-3-3",
+        "coach": "",
+        "xi": [
+          {
+            "n": 24,
+            "name": "Matt Freese",
+            "pos": "G",
+            "fp": 1
+          },
+          {
+            "n": 16,
+            "name": "Alex Freeman",
+            "pos": "RB",
+            "fp": 2
+          },
+          {
+            "n": 5,
+            "name": "Antonee Robinson",
+            "pos": "LB",
+            "fp": 3
+          },
+          {
+            "n": 4,
+            "name": "Tyler Adams",
+            "pos": "CM",
+            "fp": 4
+          },
+          {
+            "n": 3,
+            "name": "Chris Richards",
+            "pos": "CD-R",
+            "fp": 5
+          },
+          {
+            "n": 13,
+            "name": "Tim Ream",
+            "pos": "CD-L",
+            "fp": 6
+          },
+          {
+            "n": 8,
+            "name": "Weston McKennie",
+            "pos": "RM",
+            "fp": 7
+          },
+          {
+            "n": 17,
+            "name": "Malik Tillman",
+            "pos": "LM",
+            "fp": 8
+          },
+          {
+            "n": 20,
+            "name": "Folarin Balogun",
+            "pos": "F",
+            "fp": 9
+          },
+          {
+            "n": 2,
+            "name": "Sergiño Dest",
+            "pos": "RF",
+            "fp": 10
+          },
+          {
+            "n": 9,
+            "name": "Ricardo Pepi",
+            "pos": "LF",
+            "fp": 11
+          }
+        ],
+        "subs": [
+          {
+            "n": 7,
+            "name": "Giovanni Reyna",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 21,
+            "name": "Timothy Weah",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 12,
+            "name": "Miles Robinson",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 22,
+            "name": "Mark McKenzie",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 23,
+            "name": "Joe Scally",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 18,
+            "name": "Max Arfsten",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 15,
+            "name": "Cristian Roldan",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 14,
+            "name": "Sebastian Berhalter",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 1,
+            "name": "Matt Turner",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 25,
+            "name": "Chris Brady",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 6,
+            "name": "Auston Trusty",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 19,
+            "name": "Haji Wright",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 26,
+            "name": "Alejandro Zendejas",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 11,
+            "name": "Brenden Aaronson",
+            "pos": "SUB",
+            "fp": 0
+          }
+        ]
+      },
+      "away": {
+        "formation": "5-4-1",
+        "coach": "",
+        "xi": [
+          {
+            "n": 18,
+            "name": "Patrick Beach",
+            "pos": "G",
+            "fp": 1
+          },
+          {
+            "n": 4,
+            "name": "Jacob Italiano",
+            "pos": "RB",
+            "fp": 2
+          },
+          {
+            "n": 5,
+            "name": "Jordan Bos",
+            "pos": "LB",
+            "fp": 3
+          },
+          {
+            "n": 21,
+            "name": "Cameron Burgess",
+            "pos": "CD-L",
+            "fp": 4
+          },
+          {
+            "n": 19,
+            "name": "Harry Souttar",
+            "pos": "CD",
+            "fp": 5
+          },
+          {
+            "n": 3,
+            "name": "Alessandro Circati",
+            "pos": "CD-R",
+            "fp": 6
+          },
+          {
+            "n": 7,
+            "name": "Mathew Leckie",
+            "pos": "RM",
+            "fp": 7
+          },
+          {
+            "n": 13,
+            "name": "Aiden O'Neill",
+            "pos": "CM-R",
+            "fp": 8
+          },
+          {
+            "n": 9,
+            "name": "Mohamed Toure",
+            "pos": "F",
+            "fp": 9
+          },
+          {
+            "n": 24,
+            "name": "Paul Okon-Engstler",
+            "pos": "CM-L",
+            "fp": 10
+          },
+          {
+            "n": 23,
+            "name": "Nishan Velupillay",
+            "pos": "LM",
+            "fp": 11
+          }
+        ],
+        "subs": [
+          {
+            "n": 16,
+            "name": "Aziz Behich",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 15,
+            "name": "Kai Trewin",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 8,
+            "name": "Connor Metcalfe",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 11,
+            "name": "Awer Mabil",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 25,
+            "name": "Lucas Herrington",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 10,
+            "name": "Ajdin Hrustic",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 2,
+            "name": "Milos Degenek",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 6,
+            "name": "Jason Geria",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 17,
+            "name": "Nestory Irankunda",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 26,
+            "name": "Tete Yengi",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 1,
+            "name": "Mathew Ryan",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 14,
+            "name": "Cameron Devlin",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 22,
+            "name": "Jackson Irvine",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 12,
+            "name": "Paul Izzo",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 20,
+            "name": "Cristian Volpato",
+            "pos": "SUB",
+            "fp": 0
+          }
+        ]
+      }
+    }
   },
   {
     "id": "760445",
