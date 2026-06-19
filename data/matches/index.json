@@ -6666,7 +6666,230 @@
       "code": "KOR",
       "color": "#ce2028"
     },
-    "status": "pending"
+    "status": "released",
+    "capturedAt": "6/19 09:15 JST に取得・凍結",
+    "lineup": {
+      "home": {
+        "formation": "4-3-3",
+        "coach": "",
+        "xi": [
+          {
+            "n": 1,
+            "name": "Raúl Rangel"
+          },
+          {
+            "n": 2,
+            "name": "Jorge Sánchez"
+          },
+          {
+            "n": 23,
+            "name": "Jesús Gallardo"
+          },
+          {
+            "n": 6,
+            "name": "Érik Lira"
+          },
+          {
+            "n": 4,
+            "name": "Edson Álvarez"
+          },
+          {
+            "n": 5,
+            "name": "Johan Vásquez"
+          },
+          {
+            "n": 7,
+            "name": "Luis Romo"
+          },
+          {
+            "n": 26,
+            "name": "Brian Gutiérrez"
+          },
+          {
+            "n": 9,
+            "name": "Raúl Jiménez"
+          },
+          {
+            "n": 25,
+            "name": "Roberto Alvarado"
+          },
+          {
+            "n": 16,
+            "name": "Julián Quiñones"
+          }
+        ],
+        "subs": [
+          {
+            "n": 20,
+            "name": "Mateo Chávez"
+          },
+          {
+            "n": 18,
+            "name": "Obed Vargas"
+          },
+          {
+            "n": 8,
+            "name": "Álvaro Fidalgo"
+          },
+          {
+            "n": 19,
+            "name": "Gilberto Mora"
+          },
+          {
+            "n": 11,
+            "name": "Santiago Gimenez"
+          },
+          {
+            "n": 12,
+            "name": "Carlos Acevedo"
+          },
+          {
+            "n": 15,
+            "name": "Israel Reyes"
+          },
+          {
+            "n": 21,
+            "name": "César Huerta"
+          },
+          {
+            "n": 17,
+            "name": "Orbelín Pineda"
+          },
+          {
+            "n": 22,
+            "name": "Guillermo Martínez"
+          },
+          {
+            "n": 24,
+            "name": "Luis Chávez"
+          },
+          {
+            "n": 14,
+            "name": "Armando González"
+          },
+          {
+            "n": 13,
+            "name": "Guillermo Ochoa"
+          },
+          {
+            "n": 10,
+            "name": "Alexis Vega"
+          }
+        ]
+      },
+      "away": {
+        "formation": "3-4-2-1",
+        "coach": "",
+        "xi": [
+          {
+            "n": 1,
+            "name": "Kim Seung-Gyu"
+          },
+          {
+            "n": 22,
+            "name": "Seol Young-Woo"
+          },
+          {
+            "n": 15,
+            "name": "Kim Moon-Hwan"
+          },
+          {
+            "n": 3,
+            "name": "Lee Gi-Hyuk"
+          },
+          {
+            "n": 4,
+            "name": "Kim Min-Jae"
+          },
+          {
+            "n": 2,
+            "name": "Lee Han-Beom"
+          },
+          {
+            "n": 6,
+            "name": "Hwang In-Beom"
+          },
+          {
+            "n": 8,
+            "name": "Paik Seung-Ho"
+          },
+          {
+            "n": 7,
+            "name": "Son Heung-Min"
+          },
+          {
+            "n": 19,
+            "name": "Lee Kang-In"
+          },
+          {
+            "n": 10,
+            "name": "Lee Jae-Sung"
+          }
+        ],
+        "subs": [
+          {
+            "n": 21,
+            "name": "Jo Hyeon-Woo"
+          },
+          {
+            "n": 14,
+            "name": "Cho Wi-Je"
+          },
+          {
+            "n": 23,
+            "name": "Jens Castrop"
+          },
+          {
+            "n": 18,
+            "name": "Oh Hyeon-Gyu"
+          },
+          {
+            "n": 13,
+            "name": "Lee Tae-Seok"
+          },
+          {
+            "n": 5,
+            "name": "Kim Tae-Hyeon"
+          },
+          {
+            "n": 25,
+            "name": "Eom Ji-Sung"
+          },
+          {
+            "n": 11,
+            "name": "Hwang Hee-Chan"
+          },
+          {
+            "n": 9,
+            "name": "Cho Gue-Sung"
+          },
+          {
+            "n": 17,
+            "name": "Bae Jun-Ho"
+          },
+          {
+            "n": 26,
+            "name": "Lee Dong-Gyeong"
+          },
+          {
+            "n": 12,
+            "name": "Song Bum-Keun"
+          },
+          {
+            "n": 20,
+            "name": "Yang Hyun-Jun"
+          },
+          {
+            "n": 16,
+            "name": "Park Jin-Seop"
+          },
+          {
+            "n": 24,
+            "name": "Kim Jin-Gyu"
+          }
+        ]
+      }
+    }
   },
   {
     "id": "760442",
@@ -7337,6 +7560,132 @@
       "name": "アメリカ",
       "code": "USA",
       "color": "#d42339"
+    },
+    "status": "pending"
+  },
+  {
+    "id": "760475",
+    "kickoff": "2026-06-27T04:00:00+09:00",
+    "group": "I",
+    "matchday": "グループステージ",
+    "dateLabel": "6月27日（土）",
+    "timeJST": "04:00",
+    "stadium": "Gillette Stadium",
+    "city": "Foxborough, Massachusetts",
+    "home": {
+      "name": "ノルウェー",
+      "code": "NOR",
+      "color": "#C8102E"
+    },
+    "away": {
+      "name": "フランス",
+      "code": "FRA",
+      "color": "#000080"
+    },
+    "status": "pending"
+  },
+  {
+    "id": "760474",
+    "kickoff": "2026-06-27T04:00:00+09:00",
+    "group": "I",
+    "matchday": "グループステージ",
+    "dateLabel": "6月27日（土）",
+    "timeJST": "04:00",
+    "stadium": "BMO Field",
+    "city": "Toronto",
+    "home": {
+      "name": "セネガル",
+      "code": "SEN",
+      "color": "#006436"
+    },
+    "away": {
+      "name": "イラク",
+      "code": "IRQ",
+      "color": "#0A4D2E"
+    },
+    "status": "pending"
+  },
+  {
+    "id": "760478",
+    "kickoff": "2026-06-27T09:00:00+09:00",
+    "group": "H",
+    "matchday": "グループステージ",
+    "dateLabel": "6月27日（土）",
+    "timeJST": "09:00",
+    "stadium": "NRG Stadium",
+    "city": "Houston, Texas",
+    "home": {
+      "name": "カーボベルデ",
+      "code": "CPV",
+      "color": "#000080"
+    },
+    "away": {
+      "name": "サウジアラビア",
+      "code": "KSA",
+      "color": "#FFFFFF"
+    },
+    "status": "pending"
+  },
+  {
+    "id": "760479",
+    "kickoff": "2026-06-27T09:00:00+09:00",
+    "group": "H",
+    "matchday": "グループステージ",
+    "dateLabel": "6月27日（土）",
+    "timeJST": "09:00",
+    "stadium": "Estadio Akron",
+    "city": "Guadalajara",
+    "home": {
+      "name": "ウルグアイ",
+      "code": "URU",
+      "color": "#55B5E5"
+    },
+    "away": {
+      "name": "スペイン",
+      "code": "ESP",
+      "color": "#c60b1e"
+    },
+    "status": "pending"
+  },
+  {
+    "id": "760476",
+    "kickoff": "2026-06-27T12:00:00+09:00",
+    "group": "G",
+    "matchday": "グループステージ",
+    "dateLabel": "6月27日（土）",
+    "timeJST": "12:00",
+    "stadium": "Lumen Field",
+    "city": "Seattle, Washington",
+    "home": {
+      "name": "エジプト",
+      "code": "EGY",
+      "color": "#D20300"
+    },
+    "away": {
+      "name": "イラン",
+      "code": "IRN",
+      "color": "#FFFFFF"
+    },
+    "status": "pending"
+  },
+  {
+    "id": "760477",
+    "kickoff": "2026-06-27T12:00:00+09:00",
+    "group": "G",
+    "matchday": "グループステージ",
+    "dateLabel": "6月27日（土）",
+    "timeJST": "12:00",
+    "stadium": "BC Place",
+    "city": "Vancouver",
+    "home": {
+      "name": "ニュージーランド",
+      "code": "NZL",
+      "color": "#000000"
+    },
+    "away": {
+      "name": "ベルギー",
+      "code": "BEL",
+      "color": "#E30613"
     },
     "status": "pending"
   }
