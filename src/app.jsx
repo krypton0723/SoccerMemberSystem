@@ -93,12 +93,54 @@ function kitFg(color) { return isLight(color) ? "#1a2a1f" : "#fff"; }
 function kitStroke(color) { return isLight(color) ? "rgba(20,40,25,.75)" : "rgba(255,255,255,.92)"; }
 
 function Pitch({ home, away, homeColor, awayColor, homeName, awayName }) {
+  const [sel, setSel] = useState(null);
   const homePts = playerPositions(home, "home");
   const awayPts = playerPositions(away, "away");
   const homeFg = kitFg(homeColor);
   const awayFg = kitFg(awayColor);
+
+  const onPlayer = (p, color) => (e) => {
+    e.stopPropagation();
+    setSel((s) => s?.key === `${color}-${p.n}` ? null : { p, color, key: `${color}-${p.n}` });
+  };
+
+  const popup = (() => {
+    if (!sel) return null;
+    const { p, color } = sel;
+    const fg = kitFg(color);
+    const border = kitStroke(color);
+    const W = 152, H = 50;
+    const cx = p.x;
+    const cy = p.y + 29; // translate(0,29) 分を加算
+    const above = cy > 370;
+    const px = Math.max(2, Math.min(cx - W / 2, 418 - W));
+    const py = above ? cy - 16 - H : cy + 16;
+    const arrowY = above ? py + H : py;
+    const arrowTip = above ? arrowY + 10 : arrowY - 10;
+    return (
+      <g onClick={(e) => e.stopPropagation()}>
+        <polygon
+          points={`${cx - 7},${arrowY} ${cx + 7},${arrowY} ${cx},${arrowTip}`}
+          fill={color} stroke={border} strokeWidth="1" strokeLinejoin="round" />
+        <rect x={px} y={py} width={W} height={H} rx="7"
+          fill={color} stroke={border} strokeWidth="1.8"
+          style={{filter: "drop-shadow(0 2px 5px rgba(0,0,0,.4))"}} />
+        <text x={px + W / 2} y={py + 19} textAnchor="middle"
+          style={{fontSize:"11px", fontWeight:700, fill:fg,
+            fontFamily:"'Oswald',sans-serif", letterSpacing:".03em"}}>
+          {p.name}
+        </text>
+        <text x={px + W / 2} y={py + 36} textAnchor="middle"
+          style={{fontSize:"10px", fill:fg, fontFamily:"system-ui,sans-serif", opacity:.85}}>
+          #{p.n}　{p.pos}
+        </text>
+      </g>
+    );
+  })();
+
   return (
-    <svg viewBox="0 0 420 700" className="pitch" role="img" aria-label="フォーメーション図">
+    <svg viewBox="0 0 420 700" className="pitch" role="img" aria-label="フォーメーション図"
+      onClick={() => setSel(null)}>
       {/* グラウンド背景 */}
       {Array.from({ length: 10 }, (_, i) => (
         <rect key={i} x="0" y={29 + i * 64.2} width="420" height="64.2" fill={i % 2 ? "#1A6540" : "#1E6F45"} />
@@ -127,7 +169,8 @@ function Pitch({ home, away, homeColor, awayColor, homeName, awayName }) {
       </text>
       {/* 選手(アウェイ) */}
       {awayPts.map((p) => (
-        <g key={"a" + p.n} transform="translate(0,29)">
+        <g key={"a" + p.n} transform="translate(0,29)"
+          onClick={onPlayer(p, awayColor)} style={{cursor:"pointer"}}>
           <circle cx={p.x} cy={p.y} r="14" fill={awayColor} stroke={kitStroke(awayColor)} strokeWidth="1.6" />
           <text x={p.x} y={p.y + 4.5} textAnchor="middle" className="kit-num" fill={awayFg}>{p.n}</text>
           <text x={p.x} y={p.y + 28} textAnchor="middle" className="kit-name">{shortName(p.name)}</text>
@@ -135,12 +178,15 @@ function Pitch({ home, away, homeColor, awayColor, homeName, awayName }) {
       ))}
       {/* 選手(ホーム) */}
       {homePts.map((p) => (
-        <g key={"h" + p.n} transform="translate(0,29)">
+        <g key={"h" + p.n} transform="translate(0,29)"
+          onClick={onPlayer(p, homeColor)} style={{cursor:"pointer"}}>
           <circle cx={p.x} cy={p.y} r="14" fill={homeColor} stroke={kitStroke(homeColor)} strokeWidth="1.6" />
           <text x={p.x} y={p.y + 4.5} textAnchor="middle" className="kit-num" fill={homeFg}>{p.n}</text>
           <text x={p.x} y={p.y + 28} textAnchor="middle" className="kit-name">{shortName(p.name)}</text>
         </g>
       ))}
+      {/* 選手ポップアップ(最前面) */}
+      {popup}
     </svg>
   );
 }
