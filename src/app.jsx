@@ -3,6 +3,24 @@
 const { useState, useEffect } = React;
 
 // ─────────────────────────────────────────────
+// 色衝突検知
+// ─────────────────────────────────────────────
+function hexToRgb(hex) {
+  const c = hex.replace("#", "");
+  return [parseInt(c.slice(0,2),16), parseInt(c.slice(2,4),16), parseInt(c.slice(4,6),16)];
+}
+function colorDistance(a, b) {
+  const [r1,g1,b1] = hexToRgb(a);
+  const [r2,g2,b2] = hexToRgb(b);
+  return Math.sqrt((r1-r2)**2 + (g1-g2)**2 + (b1-b2)**2);
+}
+// アウェイ側が着替えるべき場合のみaltColorを返す
+function effectiveAwayColor(homeColor, awayColor, awayAltColor) {
+  if (awayAltColor && colorDistance(homeColor, awayColor) < 80) return awayAltColor;
+  return awayColor;
+}
+
+// ─────────────────────────────────────────────
 // フォーメーション図コンポーネント
 // ─────────────────────────────────────────────
 const rowsOf = (formation) => [1, ...formation.split("-").map(Number)];
@@ -113,6 +131,7 @@ function SubsList({ title, color, subs }) {
 
 function MatchDetail({ match, onBack }) {
   const { home, away, lineup } = match;
+  const awayColor = effectiveAwayColor(home.color, away.color, away.altColor);
   return (
     <div className="detail">
       <button className="back" onClick={onBack}>← 試合一覧へ</button>
@@ -136,17 +155,17 @@ function MatchDetail({ match, onBack }) {
           {home.name} {lineup.home.formation}{lineup.home.coach && `／監督: ${lineup.home.coach}`}
         </span>
         <span>
-          <span className="swatch" style={{ background: away.color }} />
+          <span className="swatch" style={{ background: awayColor }} />
           {away.name} {lineup.away.formation}{lineup.away.coach && `／監督: ${lineup.away.coach}`}
         </span>
       </div>
 
-      <Pitch home={lineup.home} away={lineup.away} homeColor={home.color} awayColor={away.color} homeName={home.name} awayName={away.name} />
+      <Pitch home={lineup.home} away={lineup.away} homeColor={home.color} awayColor={awayColor} homeName={home.name} awayName={away.name} />
 
       <h3 className="section-title">サブメンバー</h3>
       <div className="subs">
         <SubsList title={home.name} color={home.color} subs={lineup.home.subs} />
-        <SubsList title={away.name} color={away.color} subs={lineup.away.subs} />
+        <SubsList title={away.name} color={awayColor} subs={lineup.away.subs} />
       </div>
     </div>
   );

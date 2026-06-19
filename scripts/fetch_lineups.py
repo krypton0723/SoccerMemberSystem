@@ -123,10 +123,13 @@ def fetch_rosters(event_id):
 
 def build_team_meta(team):
     name = team.get("displayName", "")
+    primary = team.get("color") or "555555"
+    alt = team.get("alternateColor") or primary
     return {
         "name": JP_NAMES.get(name, name),
         "code": team.get("abbreviation", name[:3].upper()),
-        "color": "#" + (team.get("color") or "555555"),
+        "color": "#" + primary,
+        "altColor": "#" + alt,
     }
 
 
@@ -186,6 +189,17 @@ def event_to_match(ev, group_map, rosters=None):
         home_id = home["team"]["id"]
         r_home = next(r for r in rosters if r.get("team", {}).get("id") == home_id)
         r_away = next(r for r in rosters if r.get("team", {}).get("id") != home_id)
+        # roster側の色はsummary APIから取得されるため、scoreboard APIより正確
+        for field, roster_obj in [("home", r_home), ("away", r_away)]:
+            t = roster_obj.get("team", {})
+            primary = t.get("color")
+            alt = t.get("alternateColor")
+            if primary:
+                entry[field]["color"] = "#" + primary
+            if alt:
+                entry[field]["altColor"] = "#" + alt
+            elif primary:
+                entry[field]["altColor"] = "#" + primary
         entry["status"] = "released"
         entry["capturedAt"] = f"{jst_now().strftime('%-m/%-d %H:%M')} JST に取得・凍結"
         entry["lineup"] = {

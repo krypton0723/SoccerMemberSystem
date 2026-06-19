@@ -11,12 +11,14 @@
     "home": {
       "name": "メキシコ",
       "code": "MEX",
-      "color": "#006847"
+      "color": "#006847",
+      "altColor": "#000000"
     },
     "away": {
       "name": "南アフリカ",
       "code": "RSA",
-      "color": "#087d5a"
+      "color": "#FFB81C",
+      "altColor": "#0C562E"
     },
     "status": "released",
     "capturedAt": "6/12 14:13 JST に取得・凍結",
@@ -259,12 +261,14 @@
     "home": {
       "name": "韓国",
       "code": "KOR",
-      "color": "#ce2028"
+      "color": "#ce2028",
+      "altColor": "#9E82C8"
     },
     "away": {
       "name": "チェコ",
       "code": "CZE",
-      "color": "#d7141a"
+      "color": "#d7141a",
+      "altColor": "#ffffff"
     },
     "status": "released",
     "capturedAt": "6/12 14:13 JST に取得・凍結",
