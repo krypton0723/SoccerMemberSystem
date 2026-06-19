@@ -83,9 +83,20 @@ const shortName = (name) => {
   return last.length <= 8 ? last : last.slice(0, 7) + "…";
 };
 
+// 明るい色かどうかを輝度で判定
+function isLight(hex) {
+  const [r, g, b] = hexToRgb(hex);
+  return (0.299 * r + 0.587 * g + 0.114 * b) / 255 > 0.58;
+}
+
+function kitFg(color) { return isLight(color) ? "#1a2a1f" : "#fff"; }
+function kitStroke(color) { return isLight(color) ? "rgba(20,40,25,.75)" : "rgba(255,255,255,.92)"; }
+
 function Pitch({ home, away, homeColor, awayColor, homeName, awayName }) {
   const homePts = playerPositions(home, "home");
   const awayPts = playerPositions(away, "away");
+  const homeFg = kitFg(homeColor);
+  const awayFg = kitFg(awayColor);
   return (
     <svg viewBox="0 0 420 700" className="pitch" role="img" aria-label="フォーメーション図">
       {/* グラウンド背景 */}
@@ -105,28 +116,28 @@ function Pitch({ home, away, homeColor, awayColor, homeName, awayName }) {
       <circle cx="210" cy="350" r="3" fill="rgba(255,255,255,.78)" />
       {/* チームラベル(上=アウェイ・下=ホーム) */}
       <rect x="0" y="0" width="420" height="28" fill={awayColor} opacity="0.92" />
-      <text x="210" y="19" textAnchor="middle" fill="#fff"
+      <text x="210" y="19" textAnchor="middle" fill={awayFg}
         style={{fontSize:"12px", fontFamily:"'Oswald',sans-serif", fontWeight:600, letterSpacing:".06em"}}>
         ▲ AWAY — {awayName}
       </text>
       <rect x="0" y="672" width="420" height="28" fill={homeColor} opacity="0.92" />
-      <text x="210" y="691" textAnchor="middle" fill="#fff"
+      <text x="210" y="691" textAnchor="middle" fill={homeFg}
         style={{fontSize:"12px", fontFamily:"'Oswald',sans-serif", fontWeight:600, letterSpacing:".06em"}}>
         ▼ HOME — {homeName}
       </text>
       {/* 選手(アウェイ) */}
       {awayPts.map((p) => (
         <g key={"a" + p.n} transform="translate(0,29)">
-          <circle cx={p.x} cy={p.y} r="14" fill={awayColor} stroke="rgba(255,255,255,.92)" strokeWidth="1.6" />
-          <text x={p.x} y={p.y + 4.5} textAnchor="middle" className="kit-num">{p.n}</text>
+          <circle cx={p.x} cy={p.y} r="14" fill={awayColor} stroke={kitStroke(awayColor)} strokeWidth="1.6" />
+          <text x={p.x} y={p.y + 4.5} textAnchor="middle" className="kit-num" fill={awayFg}>{p.n}</text>
           <text x={p.x} y={p.y + 28} textAnchor="middle" className="kit-name">{shortName(p.name)}</text>
         </g>
       ))}
       {/* 選手(ホーム) */}
       {homePts.map((p) => (
         <g key={"h" + p.n} transform="translate(0,29)">
-          <circle cx={p.x} cy={p.y} r="14" fill={homeColor} stroke="rgba(255,255,255,.92)" strokeWidth="1.6" />
-          <text x={p.x} y={p.y + 4.5} textAnchor="middle" className="kit-num">{p.n}</text>
+          <circle cx={p.x} cy={p.y} r="14" fill={homeColor} stroke={kitStroke(homeColor)} strokeWidth="1.6" />
+          <text x={p.x} y={p.y + 4.5} textAnchor="middle" className="kit-num" fill={homeFg}>{p.n}</text>
           <text x={p.x} y={p.y + 28} textAnchor="middle" className="kit-name">{shortName(p.name)}</text>
         </g>
       ))}
