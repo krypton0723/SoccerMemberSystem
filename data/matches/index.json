@@ -10245,14 +10245,347 @@
     "home": {
       "name": "エクアドル",
       "code": "ECU",
-      "color": "#ffdd00"
+      "color": "#ffdd00",
+      "altColor": "#034ea2"
     },
     "away": {
       "name": "キュラソー",
       "code": "CUW",
-      "color": "#0537e4"
+      "color": "#0537e4",
+      "altColor": "#0537e4"
     },
-    "status": "pending"
+    "status": "released",
+    "capturedAt": "6/21 08:54 JST に取得・凍結",
+    "lineup": {
+      "home": {
+        "formation": "3-1-4-2",
+        "coach": "",
+        "xi": [
+          {
+            "n": 1,
+            "name": "Hernán Galíndez",
+            "pos": "G",
+            "fp": 1
+          },
+          {
+            "n": 9,
+            "name": "John Yeboah",
+            "pos": "M",
+            "fp": 2
+          },
+          {
+            "n": 7,
+            "name": "Pervis Estupiñán",
+            "pos": "M",
+            "fp": 3
+          },
+          {
+            "n": 6,
+            "name": "Willian Pacho",
+            "pos": "D",
+            "fp": 4
+          },
+          {
+            "n": 21,
+            "name": "Alan Franco",
+            "pos": "D",
+            "fp": 5
+          },
+          {
+            "n": 3,
+            "name": "Piero Hincapié",
+            "pos": "D",
+            "fp": 6
+          },
+          {
+            "n": 23,
+            "name": "Moisés Caicedo",
+            "pos": "M",
+            "fp": 7
+          },
+          {
+            "n": 5,
+            "name": "Jordy Alcívar",
+            "pos": "M",
+            "fp": 8
+          },
+          {
+            "n": 19,
+            "name": "Gonzalo Plata",
+            "pos": "F",
+            "fp": 9
+          },
+          {
+            "n": 13,
+            "name": "Enner Valencia",
+            "pos": "F",
+            "fp": 10
+          },
+          {
+            "n": 15,
+            "name": "Pedro Vite",
+            "pos": "M",
+            "fp": 11
+          }
+        ],
+        "subs": [
+          {
+            "n": 24,
+            "name": "Jeremy Arévalo",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 8,
+            "name": "Anthony Valencia",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 25,
+            "name": "Jackson Porozo",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 11,
+            "name": "Kevin Rodríguez",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 26,
+            "name": "Yaimar Medina",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 16,
+            "name": "Jordy Caicedo",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 14,
+            "name": "Alan Minda",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 2,
+            "name": "Félix Torres",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 4,
+            "name": "Joel Ordóñez",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 20,
+            "name": "Nilson Angulo",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 22,
+            "name": "Gonzalo Valle",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 17,
+            "name": "Ángelo Preciado",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 18,
+            "name": "Denil Castillo",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 12,
+            "name": "Moisés Ramírez",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 10,
+            "name": "Kendry Páez",
+            "pos": "SUB",
+            "fp": 0
+          }
+        ]
+      },
+      "away": {
+        "formation": "5-4-1",
+        "coach": "",
+        "xi": [
+          {
+            "n": 1,
+            "name": "Eloy Room",
+            "pos": "G",
+            "fp": 1
+          },
+          {
+            "n": 20,
+            "name": "Joshua Brenet",
+            "pos": "D",
+            "fp": 2
+          },
+          {
+            "n": 24,
+            "name": "Deveron Fonville",
+            "pos": "D",
+            "fp": 3
+          },
+          {
+            "n": 5,
+            "name": "Sherel Floranus",
+            "pos": "D",
+            "fp": 4
+          },
+          {
+            "n": 18,
+            "name": "Armando Obispo",
+            "pos": "D",
+            "fp": 5
+          },
+          {
+            "n": 3,
+            "name": "Juriën Gaari",
+            "pos": "D",
+            "fp": 6
+          },
+          {
+            "n": 21,
+            "name": "Tahith Chong",
+            "pos": "M",
+            "fp": 7
+          },
+          {
+            "n": 8,
+            "name": "Livano Comenencia",
+            "pos": "M",
+            "fp": 8
+          },
+          {
+            "n": 9,
+            "name": "Jürgen Locadia",
+            "pos": "F",
+            "fp": 9
+          },
+          {
+            "n": 10,
+            "name": "Leandro Bacuna",
+            "pos": "M",
+            "fp": 10
+          },
+          {
+            "n": 7,
+            "name": "Juninho Bacuna",
+            "pos": "M",
+            "fp": 11
+          }
+        ],
+        "subs": [
+          {
+            "n": 26,
+            "name": "Trevor Doornbusch",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 2,
+            "name": "Shurandy Sambo",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 14,
+            "name": "Kenji Gorré",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 23,
+            "name": "Riechedly Bazoer",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 11,
+            "name": "Jeremy Antonisse",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 15,
+            "name": "Ar'jany Martha",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 16,
+            "name": "Jearl Margaritha",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 22,
+            "name": "Kevin Felida",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 13,
+            "name": "Tyrese Noslin",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 17,
+            "name": "Brandley Kuwas",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 6,
+            "name": "Godfried Roemeratoe",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 4,
+            "name": "Roshon van Eijma",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 19,
+            "name": "Gervane Kastaneer",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 25,
+            "name": "Tyrick Bodak",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 12,
+            "name": "Sontje Hansen",
+            "pos": "SUB",
+            "fp": 0
+          }
+        ]
+      }
+    }
   },
   {
     "id": "760449",
