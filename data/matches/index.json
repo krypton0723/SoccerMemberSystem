@@ -8841,14 +8841,341 @@
     "home": {
       "name": "ブラジル",
       "code": "BRA",
-      "color": "#fee000"
+      "color": "#fee000",
+      "altColor": "#193375"
     },
     "away": {
       "name": "ハイチ",
       "code": "HAI",
-      "color": "#0033a0"
+      "color": "#0033a0",
+      "altColor": "#FFFFFF"
     },
-    "status": "pending"
+    "status": "released",
+    "capturedAt": "6/20 10:36 JST に取得・凍結",
+    "lineup": {
+      "home": {
+        "formation": "4-3-3",
+        "coach": "",
+        "xi": [
+          {
+            "n": 1,
+            "name": "Alisson Becker",
+            "pos": "G",
+            "fp": 1
+          },
+          {
+            "n": 13,
+            "name": "Danilo",
+            "pos": "RB",
+            "fp": 2
+          },
+          {
+            "n": 16,
+            "name": "Douglas Santos",
+            "pos": "LB",
+            "fp": 3
+          },
+          {
+            "n": 5,
+            "name": "Casemiro",
+            "pos": "CM",
+            "fp": 4
+          },
+          {
+            "n": 4,
+            "name": "Marquinhos",
+            "pos": "CD-R",
+            "fp": 5
+          },
+          {
+            "n": 3,
+            "name": "Gabriel Magalhães",
+            "pos": "CD-L",
+            "fp": 6
+          },
+          {
+            "n": 8,
+            "name": "Bruno Guimarães",
+            "pos": "RM",
+            "fp": 7
+          },
+          {
+            "n": 20,
+            "name": "Lucas Paquetá",
+            "pos": "LM",
+            "fp": 8
+          },
+          {
+            "n": 9,
+            "name": "Matheus Cunha",
+            "pos": "F",
+            "fp": 9
+          },
+          {
+            "n": 11,
+            "name": "Raphinha ",
+            "pos": "RF",
+            "fp": 10
+          },
+          {
+            "n": 7,
+            "name": "Vinícius Júnior",
+            "pos": "LF",
+            "fp": 11
+          }
+        ],
+        "subs": [
+          {
+            "n": 6,
+            "name": "Alex Sandro",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 22,
+            "name": "Gabriel Martinelli",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 26,
+            "name": "Rayan",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 14,
+            "name": "Bremer",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 19,
+            "name": "Endrick",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 25,
+            "name": "Igor Thiago",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 15,
+            "name": "Léo Pereira",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 24,
+            "name": "Roger Ibañez",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 12,
+            "name": "Weverton",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 21,
+            "name": "Luiz Henrique",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 23,
+            "name": "Ederson ",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 18,
+            "name": "Danilo Santos",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 2,
+            "name": "Éderson",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 17,
+            "name": "Fabinho",
+            "pos": "SUB",
+            "fp": 0
+          }
+        ]
+      },
+      "away": {
+        "formation": "5-4-1",
+        "coach": "",
+        "xi": [
+          {
+            "n": 1,
+            "name": "Johny Placide",
+            "pos": "G",
+            "fp": 1
+          },
+          {
+            "n": 2,
+            "name": "Carlens Arcus",
+            "pos": "RB",
+            "fp": 2
+          },
+          {
+            "n": 8,
+            "name": "Martin Expérience",
+            "pos": "LB",
+            "fp": 3
+          },
+          {
+            "n": 5,
+            "name": "Hannes Delcroix",
+            "pos": "CD-L",
+            "fp": 4
+          },
+          {
+            "n": 4,
+            "name": "Ricardo Adé",
+            "pos": "CD",
+            "fp": 5
+          },
+          {
+            "n": 22,
+            "name": "Jean-Kévin Duverne",
+            "pos": "CD-R",
+            "fp": 6
+          },
+          {
+            "n": 21,
+            "name": "Josué Casimir",
+            "pos": "RM",
+            "fp": 7
+          },
+          {
+            "n": 17,
+            "name": "Danley Jean Jacques",
+            "pos": "CM-R",
+            "fp": 8
+          },
+          {
+            "n": 20,
+            "name": "Frantzdy Pierrot",
+            "pos": "F",
+            "fp": 9
+          },
+          {
+            "n": 10,
+            "name": "Jean-Ricner Bellegarde",
+            "pos": "CM-L",
+            "fp": 10
+          },
+          {
+            "n": 15,
+            "name": "Ruben Providence",
+            "pos": "LM",
+            "fp": 11
+          }
+        ],
+        "subs": [
+          {
+            "n": 12,
+            "name": "Alexandre Pierre",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 23,
+            "name": "Josué Duverger",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 16,
+            "name": "Lenny Joseph",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 18,
+            "name": "Wilson Isidor",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 11,
+            "name": "Louicius Deedson",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 14,
+            "name": "Garven Metusala",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 6,
+            "name": "Carl Sainté",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 13,
+            "name": "Markhus Lacroix",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 7,
+            "name": "Derrick Etienne Jr.",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 9,
+            "name": "Duckens Nazon",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 3,
+            "name": "Keeto Thermoncy",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 25,
+            "name": "Dominique Simon",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 19,
+            "name": "Yassin Fortuné",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 24,
+            "name": "Wilguens Paugain",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 26,
+            "name": "Woodensky Pierre",
+            "pos": "SUB",
+            "fp": 0
+          }
+        ]
+      }
+    }
   },
   {
     "id": "760443",
@@ -9582,6 +9909,144 @@
       "name": "ベルギー",
       "code": "BEL",
       "color": "#E30613"
+    },
+    "status": "pending"
+  },
+  {
+    "id": "760480",
+    "kickoff": "2026-06-28T06:00:00+09:00",
+    "group": "L",
+    "matchday": "グループステージ",
+    "dateLabel": "6月28日（日）",
+    "timeJST": "06:00",
+    "stadium": "Lincoln Financial Field",
+    "city": "Philadelphia, Pennsylvania",
+    "home": {
+      "name": "クロアチア",
+      "code": "CRO",
+      "color": "#ff0000",
+      "altColor": "#0c2fff"
+    },
+    "away": {
+      "name": "ガーナ",
+      "code": "GHA",
+      "color": "#fbd632",
+      "altColor": "#000000"
+    },
+    "status": "pending"
+  },
+  {
+    "id": "760485",
+    "kickoff": "2026-06-28T06:00:00+09:00",
+    "group": "L",
+    "matchday": "グループステージ",
+    "dateLabel": "6月28日（日）",
+    "timeJST": "06:00",
+    "stadium": "MetLife Stadium",
+    "city": "East Rutherford, New Jersey",
+    "home": {
+      "name": "パナマ",
+      "code": "PAN",
+      "color": "#d21034",
+      "altColor": "#005293"
+    },
+    "away": {
+      "name": "イングランド",
+      "code": "ENG",
+      "color": "#ffffff",
+      "altColor": "#EA1F29"
+    },
+    "status": "pending"
+  },
+  {
+    "id": "760481",
+    "kickoff": "2026-06-28T08:30:00+09:00",
+    "group": "K",
+    "matchday": "グループステージ",
+    "dateLabel": "6月28日（日）",
+    "timeJST": "08:30",
+    "stadium": "Hard Rock Stadium",
+    "city": "Miami Gardens, Florida",
+    "home": {
+      "name": "コロンビア",
+      "code": "COL",
+      "color": "#fbd632",
+      "altColor": "#21418c"
+    },
+    "away": {
+      "name": "ポルトガル",
+      "code": "POR",
+      "color": "#da291c",
+      "altColor": "#0D6938"
+    },
+    "status": "pending"
+  },
+  {
+    "id": "760482",
+    "kickoff": "2026-06-28T08:30:00+09:00",
+    "group": "K",
+    "matchday": "グループステージ",
+    "dateLabel": "6月28日（日）",
+    "timeJST": "08:30",
+    "stadium": "Mercedes-Benz Stadium",
+    "city": "Atlanta, Georgia",
+    "home": {
+      "name": "コンゴ民主共和国",
+      "code": "COD",
+      "color": "#418fde",
+      "altColor": "#C60000"
+    },
+    "away": {
+      "name": "ウズベキスタン",
+      "code": "UZB",
+      "color": "#ffffff",
+      "altColor": "#0072CE"
+    },
+    "status": "pending"
+  },
+  {
+    "id": "760484",
+    "kickoff": "2026-06-28T11:00:00+09:00",
+    "group": "J",
+    "matchday": "グループステージ",
+    "dateLabel": "6月28日（日）",
+    "timeJST": "11:00",
+    "stadium": "GEHA Field at Arrowhead Stadium",
+    "city": "Kansas City, Missouri",
+    "home": {
+      "name": "アルジェリア",
+      "code": "ALG",
+      "color": "#4F9A44",
+      "altColor": "#FFFFFF"
+    },
+    "away": {
+      "name": "オーストリア",
+      "code": "AUT",
+      "color": "#d72b2c",
+      "altColor": "#000000"
+    },
+    "status": "pending"
+  },
+  {
+    "id": "760483",
+    "kickoff": "2026-06-28T11:00:00+09:00",
+    "group": "J",
+    "matchday": "グループステージ",
+    "dateLabel": "6月28日（日）",
+    "timeJST": "11:00",
+    "stadium": "AT&T Stadium",
+    "city": "Arlington, Texas",
+    "home": {
+      "name": "ヨルダン",
+      "code": "JOR",
+      "color": "#E70000",
+      "altColor": "#ffffff"
+    },
+    "away": {
+      "name": "アルゼンチン",
+      "code": "ARG",
+      "color": "#74acdf",
+      "altColor": "#173E69"
     },
     "status": "pending"
   }
