@@ -9189,14 +9189,347 @@
     "home": {
       "name": "トルコ",
       "code": "TUR",
-      "color": "#ffffff"
+      "color": "#ffffff",
+      "altColor": "#ef3340"
     },
     "away": {
       "name": "パラグアイ",
       "code": "PAR",
-      "color": "#ea2300"
+      "color": "#ea2300",
+      "altColor": "#21418c"
     },
-    "status": "pending"
+    "status": "released",
+    "capturedAt": "6/20 15:39 JST に取得・凍結",
+    "lineup": {
+      "home": {
+        "formation": "4-2-3-1",
+        "coach": "",
+        "xi": [
+          {
+            "n": 23,
+            "name": "Ugurcan Çakir",
+            "pos": "G",
+            "fp": 1
+          },
+          {
+            "n": 18,
+            "name": "Mert Müldür",
+            "pos": "RB",
+            "fp": 2
+          },
+          {
+            "n": 20,
+            "name": "Ferdi Kadioglu",
+            "pos": "LB",
+            "fp": 3
+          },
+          {
+            "n": 10,
+            "name": "Hakan Çalhanoglu",
+            "pos": "LM",
+            "fp": 4
+          },
+          {
+            "n": 3,
+            "name": "Merih Demiral",
+            "pos": "CD-R",
+            "fp": 5
+          },
+          {
+            "n": 14,
+            "name": "Abdülkerim Bardakçi",
+            "pos": "CD-L",
+            "fp": 6
+          },
+          {
+            "n": 19,
+            "name": "Yunus Akgün",
+            "pos": "AM-R",
+            "fp": 7
+          },
+          {
+            "n": 16,
+            "name": "Ismail Yüksek",
+            "pos": "RM",
+            "fp": 8
+          },
+          {
+            "n": 7,
+            "name": "Kerem Aktürkoglu",
+            "pos": "F",
+            "fp": 9
+          },
+          {
+            "n": 8,
+            "name": "Arda Güler",
+            "pos": "AM",
+            "fp": 10
+          },
+          {
+            "n": 11,
+            "name": "Kenan Yildiz",
+            "pos": "AM-L",
+            "fp": 11
+          }
+        ],
+        "subs": [
+          {
+            "n": 2,
+            "name": "Zeki Çelik",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 26,
+            "name": "Can Uzun",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 17,
+            "name": "Irfan Can Kahveci",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 9,
+            "name": "Deniz Gül",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 13,
+            "name": "Eren Elmali",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 21,
+            "name": "Baris Alper Yilmaz",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 5,
+            "name": "Salih Özcan",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 22,
+            "name": "Kaan Ayhan",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 24,
+            "name": "Oguz Aydin",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 12,
+            "name": "Altay Bayindir",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 15,
+            "name": "Ozan Kabak",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 4,
+            "name": "Çaglar Söyüncü",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 1,
+            "name": "Mert Günok",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 25,
+            "name": "Samet Akaydin",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 6,
+            "name": "Orkun Kökçü",
+            "pos": "SUB",
+            "fp": 0
+          }
+        ]
+      },
+      "away": {
+        "formation": "4-4-2",
+        "coach": "",
+        "xi": [
+          {
+            "n": 12,
+            "name": "Orlando Gil",
+            "pos": "G",
+            "fp": 1
+          },
+          {
+            "n": 4,
+            "name": "Juan Jose Cáceres",
+            "pos": "RB",
+            "fp": 2
+          },
+          {
+            "n": 6,
+            "name": "Júnior Alonso",
+            "pos": "LB",
+            "fp": 3
+          },
+          {
+            "n": 14,
+            "name": "Andrés Cubas",
+            "pos": "CM-R",
+            "fp": 4
+          },
+          {
+            "n": 15,
+            "name": "Gustavo Gómez",
+            "pos": "CD-R",
+            "fp": 5
+          },
+          {
+            "n": 3,
+            "name": "Omar Alderete",
+            "pos": "CD-L",
+            "fp": 6
+          },
+          {
+            "n": 10,
+            "name": "Miguel Almirón",
+            "pos": "RM",
+            "fp": 7
+          },
+          {
+            "n": 8,
+            "name": "Diego Gómez",
+            "pos": "CM-L",
+            "fp": 8
+          },
+          {
+            "n": 19,
+            "name": "Julio Enciso",
+            "pos": "CF-L",
+            "fp": 9
+          },
+          {
+            "n": 25,
+            "name": "Isidro Pitta",
+            "pos": "CF-R",
+            "fp": 10
+          },
+          {
+            "n": 23,
+            "name": "Matías Galarza",
+            "pos": "LM",
+            "fp": 11
+          }
+        ],
+        "subs": [
+          {
+            "n": 17,
+            "name": "Alejandro Romero Gamarra",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 16,
+            "name": "Damián Bobadilla",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 26,
+            "name": "Alexandro Maidana",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 20,
+            "name": "Braian Ojeda",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 1,
+            "name": "Gatito Fernández",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 7,
+            "name": "Ramón Sosa",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 13,
+            "name": "José Canale",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 24,
+            "name": "Gustavo Caballero",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 5,
+            "name": "Fabián Balbuena",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 18,
+            "name": "Alex Arce",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 9,
+            "name": "Antonio Sanabria",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 11,
+            "name": "Maurício",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 22,
+            "name": "Gastón Olveira",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 21,
+            "name": "Gabriel Ávalos",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 2,
+            "name": "Gustavo Velázquez",
+            "pos": "SUB",
+            "fp": 0
+          }
+        ]
+      }
+    }
   },
   {
     "id": "760447",
