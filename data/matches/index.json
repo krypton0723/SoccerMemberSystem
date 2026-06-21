@@ -11375,5 +11375,28 @@
       "altColor": "#173E69"
     },
     "status": "pending"
+  },
+  {
+    "id": "760486",
+    "kickoff": "2026-06-29T04:00:00+09:00",
+    "group": "",
+    "matchday": "ラウンド32",
+    "dateLabel": "6月29日（月）",
+    "timeJST": "04:00",
+    "stadium": "SoFi Stadium",
+    "city": "Inglewood, California",
+    "home": {
+      "name": "Group A 2nd Place",
+      "code": "2A",
+      "color": "#000000",
+      "altColor": "#000000"
+    },
+    "away": {
+      "name": "Group B 2nd Place",
+      "code": "2B",
+      "color": "#000000",
+      "altColor": "#000000"
+    },
+    "status": "pending"
   }
 ]
