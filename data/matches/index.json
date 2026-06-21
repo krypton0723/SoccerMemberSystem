@@ -11637,14 +11637,335 @@
     "home": {
       "name": "ウルグアイ",
       "code": "URU",
-      "color": "#003da5"
+      "color": "#55B5E5",
+      "altColor": "#000080"
     },
     "away": {
       "name": "カーボベルデ",
       "code": "CPV",
-      "color": "#0000ff"
+      "color": "#000080",
+      "altColor": "#EF3340"
     },
-    "status": "pending"
+    "status": "released",
+    "capturedAt": "6/22 06:45 JST に取得・凍結",
+    "lineup": {
+      "home": {
+        "formation": "4-2-3-1",
+        "coach": "",
+        "xi": [
+          {
+            "n": 23,
+            "name": "Fernando Muslera",
+            "pos": "G",
+            "fp": 1
+          },
+          {
+            "n": 13,
+            "name": "Guillermo Varela",
+            "pos": "D",
+            "fp": 2
+          },
+          {
+            "n": 25,
+            "name": "Juan Manuel Sanabria",
+            "pos": "D",
+            "fp": 3
+          },
+          {
+            "n": 6,
+            "name": "Rodrigo Bentancur",
+            "pos": "M",
+            "fp": 4
+          },
+          {
+            "n": 3,
+            "name": "Sebastián Cáceres",
+            "pos": "D",
+            "fp": 5
+          },
+          {
+            "n": 16,
+            "name": "Mathías Olivera",
+            "pos": "D",
+            "fp": 6
+          },
+          {
+            "n": 14,
+            "name": "Agustín Cano",
+            "pos": "M",
+            "fp": 7
+          },
+          {
+            "n": 5,
+            "name": "Manuel Ugarte",
+            "pos": "M",
+            "fp": 8
+          },
+          {
+            "n": 21,
+            "name": "Federico Viñas",
+            "pos": "F",
+            "fp": 9
+          },
+          {
+            "n": 8,
+            "name": "Federico Valverde",
+            "pos": "M",
+            "fp": 10
+          },
+          {
+            "n": 20,
+            "name": "Maxi Araújo",
+            "pos": "M",
+            "fp": 11
+          }
+        ],
+        "subs": [
+          {
+            "n": 26,
+            "name": "Rodrigo Zalazar",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 7,
+            "name": "Nicolás de la Cruz",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 19,
+            "name": "Rodrigo Aguirre",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 2,
+            "name": "José María Giménez",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 18,
+            "name": "Brian Rodríguez",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 11,
+            "name": "Facundo Pellistri",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 17,
+            "name": "Matías Viña",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 22,
+            "name": "Joaquín Piquerez",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 15,
+            "name": "Emiliano Martínez",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 24,
+            "name": "Santiago Bueno",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 12,
+            "name": "Santiago Mele",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 9,
+            "name": "Darwin Núñez",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 1,
+            "name": "Sergio Rochet",
+            "pos": "SUB",
+            "fp": 0
+          }
+        ]
+      },
+      "away": {
+        "formation": "4-1-4-1",
+        "coach": "",
+        "xi": [
+          {
+            "n": 1,
+            "name": "Vozinha",
+            "pos": "G",
+            "fp": 1
+          },
+          {
+            "n": 22,
+            "name": "Steven Moreira",
+            "pos": "D",
+            "fp": 2
+          },
+          {
+            "n": 13,
+            "name": "Sidny Lopes Cabral",
+            "pos": "D",
+            "fp": 3
+          },
+          {
+            "n": 6,
+            "name": "Kevin Pina",
+            "pos": "M",
+            "fp": 4
+          },
+          {
+            "n": 4,
+            "name": "Pico Lopes",
+            "pos": "D",
+            "fp": 5
+          },
+          {
+            "n": 3,
+            "name": "Diney Borges",
+            "pos": "D",
+            "fp": 6
+          },
+          {
+            "n": 18,
+            "name": "Telmo Arcanjo",
+            "pos": "M",
+            "fp": 7
+          },
+          {
+            "n": 20,
+            "name": "Ryan Mendes",
+            "pos": "M",
+            "fp": 8
+          },
+          {
+            "n": 9,
+            "name": "Gilson Benchimol",
+            "pos": "F",
+            "fp": 9
+          },
+          {
+            "n": 10,
+            "name": "Jamiro Monteiro",
+            "pos": "M",
+            "fp": 10
+          },
+          {
+            "n": 11,
+            "name": "Garry Rodrigues",
+            "pos": "M",
+            "fp": 11
+          }
+        ],
+        "subs": [
+          {
+            "n": 8,
+            "name": "João Paulo",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 17,
+            "name": "Willy Semedo",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 7,
+            "name": "Jovane Cabral",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 14,
+            "name": "Deroy Duarte",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 16,
+            "name": "Yannick Semedo",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 25,
+            "name": "Kelvin Pires",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 12,
+            "name": "Márcio Rosa",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 21,
+            "name": "Nuno da Costa",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 15,
+            "name": "Laros Duarte",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 19,
+            "name": "Dailon Livramento",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 5,
+            "name": "Logan Costa",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 23,
+            "name": "CJ dos Santos",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 2,
+            "name": "Stopira",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 24,
+            "name": "Wagner Pina",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 26,
+            "name": "Hélio Varela",
+            "pos": "SUB",
+            "fp": 0
+          }
+        ]
+      }
+    }
   },
   {
     "id": "760452",
