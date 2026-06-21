@@ -10599,14 +10599,335 @@
     "home": {
       "name": "チュニジア",
       "code": "TUN",
-      "color": "#D20300"
+      "color": "#D20300",
+      "altColor": "#ffffff"
     },
     "away": {
       "name": "日本",
       "code": "JPN",
-      "color": "#ed1c24"
+      "color": "#000555",
+      "altColor": "#000555"
     },
-    "status": "pending"
+    "status": "released",
+    "capturedAt": "6/21 16:05 JST に取得・凍結",
+    "lineup": {
+      "home": {
+        "formation": "3-4-2-1",
+        "coach": "",
+        "xi": [
+          {
+            "n": 16,
+            "name": "Aymen Dahmen",
+            "pos": "G",
+            "fp": 1
+          },
+          {
+            "n": 20,
+            "name": "Yan Valery",
+            "pos": "RM",
+            "fp": 2
+          },
+          {
+            "n": 2,
+            "name": "Ali Abdi",
+            "pos": "LM",
+            "fp": 3
+          },
+          {
+            "n": 4,
+            "name": "Omar Rekik",
+            "pos": "CD-L",
+            "fp": 4
+          },
+          {
+            "n": 3,
+            "name": "Montassar Talbi",
+            "pos": "CD",
+            "fp": 5
+          },
+          {
+            "n": 6,
+            "name": "Dylan Bronn",
+            "pos": "CD-R",
+            "fp": 6
+          },
+          {
+            "n": 25,
+            "name": "Anis Slimane",
+            "pos": "CM-R",
+            "fp": 7
+          },
+          {
+            "n": 17,
+            "name": "Ellyes Skhiri",
+            "pos": "CM-L",
+            "fp": 8
+          },
+          {
+            "n": 26,
+            "name": "Sebastian Tounekti",
+            "pos": "F",
+            "fp": 9
+          },
+          {
+            "n": 8,
+            "name": "Elias Saad",
+            "pos": "CF-R",
+            "fp": 10
+          },
+          {
+            "n": 10,
+            "name": "Hannibal Mejbri",
+            "pos": "CF-L",
+            "fp": 11
+          }
+        ],
+        "subs": [
+          {
+            "n": 5,
+            "name": "Adem Arous",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 11,
+            "name": "Ismaël Gharbi",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 19,
+            "name": "Firas Chaouat",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 24,
+            "name": "Raed Chikhaoui",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 18,
+            "name": "Rayan Elloumi",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 22,
+            "name": "Sabri Ben Hessen",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 13,
+            "name": "Rani Khedira",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 14,
+            "name": "Khalil Ayari",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 23,
+            "name": "Moutaz Neffati",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 7,
+            "name": "Elias Achouri",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 9,
+            "name": "Hazem Mastouri",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 21,
+            "name": "Mohamed Amine Ben Hamida",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 1,
+            "name": "Mouhib Chamakh",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 15,
+            "name": "Mohamed Hadj Mahmoud",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 12,
+            "name": "Mortadha Ben Ouanes",
+            "pos": "SUB",
+            "fp": 0
+          }
+        ]
+      },
+      "away": {
+        "formation": "3-4-2-1",
+        "coach": "",
+        "xi": [
+          {
+            "n": 1,
+            "name": "Zion Suzuki",
+            "pos": "G",
+            "fp": 1
+          },
+          {
+            "n": 10,
+            "name": "Ritsu Doan",
+            "pos": "RM",
+            "fp": 2
+          },
+          {
+            "n": 13,
+            "name": "Keito Nakamura",
+            "pos": "LM",
+            "fp": 3
+          },
+          {
+            "n": 21,
+            "name": "Hiroki Ito",
+            "pos": "CD-L",
+            "fp": 4
+          },
+          {
+            "n": 4,
+            "name": "Kou Itakura",
+            "pos": "CD",
+            "fp": 5
+          },
+          {
+            "n": 22,
+            "name": "Takehiro Tomiyasu",
+            "pos": "CD-R",
+            "fp": 6
+          },
+          {
+            "n": 24,
+            "name": "Kaishu Sano",
+            "pos": "CM-R",
+            "fp": 7
+          },
+          {
+            "n": 7,
+            "name": "Ao Tanaka",
+            "pos": "CM-L",
+            "fp": 8
+          },
+          {
+            "n": 18,
+            "name": "Ayase Ueda",
+            "pos": "F",
+            "fp": 9
+          },
+          {
+            "n": 14,
+            "name": "Junya Ito",
+            "pos": "CF-R",
+            "fp": 10
+          },
+          {
+            "n": 15,
+            "name": "Daichi Kamada",
+            "pos": "CF-L",
+            "fp": 11
+          }
+        ],
+        "subs": [
+          {
+            "n": 20,
+            "name": "Ayumu Seko",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 17,
+            "name": "Yuito Suzuki",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 25,
+            "name": "Junnosuke Suzuki",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 16,
+            "name": "Tsuyoshi Watanabe",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 5,
+            "name": "Yuto Nagatomo",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 12,
+            "name": "Keisuke Osako",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 19,
+            "name": "Koki Ogawa",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 3,
+            "name": "Shogo Taniguchi",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 9,
+            "name": "Keisuke Goto",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 23,
+            "name": "Tomoki Hayakawa",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 11,
+            "name": "Daizen Maeda",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 2,
+            "name": "Yukinari Sugawara",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 26,
+            "name": "Kento Shiogai",
+            "pos": "SUB",
+            "fp": 0
+          }
+        ]
+      }
+    }
   },
   {
     "id": "760453",
