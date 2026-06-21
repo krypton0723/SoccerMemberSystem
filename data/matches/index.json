@@ -10941,14 +10941,347 @@
     "home": {
       "name": "スペイン",
       "code": "ESP",
-      "color": "#c60b1e"
+      "color": "#c60b1e",
+      "altColor": "#800000"
     },
     "away": {
       "name": "サウジアラビア",
       "code": "KSA",
-      "color": "#dddddd"
+      "color": "#FFFFFF",
+      "altColor": "#125B34"
     },
-    "status": "pending"
+    "status": "released",
+    "capturedAt": "6/22 01:48 JST に取得・凍結",
+    "lineup": {
+      "home": {
+        "formation": "4-3-3",
+        "coach": "",
+        "xi": [
+          {
+            "n": 23,
+            "name": "Unai Simón",
+            "pos": "G",
+            "fp": 1
+          },
+          {
+            "n": 12,
+            "name": "Pedro Porro",
+            "pos": "RB",
+            "fp": 2
+          },
+          {
+            "n": 24,
+            "name": "Marc Cucurella",
+            "pos": "LB",
+            "fp": 3
+          },
+          {
+            "n": 16,
+            "name": "Rodri ",
+            "pos": "CM",
+            "fp": 4
+          },
+          {
+            "n": 22,
+            "name": "Pau Cubarsí",
+            "pos": "CD-R",
+            "fp": 5
+          },
+          {
+            "n": 14,
+            "name": "Aymeric Laporte",
+            "pos": "CD-L",
+            "fp": 6
+          },
+          {
+            "n": 10,
+            "name": "Dani Olmo",
+            "pos": "RM",
+            "fp": 7
+          },
+          {
+            "n": 20,
+            "name": "Pedri ",
+            "pos": "LM",
+            "fp": 8
+          },
+          {
+            "n": 21,
+            "name": "Mikel Oyarzabal",
+            "pos": "F",
+            "fp": 9
+          },
+          {
+            "n": 19,
+            "name": "Lamine Yamal",
+            "pos": "RF",
+            "fp": 10
+          },
+          {
+            "n": 15,
+            "name": "Álex Baena",
+            "pos": "LF",
+            "fp": 11
+          }
+        ],
+        "subs": [
+          {
+            "n": 7,
+            "name": "Ferran Torres",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 6,
+            "name": "Mikel Merino",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 13,
+            "name": "Joan García",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 18,
+            "name": "Martín Zubimendi",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 1,
+            "name": "David Raya",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 9,
+            "name": "Gavi ",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 3,
+            "name": "Alejandro Grimaldo",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 4,
+            "name": "Eric García",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 26,
+            "name": "Borja Iglesias",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 8,
+            "name": "Fabián Ruiz",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 25,
+            "name": "Víctor Muñoz",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 2,
+            "name": "Marc Pubill",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 11,
+            "name": "Yéremy Pino",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 5,
+            "name": "Marcos Llorente",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 17,
+            "name": "Nico Williams",
+            "pos": "SUB",
+            "fp": 0
+          }
+        ]
+      },
+      "away": {
+        "formation": "5-4-1",
+        "coach": "",
+        "xi": [
+          {
+            "n": 21,
+            "name": "Mohammed Al-Owais",
+            "pos": "G",
+            "fp": 1
+          },
+          {
+            "n": 12,
+            "name": "Saud Abdulhamid",
+            "pos": "RB",
+            "fp": 2
+          },
+          {
+            "n": 24,
+            "name": "Moteb Al-Harbi",
+            "pos": "LB",
+            "fp": 3
+          },
+          {
+            "n": 5,
+            "name": "Hassan Al-Tambakti",
+            "pos": "CD-L",
+            "fp": 4
+          },
+          {
+            "n": 3,
+            "name": "Ali Lajami",
+            "pos": "CD",
+            "fp": 5
+          },
+          {
+            "n": 4,
+            "name": "Abdulelah Al-Amri",
+            "pos": "CD-R",
+            "fp": 6
+          },
+          {
+            "n": 7,
+            "name": "Musab Al-Juwayr",
+            "pos": "RM",
+            "fp": 7
+          },
+          {
+            "n": 15,
+            "name": "Abdullah Al-Khaibari",
+            "pos": "CM-R",
+            "fp": 8
+          },
+          {
+            "n": 9,
+            "name": "Feras Al-Brikan",
+            "pos": "F",
+            "fp": 9
+          },
+          {
+            "n": 6,
+            "name": "Nasser Al-Dawsari",
+            "pos": "CM-L",
+            "fp": 10
+          },
+          {
+            "n": 10,
+            "name": "Salem Al-Dawsari",
+            "pos": "LM",
+            "fp": 11
+          }
+        ],
+        "subs": [
+          {
+            "n": 19,
+            "name": "Abdullah Al-Hamdan",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 16,
+            "name": "Ziyad Al-Johani",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 11,
+            "name": "Saleh Al-Shehri",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 18,
+            "name": "Ala Al-Hajji",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 20,
+            "name": "Sultan Mandash",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 14,
+            "name": "Hassan Kadish",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 26,
+            "name": "Mohammed Abu Al-Shamat",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 2,
+            "name": "Ali Majrashi",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 1,
+            "name": "Nawaf Al-Aqidi",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 22,
+            "name": "Ahmed Al-Kassar",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 25,
+            "name": "Jehad Thakri",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 17,
+            "name": "Khalid Al-Ghannam",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 13,
+            "name": "Nawaf Boushal",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 8,
+            "name": "Aiman Yahya",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 23,
+            "name": "Mohamed Kanno",
+            "pos": "SUB",
+            "fp": 0
+          }
+        ]
+      }
+    }
   },
   {
     "id": "760451",
