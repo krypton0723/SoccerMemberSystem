@@ -12333,14 +12333,347 @@
     "home": {
       "name": "アルゼンチン",
       "code": "ARG",
-      "color": "#74acdf"
+      "color": "#74acdf",
+      "altColor": "#173E69"
     },
     "away": {
       "name": "オーストリア",
       "code": "AUT",
-      "color": "#d72b2c"
+      "color": "#d72b2c",
+      "altColor": "#000000"
     },
-    "status": "pending"
+    "status": "released",
+    "capturedAt": "6/23 03:50 JST に取得・凍結",
+    "lineup": {
+      "home": {
+        "formation": "4-4-2",
+        "coach": "",
+        "xi": [
+          {
+            "n": 23,
+            "name": "Emiliano Martínez",
+            "pos": "G",
+            "fp": 1
+          },
+          {
+            "n": 26,
+            "name": "Nahuel Molina",
+            "pos": "RB",
+            "fp": 2
+          },
+          {
+            "n": 25,
+            "name": "Facundo Medina",
+            "pos": "LB",
+            "fp": 3
+          },
+          {
+            "n": 20,
+            "name": "Alexis Mac Allister",
+            "pos": "CM-R",
+            "fp": 4
+          },
+          {
+            "n": 13,
+            "name": "Cristian Romero",
+            "pos": "CD-R",
+            "fp": 5
+          },
+          {
+            "n": 6,
+            "name": "Lisandro Martínez",
+            "pos": "CD-L",
+            "fp": 6
+          },
+          {
+            "n": 7,
+            "name": "Rodrigo De Paul",
+            "pos": "RM",
+            "fp": 7
+          },
+          {
+            "n": 24,
+            "name": "Enzo Fernández",
+            "pos": "CM-L",
+            "fp": 8
+          },
+          {
+            "n": 22,
+            "name": "Lautaro Martínez",
+            "pos": "CF-L",
+            "fp": 9
+          },
+          {
+            "n": 10,
+            "name": "Lionel Messi",
+            "pos": "CF-R",
+            "fp": 10
+          },
+          {
+            "n": 16,
+            "name": "Thiago Almada",
+            "pos": "LM",
+            "fp": 11
+          }
+        ],
+        "subs": [
+          {
+            "n": 12,
+            "name": "Gerónimo Rulli",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 8,
+            "name": "Valentín Barco",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 18,
+            "name": "Nico Paz",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 9,
+            "name": "Julián Álvarez",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 2,
+            "name": "Marcos Senesi",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 4,
+            "name": "Gonzalo Montiel",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 5,
+            "name": "Leandro Paredes",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 17,
+            "name": "Giuliano Simeone",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 15,
+            "name": "Nico González",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 19,
+            "name": "Nicolás Otamendi",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 3,
+            "name": "Nicolás Tagliafico",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 14,
+            "name": "Exequiel Palacios",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 21,
+            "name": "José Manuel López",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 11,
+            "name": "Giovani Lo Celso",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 1,
+            "name": "Juan Musso",
+            "pos": "SUB",
+            "fp": 0
+          }
+        ]
+      },
+      "away": {
+        "formation": "4-2-3-1",
+        "coach": "",
+        "xi": [
+          {
+            "n": 1,
+            "name": "Alexander Schlager",
+            "pos": "G",
+            "fp": 1
+          },
+          {
+            "n": 5,
+            "name": "Stefan Posch",
+            "pos": "RB",
+            "fp": 2
+          },
+          {
+            "n": 20,
+            "name": "Konrad Laimer",
+            "pos": "LB",
+            "fp": 3
+          },
+          {
+            "n": 4,
+            "name": "Xaver Schlager",
+            "pos": "LM",
+            "fp": 4
+          },
+          {
+            "n": 3,
+            "name": "Kevin Danso",
+            "pos": "CD-R",
+            "fp": 5
+          },
+          {
+            "n": 8,
+            "name": "David Alaba",
+            "pos": "CD-L",
+            "fp": 6
+          },
+          {
+            "n": 18,
+            "name": "Romano Schmid",
+            "pos": "AM-R",
+            "fp": 7
+          },
+          {
+            "n": 6,
+            "name": "Nicolas Seiwald",
+            "pos": "RM",
+            "fp": 8
+          },
+          {
+            "n": 11,
+            "name": "Michael Gregoritsch",
+            "pos": "F",
+            "fp": 9
+          },
+          {
+            "n": 24,
+            "name": "Paul Wanner",
+            "pos": "AM",
+            "fp": 10
+          },
+          {
+            "n": 9,
+            "name": "Marcel Sabitzer",
+            "pos": "AM-L",
+            "fp": 11
+          }
+        ],
+        "subs": [
+          {
+            "n": 17,
+            "name": "Carney Chukwuemeka",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 25,
+            "name": "Michael Svoboda",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 23,
+            "name": "Marco Friedl",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 12,
+            "name": "Florian Wiegele",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 16,
+            "name": "Phillipp Mwene",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 26,
+            "name": "Alessandro Schöpf",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 2,
+            "name": "David Affengruber",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 19,
+            "name": "Dejan Ljubicic",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 13,
+            "name": "Patrick Pentz",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 15,
+            "name": "Philipp Lienhart",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 10,
+            "name": "Florian Grillitsch",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 22,
+            "name": "Alexander Prass",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 21,
+            "name": "Patrick Wimmer",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 14,
+            "name": "Sasa Kalajdzic",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 7,
+            "name": "Marko Arnautovic",
+            "pos": "SUB",
+            "fp": 0
+          }
+        ]
+      }
+    }
   },
   {
     "id": "760457",
