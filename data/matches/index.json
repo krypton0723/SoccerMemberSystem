@@ -13041,14 +13041,347 @@
     "home": {
       "name": "ノルウェー",
       "code": "NOR",
-      "color": "#C8102E"
+      "color": "#C8102E",
+      "altColor": "#000000"
     },
     "away": {
       "name": "セネガル",
       "code": "SEN",
-      "color": "#006436"
+      "color": "#006436",
+      "altColor": "#FFFFFF"
     },
-    "status": "pending"
+    "status": "released",
+    "capturedAt": "6/23 10:24 JST に取得・凍結",
+    "lineup": {
+      "home": {
+        "formation": "4-3-3",
+        "coach": "",
+        "xi": [
+          {
+            "n": 1,
+            "name": "Ørjan Nyland",
+            "pos": "G",
+            "fp": 1
+          },
+          {
+            "n": 26,
+            "name": "Julian Ryerson",
+            "pos": "RB",
+            "fp": 2
+          },
+          {
+            "n": 5,
+            "name": "David Møller Wolfe",
+            "pos": "LB",
+            "fp": 3
+          },
+          {
+            "n": 8,
+            "name": "Sander Berge",
+            "pos": "CM",
+            "fp": 4
+          },
+          {
+            "n": 3,
+            "name": "Kristoffer Ajer",
+            "pos": "CD-R",
+            "fp": 5
+          },
+          {
+            "n": 17,
+            "name": "Torbjørn Heggem",
+            "pos": "CD-L",
+            "fp": 6
+          },
+          {
+            "n": 10,
+            "name": "Martin Ødegaard",
+            "pos": "RM",
+            "fp": 7
+          },
+          {
+            "n": 14,
+            "name": "Fredrik Aursnes",
+            "pos": "LM",
+            "fp": 8
+          },
+          {
+            "n": 9,
+            "name": "Erling Haaland",
+            "pos": "F",
+            "fp": 9
+          },
+          {
+            "n": 7,
+            "name": "Alexander Sørloth",
+            "pos": "RF",
+            "fp": 10
+          },
+          {
+            "n": 20,
+            "name": "Antonio Nusa",
+            "pos": "LF",
+            "fp": 11
+          }
+        ],
+        "subs": [
+          {
+            "n": 11,
+            "name": "Jørgen Strand Larsen",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 15,
+            "name": "Fredrik André Bjørkan",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 6,
+            "name": "Patrick Berg",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 25,
+            "name": "Henrik Falchener",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 24,
+            "name": "Sondre Langas",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 21,
+            "name": "Andreas Schjelderup",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 23,
+            "name": "Jens Petter Hauge",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 2,
+            "name": "Morten Thorsby",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 13,
+            "name": "Egil Selvik",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 16,
+            "name": "Marcus Holmgren Pedersen",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 12,
+            "name": "Sander Tangvik",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 18,
+            "name": "Kristian Thorstvedt",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 4,
+            "name": "Leo Østigard",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 19,
+            "name": "Thelo Aasgaard",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 22,
+            "name": "Oscar Bobb",
+            "pos": "SUB",
+            "fp": 0
+          }
+        ]
+      },
+      "away": {
+        "formation": "4-2-3-1",
+        "coach": "",
+        "xi": [
+          {
+            "n": 16,
+            "name": "Édouard Mendy",
+            "pos": "G",
+            "fp": 1
+          },
+          {
+            "n": 15,
+            "name": "Krépin Diatta",
+            "pos": "RB",
+            "fp": 2
+          },
+          {
+            "n": 25,
+            "name": "El Hadji Malick Diouf",
+            "pos": "LB",
+            "fp": 3
+          },
+          {
+            "n": 26,
+            "name": "Pape Gueye",
+            "pos": "LM",
+            "fp": 4
+          },
+          {
+            "n": 3,
+            "name": "Kalidou Koulibaly",
+            "pos": "CD-R",
+            "fp": 5
+          },
+          {
+            "n": 19,
+            "name": "Moussa Niakhaté",
+            "pos": "CD-L",
+            "fp": 6
+          },
+          {
+            "n": 18,
+            "name": "Ismaïla Sarr",
+            "pos": "AM-R",
+            "fp": 7
+          },
+          {
+            "n": 5,
+            "name": "Idrissa Gueye",
+            "pos": "RM",
+            "fp": 8
+          },
+          {
+            "n": 11,
+            "name": "Nicolas Jackson",
+            "pos": "F",
+            "fp": 9
+          },
+          {
+            "n": 8,
+            "name": "Lamine Camara",
+            "pos": "AM",
+            "fp": 10
+          },
+          {
+            "n": 10,
+            "name": "Sadio Mané",
+            "pos": "AM-L",
+            "fp": 11
+          }
+        ],
+        "subs": [
+          {
+            "n": 21,
+            "name": "Habib Diarra",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 24,
+            "name": "Antoine Mendy",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 9,
+            "name": "Bamba Dieng",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 17,
+            "name": "Pape Matar Sarr",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 4,
+            "name": "Abdoulaye Seck",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 14,
+            "name": "Ismail Jakobs",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 2,
+            "name": "Mamadou Sarr",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 6,
+            "name": "Pathé Ciss",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 13,
+            "name": "Iliman Ndiaye",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 1,
+            "name": "Yehvann Diouf",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 20,
+            "name": "Ibrahim Mbaye",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 23,
+            "name": "Mory Diaw",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 22,
+            "name": "Bara Sapoko Ndiaye",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 7,
+            "name": "Assane Diao",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 12,
+            "name": "Cherif Ndiaye",
+            "pos": "SUB",
+            "fp": 0
+          }
+        ]
+      }
+    }
   },
   {
     "id": "760455",
@@ -13758,6 +14091,75 @@
     "away": {
       "name": "Group C 2nd Place",
       "code": "2C",
+      "color": "#000000",
+      "altColor": "#000000"
+    },
+    "status": "pending"
+  },
+  {
+    "id": "760490",
+    "kickoff": "2026-07-01T02:00:00+09:00",
+    "group": "",
+    "matchday": "ラウンド32",
+    "dateLabel": "7月1日（水）",
+    "timeJST": "02:00",
+    "stadium": "AT&T Stadium",
+    "city": "Arlington, Texas",
+    "home": {
+      "name": "Group E 2nd Place",
+      "code": "2E",
+      "color": "#000000",
+      "altColor": "#000000"
+    },
+    "away": {
+      "name": "Group I 2nd Place",
+      "code": "2I",
+      "color": "#000000",
+      "altColor": "#000000"
+    },
+    "status": "pending"
+  },
+  {
+    "id": "760492",
+    "kickoff": "2026-07-01T06:00:00+09:00",
+    "group": "",
+    "matchday": "ラウンド32",
+    "dateLabel": "7月1日（水）",
+    "timeJST": "06:00",
+    "stadium": "MetLife Stadium",
+    "city": "East Rutherford, New Jersey",
+    "home": {
+      "name": "Group I Winner",
+      "code": "1I",
+      "color": "#000000",
+      "altColor": "#000000"
+    },
+    "away": {
+      "name": "Third Place Group C/D/F/G/H",
+      "code": "3RD",
+      "color": "#000000",
+      "altColor": "#000000"
+    },
+    "status": "pending"
+  },
+  {
+    "id": "760491",
+    "kickoff": "2026-07-01T10:00:00+09:00",
+    "group": "A",
+    "matchday": "ラウンド32",
+    "dateLabel": "7月1日（水）",
+    "timeJST": "10:00",
+    "stadium": "Estadio Banorte",
+    "city": "Mexico City",
+    "home": {
+      "name": "メキシコ",
+      "code": "MEX",
+      "color": "#006847",
+      "altColor": "#000000"
+    },
+    "away": {
+      "name": "Third Place Group C/E/F/H/I",
+      "code": "3RD",
       "color": "#000000",
       "altColor": "#000000"
     },
