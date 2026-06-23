@@ -14097,14 +14097,347 @@
     "home": {
       "name": "イングランド",
       "code": "ENG",
-      "color": "#ffffff"
+      "color": "#ffffff",
+      "altColor": "#EA1F29"
     },
     "away": {
       "name": "ガーナ",
       "code": "GHA",
-      "color": "#ce2931"
+      "color": "#fbd632",
+      "altColor": "#000000"
     },
-    "status": "pending"
+    "status": "released",
+    "capturedAt": "6/24 04:28 JST に取得・凍結",
+    "lineup": {
+      "home": {
+        "formation": "4-2-3-1",
+        "coach": "",
+        "xi": [
+          {
+            "n": 1,
+            "name": "Jordan Pickford",
+            "pos": "G",
+            "fp": 1
+          },
+          {
+            "n": 24,
+            "name": "Reece James",
+            "pos": "D",
+            "fp": 2
+          },
+          {
+            "n": 25,
+            "name": "Djed Spence",
+            "pos": "D",
+            "fp": 3
+          },
+          {
+            "n": 4,
+            "name": "Declan Rice",
+            "pos": "M",
+            "fp": 4
+          },
+          {
+            "n": 2,
+            "name": "Ezri Konsa",
+            "pos": "D",
+            "fp": 5
+          },
+          {
+            "n": 6,
+            "name": "Marc Guéhi",
+            "pos": "D",
+            "fp": 6
+          },
+          {
+            "n": 20,
+            "name": "Noni Madueke",
+            "pos": "M",
+            "fp": 7
+          },
+          {
+            "n": 8,
+            "name": "Elliot Anderson",
+            "pos": "M",
+            "fp": 8
+          },
+          {
+            "n": 9,
+            "name": "Harry Kane",
+            "pos": "F",
+            "fp": 9
+          },
+          {
+            "n": 10,
+            "name": "Jude Bellingham",
+            "pos": "M",
+            "fp": 10
+          },
+          {
+            "n": 18,
+            "name": "Anthony Gordon",
+            "pos": "M",
+            "fp": 11
+          }
+        ],
+        "subs": [
+          {
+            "n": 14,
+            "name": "Jordan Henderson",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 12,
+            "name": "Trevoh Chalobah",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 22,
+            "name": "Ivan Toney",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 17,
+            "name": "Morgan Rogers",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 21,
+            "name": "Eberechi Eze",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 26,
+            "name": "Jarell Quansah",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 19,
+            "name": "Ollie Watkins",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 5,
+            "name": "John Stones",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 13,
+            "name": "Dean Henderson",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 11,
+            "name": "Marcus Rashford",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 15,
+            "name": "Dan Burn",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 3,
+            "name": "Nico O'Reilly",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 7,
+            "name": "Bukayo Saka",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 16,
+            "name": "Kobbie Mainoo",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 23,
+            "name": "James Trafford",
+            "pos": "SUB",
+            "fp": 0
+          }
+        ]
+      },
+      "away": {
+        "formation": "4-3-3",
+        "coach": "",
+        "xi": [
+          {
+            "n": 16,
+            "name": "Benjamin Asare",
+            "pos": "G",
+            "fp": 1
+          },
+          {
+            "n": 26,
+            "name": "Marvin Senaya",
+            "pos": "D",
+            "fp": 2
+          },
+          {
+            "n": 14,
+            "name": "Gideon Mensah",
+            "pos": "D",
+            "fp": 3
+          },
+          {
+            "n": 5,
+            "name": "Thomas Partey",
+            "pos": "M",
+            "fp": 4
+          },
+          {
+            "n": 4,
+            "name": "Jonas Adjetey",
+            "pos": "D",
+            "fp": 5
+          },
+          {
+            "n": 18,
+            "name": "Jerome Opoku",
+            "pos": "D",
+            "fp": 6
+          },
+          {
+            "n": 3,
+            "name": "Caleb Yirenkyi",
+            "pos": "M",
+            "fp": 7
+          },
+          {
+            "n": 8,
+            "name": "Kwasi Sibo",
+            "pos": "M",
+            "fp": 8
+          },
+          {
+            "n": 9,
+            "name": "Jordan Ayew",
+            "pos": "F",
+            "fp": 9
+          },
+          {
+            "n": 19,
+            "name": "Iñaki Williams",
+            "pos": "F",
+            "fp": 10
+          },
+          {
+            "n": 11,
+            "name": "Antoine Semenyo",
+            "pos": "F",
+            "fp": 11
+          }
+        ],
+        "subs": [
+          {
+            "n": 12,
+            "name": "Joseph Anang",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 25,
+            "name": "Prince Adu",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 21,
+            "name": "Kojo Peprah Oppong",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 20,
+            "name": "Augustine Boakye",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 22,
+            "name": "Kamaldeen Sulemana",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 2,
+            "name": "Alidu Seidu",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 15,
+            "name": "Elisha Owusu",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 6,
+            "name": "Abdul Mumin",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 23,
+            "name": "Derrick Luckassen",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 17,
+            "name": "Baba Rahman",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 10,
+            "name": "Brandon Thomas-Asante",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 13,
+            "name": "Christopher Bonsu Baah",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 24,
+            "name": "Ernest Nuamah",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 1,
+            "name": "Lawrence Ati Zigi",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 7,
+            "name": "Fatawu Issahaku",
+            "pos": "SUB",
+            "fp": 0
+          }
+        ]
+      }
+    }
   },
   {
     "id": "760460",
