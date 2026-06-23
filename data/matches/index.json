@@ -13395,14 +13395,341 @@
     "home": {
       "name": "ヨルダン",
       "code": "JOR",
-      "color": "#E70000"
+      "color": "#E70000",
+      "altColor": "#ffffff"
     },
     "away": {
       "name": "アルジェリア",
       "code": "ALG",
-      "color": "#4F9A44"
+      "color": "#4F9A44",
+      "altColor": "#FFFFFF"
     },
-    "status": "pending"
+    "status": "released",
+    "capturedAt": "6/23 14:56 JST に取得・凍結",
+    "lineup": {
+      "home": {
+        "formation": "3-4-2-1",
+        "coach": "",
+        "xi": [
+          {
+            "n": 1,
+            "name": "Yazeed Abulaila",
+            "pos": "G",
+            "fp": 1
+          },
+          {
+            "n": 23,
+            "name": "Ehsan Haddad",
+            "pos": "RM",
+            "fp": 2
+          },
+          {
+            "n": 20,
+            "name": "Mohannad Abu Taha",
+            "pos": "LM",
+            "fp": 3
+          },
+          {
+            "n": 4,
+            "name": "Husam Abu Dahab",
+            "pos": "CD-L",
+            "fp": 4
+          },
+          {
+            "n": 5,
+            "name": "Yazan Al-Arab",
+            "pos": "CD",
+            "fp": 5
+          },
+          {
+            "n": 3,
+            "name": "Abdallah Nasib",
+            "pos": "CD-R",
+            "fp": 6
+          },
+          {
+            "n": 21,
+            "name": "Nizar Al-Rashdan",
+            "pos": "CM-R",
+            "fp": 7
+          },
+          {
+            "n": 8,
+            "name": "Noor Al-Rawabdeh",
+            "pos": "CM-L",
+            "fp": 8
+          },
+          {
+            "n": 10,
+            "name": "Mousa Al-Tamari",
+            "pos": "F",
+            "fp": 9
+          },
+          {
+            "n": 9,
+            "name": "Ali Olwan",
+            "pos": "CF-R",
+            "fp": 10
+          },
+          {
+            "n": 13,
+            "name": "Mahmoud Al-Mardi",
+            "pos": "CF-L",
+            "fp": 11
+          }
+        ],
+        "subs": [
+          {
+            "n": 2,
+            "name": "Mohammad Abu Hasheesh",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 18,
+            "name": "Mohammad Abughoush",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 19,
+            "name": "Saed Al-Rosan",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 17,
+            "name": "Saleem Obaid",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 15,
+            "name": "Ibrahim Sadeh",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 22,
+            "name": "Abdallah Al-Fakhouri",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 14,
+            "name": "Rajaei Ayed",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 7,
+            "name": "Mohammed Abu Zraiq",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 16,
+            "name": "Mohammad Abualnadi",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 24,
+            "name": "Ali Azaizeh",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 11,
+            "name": "Odeh Fakhoury",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 6,
+            "name": "Amer Jamous",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 25,
+            "name": "Mohammad Al-Daoud",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 26,
+            "name": "Anas Badawi",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 12,
+            "name": "Nour Bani Ateyah",
+            "pos": "SUB",
+            "fp": 0
+          }
+        ]
+      },
+      "away": {
+        "formation": "4-2-3-1",
+        "coach": "",
+        "xi": [
+          {
+            "n": 23,
+            "name": "Luca Zidane",
+            "pos": "G",
+            "fp": 1
+          },
+          {
+            "n": 17,
+            "name": "Rafik Belghali",
+            "pos": "RB",
+            "fp": 2
+          },
+          {
+            "n": 15,
+            "name": "Rayan Aït-Nouri",
+            "pos": "LB",
+            "fp": 3
+          },
+          {
+            "n": 6,
+            "name": "Ramiz Zerrouki",
+            "pos": "LM",
+            "fp": 4
+          },
+          {
+            "n": 2,
+            "name": "Aïssa Mandi",
+            "pos": "CD-R",
+            "fp": 5
+          },
+          {
+            "n": 21,
+            "name": "Ramy Bensebaini",
+            "pos": "CD-L",
+            "fp": 6
+          },
+          {
+            "n": 7,
+            "name": "Riyad Mahrez",
+            "pos": "AM-R",
+            "fp": 7
+          },
+          {
+            "n": 14,
+            "name": "Hicham Boudaoui",
+            "pos": "RM",
+            "fp": 8
+          },
+          {
+            "n": 9,
+            "name": "Amine Gouiri",
+            "pos": "F",
+            "fp": 9
+          },
+          {
+            "n": 22,
+            "name": "Ibrahim Maza",
+            "pos": "AM",
+            "fp": 10
+          },
+          {
+            "n": 10,
+            "name": "Farès Chaïbi",
+            "pos": "AM-L",
+            "fp": 11
+          }
+        ],
+        "subs": [
+          {
+            "n": 4,
+            "name": "Mohamed Amine Tougai",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 5,
+            "name": "Zineddine Belaïd",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 25,
+            "name": "Farès Ghedjemis",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 11,
+            "name": "Anis Hadj Moussa",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 16,
+            "name": "Oussama Benbot",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 3,
+            "name": "Achraf Abada",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 20,
+            "name": "Adil Boulbina",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 8,
+            "name": "Houssem Aouar",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 24,
+            "name": "Yassine Titraoui",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 13,
+            "name": "Jaouen Hadjam",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 19,
+            "name": "Nabil Bentaleb",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 12,
+            "name": "Nadhir Benbouali",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 26,
+            "name": "Samir Chergui",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 1,
+            "name": "Melvin Mastil",
+            "pos": "SUB",
+            "fp": 0
+          }
+        ]
+      }
+    }
   },
   {
     "id": "760461",
