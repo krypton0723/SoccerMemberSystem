@@ -15490,5 +15490,74 @@
       "altColor": "#000000"
     },
     "status": "pending"
+  },
+  {
+    "id": "760495",
+    "kickoff": "2026-07-02T01:00:00+09:00",
+    "group": "",
+    "matchday": "ラウンド32",
+    "dateLabel": "7月2日（木）",
+    "timeJST": "01:00",
+    "stadium": "Mercedes-Benz Stadium",
+    "city": "Atlanta, Georgia",
+    "home": {
+      "name": "Group L Winner",
+      "code": "1L",
+      "color": "#000000",
+      "altColor": "#000000"
+    },
+    "away": {
+      "name": "Third Place Group E/H/I/J/K",
+      "code": "3RD",
+      "color": "#000000",
+      "altColor": "#000000"
+    },
+    "status": "pending"
+  },
+  {
+    "id": "760493",
+    "kickoff": "2026-07-02T05:00:00+09:00",
+    "group": "",
+    "matchday": "ラウンド32",
+    "dateLabel": "7月2日（木）",
+    "timeJST": "05:00",
+    "stadium": "Lumen Field",
+    "city": "Seattle, Washington",
+    "home": {
+      "name": "Group G Winner",
+      "code": "1G",
+      "color": "#000000",
+      "altColor": "#000000"
+    },
+    "away": {
+      "name": "Third Place Group A/E/H/I/J",
+      "code": "3RD",
+      "color": "#000000",
+      "altColor": "#000000"
+    },
+    "status": "pending"
+  },
+  {
+    "id": "760494",
+    "kickoff": "2026-07-02T09:00:00+09:00",
+    "group": "D",
+    "matchday": "ラウンド32",
+    "dateLabel": "7月2日（木）",
+    "timeJST": "09:00",
+    "stadium": "Levi's Stadium",
+    "city": "Santa Clara, California",
+    "home": {
+      "name": "アメリカ",
+      "code": "USA",
+      "color": "#d42339",
+      "altColor": "#213065"
+    },
+    "away": {
+      "name": "Third Place Group B/E/F/I/J",
+      "code": "3RD",
+      "color": "#000000",
+      "altColor": "#000000"
+    },
+    "status": "pending"
   }
 ]
