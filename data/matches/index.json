@@ -14805,14 +14805,347 @@
     "home": {
       "name": "コロンビア",
       "code": "COL",
-      "color": "#fbd632"
+      "color": "#fbd632",
+      "altColor": "#21418c"
     },
     "away": {
       "name": "コンゴ民主共和国",
       "code": "COD",
-      "color": "#418fde"
+      "color": "#418fde",
+      "altColor": "#C60000"
     },
-    "status": "pending"
+    "status": "released",
+    "capturedAt": "6/24 10:53 JST に取得・凍結",
+    "lineup": {
+      "home": {
+        "formation": "4-3-3",
+        "coach": "",
+        "xi": [
+          {
+            "n": 12,
+            "name": "Camilo Vargas",
+            "pos": "G",
+            "fp": 1
+          },
+          {
+            "n": 2,
+            "name": "Daniel Muñoz",
+            "pos": "D",
+            "fp": 2
+          },
+          {
+            "n": 17,
+            "name": "Johan Mojica",
+            "pos": "D",
+            "fp": 3
+          },
+          {
+            "n": 16,
+            "name": "Jefferson Lerma",
+            "pos": "M",
+            "fp": 4
+          },
+          {
+            "n": 23,
+            "name": "Davinson Sánchez",
+            "pos": "D",
+            "fp": 5
+          },
+          {
+            "n": 3,
+            "name": "Jhon Lucumí",
+            "pos": "D",
+            "fp": 6
+          },
+          {
+            "n": 14,
+            "name": "Gustavo Puerta",
+            "pos": "M",
+            "fp": 7
+          },
+          {
+            "n": 11,
+            "name": "Jhon Arias",
+            "pos": "M",
+            "fp": 8
+          },
+          {
+            "n": 25,
+            "name": "Luis Suárez",
+            "pos": "F",
+            "fp": 9
+          },
+          {
+            "n": 10,
+            "name": "James Rodríguez",
+            "pos": "F",
+            "fp": 10
+          },
+          {
+            "n": 7,
+            "name": "Luis Díaz",
+            "pos": "F",
+            "fp": 11
+          }
+        ],
+        "subs": [
+          {
+            "n": 22,
+            "name": "Deiver Machado",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 9,
+            "name": "Jhon Córdoba",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 13,
+            "name": "Yerry Mina",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 5,
+            "name": "Kevin Castaño",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 15,
+            "name": "Juan Portilla",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 18,
+            "name": "Willer Ditta",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 8,
+            "name": "Jorge Carrascal",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 20,
+            "name": "Juan Fernando Quintero",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 4,
+            "name": "Santiago Arias",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 21,
+            "name": "Jáminton Campaz",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 6,
+            "name": "Richard Ríos",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 1,
+            "name": "David Ospina",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 26,
+            "name": "Andrés Gómez",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 24,
+            "name": "Álvaro Montero",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 19,
+            "name": "Cucho Hernández",
+            "pos": "SUB",
+            "fp": 0
+          }
+        ]
+      },
+      "away": {
+        "formation": "5-3-2",
+        "coach": "",
+        "xi": [
+          {
+            "n": 1,
+            "name": "Lionel Mpasi",
+            "pos": "G",
+            "fp": 1
+          },
+          {
+            "n": 2,
+            "name": "Aaron Wan-Bissaka",
+            "pos": "D",
+            "fp": 2
+          },
+          {
+            "n": 26,
+            "name": "Arthur Masuaku",
+            "pos": "D",
+            "fp": 3
+          },
+          {
+            "n": 3,
+            "name": "Steve Kapuadi",
+            "pos": "D",
+            "fp": 4
+          },
+          {
+            "n": 4,
+            "name": "Axel Tuanzebe",
+            "pos": "D",
+            "fp": 5
+          },
+          {
+            "n": 22,
+            "name": "Chancel Mbemba",
+            "pos": "D",
+            "fp": 6
+          },
+          {
+            "n": 6,
+            "name": "Ngal'ayel Mukau",
+            "pos": "M",
+            "fp": 7
+          },
+          {
+            "n": 8,
+            "name": "Samuel Moutoussamy",
+            "pos": "M",
+            "fp": 8
+          },
+          {
+            "n": 17,
+            "name": "Cédric Bakambu",
+            "pos": "F",
+            "fp": 9
+          },
+          {
+            "n": 20,
+            "name": "Yoane Wissa",
+            "pos": "F",
+            "fp": 10
+          },
+          {
+            "n": 25,
+            "name": "Edo Kayembe",
+            "pos": "M",
+            "fp": 11
+          }
+        ],
+        "subs": [
+          {
+            "n": 12,
+            "name": "Joris Kayembe",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 21,
+            "name": "Matthieu Epolo",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 7,
+            "name": "Nathanaël Mbuku",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 24,
+            "name": "Gédéon Kalulu",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 16,
+            "name": "Timothy Fayulu",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 5,
+            "name": "Dylan Batubinsika",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 10,
+            "name": "Théo Bongonda",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 11,
+            "name": "Gaël Kakuta",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 9,
+            "name": "Brian Cipenga",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 15,
+            "name": "Aaron Tshibola",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 14,
+            "name": "Noah Sadiki",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 18,
+            "name": "Charles Pickel",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 19,
+            "name": "Fiston Mayele",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 13,
+            "name": "Meschack Elia",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 23,
+            "name": "Simon Banza",
+            "pos": "SUB",
+            "fp": 0
+          }
+        ]
+      }
+    }
   },
   {
     "id": "760462",
