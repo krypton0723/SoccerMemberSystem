@@ -16533,14 +16533,341 @@
     "home": {
       "name": "チェコ",
       "code": "CZE",
-      "color": "#d7141a"
+      "color": "#d7141a",
+      "altColor": "#ffffff"
     },
     "away": {
       "name": "メキシコ",
       "code": "MEX",
-      "color": "#006847"
+      "color": "#006847",
+      "altColor": "#000000"
     },
-    "status": "pending"
+    "status": "released",
+    "capturedAt": "6/25 10:52 JST に取得・凍結",
+    "lineup": {
+      "home": {
+        "formation": "3-4-2-1",
+        "coach": "",
+        "xi": [
+          {
+            "n": 1,
+            "name": "Matej Kovár",
+            "pos": "G",
+            "fp": 1
+          },
+          {
+            "n": 5,
+            "name": "Vladimír Coufal",
+            "pos": "RM",
+            "fp": 2
+          },
+          {
+            "n": 21,
+            "name": "David Doudera",
+            "pos": "LM",
+            "fp": 3
+          },
+          {
+            "n": 7,
+            "name": "Ladislav Krejcí",
+            "pos": "CD-L",
+            "fp": 4
+          },
+          {
+            "n": 4,
+            "name": "Robin Hranác",
+            "pos": "CD",
+            "fp": 5
+          },
+          {
+            "n": 3,
+            "name": "Tomás Holes",
+            "pos": "CD-R",
+            "fp": 6
+          },
+          {
+            "n": 12,
+            "name": "Lukás Cerv",
+            "pos": "CM-R",
+            "fp": 7
+          },
+          {
+            "n": 18,
+            "name": "Michal Sadílek",
+            "pos": "CM-L",
+            "fp": 8
+          },
+          {
+            "n": 9,
+            "name": "Adam Hlozek",
+            "pos": "F",
+            "fp": 9
+          },
+          {
+            "n": 15,
+            "name": "Pavel Sulc",
+            "pos": "CF-R",
+            "fp": 10
+          },
+          {
+            "n": 26,
+            "name": "Denis Visinský",
+            "pos": "CF-L",
+            "fp": 11
+          }
+        ],
+        "subs": [
+          {
+            "n": 17,
+            "name": "Lukás Provod",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 2,
+            "name": "David Zima",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 20,
+            "name": "Jaroslav Zelený",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 23,
+            "name": "Lukás Hornícek",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 25,
+            "name": "Hugo Sochurek",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 19,
+            "name": "Tomás Chorý",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 6,
+            "name": "Stepán Chaloupek",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 10,
+            "name": "Patrik Schick",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 11,
+            "name": "Jan Kuchta",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 13,
+            "name": "Mojmír Chytil",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 22,
+            "name": "Tomás Soucek",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 8,
+            "name": "Vladimír Darida",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 16,
+            "name": "Jindrich Stanek",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 24,
+            "name": "Alexandr Sojka",
+            "pos": "SUB",
+            "fp": 0
+          }
+        ]
+      },
+      "away": {
+        "formation": "4-3-3",
+        "coach": "",
+        "xi": [
+          {
+            "n": 1,
+            "name": "Raúl Rangel",
+            "pos": "G",
+            "fp": 1
+          },
+          {
+            "n": 2,
+            "name": "Jorge Sánchez",
+            "pos": "RB",
+            "fp": 2
+          },
+          {
+            "n": 20,
+            "name": "Mateo Chávez",
+            "pos": "LB",
+            "fp": 3
+          },
+          {
+            "n": 4,
+            "name": "Edson Álvarez",
+            "pos": "CM",
+            "fp": 4
+          },
+          {
+            "n": 3,
+            "name": "César Montes",
+            "pos": "CD-R",
+            "fp": 5
+          },
+          {
+            "n": 15,
+            "name": "Israel Reyes",
+            "pos": "CD-L",
+            "fp": 6
+          },
+          {
+            "n": 19,
+            "name": "Gilberto Mora",
+            "pos": "RM",
+            "fp": 7
+          },
+          {
+            "n": 7,
+            "name": "Luis Romo",
+            "pos": "LM",
+            "fp": 8
+          },
+          {
+            "n": 22,
+            "name": "Guillermo Martínez",
+            "pos": "F",
+            "fp": 9
+          },
+          {
+            "n": 25,
+            "name": "Roberto Alvarado",
+            "pos": "RF",
+            "fp": 10
+          },
+          {
+            "n": 16,
+            "name": "Julián Quiñones",
+            "pos": "LF",
+            "fp": 11
+          }
+        ],
+        "subs": [
+          {
+            "n": 23,
+            "name": "Jesús Gallardo",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 5,
+            "name": "Johan Vásquez",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 17,
+            "name": "Orbelín Pineda",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 6,
+            "name": "Érik Lira",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 21,
+            "name": "César Huerta",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 9,
+            "name": "Raúl Jiménez",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 24,
+            "name": "Luis Chávez",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 14,
+            "name": "Armando González",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 10,
+            "name": "Alexis Vega",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 13,
+            "name": "Guillermo Ochoa",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 18,
+            "name": "Obed Vargas",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 26,
+            "name": "Brian Gutiérrez",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 8,
+            "name": "Álvaro Fidalgo",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 11,
+            "name": "Santiago Gimenez",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 12,
+            "name": "Carlos Acevedo",
+            "pos": "SUB",
+            "fp": 0
+          }
+        ]
+      }
+    }
   },
   {
     "id": "760466",
@@ -16554,14 +16881,335 @@
     "home": {
       "name": "南アフリカ",
       "code": "RSA",
-      "color": "#FFB81C"
+      "color": "#FFB81C",
+      "altColor": "#0C562E"
     },
     "away": {
       "name": "韓国",
       "code": "KOR",
-      "color": "#ce2028"
+      "color": "#ce2028",
+      "altColor": "#9E82C8"
     },
-    "status": "pending"
+    "status": "released",
+    "capturedAt": "6/25 10:52 JST に取得・凍結",
+    "lineup": {
+      "home": {
+        "formation": "4-2-3-1",
+        "coach": "",
+        "xi": [
+          {
+            "n": 1,
+            "name": "Ronwen Williams",
+            "pos": "G",
+            "fp": 1
+          },
+          {
+            "n": 20,
+            "name": "Khuliso Mudau",
+            "pos": "RB",
+            "fp": 2
+          },
+          {
+            "n": 6,
+            "name": "Aubrey Modiba",
+            "pos": "LB",
+            "fp": 3
+          },
+          {
+            "n": 13,
+            "name": "Sphephelo Sithole",
+            "pos": "LM",
+            "fp": 4
+          },
+          {
+            "n": 21,
+            "name": "Ime Okon",
+            "pos": "CD-R",
+            "fp": 5
+          },
+          {
+            "n": 14,
+            "name": "Mbekezeli Mbokazi",
+            "pos": "CD-L",
+            "fp": 6
+          },
+          {
+            "n": 12,
+            "name": "Thapelo Maseko",
+            "pos": "AM-R",
+            "fp": 7
+          },
+          {
+            "n": 5,
+            "name": "Thalente Mbatha",
+            "pos": "RM",
+            "fp": 8
+          },
+          {
+            "n": 17,
+            "name": "Evidence Makgopa",
+            "pos": "F",
+            "fp": 9
+          },
+          {
+            "n": 10,
+            "name": "Relebohile Mofokeng",
+            "pos": "AM",
+            "fp": 10
+          },
+          {
+            "n": 7,
+            "name": "Oswin Appollis",
+            "pos": "AM-L",
+            "fp": 11
+          }
+        ],
+        "subs": [
+          {
+            "n": 9,
+            "name": "Lyle Foster",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 24,
+            "name": "Olwethu Makhanya",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 3,
+            "name": "Khulumani Ndamane",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 26,
+            "name": "Bradley Cross",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 22,
+            "name": "Ricardo Goss",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 2,
+            "name": "Thabang Matuludi",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 19,
+            "name": "Nkosinathi Sibisi",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 18,
+            "name": "Samukele Kabini",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 16,
+            "name": "Sipho Chaine",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 8,
+            "name": "Tshepang Moremi",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 25,
+            "name": "Kamogelo Sebelebele",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 23,
+            "name": "Jayden Adams",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 15,
+            "name": "Iqraam Rayners",
+            "pos": "SUB",
+            "fp": 0
+          }
+        ]
+      },
+      "away": {
+        "formation": "3-4-2-1",
+        "coach": "",
+        "xi": [
+          {
+            "n": 1,
+            "name": "Kim Seung-Gyu",
+            "pos": "G",
+            "fp": 1
+          },
+          {
+            "n": 22,
+            "name": "Seol Young-Woo",
+            "pos": "RM",
+            "fp": 2
+          },
+          {
+            "n": 13,
+            "name": "Lee Tae-Seok",
+            "pos": "LM",
+            "fp": 3
+          },
+          {
+            "n": 3,
+            "name": "Lee Gi-Hyuk",
+            "pos": "CD-L",
+            "fp": 4
+          },
+          {
+            "n": 4,
+            "name": "Kim Min-Jae",
+            "pos": "CD",
+            "fp": 5
+          },
+          {
+            "n": 2,
+            "name": "Lee Han-Beom",
+            "pos": "CD-R",
+            "fp": 6
+          },
+          {
+            "n": 8,
+            "name": "Paik Seung-Ho",
+            "pos": "CM-R",
+            "fp": 7
+          },
+          {
+            "n": 6,
+            "name": "Hwang In-Beom",
+            "pos": "CM-L",
+            "fp": 8
+          },
+          {
+            "n": 18,
+            "name": "Oh Hyeon-Gyu",
+            "pos": "F",
+            "fp": 9
+          },
+          {
+            "n": 19,
+            "name": "Lee Kang-In",
+            "pos": "CF-R",
+            "fp": 10
+          },
+          {
+            "n": 11,
+            "name": "Hwang Hee-Chan",
+            "pos": "CF-L",
+            "fp": 11
+          }
+        ],
+        "subs": [
+          {
+            "n": 26,
+            "name": "Lee Dong-Gyeong",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 24,
+            "name": "Kim Jin-Gyu",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 23,
+            "name": "Jens Castrop",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 9,
+            "name": "Cho Gue-Sung",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 21,
+            "name": "Jo Hyeon-Woo",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 5,
+            "name": "Kim Tae-Hyeon",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 12,
+            "name": "Song Bum-Keun",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 16,
+            "name": "Park Jin-Seop",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 25,
+            "name": "Eom Ji-Sung",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 15,
+            "name": "Kim Moon-Hwan",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 17,
+            "name": "Bae Jun-Ho",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 7,
+            "name": "Son Heung-Min",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 14,
+            "name": "Cho Wi-Je",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 10,
+            "name": "Lee Jae-Sung",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 20,
+            "name": "Yang Hyun-Jun",
+            "pos": "SUB",
+            "fp": 0
+          }
+        ]
+      }
+    }
   },
   {
     "id": "760473",
@@ -17177,6 +17825,75 @@
     },
     "away": {
       "name": "Third Place Group B/E/F/I/J",
+      "code": "3RD",
+      "color": "#000000",
+      "altColor": "#000000"
+    },
+    "status": "pending"
+  },
+  {
+    "id": "760497",
+    "kickoff": "2026-07-03T04:00:00+09:00",
+    "group": "",
+    "matchday": "ラウンド32",
+    "dateLabel": "7月3日（金）",
+    "timeJST": "04:00",
+    "stadium": "SoFi Stadium",
+    "city": "Inglewood, California",
+    "home": {
+      "name": "Group H Winner",
+      "code": "1H",
+      "color": "#000000",
+      "altColor": "#000000"
+    },
+    "away": {
+      "name": "Group J 2nd Place",
+      "code": "2J",
+      "color": "#000000",
+      "altColor": "#000000"
+    },
+    "status": "pending"
+  },
+  {
+    "id": "760496",
+    "kickoff": "2026-07-03T08:00:00+09:00",
+    "group": "",
+    "matchday": "ラウンド32",
+    "dateLabel": "7月3日（金）",
+    "timeJST": "08:00",
+    "stadium": "BMO Field",
+    "city": "Toronto",
+    "home": {
+      "name": "Group K 2nd Place",
+      "code": "2K",
+      "color": "#000000",
+      "altColor": "#000000"
+    },
+    "away": {
+      "name": "Group L 2nd Place",
+      "code": "2L",
+      "color": "#000000",
+      "altColor": "#000000"
+    },
+    "status": "pending"
+  },
+  {
+    "id": "760498",
+    "kickoff": "2026-07-03T12:00:00+09:00",
+    "group": "B",
+    "matchday": "ラウンド32",
+    "dateLabel": "7月3日（金）",
+    "timeJST": "12:00",
+    "stadium": "BC Place",
+    "city": "Vancouver",
+    "home": {
+      "name": "スイス",
+      "code": "SUI",
+      "color": "#FF0000",
+      "altColor": "#BCECAC"
+    },
+    "away": {
+      "name": "Third Place Group E/F/G/I/J",
       "code": "3RD",
       "color": "#000000",
       "altColor": "#000000"
