@@ -18609,14 +18609,329 @@
     "home": {
       "name": "パラグアイ",
       "code": "PAR",
-      "color": "#ea2300"
+      "color": "#ea2300",
+      "altColor": "#21418c"
     },
     "away": {
       "name": "オーストラリア",
       "code": "AUS",
-      "color": "#FFCD00"
+      "color": "#FFCD00",
+      "altColor": "#FFCD00"
     },
-    "status": "pending"
+    "status": "released",
+    "capturedAt": "6/26 10:58 JST に取得・凍結",
+    "lineup": {
+      "home": {
+        "formation": "5-4-1",
+        "coach": "",
+        "xi": [
+          {
+            "n": 12,
+            "name": "Orlando Gil",
+            "pos": "G",
+            "fp": 1
+          },
+          {
+            "n": 4,
+            "name": "Juan Jose Cáceres",
+            "pos": "D",
+            "fp": 2
+          },
+          {
+            "n": 26,
+            "name": "Alexandro Maidana",
+            "pos": "D",
+            "fp": 3
+          },
+          {
+            "n": 3,
+            "name": "Omar Alderete",
+            "pos": "D",
+            "fp": 4
+          },
+          {
+            "n": 15,
+            "name": "Gustavo Gómez",
+            "pos": "D",
+            "fp": 5
+          },
+          {
+            "n": 2,
+            "name": "Gustavo Velázquez",
+            "pos": "D",
+            "fp": 6
+          },
+          {
+            "n": 8,
+            "name": "Diego Gómez",
+            "pos": "M",
+            "fp": 7
+          },
+          {
+            "n": 14,
+            "name": "Andrés Cubas",
+            "pos": "M",
+            "fp": 8
+          },
+          {
+            "n": 21,
+            "name": "Gabriel Ávalos",
+            "pos": "F",
+            "fp": 9
+          },
+          {
+            "n": 23,
+            "name": "Matías Galarza",
+            "pos": "M",
+            "fp": 10
+          },
+          {
+            "n": 19,
+            "name": "Julio Enciso",
+            "pos": "M",
+            "fp": 11
+          }
+        ],
+        "subs": [
+          {
+            "n": 22,
+            "name": "Gastón Olveira",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 24,
+            "name": "Gustavo Caballero",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 7,
+            "name": "Ramón Sosa",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 16,
+            "name": "Damián Bobadilla",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 20,
+            "name": "Braian Ojeda",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 18,
+            "name": "Alex Arce",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 6,
+            "name": "Júnior Alonso",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 9,
+            "name": "Antonio Sanabria",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 25,
+            "name": "Isidro Pitta",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 17,
+            "name": "Alejandro Romero Gamarra",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 1,
+            "name": "Gatito Fernández",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 13,
+            "name": "José Canale",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 5,
+            "name": "Fabián Balbuena",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 11,
+            "name": "Maurício",
+            "pos": "SUB",
+            "fp": 0
+          }
+        ]
+      },
+      "away": {
+        "formation": "3-4-2-1",
+        "coach": "",
+        "xi": [
+          {
+            "n": 18,
+            "name": "Patrick Beach",
+            "pos": "G",
+            "fp": 1
+          },
+          {
+            "n": 16,
+            "name": "Aziz Behich",
+            "pos": "M",
+            "fp": 2
+          },
+          {
+            "n": 5,
+            "name": "Jordan Bos",
+            "pos": "M",
+            "fp": 3
+          },
+          {
+            "n": 25,
+            "name": "Lucas Herrington",
+            "pos": "D",
+            "fp": 4
+          },
+          {
+            "n": 19,
+            "name": "Harry Souttar",
+            "pos": "D",
+            "fp": 5
+          },
+          {
+            "n": 3,
+            "name": "Alessandro Circati",
+            "pos": "D",
+            "fp": 6
+          },
+          {
+            "n": 13,
+            "name": "Aiden O'Neill",
+            "pos": "M",
+            "fp": 7
+          },
+          {
+            "n": 22,
+            "name": "Jackson Irvine",
+            "pos": "M",
+            "fp": 8
+          },
+          {
+            "n": 17,
+            "name": "Nestory Irankunda",
+            "pos": "F",
+            "fp": 9
+          },
+          {
+            "n": 8,
+            "name": "Connor Metcalfe",
+            "pos": "M",
+            "fp": 10
+          },
+          {
+            "n": 20,
+            "name": "Cristian Volpato",
+            "pos": "M",
+            "fp": 11
+          }
+        ],
+        "subs": [
+          {
+            "n": 12,
+            "name": "Paul Izzo",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 1,
+            "name": "Mathew Ryan",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 21,
+            "name": "Cameron Burgess",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 23,
+            "name": "Nishan Velupillay",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 11,
+            "name": "Awer Mabil",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 14,
+            "name": "Cameron Devlin",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 24,
+            "name": "Paul Okon-Engstler",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 26,
+            "name": "Tete Yengi",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 9,
+            "name": "Mohamed Toure",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 10,
+            "name": "Ajdin Hrustic",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 15,
+            "name": "Kai Trewin",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 2,
+            "name": "Milos Degenek",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 6,
+            "name": "Jason Geria",
+            "pos": "SUB",
+            "fp": 0
+          }
+        ]
+      }
+    }
   },
   {
     "id": "760470",
@@ -18630,14 +18945,341 @@
     "home": {
       "name": "トルコ",
       "code": "TUR",
-      "color": "#ffffff"
+      "color": "#ffffff",
+      "altColor": "#ef3340"
     },
     "away": {
       "name": "アメリカ",
       "code": "USA",
-      "color": "#d42339"
+      "color": "#d42339",
+      "altColor": "#213065"
     },
-    "status": "pending"
+    "status": "released",
+    "capturedAt": "6/26 10:58 JST に取得・凍結",
+    "lineup": {
+      "home": {
+        "formation": "4-2-3-1",
+        "coach": "",
+        "xi": [
+          {
+            "n": 23,
+            "name": "Ugurcan Çakir",
+            "pos": "G",
+            "fp": 1
+          },
+          {
+            "n": 2,
+            "name": "Zeki Çelik",
+            "pos": "D",
+            "fp": 2
+          },
+          {
+            "n": 13,
+            "name": "Eren Elmali",
+            "pos": "D",
+            "fp": 3
+          },
+          {
+            "n": 6,
+            "name": "Orkun Kökçü",
+            "pos": "M",
+            "fp": 4
+          },
+          {
+            "n": 15,
+            "name": "Ozan Kabak",
+            "pos": "D",
+            "fp": 5
+          },
+          {
+            "n": 14,
+            "name": "Abdülkerim Bardakçi",
+            "pos": "D",
+            "fp": 6
+          },
+          {
+            "n": 24,
+            "name": "Oguz Aydin",
+            "pos": "M",
+            "fp": 7
+          },
+          {
+            "n": 5,
+            "name": "Salih Özcan",
+            "pos": "M",
+            "fp": 8
+          },
+          {
+            "n": 21,
+            "name": "Baris Alper Yilmaz",
+            "pos": "F",
+            "fp": 9
+          },
+          {
+            "n": 8,
+            "name": "Arda Güler",
+            "pos": "M",
+            "fp": 10
+          },
+          {
+            "n": 11,
+            "name": "Kenan Yildiz",
+            "pos": "M",
+            "fp": 11
+          }
+        ],
+        "subs": [
+          {
+            "n": 22,
+            "name": "Kaan Ayhan",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 25,
+            "name": "Samet Akaydin",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 17,
+            "name": "Irfan Can Kahveci",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 1,
+            "name": "Mert Günok",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 7,
+            "name": "Kerem Aktürkoglu",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 16,
+            "name": "Ismail Yüksek",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 9,
+            "name": "Deniz Gül",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 18,
+            "name": "Mert Müldür",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 10,
+            "name": "Hakan Çalhanoglu",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 19,
+            "name": "Yunus Akgün",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 26,
+            "name": "Can Uzun",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 12,
+            "name": "Altay Bayindir",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 20,
+            "name": "Ferdi Kadioglu",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 4,
+            "name": "Çaglar Söyüncü",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 3,
+            "name": "Merih Demiral",
+            "pos": "SUB",
+            "fp": 0
+          }
+        ]
+      },
+      "away": {
+        "formation": "4-2-3-1",
+        "coach": "",
+        "xi": [
+          {
+            "n": 1,
+            "name": "Matt Turner",
+            "pos": "G",
+            "fp": 1
+          },
+          {
+            "n": 23,
+            "name": "Joe Scally",
+            "pos": "D",
+            "fp": 2
+          },
+          {
+            "n": 22,
+            "name": "Mark McKenzie",
+            "pos": "D",
+            "fp": 3
+          },
+          {
+            "n": 8,
+            "name": "Weston McKennie",
+            "pos": "M",
+            "fp": 4
+          },
+          {
+            "n": 6,
+            "name": "Auston Trusty",
+            "pos": "D",
+            "fp": 5
+          },
+          {
+            "n": 12,
+            "name": "Miles Robinson",
+            "pos": "D",
+            "fp": 6
+          },
+          {
+            "n": 21,
+            "name": "Timothy Weah",
+            "pos": "M",
+            "fp": 7
+          },
+          {
+            "n": 14,
+            "name": "Sebastian Berhalter",
+            "pos": "M",
+            "fp": 8
+          },
+          {
+            "n": 9,
+            "name": "Ricardo Pepi",
+            "pos": "F",
+            "fp": 9
+          },
+          {
+            "n": 7,
+            "name": "Giovanni Reyna",
+            "pos": "M",
+            "fp": 10
+          },
+          {
+            "n": 11,
+            "name": "Brenden Aaronson",
+            "pos": "M",
+            "fp": 11
+          }
+        ],
+        "subs": [
+          {
+            "n": 13,
+            "name": "Tim Ream",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 17,
+            "name": "Malik Tillman",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 20,
+            "name": "Folarin Balogun",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 4,
+            "name": "Tyler Adams",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 18,
+            "name": "Max Arfsten",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 24,
+            "name": "Matt Freese",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 10,
+            "name": "Christian Pulisic",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 26,
+            "name": "Alejandro Zendejas",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 2,
+            "name": "Sergiño Dest",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 3,
+            "name": "Chris Richards",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 19,
+            "name": "Haji Wright",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 5,
+            "name": "Antonee Robinson",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 16,
+            "name": "Alex Freeman",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 25,
+            "name": "Chris Brady",
+            "pos": "SUB",
+            "fp": 0
+          }
+        ]
+      }
+    }
   },
   {
     "id": "760475",
