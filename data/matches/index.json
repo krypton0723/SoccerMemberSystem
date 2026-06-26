@@ -19201,5 +19201,74 @@
       "altColor": "#000000"
     },
     "status": "pending"
+  },
+  {
+    "id": "760499",
+    "kickoff": "2026-07-04T03:00:00+09:00",
+    "group": "",
+    "matchday": "ラウンド32",
+    "dateLabel": "7月4日（土）",
+    "timeJST": "03:00",
+    "stadium": "AT&T Stadium",
+    "city": "Arlington, Texas",
+    "home": {
+      "name": "Group D 2nd Place",
+      "code": "2D",
+      "color": "#000000",
+      "altColor": "#000000"
+    },
+    "away": {
+      "name": "Group G 2nd Place",
+      "code": "2G",
+      "color": "#000000",
+      "altColor": "#000000"
+    },
+    "status": "pending"
+  },
+  {
+    "id": "760500",
+    "kickoff": "2026-07-04T07:00:00+09:00",
+    "group": "J",
+    "matchday": "ラウンド32",
+    "dateLabel": "7月4日（土）",
+    "timeJST": "07:00",
+    "stadium": "Hard Rock Stadium",
+    "city": "Miami Gardens, Florida",
+    "home": {
+      "name": "アルゼンチン",
+      "code": "ARG",
+      "color": "#74acdf",
+      "altColor": "#173E69"
+    },
+    "away": {
+      "name": "Group H 2nd Place",
+      "code": "2H",
+      "color": "#000000",
+      "altColor": "#000000"
+    },
+    "status": "pending"
+  },
+  {
+    "id": "760501",
+    "kickoff": "2026-07-04T10:30:00+09:00",
+    "group": "",
+    "matchday": "ラウンド32",
+    "dateLabel": "7月4日（土）",
+    "timeJST": "10:30",
+    "stadium": "GEHA Field at Arrowhead Stadium",
+    "city": "Kansas City, Missouri",
+    "home": {
+      "name": "Group K Winner",
+      "code": "1K",
+      "color": "#000000",
+      "altColor": "#000000"
+    },
+    "away": {
+      "name": "Third Place Group D/E/I/J/L",
+      "code": "3RD",
+      "color": "#000000",
+      "altColor": "#000000"
+    },
+    "status": "pending"
   }
 ]
