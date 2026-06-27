@@ -21226,5 +21226,51 @@
       "altColor": "#000000"
     },
     "status": "pending"
+  },
+  {
+    "id": "760502",
+    "kickoff": "2026-07-05T02:00:00+09:00",
+    "group": "",
+    "matchday": "ラウンド16",
+    "dateLabel": "7月5日（日）",
+    "timeJST": "02:00",
+    "stadium": "NRG Stadium",
+    "city": "Houston, Texas",
+    "home": {
+      "name": "Round of 32 1 Winner",
+      "code": "RD32",
+      "color": "#000000",
+      "altColor": "#000000"
+    },
+    "away": {
+      "name": "Round of 32 3 Winner",
+      "code": "RD32",
+      "color": "#000000",
+      "altColor": "#000000"
+    },
+    "status": "pending"
+  },
+  {
+    "id": "760503",
+    "kickoff": "2026-07-05T06:00:00+09:00",
+    "group": "",
+    "matchday": "ラウンド16",
+    "dateLabel": "7月5日（日）",
+    "timeJST": "06:00",
+    "stadium": "Lincoln Financial Field",
+    "city": "Philadelphia, Pennsylvania",
+    "home": {
+      "name": "Round of 32 2 Winner",
+      "code": "RD32",
+      "color": "#000000",
+      "altColor": "#000000"
+    },
+    "away": {
+      "name": "Round of 32 5 Winner",
+      "code": "RD32",
+      "color": "#000000",
+      "altColor": "#000000"
+    },
+    "status": "pending"
   }
 ]
