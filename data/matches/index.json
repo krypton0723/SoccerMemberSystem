@@ -22086,7 +22086,338 @@
       "color": "#da291c",
       "altColor": "#0D6938"
     },
-    "status": "pending"
+    "status": "released",
+    "capturedAt": "6/28 07:44 JST に取得・凍結",
+    "lineup": {
+      "home": {
+        "formation": "4-3-3",
+        "coach": "",
+        "xi": [
+          {
+            "n": 12,
+            "name": "Camilo Vargas",
+            "pos": "G",
+            "fp": 1
+          },
+          {
+            "n": 4,
+            "name": "Santiago Arias",
+            "pos": "D",
+            "fp": 2
+          },
+          {
+            "n": 22,
+            "name": "Deiver Machado",
+            "pos": "D",
+            "fp": 3
+          },
+          {
+            "n": 16,
+            "name": "Jefferson Lerma",
+            "pos": "M",
+            "fp": 4
+          },
+          {
+            "n": 23,
+            "name": "Davinson Sánchez",
+            "pos": "D",
+            "fp": 5
+          },
+          {
+            "n": 3,
+            "name": "Jhon Lucumí",
+            "pos": "D",
+            "fp": 6
+          },
+          {
+            "n": 14,
+            "name": "Gustavo Puerta",
+            "pos": "M",
+            "fp": 7
+          },
+          {
+            "n": 11,
+            "name": "Jhon Arias",
+            "pos": "M",
+            "fp": 8
+          },
+          {
+            "n": 9,
+            "name": "Jhon Córdoba",
+            "pos": "F",
+            "fp": 9
+          },
+          {
+            "n": 10,
+            "name": "James Rodríguez",
+            "pos": "F",
+            "fp": 10
+          },
+          {
+            "n": 7,
+            "name": "Luis Díaz",
+            "pos": "F",
+            "fp": 11
+          }
+        ],
+        "subs": [
+          {
+            "n": 2,
+            "name": "Daniel Muñoz",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 25,
+            "name": "Luis Suárez",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 21,
+            "name": "Jáminton Campaz",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 19,
+            "name": "Cucho Hernández",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 1,
+            "name": "David Ospina",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 5,
+            "name": "Kevin Castaño",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 18,
+            "name": "Willer Ditta",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 26,
+            "name": "Andrés Gómez",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 24,
+            "name": "Álvaro Montero",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 8,
+            "name": "Jorge Carrascal",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 13,
+            "name": "Yerry Mina",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 15,
+            "name": "Juan Portilla",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 17,
+            "name": "Johan Mojica",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 20,
+            "name": "Juan Fernando Quintero",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 6,
+            "name": "Richard Ríos",
+            "pos": "SUB",
+            "fp": 0
+          }
+        ]
+      },
+      "away": {
+        "formation": "4-2-3-1",
+        "coach": "",
+        "xi": [
+          {
+            "n": 1,
+            "name": "Diogo Costa",
+            "pos": "G",
+            "fp": 1
+          },
+          {
+            "n": 20,
+            "name": "João Cancelo",
+            "pos": "D",
+            "fp": 2
+          },
+          {
+            "n": 25,
+            "name": "Nuno Mendes",
+            "pos": "D",
+            "fp": 3
+          },
+          {
+            "n": 23,
+            "name": "Vitinha ",
+            "pos": "M",
+            "fp": 4
+          },
+          {
+            "n": 3,
+            "name": "Rúben Dias",
+            "pos": "D",
+            "fp": 5
+          },
+          {
+            "n": 13,
+            "name": "Renato Veiga",
+            "pos": "D",
+            "fp": 6
+          },
+          {
+            "n": 18,
+            "name": "Pedro Neto",
+            "pos": "M",
+            "fp": 7
+          },
+          {
+            "n": 21,
+            "name": "Rúben Neves",
+            "pos": "M",
+            "fp": 8
+          },
+          {
+            "n": 7,
+            "name": "Cristiano Ronaldo",
+            "pos": "F",
+            "fp": 9
+          },
+          {
+            "n": 8,
+            "name": "Bruno Fernandes",
+            "pos": "M",
+            "fp": 10
+          },
+          {
+            "n": 11,
+            "name": "João Félix",
+            "pos": "M",
+            "fp": 11
+          }
+        ],
+        "subs": [
+          {
+            "n": 16,
+            "name": "Francisco Trincão",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 15,
+            "name": "João Neves",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 9,
+            "name": "Gonçalo Ramos",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 2,
+            "name": "Nélson Semedo",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 19,
+            "name": "Gonçalo Guedes",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 17,
+            "name": "Rafael Leão",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 22,
+            "name": "Rui Silva",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 24,
+            "name": "Samú Costa",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 5,
+            "name": "Diogo Dalot",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 10,
+            "name": "Bernardo Silva",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 4,
+            "name": "Tomás Araújo",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 14,
+            "name": "Gonçalo Inácio",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 6,
+            "name": "Matheus Nunes",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 12,
+            "name": "José Sá",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 26,
+            "name": "Francisco Conceição",
+            "pos": "SUB",
+            "fp": 0
+          }
+        ]
+      }
+    }
   },
   {
     "id": "760482",
@@ -22109,7 +22440,338 @@
       "color": "#ffffff",
       "altColor": "#0072CE"
     },
-    "status": "pending"
+    "status": "released",
+    "capturedAt": "6/28 07:44 JST に取得・凍結",
+    "lineup": {
+      "home": {
+        "formation": "4-4-2",
+        "coach": "",
+        "xi": [
+          {
+            "n": 1,
+            "name": "Lionel Mpasi",
+            "pos": "G",
+            "fp": 1
+          },
+          {
+            "n": 2,
+            "name": "Aaron Wan-Bissaka",
+            "pos": "D",
+            "fp": 2
+          },
+          {
+            "n": 26,
+            "name": "Arthur Masuaku",
+            "pos": "D",
+            "fp": 3
+          },
+          {
+            "n": 8,
+            "name": "Samuel Moutoussamy",
+            "pos": "M",
+            "fp": 4
+          },
+          {
+            "n": 22,
+            "name": "Chancel Mbemba",
+            "pos": "D",
+            "fp": 5
+          },
+          {
+            "n": 4,
+            "name": "Axel Tuanzebe",
+            "pos": "D",
+            "fp": 6
+          },
+          {
+            "n": 7,
+            "name": "Nathanaël Mbuku",
+            "pos": "M",
+            "fp": 7
+          },
+          {
+            "n": 14,
+            "name": "Noah Sadiki",
+            "pos": "M",
+            "fp": 8
+          },
+          {
+            "n": 17,
+            "name": "Cédric Bakambu",
+            "pos": "F",
+            "fp": 9
+          },
+          {
+            "n": 20,
+            "name": "Yoane Wissa",
+            "pos": "F",
+            "fp": 10
+          },
+          {
+            "n": 9,
+            "name": "Brian Cipenga",
+            "pos": "M",
+            "fp": 11
+          }
+        ],
+        "subs": [
+          {
+            "n": 11,
+            "name": "Gaël Kakuta",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 6,
+            "name": "Ngal'ayel Mukau",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 19,
+            "name": "Fiston Mayele",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 24,
+            "name": "Gédéon Kalulu",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 25,
+            "name": "Edo Kayembe",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 23,
+            "name": "Simon Banza",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 21,
+            "name": "Matthieu Epolo",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 12,
+            "name": "Joris Kayembe",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 13,
+            "name": "Meschack Elia",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 10,
+            "name": "Théo Bongonda",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 3,
+            "name": "Steve Kapuadi",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 16,
+            "name": "Timothy Fayulu",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 5,
+            "name": "Dylan Batubinsika",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 18,
+            "name": "Charles Pickel",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 15,
+            "name": "Aaron Tshibola",
+            "pos": "SUB",
+            "fp": 0
+          }
+        ]
+      },
+      "away": {
+        "formation": "3-4-2-1",
+        "coach": "",
+        "xi": [
+          {
+            "n": 12,
+            "name": "Abduvohid Nematov",
+            "pos": "G",
+            "fp": 1
+          },
+          {
+            "n": 3,
+            "name": "Khojiakbar Alijonov",
+            "pos": "M",
+            "fp": 2
+          },
+          {
+            "n": 13,
+            "name": "Sherzod Nasrullaev",
+            "pos": "M",
+            "fp": 3
+          },
+          {
+            "n": 5,
+            "name": "Rustam Ashurmatov",
+            "pos": "D",
+            "fp": 4
+          },
+          {
+            "n": 26,
+            "name": "Jakhongir Urozov",
+            "pos": "D",
+            "fp": 5
+          },
+          {
+            "n": 2,
+            "name": "Abdukodir Khusanov",
+            "pos": "D",
+            "fp": 6
+          },
+          {
+            "n": 6,
+            "name": "Akmal Mozgovoy",
+            "pos": "M",
+            "fp": 7
+          },
+          {
+            "n": 7,
+            "name": "Otabek Shukurov",
+            "pos": "M",
+            "fp": 8
+          },
+          {
+            "n": 14,
+            "name": "Eldor Shomurodov",
+            "pos": "F",
+            "fp": 9
+          },
+          {
+            "n": 17,
+            "name": "Dostonbek Khamdamov",
+            "pos": "M",
+            "fp": 10
+          },
+          {
+            "n": 22,
+            "name": "Abbosbek Fayzullaev",
+            "pos": "M",
+            "fp": 11
+          }
+        ],
+        "subs": [
+          {
+            "n": 19,
+            "name": "Azizjon Ganiev",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 10,
+            "name": "Ruslanbek Jiyanov",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 18,
+            "name": "Abdulla Abdullaev",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 25,
+            "name": "Avazbek Ulmasaliyev",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 20,
+            "name": "Azizbek Amonov",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 4,
+            "name": "Farrukh Sayfiev",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 11,
+            "name": "Oston Urunov",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 16,
+            "name": "Botirali Ergashev",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 8,
+            "name": "Jamshid Iskanderov",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 21,
+            "name": "Igor Sergeev",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 1,
+            "name": "Utkir Yusupov",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 24,
+            "name": "Behruzjon Karimov",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 9,
+            "name": "Odiljon Xamrobekov",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 23,
+            "name": "Sherzod Esanov",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 15,
+            "name": "Umar Eshmurodov",
+            "pos": "SUB",
+            "fp": 0
+          }
+        ]
+      }
+    }
   },
   {
     "id": "760484",
