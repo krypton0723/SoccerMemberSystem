@@ -23478,25 +23478,344 @@
   {
     "id": "760486",
     "kickoff": "2026-06-29T04:00:00+09:00",
-    "group": "",
+    "group": "A",
     "matchday": "ラウンド32",
     "dateLabel": "6月29日（月）",
     "timeJST": "04:00",
     "stadium": "SoFi Stadium",
     "city": "Inglewood, California",
     "home": {
-      "name": "Group A 2nd Place",
-      "code": "2A",
-      "color": "#000000",
-      "altColor": "#000000"
+      "name": "南アフリカ",
+      "code": "RSA",
+      "color": "#FFB81C",
+      "altColor": "#0C562E"
     },
     "away": {
-      "name": "Group B 2nd Place",
-      "code": "2B",
-      "color": "#000000",
+      "name": "カナダ",
+      "code": "CAN",
+      "color": "#ed2224",
       "altColor": "#000000"
     },
-    "status": "pending"
+    "status": "released",
+    "capturedAt": "6/29 04:37 JST に取得・凍結",
+    "lineup": {
+      "home": {
+        "formation": "4-2-3-1",
+        "coach": "",
+        "xi": [
+          {
+            "n": 1,
+            "name": "Ronwen Williams",
+            "pos": "G",
+            "fp": 1
+          },
+          {
+            "n": 20,
+            "name": "Khuliso Mudau",
+            "pos": "RB",
+            "fp": 2
+          },
+          {
+            "n": 6,
+            "name": "Aubrey Modiba",
+            "pos": "LB",
+            "fp": 3
+          },
+          {
+            "n": 13,
+            "name": "Sphephelo Sithole",
+            "pos": "LM",
+            "fp": 4
+          },
+          {
+            "n": 21,
+            "name": "Ime Okon",
+            "pos": "CD-R",
+            "fp": 5
+          },
+          {
+            "n": 14,
+            "name": "Mbekezeli Mbokazi",
+            "pos": "CD-L",
+            "fp": 6
+          },
+          {
+            "n": 12,
+            "name": "Thapelo Maseko",
+            "pos": "AM-R",
+            "fp": 7
+          },
+          {
+            "n": 4,
+            "name": "Teboho Mokoena",
+            "pos": "RM",
+            "fp": 8
+          },
+          {
+            "n": 17,
+            "name": "Evidence Makgopa",
+            "pos": "F",
+            "fp": 9
+          },
+          {
+            "n": 10,
+            "name": "Relebohile Mofokeng",
+            "pos": "AM",
+            "fp": 10
+          },
+          {
+            "n": 7,
+            "name": "Oswin Appollis",
+            "pos": "AM-L",
+            "fp": 11
+          }
+        ],
+        "subs": [
+          {
+            "n": 15,
+            "name": "Iqraam Rayners",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 19,
+            "name": "Nkosinathi Sibisi",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 25,
+            "name": "Kamogelo Sebelebele",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 23,
+            "name": "Jayden Adams",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 18,
+            "name": "Samukele Kabini",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 16,
+            "name": "Sipho Chaine",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 24,
+            "name": "Olwethu Makhanya",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 8,
+            "name": "Tshepang Moremi",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 26,
+            "name": "Bradley Cross",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 3,
+            "name": "Khulumani Ndamane",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 2,
+            "name": "Thabang Matuludi",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 9,
+            "name": "Lyle Foster",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 5,
+            "name": "Thalente Mbatha",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 22,
+            "name": "Ricardo Goss",
+            "pos": "SUB",
+            "fp": 0
+          }
+        ]
+      },
+      "away": {
+        "formation": "4-4-2",
+        "coach": "",
+        "xi": [
+          {
+            "n": 16,
+            "name": "Maxime Crépeau",
+            "pos": "G",
+            "fp": 1
+          },
+          {
+            "n": 2,
+            "name": "Alistair Johnston",
+            "pos": "RB",
+            "fp": 2
+          },
+          {
+            "n": 22,
+            "name": "Richie Laryea",
+            "pos": "LB",
+            "fp": 3
+          },
+          {
+            "n": 25,
+            "name": "Nathan Saliba",
+            "pos": "CM-R",
+            "fp": 4
+          },
+          {
+            "n": 15,
+            "name": "Moïse Bombito",
+            "pos": "CD-R",
+            "fp": 5
+          },
+          {
+            "n": 13,
+            "name": "Derek Cornelius",
+            "pos": "CD-L",
+            "fp": 6
+          },
+          {
+            "n": 17,
+            "name": "Tajon Buchanan",
+            "pos": "RM",
+            "fp": 7
+          },
+          {
+            "n": 7,
+            "name": "Stephen Eustáquio",
+            "pos": "CM-L",
+            "fp": 8
+          },
+          {
+            "n": 12,
+            "name": "Tani Oluwaseyi",
+            "pos": "CF-L",
+            "fp": 9
+          },
+          {
+            "n": 10,
+            "name": "Jonathan David",
+            "pos": "CF-R",
+            "fp": 10
+          },
+          {
+            "n": 11,
+            "name": "Liam Millar",
+            "pos": "LM",
+            "fp": 11
+          }
+        ],
+        "subs": [
+          {
+            "n": 21,
+            "name": "Jonathan Osorio",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 1,
+            "name": "Dayne St. Clair",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 14,
+            "name": "Jacob Shaffelburg",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 18,
+            "name": "Owen Goodman",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 24,
+            "name": "Promise David",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 26,
+            "name": "Jayden Nelson",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 20,
+            "name": "Ali Ahmed",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 5,
+            "name": "Joel Waterman",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 6,
+            "name": "Mathieu Choinière",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 3,
+            "name": "Alfie Jones",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 4,
+            "name": "Luc de Fougerolles",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 23,
+            "name": "Niko Sigur",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 19,
+            "name": "Alphonso Davies",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 9,
+            "name": "Cyle Larin",
+            "pos": "SUB",
+            "fp": 0
+          }
+        ]
+      }
+    }
   },
   {
     "id": "760487",
