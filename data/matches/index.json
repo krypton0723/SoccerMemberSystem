@@ -22794,7 +22794,332 @@
       "color": "#d72b2c",
       "altColor": "#000000"
     },
-    "status": "pending"
+    "status": "released",
+    "capturedAt": "6/28 11:02 JST に取得・凍結",
+    "lineup": {
+      "home": {
+        "formation": "4-3-3",
+        "coach": "",
+        "xi": [
+          {
+            "n": 16,
+            "name": "Oussama Benbot",
+            "pos": "G",
+            "fp": 1
+          },
+          {
+            "n": 17,
+            "name": "Rafik Belghali",
+            "pos": "RB",
+            "fp": 2
+          },
+          {
+            "n": 13,
+            "name": "Jaouen Hadjam",
+            "pos": "LB",
+            "fp": 3
+          },
+          {
+            "n": 19,
+            "name": "Nabil Bentaleb",
+            "pos": "CM",
+            "fp": 4
+          },
+          {
+            "n": 2,
+            "name": "Aïssa Mandi",
+            "pos": "CD-R",
+            "fp": 5
+          },
+          {
+            "n": 21,
+            "name": "Ramy Bensebaini",
+            "pos": "CD-L",
+            "fp": 6
+          },
+          {
+            "n": 8,
+            "name": "Houssem Aouar",
+            "pos": "RM",
+            "fp": 7
+          },
+          {
+            "n": 22,
+            "name": "Ibrahim Maza",
+            "pos": "LM",
+            "fp": 8
+          },
+          {
+            "n": 9,
+            "name": "Amine Gouiri",
+            "pos": "F",
+            "fp": 9
+          },
+          {
+            "n": 7,
+            "name": "Riyad Mahrez",
+            "pos": "RF",
+            "fp": 10
+          },
+          {
+            "n": 10,
+            "name": "Farès Chaïbi",
+            "pos": "LF",
+            "fp": 11
+          }
+        ],
+        "subs": [
+          {
+            "n": 15,
+            "name": "Rayan Aït-Nouri",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 26,
+            "name": "Samir Chergui",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 6,
+            "name": "Ramiz Zerrouki",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 25,
+            "name": "Farès Ghedjemis",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 1,
+            "name": "Melvin Mastil",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 14,
+            "name": "Hicham Boudaoui",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 5,
+            "name": "Zineddine Belaïd",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 23,
+            "name": "Luca Zidane",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 11,
+            "name": "Anis Hadj Moussa",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 20,
+            "name": "Adil Boulbina",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 3,
+            "name": "Achraf Abada",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 12,
+            "name": "Nadhir Benbouali",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 24,
+            "name": "Yassine Titraoui",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 4,
+            "name": "Mohamed Amine Tougai",
+            "pos": "SUB",
+            "fp": 0
+          }
+        ]
+      },
+      "away": {
+        "formation": "4-2-3-1",
+        "coach": "",
+        "xi": [
+          {
+            "n": 1,
+            "name": "Alexander Schlager",
+            "pos": "G",
+            "fp": 1
+          },
+          {
+            "n": 5,
+            "name": "Stefan Posch",
+            "pos": "RB",
+            "fp": 2
+          },
+          {
+            "n": 16,
+            "name": "Phillipp Mwene",
+            "pos": "LB",
+            "fp": 3
+          },
+          {
+            "n": 4,
+            "name": "Xaver Schlager",
+            "pos": "LM",
+            "fp": 4
+          },
+          {
+            "n": 15,
+            "name": "Philipp Lienhart",
+            "pos": "CD-R",
+            "fp": 5
+          },
+          {
+            "n": 8,
+            "name": "David Alaba",
+            "pos": "CD-L",
+            "fp": 6
+          },
+          {
+            "n": 18,
+            "name": "Romano Schmid",
+            "pos": "AM-R",
+            "fp": 7
+          },
+          {
+            "n": 6,
+            "name": "Nicolas Seiwald",
+            "pos": "RM",
+            "fp": 8
+          },
+          {
+            "n": 7,
+            "name": "Marko Arnautovic",
+            "pos": "F",
+            "fp": 9
+          },
+          {
+            "n": 20,
+            "name": "Konrad Laimer",
+            "pos": "AM",
+            "fp": 10
+          },
+          {
+            "n": 9,
+            "name": "Marcel Sabitzer",
+            "pos": "AM-L",
+            "fp": 11
+          }
+        ],
+        "subs": [
+          {
+            "n": 10,
+            "name": "Florian Grillitsch",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 3,
+            "name": "Kevin Danso",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 25,
+            "name": "Michael Svoboda",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 22,
+            "name": "Alexander Prass",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 17,
+            "name": "Carney Chukwuemeka",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 13,
+            "name": "Patrick Pentz",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 26,
+            "name": "Alessandro Schöpf",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 2,
+            "name": "David Affengruber",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 21,
+            "name": "Patrick Wimmer",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 14,
+            "name": "Sasa Kalajdzic",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 12,
+            "name": "Florian Wiegele",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 19,
+            "name": "Dejan Ljubicic",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 11,
+            "name": "Michael Gregoritsch",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 24,
+            "name": "Paul Wanner",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 23,
+            "name": "Marco Friedl",
+            "pos": "SUB",
+            "fp": 0
+          }
+        ]
+      }
+    }
   },
   {
     "id": "760483",
@@ -22817,7 +23142,338 @@
       "color": "#74acdf",
       "altColor": "#173E69"
     },
-    "status": "pending"
+    "status": "released",
+    "capturedAt": "6/28 11:02 JST に取得・凍結",
+    "lineup": {
+      "home": {
+        "formation": "3-4-2-1",
+        "coach": "",
+        "xi": [
+          {
+            "n": 1,
+            "name": "Yazeed Abulaila",
+            "pos": "G",
+            "fp": 1
+          },
+          {
+            "n": 23,
+            "name": "Ehsan Haddad",
+            "pos": "RM",
+            "fp": 2
+          },
+          {
+            "n": 20,
+            "name": "Mohannad Abu Taha",
+            "pos": "LM",
+            "fp": 3
+          },
+          {
+            "n": 4,
+            "name": "Husam Abu Dahab",
+            "pos": "CD-L",
+            "fp": 4
+          },
+          {
+            "n": 5,
+            "name": "Yazan Al-Arab",
+            "pos": "CD",
+            "fp": 5
+          },
+          {
+            "n": 3,
+            "name": "Abdallah Nasib",
+            "pos": "CD-R",
+            "fp": 6
+          },
+          {
+            "n": 21,
+            "name": "Nizar Al-Rashdan",
+            "pos": "CM-R",
+            "fp": 7
+          },
+          {
+            "n": 8,
+            "name": "Noor Al-Rawabdeh",
+            "pos": "CM-L",
+            "fp": 8
+          },
+          {
+            "n": 11,
+            "name": "Odeh Fakhoury",
+            "pos": "F",
+            "fp": 9
+          },
+          {
+            "n": 24,
+            "name": "Ali Azaizeh",
+            "pos": "CF-R",
+            "fp": 10
+          },
+          {
+            "n": 9,
+            "name": "Ali Olwan",
+            "pos": "CF-L",
+            "fp": 11
+          }
+        ],
+        "subs": [
+          {
+            "n": 10,
+            "name": "Mousa Al-Tamari",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 7,
+            "name": "Mohammed Abu Zraiq",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 14,
+            "name": "Rajaei Ayed",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 2,
+            "name": "Mohammad Abu Hasheesh",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 22,
+            "name": "Abdallah Al-Fakhouri",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 25,
+            "name": "Mohammad Al-Daoud",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 26,
+            "name": "Anas Badawi",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 18,
+            "name": "Mohammad Abughoush",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 17,
+            "name": "Saleem Obaid",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 13,
+            "name": "Mahmoud Al-Mardi",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 19,
+            "name": "Saed Al-Rosan",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 12,
+            "name": "Nour Bani Ateyah",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 15,
+            "name": "Ibrahim Sadeh",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 16,
+            "name": "Mohammad Abualnadi",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 6,
+            "name": "Amer Jamous",
+            "pos": "SUB",
+            "fp": 0
+          }
+        ]
+      },
+      "away": {
+        "formation": "4-4-2",
+        "coach": "",
+        "xi": [
+          {
+            "n": 23,
+            "name": "Emiliano Martínez",
+            "pos": "G",
+            "fp": 1
+          },
+          {
+            "n": 17,
+            "name": "Giuliano Simeone",
+            "pos": "RB",
+            "fp": 2
+          },
+          {
+            "n": 3,
+            "name": "Nicolás Tagliafico",
+            "pos": "LB",
+            "fp": 3
+          },
+          {
+            "n": 5,
+            "name": "Leandro Paredes",
+            "pos": "CM-R",
+            "fp": 4
+          },
+          {
+            "n": 19,
+            "name": "Nicolás Otamendi",
+            "pos": "CD-R",
+            "fp": 5
+          },
+          {
+            "n": 2,
+            "name": "Marcos Senesi",
+            "pos": "CD-L",
+            "fp": 6
+          },
+          {
+            "n": 18,
+            "name": "Nico Paz",
+            "pos": "RM",
+            "fp": 7
+          },
+          {
+            "n": 14,
+            "name": "Exequiel Palacios",
+            "pos": "CM-L",
+            "fp": 8
+          },
+          {
+            "n": 9,
+            "name": "Julián Álvarez",
+            "pos": "CF-L",
+            "fp": 9
+          },
+          {
+            "n": 22,
+            "name": "Lautaro Martínez",
+            "pos": "CF-R",
+            "fp": 10
+          },
+          {
+            "n": 11,
+            "name": "Giovani Lo Celso",
+            "pos": "LM",
+            "fp": 11
+          }
+        ],
+        "subs": [
+          {
+            "n": 20,
+            "name": "Alexis Mac Allister",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 25,
+            "name": "Facundo Medina",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 6,
+            "name": "Lisandro Martínez",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 13,
+            "name": "Cristian Romero",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 12,
+            "name": "Gerónimo Rulli",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 26,
+            "name": "Nahuel Molina",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 24,
+            "name": "Enzo Fernández",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 15,
+            "name": "Nico González",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 1,
+            "name": "Juan Musso",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 7,
+            "name": "Rodrigo De Paul",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 10,
+            "name": "Lionel Messi",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 4,
+            "name": "Gonzalo Montiel",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 8,
+            "name": "Valentín Barco",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 21,
+            "name": "José Manuel López",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 16,
+            "name": "Thiago Almada",
+            "pos": "SUB",
+            "fp": 0
+          }
+        ]
+      }
+    }
   },
   {
     "id": "760486",
@@ -23227,6 +23883,52 @@
     },
     "away": {
       "name": "Round of 32 5 Winner",
+      "code": "RD32",
+      "color": "#000000",
+      "altColor": "#000000"
+    },
+    "status": "pending"
+  },
+  {
+    "id": "760504",
+    "kickoff": "2026-07-06T05:00:00+09:00",
+    "group": "",
+    "matchday": "ラウンド16",
+    "dateLabel": "7月6日（月）",
+    "timeJST": "05:00",
+    "stadium": "MetLife Stadium",
+    "city": "East Rutherford, New Jersey",
+    "home": {
+      "name": "Round of 32 4 Winner",
+      "code": "RD32",
+      "color": "#000000",
+      "altColor": "#000000"
+    },
+    "away": {
+      "name": "Round of 32 6 Winner",
+      "code": "RD32",
+      "color": "#000000",
+      "altColor": "#000000"
+    },
+    "status": "pending"
+  },
+  {
+    "id": "760505",
+    "kickoff": "2026-07-06T09:00:00+09:00",
+    "group": "",
+    "matchday": "ラウンド16",
+    "dateLabel": "7月6日（月）",
+    "timeJST": "09:00",
+    "stadium": "Estadio Banorte",
+    "city": "Mexico City",
+    "home": {
+      "name": "Round of 32 7 Winner",
+      "code": "RD32",
+      "color": "#000000",
+      "altColor": "#000000"
+    },
+    "away": {
+      "name": "Round of 32 8 Winner",
       "code": "RD32",
       "color": "#000000",
       "altColor": "#000000"
