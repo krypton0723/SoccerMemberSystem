@@ -24253,5 +24253,51 @@
       "altColor": "#000000"
     },
     "status": "pending"
+  },
+  {
+    "id": "760506",
+    "kickoff": "2026-07-07T04:00:00+09:00",
+    "group": "",
+    "matchday": "ラウンド16",
+    "dateLabel": "7月7日（火）",
+    "timeJST": "04:00",
+    "stadium": "AT&T Stadium",
+    "city": "Arlington, Texas",
+    "home": {
+      "name": "Round of 32 11 Winner",
+      "code": "RD32",
+      "color": "#000000",
+      "altColor": "#000000"
+    },
+    "away": {
+      "name": "Round of 32 12 Winner",
+      "code": "RD32",
+      "color": "#000000",
+      "altColor": "#000000"
+    },
+    "status": "pending"
+  },
+  {
+    "id": "760507",
+    "kickoff": "2026-07-07T09:00:00+09:00",
+    "group": "",
+    "matchday": "ラウンド16",
+    "dateLabel": "7月7日（火）",
+    "timeJST": "09:00",
+    "stadium": "Lumen Field",
+    "city": "Seattle, Washington",
+    "home": {
+      "name": "Round of 32 9 Winner",
+      "code": "RD32",
+      "color": "#000000",
+      "altColor": "#000000"
+    },
+    "away": {
+      "name": "Round of 32 10 Winner",
+      "code": "RD32",
+      "color": "#000000",
+      "altColor": "#000000"
+    },
+    "status": "pending"
   }
 ]
