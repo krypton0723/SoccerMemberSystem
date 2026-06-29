@@ -23820,25 +23820,350 @@
   {
     "id": "760487",
     "kickoff": "2026-06-30T02:00:00+09:00",
-    "group": "",
+    "group": "C",
     "matchday": "ラウンド32",
     "dateLabel": "6月30日（火）",
     "timeJST": "02:00",
     "stadium": "NRG Stadium",
     "city": "Houston, Texas",
     "home": {
-      "name": "Group C Winner",
-      "code": "1C",
-      "color": "#000000",
-      "altColor": "#000000"
+      "name": "ブラジル",
+      "code": "BRA",
+      "color": "#fee000",
+      "altColor": "#193375"
     },
     "away": {
-      "name": "Group F 2nd Place",
-      "code": "2F",
-      "color": "#000000",
-      "altColor": "#000000"
+      "name": "日本",
+      "code": "JPN",
+      "color": "#000555",
+      "altColor": "#000555"
     },
-    "status": "pending"
+    "status": "released",
+    "capturedAt": "6/30 02:42 JST に取得・凍結",
+    "lineup": {
+      "home": {
+        "formation": "4-3-3",
+        "coach": "",
+        "xi": [
+          {
+            "n": 1,
+            "name": "Alisson Becker",
+            "pos": "G",
+            "fp": 1
+          },
+          {
+            "n": 13,
+            "name": "Danilo",
+            "pos": "RB",
+            "fp": 2
+          },
+          {
+            "n": 16,
+            "name": "Douglas Santos",
+            "pos": "LB",
+            "fp": 3
+          },
+          {
+            "n": 5,
+            "name": "Casemiro",
+            "pos": "CM",
+            "fp": 4
+          },
+          {
+            "n": 4,
+            "name": "Marquinhos",
+            "pos": "CD-R",
+            "fp": 5
+          },
+          {
+            "n": 3,
+            "name": "Gabriel Magalhães",
+            "pos": "CD-L",
+            "fp": 6
+          },
+          {
+            "n": 8,
+            "name": "Bruno Guimarães",
+            "pos": "RM",
+            "fp": 7
+          },
+          {
+            "n": 20,
+            "name": "Lucas Paquetá",
+            "pos": "LM",
+            "fp": 8
+          },
+          {
+            "n": 9,
+            "name": "Matheus Cunha",
+            "pos": "F",
+            "fp": 9
+          },
+          {
+            "n": 26,
+            "name": "Rayan",
+            "pos": "RF",
+            "fp": 10
+          },
+          {
+            "n": 7,
+            "name": "Vinícius Júnior",
+            "pos": "LF",
+            "fp": 11
+          }
+        ],
+        "subs": [
+          {
+            "n": 10,
+            "name": "Neymar",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 22,
+            "name": "Gabriel Martinelli",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 15,
+            "name": "Léo Pereira",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 25,
+            "name": "Igor Thiago",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 18,
+            "name": "Danilo Santos",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 2,
+            "name": "Éderson",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 17,
+            "name": "Fabinho",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 19,
+            "name": "Endrick",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 24,
+            "name": "Roger Ibañez",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 14,
+            "name": "Bremer",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 21,
+            "name": "Luiz Henrique",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 6,
+            "name": "Alex Sandro",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 23,
+            "name": "Ederson",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 12,
+            "name": "Weverton",
+            "pos": "SUB",
+            "fp": 0
+          }
+        ]
+      },
+      "away": {
+        "formation": "3-4-2-1",
+        "coach": "",
+        "xi": [
+          {
+            "n": 1,
+            "name": "Zion Suzuki",
+            "pos": "G",
+            "fp": 1
+          },
+          {
+            "n": 10,
+            "name": "Ritsu Doan",
+            "pos": "RM",
+            "fp": 2
+          },
+          {
+            "n": 13,
+            "name": "Keito Nakamura",
+            "pos": "LM",
+            "fp": 3
+          },
+          {
+            "n": 21,
+            "name": "Hiroki Ito",
+            "pos": "CD-L",
+            "fp": 4
+          },
+          {
+            "n": 3,
+            "name": "Shogo Taniguchi",
+            "pos": "CD",
+            "fp": 5
+          },
+          {
+            "n": 22,
+            "name": "Takehiro Tomiyasu",
+            "pos": "CD-R",
+            "fp": 6
+          },
+          {
+            "n": 24,
+            "name": "Kaishu Sano",
+            "pos": "CM-R",
+            "fp": 7
+          },
+          {
+            "n": 15,
+            "name": "Daichi Kamada",
+            "pos": "CM-L",
+            "fp": 8
+          },
+          {
+            "n": 18,
+            "name": "Ayase Ueda",
+            "pos": "F",
+            "fp": 9
+          },
+          {
+            "n": 14,
+            "name": "Junya Ito",
+            "pos": "CF-R",
+            "fp": 10
+          },
+          {
+            "n": 11,
+            "name": "Daizen Maeda",
+            "pos": "CF-L",
+            "fp": 11
+          }
+        ],
+        "subs": [
+          {
+            "n": 12,
+            "name": "Keisuke Osako",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 4,
+            "name": "Kou Itakura",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 19,
+            "name": "Koki Ogawa",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 5,
+            "name": "Yuto Nagatomo",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 17,
+            "name": "Yuito Suzuki",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 16,
+            "name": "Tsuyoshi Watanabe",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 26,
+            "name": "Kento Shiogai",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 23,
+            "name": "Tomoki Hayakawa",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 6,
+            "name": "Shuto Machino",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 20,
+            "name": "Ayumu Seko",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 2,
+            "name": "Yukinari Sugawara",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 25,
+            "name": "Junnosuke Suzuki",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 9,
+            "name": "Keisuke Goto",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 8,
+            "name": "Takefusa Kubo",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 7,
+            "name": "Ao Tanaka",
+            "pos": "SUB",
+            "fp": 0
+          }
+        ]
+      }
+    }
   },
   {
     "id": "760489",
