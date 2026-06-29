@@ -24181,12 +24181,331 @@
       "altColor": "#00CED1"
     },
     "away": {
-      "name": "Third Place Group A/B/C/D/F",
-      "code": "3RD",
-      "color": "#000000",
-      "altColor": "#000000"
+      "name": "パラグアイ",
+      "code": "PAR",
+      "color": "#ea2300",
+      "altColor": "#21418c"
     },
-    "status": "pending"
+    "status": "released",
+    "capturedAt": "6/30 06:10 JST に取得・凍結",
+    "lineup": {
+      "home": {
+        "formation": "4-4-2",
+        "coach": "",
+        "xi": [
+          {
+            "n": 1,
+            "name": "Manuel Neuer",
+            "pos": "G",
+            "fp": 1
+          },
+          {
+            "n": 6,
+            "name": "Joshua Kimmich",
+            "pos": "RB",
+            "fp": 2
+          },
+          {
+            "n": 18,
+            "name": "Nathaniel Brown",
+            "pos": "LB",
+            "fp": 3
+          },
+          {
+            "n": 23,
+            "name": "Felix Nmecha",
+            "pos": "CM-R",
+            "fp": 4
+          },
+          {
+            "n": 4,
+            "name": "Jonathan Tah",
+            "pos": "CD-R",
+            "fp": 5
+          },
+          {
+            "n": 2,
+            "name": "Antonio Rüdiger",
+            "pos": "CD-L",
+            "fp": 6
+          },
+          {
+            "n": 19,
+            "name": "Leroy Sané",
+            "pos": "RM",
+            "fp": 7
+          },
+          {
+            "n": 5,
+            "name": "Aleksandar Pavlovic",
+            "pos": "CM-L",
+            "fp": 8
+          },
+          {
+            "n": 26,
+            "name": "Deniz Undav",
+            "pos": "CF-L",
+            "fp": 9
+          },
+          {
+            "n": 7,
+            "name": "Kai Havertz",
+            "pos": "CF-R",
+            "fp": 10
+          },
+          {
+            "n": 17,
+            "name": "Florian Wirtz",
+            "pos": "LM",
+            "fp": 11
+          }
+        ],
+        "subs": [
+          {
+            "n": 22,
+            "name": "David Raum",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 9,
+            "name": "Jamie Leweling",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 3,
+            "name": "Waldemar Anton",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 20,
+            "name": "Nadiem Amiri",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 21,
+            "name": "Alexander Nübel",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 16,
+            "name": "Angelo Stiller",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 10,
+            "name": "Jamal Musiala",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 24,
+            "name": "Malick Thiaw",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 11,
+            "name": "Nick Woltemade",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 13,
+            "name": "Pascal Gross",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 25,
+            "name": "Assan Ouédraogo",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 14,
+            "name": "Maximilian Beier",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 12,
+            "name": "Oliver Baumann",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 8,
+            "name": "Leon Goretzka",
+            "pos": "SUB",
+            "fp": 0
+          }
+        ]
+      },
+      "away": {
+        "formation": "4-4-2",
+        "coach": "",
+        "xi": [
+          {
+            "n": 12,
+            "name": "Orlando Gil",
+            "pos": "G",
+            "fp": 1
+          },
+          {
+            "n": 4,
+            "name": "Juan Jose Cáceres",
+            "pos": "RB",
+            "fp": 2
+          },
+          {
+            "n": 6,
+            "name": "Júnior Alonso",
+            "pos": "LB",
+            "fp": 3
+          },
+          {
+            "n": 16,
+            "name": "Damián Bobadilla",
+            "pos": "CM-R",
+            "fp": 4
+          },
+          {
+            "n": 15,
+            "name": "Gustavo Gómez",
+            "pos": "CD-R",
+            "fp": 5
+          },
+          {
+            "n": 13,
+            "name": "José Canale",
+            "pos": "CD-L",
+            "fp": 6
+          },
+          {
+            "n": 10,
+            "name": "Miguel Almirón",
+            "pos": "RM",
+            "fp": 7
+          },
+          {
+            "n": 14,
+            "name": "Andrés Cubas",
+            "pos": "CM-L",
+            "fp": 8
+          },
+          {
+            "n": 19,
+            "name": "Julio Enciso",
+            "pos": "CF-L",
+            "fp": 9
+          },
+          {
+            "n": 21,
+            "name": "Gabriel Ávalos",
+            "pos": "CF-R",
+            "fp": 10
+          },
+          {
+            "n": 23,
+            "name": "Matías Galarza",
+            "pos": "LM",
+            "fp": 11
+          }
+        ],
+        "subs": [
+          {
+            "n": 1,
+            "name": "Gatito Fernández",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 18,
+            "name": "Alex Arce",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 7,
+            "name": "Ramón Sosa",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 22,
+            "name": "Gastón Olveira",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 9,
+            "name": "Antonio Sanabria",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 26,
+            "name": "Alexandro Maidana",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 25,
+            "name": "Isidro Pitta",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 2,
+            "name": "Gustavo Velázquez",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 3,
+            "name": "Omar Alderete",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 20,
+            "name": "Braian Ojeda",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 5,
+            "name": "Fabián Balbuena",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 17,
+            "name": "Alejandro Romero Gamarra",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 24,
+            "name": "Gustavo Caballero",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 11,
+            "name": "Maurício",
+            "pos": "SUB",
+            "fp": 0
+          }
+        ]
+      }
+    }
   },
   {
     "id": "760488",
