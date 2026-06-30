@@ -24864,25 +24864,356 @@
   {
     "id": "760490",
     "kickoff": "2026-07-01T02:00:00+09:00",
-    "group": "",
+    "group": "E",
     "matchday": "ラウンド32",
     "dateLabel": "7月1日（水）",
     "timeJST": "02:00",
     "stadium": "AT&T Stadium",
     "city": "Arlington, Texas",
     "home": {
-      "name": "Group E 2nd Place",
-      "code": "2E",
-      "color": "#000000",
-      "altColor": "#000000"
+      "name": "コートジボワール",
+      "code": "CIV",
+      "color": "#FF8200",
+      "altColor": "#FF8200"
     },
     "away": {
-      "name": "Group I 2nd Place",
-      "code": "2I",
-      "color": "#000000",
+      "name": "ノルウェー",
+      "code": "NOR",
+      "color": "#C8102E",
       "altColor": "#000000"
     },
-    "status": "pending"
+    "status": "released",
+    "capturedAt": "7/1 02:08 JST に取得・凍結",
+    "lineup": {
+      "home": {
+        "formation": "4-1-4-1",
+        "coach": "",
+        "xi": [
+          {
+            "n": 1,
+            "name": "Yahia Fofana",
+            "pos": "G",
+            "fp": 1
+          },
+          {
+            "n": 17,
+            "name": "Guela Doué",
+            "pos": "RB",
+            "fp": 2
+          },
+          {
+            "n": 3,
+            "name": "Ghislain Konan",
+            "pos": "LB",
+            "fp": 3
+          },
+          {
+            "n": 18,
+            "name": "Ibrahim Sangaré",
+            "pos": "DM",
+            "fp": 4
+          },
+          {
+            "n": 7,
+            "name": "Odilon Kossounou",
+            "pos": "CD-R",
+            "fp": 5
+          },
+          {
+            "n": 20,
+            "name": "Emmanuel Agbadou",
+            "pos": "CD-L",
+            "fp": 6
+          },
+          {
+            "n": 19,
+            "name": "Nicolas Pépé",
+            "pos": "RM",
+            "fp": 7
+          },
+          {
+            "n": 8,
+            "name": "Franck Kessié",
+            "pos": "CM-R",
+            "fp": 8
+          },
+          {
+            "n": 9,
+            "name": "Ange-Yoan Bonny",
+            "pos": "F",
+            "fp": 9
+          },
+          {
+            "n": 26,
+            "name": "Christ Inao Oulaï",
+            "pos": "CM-L",
+            "fp": 10
+          },
+          {
+            "n": 11,
+            "name": "Yan Diomande",
+            "pos": "LM",
+            "fp": 11
+          }
+        ],
+        "subs": [
+          {
+            "n": 4,
+            "name": "Jean Michaël Seri",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 23,
+            "name": "Alban Lafont",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 6,
+            "name": "Seko Fofana",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 16,
+            "name": "Mohamed Koné",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 22,
+            "name": "Evann Guessand",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 13,
+            "name": "Christopher Operi",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 21,
+            "name": "Evan Ndicka",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 24,
+            "name": "Bazoumana Touré",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 2,
+            "name": "Ousmane Diomande",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 12,
+            "name": "Elye Wahi",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 14,
+            "name": "Oumar Diakité",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 5,
+            "name": "Wilfried Singo",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 25,
+            "name": "Parfait Guiagon",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 10,
+            "name": "Simon Adingra",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 15,
+            "name": "Amad Diallo",
+            "pos": "SUB",
+            "fp": 0
+          }
+        ]
+      },
+      "away": {
+        "formation": "4-3-3",
+        "coach": "",
+        "xi": [
+          {
+            "n": 1,
+            "name": "Ørjan Nyland",
+            "pos": "G",
+            "fp": 1
+          },
+          {
+            "n": 16,
+            "name": "Marcus Holmgren Pedersen",
+            "pos": "RB",
+            "fp": 2
+          },
+          {
+            "n": 5,
+            "name": "David Møller Wolfe",
+            "pos": "LB",
+            "fp": 3
+          },
+          {
+            "n": 8,
+            "name": "Sander Berge",
+            "pos": "CM",
+            "fp": 4
+          },
+          {
+            "n": 3,
+            "name": "Kristoffer Ajer",
+            "pos": "CD-R",
+            "fp": 5
+          },
+          {
+            "n": 17,
+            "name": "Torbjørn Heggem",
+            "pos": "CD-L",
+            "fp": 6
+          },
+          {
+            "n": 10,
+            "name": "Martin Ødegaard",
+            "pos": "RM",
+            "fp": 7
+          },
+          {
+            "n": 6,
+            "name": "Patrick Berg",
+            "pos": "LM",
+            "fp": 8
+          },
+          {
+            "n": 9,
+            "name": "Erling Haaland",
+            "pos": "F",
+            "fp": 9
+          },
+          {
+            "n": 7,
+            "name": "Alexander Sørloth",
+            "pos": "RF",
+            "fp": 10
+          },
+          {
+            "n": 20,
+            "name": "Antonio Nusa",
+            "pos": "LF",
+            "fp": 11
+          }
+        ],
+        "subs": [
+          {
+            "n": 24,
+            "name": "Sondre Langas",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 12,
+            "name": "Sander Tangvik",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 23,
+            "name": "Jens Petter Hauge",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 22,
+            "name": "Oscar Bobb",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 14,
+            "name": "Fredrik Aursnes",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 4,
+            "name": "Leo Østigard",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 13,
+            "name": "Egil Selvik",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 15,
+            "name": "Fredrik André Bjørkan",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 2,
+            "name": "Morten Thorsby",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 21,
+            "name": "Andreas Schjelderup",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 11,
+            "name": "Jørgen Strand Larsen",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 26,
+            "name": "Julian Ryerson",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 19,
+            "name": "Thelo Aasgaard",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 25,
+            "name": "Henrik Falchener",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 18,
+            "name": "Kristian Thorstvedt",
+            "pos": "SUB",
+            "fp": 0
+          }
+        ]
+      }
+    }
   },
   {
     "id": "760492",
