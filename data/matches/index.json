@@ -25218,25 +25218,350 @@
   {
     "id": "760492",
     "kickoff": "2026-07-01T06:00:00+09:00",
-    "group": "",
+    "group": "I",
     "matchday": "ラウンド32",
     "dateLabel": "7月1日（水）",
     "timeJST": "06:00",
     "stadium": "MetLife Stadium",
     "city": "East Rutherford, New Jersey",
     "home": {
-      "name": "Group I Winner",
-      "code": "1I",
-      "color": "#000000",
-      "altColor": "#000000"
+      "name": "フランス",
+      "code": "FRA",
+      "color": "#000080",
+      "altColor": "#C8E6D8"
     },
     "away": {
-      "name": "Third Place Group C/D/F/G/H",
-      "code": "3RD",
-      "color": "#000000",
-      "altColor": "#000000"
+      "name": "スウェーデン",
+      "code": "SWE",
+      "color": "#fecb00",
+      "altColor": "#006aa7"
     },
-    "status": "pending"
+    "status": "released",
+    "capturedAt": "7/1 06:06 JST に取得・凍結",
+    "lineup": {
+      "home": {
+        "formation": "4-2-3-1",
+        "coach": "",
+        "xi": [
+          {
+            "n": 16,
+            "name": "Mike Maignan",
+            "pos": "G",
+            "fp": 1
+          },
+          {
+            "n": 5,
+            "name": "Jules Koundé",
+            "pos": "RB",
+            "fp": 2
+          },
+          {
+            "n": 3,
+            "name": "Lucas Digne",
+            "pos": "LB",
+            "fp": 3
+          },
+          {
+            "n": 14,
+            "name": "Adrien Rabiot",
+            "pos": "LM",
+            "fp": 4
+          },
+          {
+            "n": 4,
+            "name": "Dayot Upamecano",
+            "pos": "CD-R",
+            "fp": 5
+          },
+          {
+            "n": 17,
+            "name": "William Saliba",
+            "pos": "CD-L",
+            "fp": 6
+          },
+          {
+            "n": 7,
+            "name": "Ousmane Dembélé",
+            "pos": "AM-R",
+            "fp": 7
+          },
+          {
+            "n": 8,
+            "name": "Aurélien Tchouaméni",
+            "pos": "RM",
+            "fp": 8
+          },
+          {
+            "n": 10,
+            "name": "Kylian Mbappé",
+            "pos": "F",
+            "fp": 9
+          },
+          {
+            "n": 11,
+            "name": "Michael Olise",
+            "pos": "AM",
+            "fp": 10
+          },
+          {
+            "n": 12,
+            "name": "Bradley Barcola",
+            "pos": "AM-L",
+            "fp": 11
+          }
+        ],
+        "subs": [
+          {
+            "n": 18,
+            "name": "Warren Zaïre-Emery",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 23,
+            "name": "Robin Risser",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 22,
+            "name": "Jean-Philippe Mateta",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 2,
+            "name": "Malo Gusto",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 24,
+            "name": "Rayan Cherki",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 15,
+            "name": "Ibrahima Konaté",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 20,
+            "name": "Désiré Doué",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 25,
+            "name": "Maghnes Akliouche",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 26,
+            "name": "Maxence Lacroix",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 19,
+            "name": "Theo Hernández",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 6,
+            "name": "Manu Koné",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 9,
+            "name": "Marcus Thuram",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 1,
+            "name": "Brice Samba",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 21,
+            "name": "Lucas Hernández",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 13,
+            "name": "N'Golo Kanté",
+            "pos": "SUB",
+            "fp": 0
+          }
+        ]
+      },
+      "away": {
+        "formation": "3-4-2-1",
+        "coach": "",
+        "xi": [
+          {
+            "n": 1,
+            "name": "Jacob Widell Zetterström",
+            "pos": "G",
+            "fp": 1
+          },
+          {
+            "n": 8,
+            "name": "Daniel Svensson",
+            "pos": "RM",
+            "fp": 2
+          },
+          {
+            "n": 24,
+            "name": "Elliot Stroud",
+            "pos": "LM",
+            "fp": 3
+          },
+          {
+            "n": 5,
+            "name": "Gabriel Gudmundsson",
+            "pos": "CD-L",
+            "fp": 4
+          },
+          {
+            "n": 3,
+            "name": "Victor Lindelöf",
+            "pos": "CD",
+            "fp": 5
+          },
+          {
+            "n": 2,
+            "name": "Gustaf Lagerbielke",
+            "pos": "CD-R",
+            "fp": 6
+          },
+          {
+            "n": 7,
+            "name": "Lucas Bergvall",
+            "pos": "CM-R",
+            "fp": 7
+          },
+          {
+            "n": 18,
+            "name": "Yasin Ayari",
+            "pos": "CM-L",
+            "fp": 8
+          },
+          {
+            "n": 17,
+            "name": "Viktor Gyökeres",
+            "pos": "F",
+            "fp": 9
+          },
+          {
+            "n": 11,
+            "name": "Anthony Elanga",
+            "pos": "CF-R",
+            "fp": 10
+          },
+          {
+            "n": 9,
+            "name": "Alexander Isak",
+            "pos": "CF-L",
+            "fp": 11
+          }
+        ],
+        "subs": [
+          {
+            "n": 23,
+            "name": "Kristoffer Nordfeldt",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 22,
+            "name": "Besfort Zeneli",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 26,
+            "name": "Taha Ali",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 20,
+            "name": "Eric Smith",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 15,
+            "name": "Carl Starfelt",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 16,
+            "name": "Jesper Karlström",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 21,
+            "name": "Alexander Bernhardsson",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 12,
+            "name": "Viktor Johansson",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 13,
+            "name": "Ken Sema",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 14,
+            "name": "Hjalmar Ekdal",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 10,
+            "name": "Benjamin Nygren",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 6,
+            "name": "Herman Johansson",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 25,
+            "name": "Gustaf Nilsson",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 19,
+            "name": "Mattias Svanberg",
+            "pos": "SUB",
+            "fp": 0
+          }
+        ]
+      }
+    }
   },
   {
     "id": "760491",
