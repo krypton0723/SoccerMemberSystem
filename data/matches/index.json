@@ -24510,25 +24510,356 @@
   {
     "id": "760488",
     "kickoff": "2026-06-30T10:00:00+09:00",
-    "group": "",
+    "group": "F",
     "matchday": "ラウンド32",
     "dateLabel": "6月30日（火）",
     "timeJST": "10:00",
     "stadium": "Estadio BBVA",
     "city": "Guadalupe",
     "home": {
-      "name": "Group F Winner",
-      "code": "1F",
-      "color": "#000000",
-      "altColor": "#000000"
+      "name": "オランダ",
+      "code": "NED",
+      "color": "#fb5d00",
+      "altColor": "#fb5d00"
     },
     "away": {
-      "name": "Group C 2nd Place",
-      "code": "2C",
-      "color": "#000000",
-      "altColor": "#000000"
+      "name": "モロッコ",
+      "code": "MAR",
+      "color": "#df2027",
+      "altColor": "#ffffff"
     },
-    "status": "pending"
+    "status": "released",
+    "capturedAt": "6/30 10:52 JST に取得・凍結",
+    "lineup": {
+      "home": {
+        "formation": "3-4-2-1",
+        "coach": "",
+        "xi": [
+          {
+            "n": 1,
+            "name": "Bart Verbruggen",
+            "pos": "G",
+            "fp": 1
+          },
+          {
+            "n": 22,
+            "name": "Denzel Dumfries",
+            "pos": "RM",
+            "fp": 2
+          },
+          {
+            "n": 15,
+            "name": "Micky van de Ven",
+            "pos": "LM",
+            "fp": 3
+          },
+          {
+            "n": 5,
+            "name": "Nathan Aké",
+            "pos": "CD-L",
+            "fp": 4
+          },
+          {
+            "n": 4,
+            "name": "Virgil van Dijk",
+            "pos": "CD",
+            "fp": 5
+          },
+          {
+            "n": 6,
+            "name": "Jan Paul van Hecke",
+            "pos": "CD-R",
+            "fp": 6
+          },
+          {
+            "n": 8,
+            "name": "Ryan Gravenberch",
+            "pos": "CM-R",
+            "fp": 7
+          },
+          {
+            "n": 21,
+            "name": "Frenkie de Jong",
+            "pos": "CM-L",
+            "fp": 8
+          },
+          {
+            "n": 19,
+            "name": "Brian Brobbey",
+            "pos": "F",
+            "fp": 9
+          },
+          {
+            "n": 24,
+            "name": "Crysencio Summerville",
+            "pos": "CF-R",
+            "fp": 10
+          },
+          {
+            "n": 11,
+            "name": "Cody Gakpo",
+            "pos": "CF-L",
+            "fp": 11
+          }
+        ],
+        "subs": [
+          {
+            "n": 3,
+            "name": "Marten de Roon",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 25,
+            "name": "Jorrel Hato",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 12,
+            "name": "Mats Wieffer",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 18,
+            "name": "Donyell Malen",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 10,
+            "name": "Memphis Depay",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 7,
+            "name": "Justin Kluivert",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 23,
+            "name": "Mark Flekken",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 9,
+            "name": "Wout Weghorst",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 16,
+            "name": "Guus Til",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 26,
+            "name": "Quinten Timber",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 2,
+            "name": "Lutsharel Geertruida",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 17,
+            "name": "Noa Lang",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 13,
+            "name": "Robin Roefs",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 14,
+            "name": "Tijjani Reijnders",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 20,
+            "name": "Teun Koopmeiners",
+            "pos": "SUB",
+            "fp": 0
+          }
+        ]
+      },
+      "away": {
+        "formation": "4-2-3-1",
+        "coach": "",
+        "xi": [
+          {
+            "n": 1,
+            "name": "Yassine Bounou",
+            "pos": "G",
+            "fp": 1
+          },
+          {
+            "n": 2,
+            "name": "Achraf Hakimi",
+            "pos": "RB",
+            "fp": 2
+          },
+          {
+            "n": 3,
+            "name": "Noussair Mazraoui",
+            "pos": "LB",
+            "fp": 3
+          },
+          {
+            "n": 24,
+            "name": "Neil El Aynaoui",
+            "pos": "LM",
+            "fp": 4
+          },
+          {
+            "n": 14,
+            "name": "Issa Diop",
+            "pos": "CD-R",
+            "fp": 5
+          },
+          {
+            "n": 18,
+            "name": "Chadi Riad",
+            "pos": "CD-L",
+            "fp": 6
+          },
+          {
+            "n": 10,
+            "name": "Brahim Díaz",
+            "pos": "AM-R",
+            "fp": 7
+          },
+          {
+            "n": 6,
+            "name": "Ayyoub Bouaddi",
+            "pos": "RM",
+            "fp": 8
+          },
+          {
+            "n": 11,
+            "name": "Ismael Saibari",
+            "pos": "F",
+            "fp": 9
+          },
+          {
+            "n": 8,
+            "name": "Azzedine Ounahi",
+            "pos": "AM",
+            "fp": 10
+          },
+          {
+            "n": 23,
+            "name": "Bilal El Khannouss",
+            "pos": "AM-L",
+            "fp": 11
+          }
+        ],
+        "subs": [
+          {
+            "n": 26,
+            "name": "Anass Salah-Eddine",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 17,
+            "name": "Amine Sbaï",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 22,
+            "name": "Ahmed Reda Tagnaouti",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 21,
+            "name": "Ayoube Amaimouni",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 15,
+            "name": "Samir El Mourabet",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 4,
+            "name": "Sofyan Amrabat",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 16,
+            "name": "Gessime Yassine",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 12,
+            "name": "Munir El Kajoui",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 19,
+            "name": "Youssef Belammari",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 7,
+            "name": "Chemsdine Talbi",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 13,
+            "name": "Zakaria El Ouahdi",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 9,
+            "name": "Soufiane Rahimi",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 20,
+            "name": "Ayoub El Kaabi",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 5,
+            "name": "Marwane Saadane",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 25,
+            "name": "Redouane Halhal",
+            "pos": "SUB",
+            "fp": 0
+          }
+        ]
+      }
+    }
   },
   {
     "id": "760490",
@@ -24938,6 +25269,52 @@
     },
     "away": {
       "name": "Round of 32 10 Winner",
+      "code": "RD32",
+      "color": "#000000",
+      "altColor": "#000000"
+    },
+    "status": "pending"
+  },
+  {
+    "id": "760509",
+    "kickoff": "2026-07-08T01:00:00+09:00",
+    "group": "",
+    "matchday": "ラウンド16",
+    "dateLabel": "7月8日（水）",
+    "timeJST": "01:00",
+    "stadium": "Mercedes-Benz Stadium",
+    "city": "Atlanta, Georgia",
+    "home": {
+      "name": "Round of 32 14 Winner",
+      "code": "RD32",
+      "color": "#000000",
+      "altColor": "#000000"
+    },
+    "away": {
+      "name": "Round of 32 16 Winner",
+      "code": "RD32",
+      "color": "#000000",
+      "altColor": "#000000"
+    },
+    "status": "pending"
+  },
+  {
+    "id": "760508",
+    "kickoff": "2026-07-08T05:00:00+09:00",
+    "group": "",
+    "matchday": "ラウンド16",
+    "dateLabel": "7月8日（水）",
+    "timeJST": "05:00",
+    "stadium": "BC Place",
+    "city": "Vancouver",
+    "home": {
+      "name": "Round of 32 13 Winner",
+      "code": "RD32",
+      "color": "#000000",
+      "altColor": "#000000"
+    },
+    "away": {
+      "name": "Round of 32 15 Winner",
       "code": "RD32",
       "color": "#000000",
       "altColor": "#000000"
