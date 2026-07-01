@@ -25579,12 +25579,343 @@
       "altColor": "#000000"
     },
     "away": {
-      "name": "Third Place Group C/E/F/H/I",
-      "code": "3RD",
-      "color": "#000000",
-      "altColor": "#000000"
+      "name": "エクアドル",
+      "code": "ECU",
+      "color": "#ffdd00",
+      "altColor": "#034ea2"
     },
-    "status": "pending"
+    "status": "released",
+    "capturedAt": "7/1 11:02 JST に取得・凍結",
+    "lineup": {
+      "home": {
+        "formation": "4-3-3",
+        "coach": "",
+        "xi": [
+          {
+            "n": 1,
+            "name": "Raúl Rangel",
+            "pos": "G",
+            "fp": 1
+          },
+          {
+            "n": 2,
+            "name": "Jorge Sánchez",
+            "pos": "RB",
+            "fp": 2
+          },
+          {
+            "n": 23,
+            "name": "Jesús Gallardo",
+            "pos": "LB",
+            "fp": 3
+          },
+          {
+            "n": 6,
+            "name": "Érik Lira",
+            "pos": "CM",
+            "fp": 4
+          },
+          {
+            "n": 3,
+            "name": "César Montes",
+            "pos": "CD-R",
+            "fp": 5
+          },
+          {
+            "n": 5,
+            "name": "Johan Vásquez",
+            "pos": "CD-L",
+            "fp": 6
+          },
+          {
+            "n": 19,
+            "name": "Gilberto Mora",
+            "pos": "RM",
+            "fp": 7
+          },
+          {
+            "n": 7,
+            "name": "Luis Romo",
+            "pos": "LM",
+            "fp": 8
+          },
+          {
+            "n": 9,
+            "name": "Raúl Jiménez",
+            "pos": "F",
+            "fp": 9
+          },
+          {
+            "n": 25,
+            "name": "Roberto Alvarado",
+            "pos": "RF",
+            "fp": 10
+          },
+          {
+            "n": 16,
+            "name": "Julián Quiñones",
+            "pos": "LF",
+            "fp": 11
+          }
+        ],
+        "subs": [
+          {
+            "n": 13,
+            "name": "Guillermo Ochoa",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 15,
+            "name": "Israel Reyes",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 10,
+            "name": "Alexis Vega",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 22,
+            "name": "Guillermo Martínez",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 24,
+            "name": "Luis Chávez",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 8,
+            "name": "Álvaro Fidalgo",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 11,
+            "name": "Santiago Gimenez",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 4,
+            "name": "Edson Álvarez",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 20,
+            "name": "Mateo Chávez",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 12,
+            "name": "Carlos Acevedo",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 26,
+            "name": "Brian Gutiérrez",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 17,
+            "name": "Orbelín Pineda",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 14,
+            "name": "Armando González",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 18,
+            "name": "Obed Vargas",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 21,
+            "name": "César Huerta",
+            "pos": "SUB",
+            "fp": 0
+          }
+        ]
+      },
+      "away": {
+        "formation": "4-4-2",
+        "coach": "",
+        "xi": [
+          {
+            "n": 1,
+            "name": "Hernán Galíndez",
+            "pos": "G",
+            "fp": 1
+          },
+          {
+            "n": 21,
+            "name": "Alan Franco",
+            "pos": "RB",
+            "fp": 2
+          },
+          {
+            "n": 3,
+            "name": "Piero Hincapié",
+            "pos": "LB",
+            "fp": 3
+          },
+          {
+            "n": 23,
+            "name": "Moisés Caicedo",
+            "pos": "CM-R",
+            "fp": 4
+          },
+          {
+            "n": 4,
+            "name": "Joel Ordóñez",
+            "pos": "CD-R",
+            "fp": 5
+          },
+          {
+            "n": 6,
+            "name": "Willian Pacho",
+            "pos": "CD-L",
+            "fp": 6
+          },
+          {
+            "n": 9,
+            "name": "John Yeboah",
+            "pos": "RM",
+            "fp": 7
+          },
+          {
+            "n": 15,
+            "name": "Pedro Vite",
+            "pos": "CM-L",
+            "fp": 8
+          },
+          {
+            "n": 13,
+            "name": "Enner Valencia",
+            "pos": "CF-L",
+            "fp": 9
+          },
+          {
+            "n": 19,
+            "name": "Gonzalo Plata",
+            "pos": "CF-R",
+            "fp": 10
+          },
+          {
+            "n": 20,
+            "name": "Nilson Angulo",
+            "pos": "LM",
+            "fp": 11
+          }
+        ],
+        "subs": [
+          {
+            "n": 22,
+            "name": "Gonzalo Valle",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 26,
+            "name": "Yaimar Medina",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 8,
+            "name": "Anthony Valencia",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 5,
+            "name": "Jordy Alcívar",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 12,
+            "name": "Moisés Ramírez",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 17,
+            "name": "Ángelo Preciado",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 10,
+            "name": "Kendry Páez",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 18,
+            "name": "Denil Castillo",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 7,
+            "name": "Pervis Estupiñán",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 24,
+            "name": "Jeremy Arévalo",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 11,
+            "name": "Kevin Rodríguez",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 2,
+            "name": "Félix Torres",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 16,
+            "name": "Jordy Caicedo",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 25,
+            "name": "Jackson Porozo",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 14,
+            "name": "Alan Minda",
+            "pos": "SUB",
+            "fp": 0
+          }
+        ]
+      }
+    }
   },
   {
     "id": "760495",
