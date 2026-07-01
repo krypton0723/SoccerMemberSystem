@@ -25920,25 +25920,356 @@
   {
     "id": "760495",
     "kickoff": "2026-07-02T01:00:00+09:00",
-    "group": "",
+    "group": "L",
     "matchday": "ラウンド32",
     "dateLabel": "7月2日（木）",
     "timeJST": "01:00",
     "stadium": "Mercedes-Benz Stadium",
     "city": "Atlanta, Georgia",
     "home": {
-      "name": "Group L Winner",
-      "code": "1L",
-      "color": "#000000",
-      "altColor": "#000000"
+      "name": "イングランド",
+      "code": "ENG",
+      "color": "#ffffff",
+      "altColor": "#EA1F29"
     },
     "away": {
-      "name": "Third Place Group E/H/I/J/K",
-      "code": "3RD",
-      "color": "#000000",
-      "altColor": "#000000"
+      "name": "コンゴ民主共和国",
+      "code": "COD",
+      "color": "#418fde",
+      "altColor": "#C60000"
     },
-    "status": "pending"
+    "status": "released",
+    "capturedAt": "7/2 02:20 JST に取得・凍結",
+    "lineup": {
+      "home": {
+        "formation": "4-2-3-1",
+        "coach": "",
+        "xi": [
+          {
+            "n": 1,
+            "name": "Jordan Pickford",
+            "pos": "G",
+            "fp": 1
+          },
+          {
+            "n": 25,
+            "name": "Djed Spence",
+            "pos": "RB",
+            "fp": 2
+          },
+          {
+            "n": 3,
+            "name": "Nico O'Reilly",
+            "pos": "LB",
+            "fp": 3
+          },
+          {
+            "n": 4,
+            "name": "Declan Rice",
+            "pos": "LM",
+            "fp": 4
+          },
+          {
+            "n": 2,
+            "name": "Ezri Konsa",
+            "pos": "CD-R",
+            "fp": 5
+          },
+          {
+            "n": 6,
+            "name": "Marc Guéhi",
+            "pos": "CD-L",
+            "fp": 6
+          },
+          {
+            "n": 20,
+            "name": "Noni Madueke",
+            "pos": "AM-R",
+            "fp": 7
+          },
+          {
+            "n": 8,
+            "name": "Elliot Anderson",
+            "pos": "RM",
+            "fp": 8
+          },
+          {
+            "n": 9,
+            "name": "Harry Kane",
+            "pos": "F",
+            "fp": 9
+          },
+          {
+            "n": 10,
+            "name": "Jude Bellingham",
+            "pos": "AM",
+            "fp": 10
+          },
+          {
+            "n": 11,
+            "name": "Marcus Rashford",
+            "pos": "AM-L",
+            "fp": 11
+          }
+        ],
+        "subs": [
+          {
+            "n": 12,
+            "name": "Trevoh Chalobah",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 15,
+            "name": "Dan Burn",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 16,
+            "name": "Kobbie Mainoo",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 7,
+            "name": "Bukayo Saka",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 17,
+            "name": "Morgan Rogers",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 13,
+            "name": "Dean Henderson",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 19,
+            "name": "Ollie Watkins",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 22,
+            "name": "Ivan Toney",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 5,
+            "name": "John Stones",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 14,
+            "name": "Jordan Henderson",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 18,
+            "name": "Anthony Gordon",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 23,
+            "name": "James Trafford",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 24,
+            "name": "Reece James",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 21,
+            "name": "Eberechi Eze",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 26,
+            "name": "Jarell Quansah",
+            "pos": "SUB",
+            "fp": 0
+          }
+        ]
+      },
+      "away": {
+        "formation": "4-3-3",
+        "coach": "",
+        "xi": [
+          {
+            "n": 1,
+            "name": "Lionel Mpasi",
+            "pos": "G",
+            "fp": 1
+          },
+          {
+            "n": 2,
+            "name": "Aaron Wan-Bissaka",
+            "pos": "RB",
+            "fp": 2
+          },
+          {
+            "n": 26,
+            "name": "Arthur Masuaku",
+            "pos": "LB",
+            "fp": 3
+          },
+          {
+            "n": 8,
+            "name": "Samuel Moutoussamy",
+            "pos": "CM",
+            "fp": 4
+          },
+          {
+            "n": 22,
+            "name": "Chancel Mbemba",
+            "pos": "CD-R",
+            "fp": 5
+          },
+          {
+            "n": 4,
+            "name": "Axel Tuanzebe",
+            "pos": "CD-L",
+            "fp": 6
+          },
+          {
+            "n": 6,
+            "name": "Ngal'ayel Mukau",
+            "pos": "RM",
+            "fp": 7
+          },
+          {
+            "n": 14,
+            "name": "Noah Sadiki",
+            "pos": "LM",
+            "fp": 8
+          },
+          {
+            "n": 20,
+            "name": "Yoane Wissa",
+            "pos": "F",
+            "fp": 9
+          },
+          {
+            "n": 7,
+            "name": "Nathanaël Mbuku",
+            "pos": "RF",
+            "fp": 10
+          },
+          {
+            "n": 9,
+            "name": "Brian Cipenga",
+            "pos": "LF",
+            "fp": 11
+          }
+        ],
+        "subs": [
+          {
+            "n": 17,
+            "name": "Cédric Bakambu",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 21,
+            "name": "Matthieu Epolo",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 16,
+            "name": "Timothy Fayulu",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 19,
+            "name": "Fiston Mayele",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 18,
+            "name": "Charles Pickel",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 10,
+            "name": "Théo Bongonda",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 24,
+            "name": "Gédéon Kalulu",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 25,
+            "name": "Edo Kayembe",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 5,
+            "name": "Dylan Batubinsika",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 11,
+            "name": "Gaël Kakuta",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 13,
+            "name": "Meschack Elia",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 23,
+            "name": "Simon Banza",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 15,
+            "name": "Aaron Tshibola",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 3,
+            "name": "Steve Kapuadi",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 12,
+            "name": "Joris Kayembe",
+            "pos": "SUB",
+            "fp": 0
+          }
+        ]
+      }
+    }
   },
   {
     "id": "760493",
