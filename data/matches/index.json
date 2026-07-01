@@ -26274,25 +26274,344 @@
   {
     "id": "760493",
     "kickoff": "2026-07-02T05:00:00+09:00",
-    "group": "",
+    "group": "G",
     "matchday": "ラウンド32",
     "dateLabel": "7月2日（木）",
     "timeJST": "05:00",
     "stadium": "Lumen Field",
     "city": "Seattle, Washington",
     "home": {
-      "name": "Group G Winner",
-      "code": "1G",
-      "color": "#000000",
+      "name": "ベルギー",
+      "code": "BEL",
+      "color": "#E30613",
       "altColor": "#000000"
     },
     "away": {
-      "name": "Third Place Group A/E/H/I/J",
-      "code": "3RD",
-      "color": "#000000",
-      "altColor": "#000000"
+      "name": "セネガル",
+      "code": "SEN",
+      "color": "#FFFFFF",
+      "altColor": "#006436"
     },
-    "status": "pending"
+    "status": "released",
+    "capturedAt": "7/2 04:18 JST に取得・凍結",
+    "lineup": {
+      "home": {
+        "formation": "4-2-3-1",
+        "coach": "",
+        "xi": [
+          {
+            "n": 1,
+            "name": "Thibaut Courtois",
+            "pos": "G",
+            "fp": 1
+          },
+          {
+            "n": 21,
+            "name": "Timothy Castagne",
+            "pos": "RB",
+            "fp": 2
+          },
+          {
+            "n": 5,
+            "name": "Maxim De Cuyper",
+            "pos": "LB",
+            "fp": 3
+          },
+          {
+            "n": 20,
+            "name": "Hans Vanaken",
+            "pos": "LM",
+            "fp": 4
+          },
+          {
+            "n": 4,
+            "name": "Brandon Mechele",
+            "pos": "CD-R",
+            "fp": 5
+          },
+          {
+            "n": 3,
+            "name": "Arthur Theate",
+            "pos": "CD-L",
+            "fp": 6
+          },
+          {
+            "n": 10,
+            "name": "Leandro Trossard",
+            "pos": "AM-R",
+            "fp": 7
+          },
+          {
+            "n": 8,
+            "name": "Youri Tielemans",
+            "pos": "RM",
+            "fp": 8
+          },
+          {
+            "n": 17,
+            "name": "Charles De Ketelaere",
+            "pos": "F",
+            "fp": 9
+          },
+          {
+            "n": 7,
+            "name": "Kevin De Bruyne",
+            "pos": "AM",
+            "fp": 10
+          },
+          {
+            "n": 11,
+            "name": "Jérémy Doku",
+            "pos": "AM-L",
+            "fp": 11
+          }
+        ],
+        "subs": [
+          {
+            "n": 18,
+            "name": "Joaquin Seys",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 16,
+            "name": "Koni De Winter",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 12,
+            "name": "Senne Lammens",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 14,
+            "name": "Dodi Lukébakio",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 15,
+            "name": "Thomas Meunier",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 9,
+            "name": "Romelu Lukaku",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 26,
+            "name": "Matias Fernandez-Pardo",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 24,
+            "name": "Amadou Onana",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 19,
+            "name": "Diego Moreira",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 22,
+            "name": "Alexis Saelemaekers",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 6,
+            "name": "Axel Witsel",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 23,
+            "name": "Nicolas Raskin",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 13,
+            "name": "Mike Penders",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 25,
+            "name": "Nathan Ngoy",
+            "pos": "SUB",
+            "fp": 0
+          }
+        ]
+      },
+      "away": {
+        "formation": "4-3-3",
+        "coach": "",
+        "xi": [
+          {
+            "n": 23,
+            "name": "Mory Diaw",
+            "pos": "G",
+            "fp": 1
+          },
+          {
+            "n": 15,
+            "name": "Krépin Diatta",
+            "pos": "RB",
+            "fp": 2
+          },
+          {
+            "n": 14,
+            "name": "Ismail Jakobs",
+            "pos": "LB",
+            "fp": 3
+          },
+          {
+            "n": 5,
+            "name": "Idrissa Gueye",
+            "pos": "CM",
+            "fp": 4
+          },
+          {
+            "n": 6,
+            "name": "Pathé Ciss",
+            "pos": "CD-R",
+            "fp": 5
+          },
+          {
+            "n": 19,
+            "name": "Moussa Niakhaté",
+            "pos": "CD-L",
+            "fp": 6
+          },
+          {
+            "n": 21,
+            "name": "Habib Diarra",
+            "pos": "RM",
+            "fp": 7
+          },
+          {
+            "n": 26,
+            "name": "Pape Gueye",
+            "pos": "LM",
+            "fp": 8
+          },
+          {
+            "n": 18,
+            "name": "Ismaïla Sarr",
+            "pos": "F",
+            "fp": 9
+          },
+          {
+            "n": 13,
+            "name": "Iliman Ndiaye",
+            "pos": "RF",
+            "fp": 10
+          },
+          {
+            "n": 10,
+            "name": "Sadio Mané",
+            "pos": "LF",
+            "fp": 11
+          }
+        ],
+        "subs": [
+          {
+            "n": 2,
+            "name": "Mamadou Sarr",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 7,
+            "name": "Assane Diao",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 9,
+            "name": "Bamba Dieng",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 17,
+            "name": "Pape Matar Sarr",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 4,
+            "name": "Abdoulaye Seck",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 25,
+            "name": "El Hadji Malick Diouf",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 11,
+            "name": "Nicolas Jackson",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 20,
+            "name": "Ibrahim Mbaye",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 8,
+            "name": "Lamine Camara",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 12,
+            "name": "Cherif Ndiaye",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 3,
+            "name": "Kalidou Koulibaly",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 22,
+            "name": "Bara Sapoko Ndiaye",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 24,
+            "name": "Antoine Mendy",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 1,
+            "name": "Yehvann Diouf",
+            "pos": "SUB",
+            "fp": 0
+          }
+        ]
+      }
+    }
   },
   {
     "id": "760494",
