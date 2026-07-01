@@ -26629,12 +26629,331 @@
       "altColor": "#213065"
     },
     "away": {
-      "name": "Third Place Group B/E/F/I/J",
-      "code": "3RD",
-      "color": "#000000",
-      "altColor": "#000000"
+      "name": "ボスニア・ヘルツェゴビナ",
+      "code": "BIH",
+      "color": "#112855",
+      "altColor": "#ffffff"
     },
-    "status": "pending"
+    "status": "released",
+    "capturedAt": "7/2 08:56 JST に取得・凍結",
+    "lineup": {
+      "home": {
+        "formation": "4-2-3-1",
+        "coach": "",
+        "xi": [
+          {
+            "n": 24,
+            "name": "Matt Freese",
+            "pos": "G",
+            "fp": 1
+          },
+          {
+            "n": 16,
+            "name": "Alex Freeman",
+            "pos": "RB",
+            "fp": 2
+          },
+          {
+            "n": 5,
+            "name": "Antonee Robinson",
+            "pos": "LB",
+            "fp": 3
+          },
+          {
+            "n": 4,
+            "name": "Tyler Adams",
+            "pos": "LM",
+            "fp": 4
+          },
+          {
+            "n": 3,
+            "name": "Chris Richards",
+            "pos": "CD-R",
+            "fp": 5
+          },
+          {
+            "n": 13,
+            "name": "Tim Ream",
+            "pos": "CD-L",
+            "fp": 6
+          },
+          {
+            "n": 2,
+            "name": "Sergiño Dest",
+            "pos": "AM-R",
+            "fp": 7
+          },
+          {
+            "n": 17,
+            "name": "Malik Tillman",
+            "pos": "RM",
+            "fp": 8
+          },
+          {
+            "n": 20,
+            "name": "Folarin Balogun",
+            "pos": "F",
+            "fp": 9
+          },
+          {
+            "n": 8,
+            "name": "Weston McKennie",
+            "pos": "AM",
+            "fp": 10
+          },
+          {
+            "n": 10,
+            "name": "Christian Pulisic",
+            "pos": "AM-L",
+            "fp": 11
+          }
+        ],
+        "subs": [
+          {
+            "n": 7,
+            "name": "Giovanni Reyna",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 25,
+            "name": "Chris Brady",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 11,
+            "name": "Brenden Aaronson",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 6,
+            "name": "Auston Trusty",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 18,
+            "name": "Max Arfsten",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 23,
+            "name": "Joe Scally",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 19,
+            "name": "Haji Wright",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 14,
+            "name": "Sebastian Berhalter",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 26,
+            "name": "Alejandro Zendejas",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 12,
+            "name": "Miles Robinson",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 1,
+            "name": "Matt Turner",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 21,
+            "name": "Timothy Weah",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 9,
+            "name": "Ricardo Pepi",
+            "pos": "SUB",
+            "fp": 0
+          }
+        ]
+      },
+      "away": {
+        "formation": "3-4-1-2",
+        "coach": "",
+        "xi": [
+          {
+            "n": 1,
+            "name": "Nikola Vasilj",
+            "pos": "G",
+            "fp": 1
+          },
+          {
+            "n": 7,
+            "name": "Amar Dedic",
+            "pos": "RM",
+            "fp": 2
+          },
+          {
+            "n": 5,
+            "name": "Sead Kolasinac",
+            "pos": "LM",
+            "fp": 3
+          },
+          {
+            "n": 4,
+            "name": "Tarik Muharemovic",
+            "pos": "CD-L",
+            "fp": 4
+          },
+          {
+            "n": 21,
+            "name": "Stjepan Radeljic",
+            "pos": "CD",
+            "fp": 5
+          },
+          {
+            "n": 18,
+            "name": "Nikola Katic",
+            "pos": "CD-R",
+            "fp": 6
+          },
+          {
+            "n": 8,
+            "name": "Armin Gigovic",
+            "pos": "CM-R",
+            "fp": 7
+          },
+          {
+            "n": 14,
+            "name": "Ivan Sunjic",
+            "pos": "CM-L",
+            "fp": 8
+          },
+          {
+            "n": 19,
+            "name": "Kerim Alajbegovic",
+            "pos": "AM",
+            "fp": 9
+          },
+          {
+            "n": 11,
+            "name": "Edin Dzeko",
+            "pos": "CF-R",
+            "fp": 10
+          },
+          {
+            "n": 10,
+            "name": "Ermedin Demirovic",
+            "pos": "CF-L",
+            "fp": 11
+          }
+        ],
+        "subs": [
+          {
+            "n": 23,
+            "name": "Haris Tabakovic",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 20,
+            "name": "Esmir Bajraktarevic",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 9,
+            "name": "Samed Bazdar",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 6,
+            "name": "Benjamin Tahirovic",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 17,
+            "name": "Dzenis Burnic",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 24,
+            "name": "Arjan Malic",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 25,
+            "name": "Jovo Lukic",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 3,
+            "name": "Dennis Hadzikadunic",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 16,
+            "name": "Amir Hadziahmetovic",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 12,
+            "name": "Mladen Jurkas",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 15,
+            "name": "Amar Memic",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 22,
+            "name": "Martin Zlomislic",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 26,
+            "name": "Ermin Mahmic",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 13,
+            "name": "Ivan Basic",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 2,
+            "name": "Nihad Mujakic",
+            "pos": "SUB",
+            "fp": 0
+          }
+        ]
+      }
+    }
   },
   {
     "id": "760497",
