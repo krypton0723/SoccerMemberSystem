@@ -26958,25 +26958,356 @@
   {
     "id": "760497",
     "kickoff": "2026-07-03T04:00:00+09:00",
-    "group": "",
+    "group": "H",
     "matchday": "ラウンド32",
     "dateLabel": "7月3日（金）",
     "timeJST": "04:00",
     "stadium": "SoFi Stadium",
     "city": "Inglewood, California",
     "home": {
-      "name": "Group H Winner",
-      "code": "1H",
-      "color": "#000000",
-      "altColor": "#000000"
+      "name": "スペイン",
+      "code": "ESP",
+      "color": "#c60b1e",
+      "altColor": "#800000"
     },
     "away": {
-      "name": "Group J 2nd Place",
-      "code": "2J",
-      "color": "#000000",
+      "name": "オーストリア",
+      "code": "AUT",
+      "color": "#d72b2c",
       "altColor": "#000000"
     },
-    "status": "pending"
+    "status": "released",
+    "capturedAt": "7/3 03:27 JST に取得・凍結",
+    "lineup": {
+      "home": {
+        "formation": "4-2-3-1",
+        "coach": "",
+        "xi": [
+          {
+            "n": 23,
+            "name": "Unai Simón",
+            "pos": "G",
+            "fp": 1
+          },
+          {
+            "n": 12,
+            "name": "Pedro Porro",
+            "pos": "D",
+            "fp": 2
+          },
+          {
+            "n": 24,
+            "name": "Marc Cucurella",
+            "pos": "D",
+            "fp": 3
+          },
+          {
+            "n": 20,
+            "name": "Pedri",
+            "pos": "M",
+            "fp": 4
+          },
+          {
+            "n": 22,
+            "name": "Pau Cubarsí",
+            "pos": "D",
+            "fp": 5
+          },
+          {
+            "n": 14,
+            "name": "Aymeric Laporte",
+            "pos": "D",
+            "fp": 6
+          },
+          {
+            "n": 19,
+            "name": "Lamine Yamal",
+            "pos": "M",
+            "fp": 7
+          },
+          {
+            "n": 16,
+            "name": "Rodri",
+            "pos": "M",
+            "fp": 8
+          },
+          {
+            "n": 21,
+            "name": "Mikel Oyarzabal",
+            "pos": "F",
+            "fp": 9
+          },
+          {
+            "n": 10,
+            "name": "Dani Olmo",
+            "pos": "M",
+            "fp": 10
+          },
+          {
+            "n": 15,
+            "name": "Álex Baena",
+            "pos": "M",
+            "fp": 11
+          }
+        ],
+        "subs": [
+          {
+            "n": 6,
+            "name": "Mikel Merino",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 2,
+            "name": "Marc Pubill",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 17,
+            "name": "Nico Williams",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 18,
+            "name": "Martín Zubimendi",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 7,
+            "name": "Ferran Torres",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 26,
+            "name": "Borja Iglesias",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 11,
+            "name": "Yéremy Pino",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 8,
+            "name": "Fabián Ruiz",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 3,
+            "name": "Alejandro Grimaldo",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 9,
+            "name": "Gavi",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 13,
+            "name": "Joan García",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 5,
+            "name": "Marcos Llorente",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 4,
+            "name": "Eric García",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 1,
+            "name": "David Raya",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 25,
+            "name": "Víctor Muñoz",
+            "pos": "SUB",
+            "fp": 0
+          }
+        ]
+      },
+      "away": {
+        "formation": "4-2-3-1",
+        "coach": "",
+        "xi": [
+          {
+            "n": 1,
+            "name": "Alexander Schlager",
+            "pos": "G",
+            "fp": 1
+          },
+          {
+            "n": 5,
+            "name": "Stefan Posch",
+            "pos": "D",
+            "fp": 2
+          },
+          {
+            "n": 20,
+            "name": "Konrad Laimer",
+            "pos": "D",
+            "fp": 3
+          },
+          {
+            "n": 4,
+            "name": "Xaver Schlager",
+            "pos": "M",
+            "fp": 4
+          },
+          {
+            "n": 3,
+            "name": "Kevin Danso",
+            "pos": "D",
+            "fp": 5
+          },
+          {
+            "n": 8,
+            "name": "David Alaba",
+            "pos": "D",
+            "fp": 6
+          },
+          {
+            "n": 18,
+            "name": "Romano Schmid",
+            "pos": "M",
+            "fp": 7
+          },
+          {
+            "n": 6,
+            "name": "Nicolas Seiwald",
+            "pos": "M",
+            "fp": 8
+          },
+          {
+            "n": 11,
+            "name": "Michael Gregoritsch",
+            "pos": "F",
+            "fp": 9
+          },
+          {
+            "n": 24,
+            "name": "Paul Wanner",
+            "pos": "M",
+            "fp": 10
+          },
+          {
+            "n": 9,
+            "name": "Marcel Sabitzer",
+            "pos": "M",
+            "fp": 11
+          }
+        ],
+        "subs": [
+          {
+            "n": 10,
+            "name": "Florian Grillitsch",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 12,
+            "name": "Florian Wiegele",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 2,
+            "name": "David Affengruber",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 16,
+            "name": "Phillipp Mwene",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 13,
+            "name": "Patrick Pentz",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 21,
+            "name": "Patrick Wimmer",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 26,
+            "name": "Alessandro Schöpf",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 7,
+            "name": "Marko Arnautovic",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 25,
+            "name": "Michael Svoboda",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 19,
+            "name": "Dejan Ljubicic",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 22,
+            "name": "Alexander Prass",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 17,
+            "name": "Carney Chukwuemeka",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 23,
+            "name": "Marco Friedl",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 14,
+            "name": "Sasa Kalajdzic",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 15,
+            "name": "Philipp Lienhart",
+            "pos": "SUB",
+            "fp": 0
+          }
+        ]
+      }
+    }
   },
   {
     "id": "760496",
