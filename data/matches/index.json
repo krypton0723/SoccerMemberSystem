@@ -28002,25 +28002,326 @@
   {
     "id": "760499",
     "kickoff": "2026-07-04T03:00:00+09:00",
-    "group": "",
+    "group": "D",
     "matchday": "ラウンド32",
     "dateLabel": "7月4日（土）",
     "timeJST": "03:00",
     "stadium": "AT&T Stadium",
     "city": "Arlington, Texas",
     "home": {
-      "name": "Group D 2nd Place",
-      "code": "2D",
-      "color": "#000000",
-      "altColor": "#000000"
+      "name": "オーストラリア",
+      "code": "AUS",
+      "color": "#FFCD00",
+      "altColor": "#FFCD00"
     },
     "away": {
-      "name": "Group G 2nd Place",
-      "code": "2G",
-      "color": "#000000",
-      "altColor": "#000000"
+      "name": "エジプト",
+      "code": "EGY",
+      "color": "#D20300",
+      "altColor": "#FFFFFF"
     },
-    "status": "pending"
+    "status": "released",
+    "capturedAt": "7/4 03:02 JST に取得・凍結",
+    "lineup": {
+      "home": {
+        "formation": "3-4-2-1",
+        "coach": "",
+        "xi": [
+          {
+            "n": 18,
+            "name": "Patrick Beach",
+            "pos": "G",
+            "fp": 1
+          },
+          {
+            "n": 5,
+            "name": "Jordan Bos",
+            "pos": "RM",
+            "fp": 2
+          },
+          {
+            "n": 16,
+            "name": "Aziz Behich",
+            "pos": "LM",
+            "fp": 3
+          },
+          {
+            "n": 25,
+            "name": "Lucas Herrington",
+            "pos": "CD-L",
+            "fp": 4
+          },
+          {
+            "n": 19,
+            "name": "Harry Souttar",
+            "pos": "CD",
+            "fp": 5
+          },
+          {
+            "n": 3,
+            "name": "Alessandro Circati",
+            "pos": "CD-R",
+            "fp": 6
+          },
+          {
+            "n": 22,
+            "name": "Jackson Irvine",
+            "pos": "CM-R",
+            "fp": 7
+          },
+          {
+            "n": 13,
+            "name": "Aiden O'Neill",
+            "pos": "CM-L",
+            "fp": 8
+          },
+          {
+            "n": 17,
+            "name": "Nestory Irankunda",
+            "pos": "F",
+            "fp": 9
+          },
+          {
+            "n": 20,
+            "name": "Cristian Volpato",
+            "pos": "CF-R",
+            "fp": 10
+          },
+          {
+            "n": 8,
+            "name": "Connor Metcalfe",
+            "pos": "CF-L",
+            "fp": 11
+          }
+        ],
+        "subs": [
+          {
+            "n": 14,
+            "name": "Cameron Devlin",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 10,
+            "name": "Ajdin Hrustic",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 21,
+            "name": "Cameron Burgess",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 23,
+            "name": "Nishan Velupillay",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 15,
+            "name": "Kai Trewin",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 2,
+            "name": "Milos Degenek",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 11,
+            "name": "Awer Mabil",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 9,
+            "name": "Mohamed Toure",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 26,
+            "name": "Tete Yengi",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 6,
+            "name": "Jason Geria",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 1,
+            "name": "Mathew Ryan",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 24,
+            "name": "Paul Okon-Engstler",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 12,
+            "name": "Paul Izzo",
+            "pos": "SUB",
+            "fp": 0
+          }
+        ]
+      },
+      "away": {
+        "formation": "4-2-3-1",
+        "coach": "",
+        "xi": [
+          {
+            "n": 23,
+            "name": "Mostafa Shoubir",
+            "pos": "G",
+            "fp": 1
+          },
+          {
+            "n": 3,
+            "name": "Mohamed Hany",
+            "pos": "RB",
+            "fp": 2
+          },
+          {
+            "n": 15,
+            "name": "Karim Hafez",
+            "pos": "LB",
+            "fp": 3
+          },
+          {
+            "n": 19,
+            "name": "Marawan Attia",
+            "pos": "LM",
+            "fp": 4
+          },
+          {
+            "n": 2,
+            "name": "Yasser Ibrahim",
+            "pos": "CD-R",
+            "fp": 5
+          },
+          {
+            "n": 5,
+            "name": "Ramy Rabia",
+            "pos": "CD-L",
+            "fp": 6
+          },
+          {
+            "n": 8,
+            "name": "Emam Ashour",
+            "pos": "AM-R",
+            "fp": 7
+          },
+          {
+            "n": 14,
+            "name": "Hamdy Fathy",
+            "pos": "RM",
+            "fp": 8
+          },
+          {
+            "n": 22,
+            "name": "Omar Marmoush",
+            "pos": "F",
+            "fp": 9
+          },
+          {
+            "n": 10,
+            "name": "Mohamed Salah",
+            "pos": "AM",
+            "fp": 10
+          },
+          {
+            "n": 11,
+            "name": "Mostafa Zico",
+            "pos": "AM-L",
+            "fp": 11
+          }
+        ],
+        "subs": [
+          {
+            "n": 16,
+            "name": "Mahdy Soliman",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 25,
+            "name": "Zizo",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 20,
+            "name": "Ibrahim Adel",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 26,
+            "name": "Mohamed Alaa",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 24,
+            "name": "Tarek Alaa",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 4,
+            "name": "Hossam Abdelmaguid",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 12,
+            "name": "Haissem Hassan",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 1,
+            "name": "Mohamed El Shenawy",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 9,
+            "name": "Hamza Abdelkarim",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 21,
+            "name": "Mahmoud Saber",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 18,
+            "name": "Nabil Donga",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 7,
+            "name": "Trézéguet",
+            "pos": "SUB",
+            "fp": 0
+          }
+        ]
+      }
+    }
   },
   {
     "id": "760500",
