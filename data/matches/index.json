@@ -28680,25 +28680,356 @@
   {
     "id": "760501",
     "kickoff": "2026-07-04T10:30:00+09:00",
-    "group": "",
+    "group": "K",
     "matchday": "ラウンド32",
     "dateLabel": "7月4日（土）",
     "timeJST": "10:30",
     "stadium": "GEHA Field at Arrowhead Stadium",
     "city": "Kansas City, Missouri",
     "home": {
-      "name": "Group K Winner",
-      "code": "1K",
-      "color": "#000000",
-      "altColor": "#000000"
+      "name": "コロンビア",
+      "code": "COL",
+      "color": "#fbd632",
+      "altColor": "#21418c"
     },
     "away": {
-      "name": "Third Place Group D/E/I/J/L",
-      "code": "3RD",
-      "color": "#000000",
+      "name": "ガーナ",
+      "code": "GHA",
+      "color": "#fbd632",
       "altColor": "#000000"
     },
-    "status": "pending"
+    "status": "released",
+    "capturedAt": "7/4 10:18 JST に取得・凍結",
+    "lineup": {
+      "home": {
+        "formation": "4-3-3",
+        "coach": "",
+        "xi": [
+          {
+            "n": 12,
+            "name": "Camilo Vargas",
+            "pos": "G",
+            "fp": 1
+          },
+          {
+            "n": 2,
+            "name": "Daniel Muñoz",
+            "pos": "D",
+            "fp": 2
+          },
+          {
+            "n": 17,
+            "name": "Johan Mojica",
+            "pos": "D",
+            "fp": 3
+          },
+          {
+            "n": 16,
+            "name": "Jefferson Lerma",
+            "pos": "M",
+            "fp": 4
+          },
+          {
+            "n": 23,
+            "name": "Davinson Sánchez",
+            "pos": "D",
+            "fp": 5
+          },
+          {
+            "n": 3,
+            "name": "Jhon Lucumí",
+            "pos": "D",
+            "fp": 6
+          },
+          {
+            "n": 11,
+            "name": "Jhon Arias",
+            "pos": "M",
+            "fp": 7
+          },
+          {
+            "n": 14,
+            "name": "Gustavo Puerta",
+            "pos": "M",
+            "fp": 8
+          },
+          {
+            "n": 9,
+            "name": "Jhon Córdoba",
+            "pos": "F",
+            "fp": 9
+          },
+          {
+            "n": 10,
+            "name": "James Rodríguez",
+            "pos": "F",
+            "fp": 10
+          },
+          {
+            "n": 7,
+            "name": "Luis Díaz",
+            "pos": "F",
+            "fp": 11
+          }
+        ],
+        "subs": [
+          {
+            "n": 18,
+            "name": "Willer Ditta",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 5,
+            "name": "Kevin Castaño",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 1,
+            "name": "David Ospina",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 24,
+            "name": "Álvaro Montero",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 22,
+            "name": "Deiver Machado",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 25,
+            "name": "Luis Suárez",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 26,
+            "name": "Andrés Gómez",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 8,
+            "name": "Jorge Carrascal",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 19,
+            "name": "Cucho Hernández",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 20,
+            "name": "Juan Fernando Quintero",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 6,
+            "name": "Richard Ríos",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 15,
+            "name": "Juan Portilla",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 13,
+            "name": "Yerry Mina",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 4,
+            "name": "Santiago Arias",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 21,
+            "name": "Jáminton Campaz",
+            "pos": "SUB",
+            "fp": 0
+          }
+        ]
+      },
+      "away": {
+        "formation": "4-1-4-1",
+        "coach": "",
+        "xi": [
+          {
+            "n": 1,
+            "name": "Lawrence Ati Zigi",
+            "pos": "G",
+            "fp": 1
+          },
+          {
+            "n": 26,
+            "name": "Marvin Senaya",
+            "pos": "D",
+            "fp": 2
+          },
+          {
+            "n": 14,
+            "name": "Gideon Mensah",
+            "pos": "D",
+            "fp": 3
+          },
+          {
+            "n": 5,
+            "name": "Thomas Partey",
+            "pos": "M",
+            "fp": 4
+          },
+          {
+            "n": 23,
+            "name": "Derrick Luckassen",
+            "pos": "D",
+            "fp": 5
+          },
+          {
+            "n": 18,
+            "name": "Jerome Opoku",
+            "pos": "D",
+            "fp": 6
+          },
+          {
+            "n": 19,
+            "name": "Iñaki Williams",
+            "pos": "M",
+            "fp": 7
+          },
+          {
+            "n": 3,
+            "name": "Caleb Yirenkyi",
+            "pos": "M",
+            "fp": 8
+          },
+          {
+            "n": 9,
+            "name": "Jordan Ayew",
+            "pos": "F",
+            "fp": 9
+          },
+          {
+            "n": 8,
+            "name": "Kwasi Sibo",
+            "pos": "M",
+            "fp": 10
+          },
+          {
+            "n": 11,
+            "name": "Antoine Semenyo",
+            "pos": "M",
+            "fp": 11
+          }
+        ],
+        "subs": [
+          {
+            "n": 6,
+            "name": "Abdul Mumin",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 25,
+            "name": "Prince Adu",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 21,
+            "name": "Kojo Peprah Oppong",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 2,
+            "name": "Alidu Seidu",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 17,
+            "name": "Baba Rahman",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 15,
+            "name": "Elisha Owusu",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 4,
+            "name": "Jonas Adjetey",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 20,
+            "name": "Augustine Boakye",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 10,
+            "name": "Brandon Thomas-Asante",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 13,
+            "name": "Christopher Bonsu Baah",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 24,
+            "name": "Ernest Nuamah",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 16,
+            "name": "Benjamin Asare",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 22,
+            "name": "Kamaldeen Sulemana",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 12,
+            "name": "Joseph Anang",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 7,
+            "name": "Fatawu Issahaku",
+            "pos": "SUB",
+            "fp": 0
+          }
+        ]
+      }
+    }
   },
   {
     "id": "760502",
@@ -28925,6 +29256,52 @@
     "away": {
       "name": "Round of 16 6 Winner",
       "code": "RD16 W6",
+      "color": "#000000",
+      "altColor": "#C60000"
+    },
+    "status": "pending"
+  },
+  {
+    "id": "760512",
+    "kickoff": "2026-07-12T06:00:00+09:00",
+    "group": "",
+    "matchday": "準々決勝",
+    "dateLabel": "7月12日（日）",
+    "timeJST": "06:00",
+    "stadium": "Hard Rock Stadium",
+    "city": "Miami Gardens, Florida",
+    "home": {
+      "name": "Round of 16 3 Winner",
+      "code": "RD16 W3",
+      "color": "#000000",
+      "altColor": "#C60000"
+    },
+    "away": {
+      "name": "Round of 16 4 Winner",
+      "code": "RD16 W4",
+      "color": "#000000",
+      "altColor": "#C60000"
+    },
+    "status": "pending"
+  },
+  {
+    "id": "760513",
+    "kickoff": "2026-07-12T10:00:00+09:00",
+    "group": "",
+    "matchday": "準々決勝",
+    "dateLabel": "7月12日（日）",
+    "timeJST": "10:00",
+    "stadium": "GEHA Field at Arrowhead Stadium",
+    "city": "Kansas City, Missouri",
+    "home": {
+      "name": "Round of 16 7 Winner",
+      "code": "RD16 W7",
+      "color": "#000000",
+      "altColor": "#C60000"
+    },
+    "away": {
+      "name": "Round of 16 8 Winner",
+      "code": "RD16 W8",
       "color": "#000000",
       "altColor": "#C60000"
     },
