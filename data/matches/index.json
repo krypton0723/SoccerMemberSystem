@@ -29382,25 +29382,356 @@
   {
     "id": "760503",
     "kickoff": "2026-07-05T06:00:00+09:00",
-    "group": "",
+    "group": "D",
     "matchday": "ラウンド16",
     "dateLabel": "7月5日（日）",
     "timeJST": "06:00",
     "stadium": "Lincoln Financial Field",
     "city": "Philadelphia, Pennsylvania",
     "home": {
-      "name": "Round of 32 2 Winner",
-      "code": "RD32",
-      "color": "#000000",
-      "altColor": "#000000"
+      "name": "パラグアイ",
+      "code": "PAR",
+      "color": "#ea2300",
+      "altColor": "#21418c"
     },
     "away": {
-      "name": "Round of 32 5 Winner",
-      "code": "RD32",
-      "color": "#000000",
-      "altColor": "#000000"
+      "name": "フランス",
+      "code": "FRA",
+      "color": "#000080",
+      "altColor": "#C8E6D8"
     },
-    "status": "pending"
+    "status": "released",
+    "capturedAt": "7/5 06:08 JST に取得・凍結",
+    "lineup": {
+      "home": {
+        "formation": "5-4-1",
+        "coach": "",
+        "xi": [
+          {
+            "n": 12,
+            "name": "Orlando Gill",
+            "pos": "G",
+            "fp": 1
+          },
+          {
+            "n": 4,
+            "name": "Juan Jose Cáceres",
+            "pos": "RB",
+            "fp": 2
+          },
+          {
+            "n": 6,
+            "name": "Júnior Alonso",
+            "pos": "LB",
+            "fp": 3
+          },
+          {
+            "n": 3,
+            "name": "Omar Alderete",
+            "pos": "CD-L",
+            "fp": 4
+          },
+          {
+            "n": 15,
+            "name": "Gustavo Gómez",
+            "pos": "CD",
+            "fp": 5
+          },
+          {
+            "n": 2,
+            "name": "Gustavo Velázquez",
+            "pos": "CD-R",
+            "fp": 6
+          },
+          {
+            "n": 10,
+            "name": "Miguel Almirón",
+            "pos": "RM",
+            "fp": 7
+          },
+          {
+            "n": 8,
+            "name": "Diego Gómez",
+            "pos": "CM-R",
+            "fp": 8
+          },
+          {
+            "n": 19,
+            "name": "Julio Enciso",
+            "pos": "F",
+            "fp": 9
+          },
+          {
+            "n": 14,
+            "name": "Andrés Cubas",
+            "pos": "CM-L",
+            "fp": 10
+          },
+          {
+            "n": 23,
+            "name": "Matías Galarza",
+            "pos": "LM",
+            "fp": 11
+          }
+        ],
+        "subs": [
+          {
+            "n": 17,
+            "name": "Alejandro Romero Gamarra",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 5,
+            "name": "Fabián Balbuena",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 18,
+            "name": "Alex Arce",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 11,
+            "name": "Maurício",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 24,
+            "name": "Gustavo Caballero",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 16,
+            "name": "Damián Bobadilla",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 9,
+            "name": "Antonio Sanabria",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 7,
+            "name": "Ramón Sosa",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 20,
+            "name": "Braian Ojeda",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 22,
+            "name": "Gastón Olveira",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 1,
+            "name": "Gatito Fernández",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 13,
+            "name": "José Canale",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 26,
+            "name": "Alexandro Maidana",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 25,
+            "name": "Isidro Pitta",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 21,
+            "name": "Gabriel Ávalos",
+            "pos": "SUB",
+            "fp": 0
+          }
+        ]
+      },
+      "away": {
+        "formation": "4-2-3-1",
+        "coach": "",
+        "xi": [
+          {
+            "n": 16,
+            "name": "Mike Maignan",
+            "pos": "G",
+            "fp": 1
+          },
+          {
+            "n": 5,
+            "name": "Jules Koundé",
+            "pos": "RB",
+            "fp": 2
+          },
+          {
+            "n": 3,
+            "name": "Lucas Digne",
+            "pos": "LB",
+            "fp": 3
+          },
+          {
+            "n": 14,
+            "name": "Adrien Rabiot",
+            "pos": "LM",
+            "fp": 4
+          },
+          {
+            "n": 4,
+            "name": "Dayot Upamecano",
+            "pos": "CD-R",
+            "fp": 5
+          },
+          {
+            "n": 17,
+            "name": "William Saliba",
+            "pos": "CD-L",
+            "fp": 6
+          },
+          {
+            "n": 7,
+            "name": "Ousmane Dembélé",
+            "pos": "AM-R",
+            "fp": 7
+          },
+          {
+            "n": 6,
+            "name": "Manu Koné",
+            "pos": "RM",
+            "fp": 8
+          },
+          {
+            "n": 10,
+            "name": "Kylian Mbappé",
+            "pos": "F",
+            "fp": 9
+          },
+          {
+            "n": 11,
+            "name": "Michael Olise",
+            "pos": "AM",
+            "fp": 10
+          },
+          {
+            "n": 12,
+            "name": "Bradley Barcola",
+            "pos": "AM-L",
+            "fp": 11
+          }
+        ],
+        "subs": [
+          {
+            "n": 8,
+            "name": "Aurélien Tchouaméni",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 20,
+            "name": "Désiré Doué",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 22,
+            "name": "Jean-Philippe Mateta",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 19,
+            "name": "Theo Hernández",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 13,
+            "name": "N'Golo Kanté",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 21,
+            "name": "Lucas Hernández",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 25,
+            "name": "Maghnes Akliouche",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 26,
+            "name": "Maxence Lacroix",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 15,
+            "name": "Ibrahima Konaté",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 23,
+            "name": "Robin Risser",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 9,
+            "name": "Marcus Thuram",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 1,
+            "name": "Brice Samba",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 24,
+            "name": "Rayan Cherki",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 18,
+            "name": "Warren Zaïre-Emery",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 2,
+            "name": "Malo Gusto",
+            "pos": "SUB",
+            "fp": 0
+          }
+        ]
+      }
+    }
   },
   {
     "id": "760504",
