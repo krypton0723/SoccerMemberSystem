@@ -29736,25 +29736,344 @@
   {
     "id": "760504",
     "kickoff": "2026-07-06T05:00:00+09:00",
-    "group": "",
+    "group": "C",
     "matchday": "ラウンド16",
     "dateLabel": "7月6日（月）",
     "timeJST": "05:00",
     "stadium": "MetLife Stadium",
     "city": "East Rutherford, New Jersey",
     "home": {
-      "name": "Round of 32 4 Winner",
-      "code": "RD32",
-      "color": "#000000",
-      "altColor": "#000000"
+      "name": "ブラジル",
+      "code": "BRA",
+      "color": "#fee000",
+      "altColor": "#193375"
     },
     "away": {
-      "name": "Round of 32 6 Winner",
-      "code": "RD32",
-      "color": "#000000",
-      "altColor": "#000000"
+      "name": "ノルウェー",
+      "code": "NOR",
+      "color": "#C8102E",
+      "altColor": "#C8102E"
     },
-    "status": "pending"
+    "status": "released",
+    "capturedAt": "7/6 05:18 JST に取得・凍結",
+    "lineup": {
+      "home": {
+        "formation": "4-4-2",
+        "coach": "",
+        "xi": [
+          {
+            "n": 1,
+            "name": "Alisson Becker",
+            "pos": "G",
+            "fp": 1
+          },
+          {
+            "n": 13,
+            "name": "Danilo",
+            "pos": "RB",
+            "fp": 2
+          },
+          {
+            "n": 16,
+            "name": "Douglas Santos",
+            "pos": "LB",
+            "fp": 3
+          },
+          {
+            "n": 8,
+            "name": "Bruno Guimarães",
+            "pos": "CM-R",
+            "fp": 4
+          },
+          {
+            "n": 4,
+            "name": "Marquinhos",
+            "pos": "CD-R",
+            "fp": 5
+          },
+          {
+            "n": 3,
+            "name": "Gabriel Magalhães",
+            "pos": "CD-L",
+            "fp": 6
+          },
+          {
+            "n": 26,
+            "name": "Rayan",
+            "pos": "RM",
+            "fp": 7
+          },
+          {
+            "n": 5,
+            "name": "Casemiro",
+            "pos": "CM-L",
+            "fp": 8
+          },
+          {
+            "n": 7,
+            "name": "Vinícius Júnior",
+            "pos": "CF-L",
+            "fp": 9
+          },
+          {
+            "n": 9,
+            "name": "Matheus Cunha",
+            "pos": "CF-R",
+            "fp": 10
+          },
+          {
+            "n": 22,
+            "name": "Gabriel Martinelli",
+            "pos": "LM",
+            "fp": 11
+          }
+        ],
+        "subs": [
+          {
+            "n": 18,
+            "name": "Danilo Santos",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 12,
+            "name": "Weverton",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 23,
+            "name": "Ederson",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 24,
+            "name": "Roger Ibañez",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 11,
+            "name": "Raphinha",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 14,
+            "name": "Bremer",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 2,
+            "name": "Éderson",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 10,
+            "name": "Neymar",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 21,
+            "name": "Luiz Henrique",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 25,
+            "name": "Igor Thiago",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 19,
+            "name": "Endrick",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 6,
+            "name": "Alex Sandro",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 15,
+            "name": "Léo Pereira",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 17,
+            "name": "Fabinho",
+            "pos": "SUB",
+            "fp": 0
+          }
+        ]
+      },
+      "away": {
+        "formation": "4-3-3",
+        "coach": "",
+        "xi": [
+          {
+            "n": 1,
+            "name": "Ørjan Nyland",
+            "pos": "G",
+            "fp": 1
+          },
+          {
+            "n": 26,
+            "name": "Julian Ryerson",
+            "pos": "RB",
+            "fp": 2
+          },
+          {
+            "n": 5,
+            "name": "David Møller Wolfe",
+            "pos": "LB",
+            "fp": 3
+          },
+          {
+            "n": 8,
+            "name": "Sander Berge",
+            "pos": "CM",
+            "fp": 4
+          },
+          {
+            "n": 3,
+            "name": "Kristoffer Ajer",
+            "pos": "CD-R",
+            "fp": 5
+          },
+          {
+            "n": 17,
+            "name": "Torbjørn Heggem",
+            "pos": "CD-L",
+            "fp": 6
+          },
+          {
+            "n": 10,
+            "name": "Martin Ødegaard",
+            "pos": "RM",
+            "fp": 7
+          },
+          {
+            "n": 6,
+            "name": "Patrick Berg",
+            "pos": "LM",
+            "fp": 8
+          },
+          {
+            "n": 9,
+            "name": "Erling Haaland",
+            "pos": "F",
+            "fp": 9
+          },
+          {
+            "n": 7,
+            "name": "Alexander Sørloth",
+            "pos": "RF",
+            "fp": 10
+          },
+          {
+            "n": 20,
+            "name": "Antonio Nusa",
+            "pos": "LF",
+            "fp": 11
+          }
+        ],
+        "subs": [
+          {
+            "n": 22,
+            "name": "Oscar Bobb",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 11,
+            "name": "Jørgen Strand Larsen",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 25,
+            "name": "Henrik Falchener",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 18,
+            "name": "Kristian Thorstvedt",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 23,
+            "name": "Jens Petter Hauge",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 24,
+            "name": "Sondre Langas",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 21,
+            "name": "Andreas Schjelderup",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 19,
+            "name": "Thelo Aasgaard",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 12,
+            "name": "Sander Tangvik",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 14,
+            "name": "Fredrik Aursnes",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 2,
+            "name": "Morten Thorsby",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 13,
+            "name": "Egil Selvik",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 4,
+            "name": "Leo Østigard",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 15,
+            "name": "Fredrik André Bjørkan",
+            "pos": "SUB",
+            "fp": 0
+          }
+        ]
+      }
+    }
   },
   {
     "id": "760505",
