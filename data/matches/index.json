@@ -30432,25 +30432,356 @@
   {
     "id": "760506",
     "kickoff": "2026-07-07T04:00:00+09:00",
-    "group": "",
+    "group": "K",
     "matchday": "ラウンド16",
     "dateLabel": "7月7日（火）",
     "timeJST": "04:00",
     "stadium": "AT&T Stadium",
     "city": "Arlington, Texas",
     "home": {
-      "name": "Round of 32 11 Winner",
-      "code": "RD32",
-      "color": "#000000",
-      "altColor": "#000000"
+      "name": "ポルトガル",
+      "code": "POR",
+      "color": "#da291c",
+      "altColor": "#0D6938"
     },
     "away": {
-      "name": "Round of 32 12 Winner",
-      "code": "RD32",
-      "color": "#000000",
-      "altColor": "#000000"
+      "name": "スペイン",
+      "code": "ESP",
+      "color": "#c60b1e",
+      "altColor": "#800000"
     },
-    "status": "pending"
+    "status": "released",
+    "capturedAt": "7/7 05:04 JST に取得・凍結",
+    "lineup": {
+      "home": {
+        "formation": "4-2-3-1",
+        "coach": "",
+        "xi": [
+          {
+            "n": 1,
+            "name": "Diogo Costa",
+            "pos": "G",
+            "fp": 1
+          },
+          {
+            "n": 20,
+            "name": "João Cancelo",
+            "pos": "RB",
+            "fp": 2
+          },
+          {
+            "n": 25,
+            "name": "Nuno Mendes",
+            "pos": "LB",
+            "fp": 3
+          },
+          {
+            "n": 15,
+            "name": "João Neves",
+            "pos": "LM",
+            "fp": 4
+          },
+          {
+            "n": 3,
+            "name": "Rúben Dias",
+            "pos": "CD-R",
+            "fp": 5
+          },
+          {
+            "n": 13,
+            "name": "Renato Veiga",
+            "pos": "CD-L",
+            "fp": 6
+          },
+          {
+            "n": 18,
+            "name": "Pedro Neto",
+            "pos": "AM-R",
+            "fp": 7
+          },
+          {
+            "n": 23,
+            "name": "Vitinha",
+            "pos": "RM",
+            "fp": 8
+          },
+          {
+            "n": 7,
+            "name": "Cristiano Ronaldo",
+            "pos": "F",
+            "fp": 9
+          },
+          {
+            "n": 8,
+            "name": "Bruno Fernandes",
+            "pos": "AM",
+            "fp": 10
+          },
+          {
+            "n": 11,
+            "name": "João Félix",
+            "pos": "AM-L",
+            "fp": 11
+          }
+        ],
+        "subs": [
+          {
+            "n": 14,
+            "name": "Gonçalo Inácio",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 19,
+            "name": "Gonçalo Guedes",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 6,
+            "name": "Matheus Nunes",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 5,
+            "name": "Diogo Dalot",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 12,
+            "name": "José Sá",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 10,
+            "name": "Bernardo Silva",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 2,
+            "name": "Nélson Semedo",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 26,
+            "name": "Francisco Conceição",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 9,
+            "name": "Gonçalo Ramos",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 17,
+            "name": "Rafael Leão",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 22,
+            "name": "Rui Silva",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 4,
+            "name": "Tomás Araújo",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 24,
+            "name": "Samú Costa",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 16,
+            "name": "Francisco Trincão",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 21,
+            "name": "Rúben Neves",
+            "pos": "SUB",
+            "fp": 0
+          }
+        ]
+      },
+      "away": {
+        "formation": "4-2-3-1",
+        "coach": "",
+        "xi": [
+          {
+            "n": 23,
+            "name": "Unai Simón",
+            "pos": "G",
+            "fp": 1
+          },
+          {
+            "n": 12,
+            "name": "Pedro Porro",
+            "pos": "RB",
+            "fp": 2
+          },
+          {
+            "n": 24,
+            "name": "Marc Cucurella",
+            "pos": "LB",
+            "fp": 3
+          },
+          {
+            "n": 20,
+            "name": "Pedri",
+            "pos": "LM",
+            "fp": 4
+          },
+          {
+            "n": 22,
+            "name": "Pau Cubarsí",
+            "pos": "CD-R",
+            "fp": 5
+          },
+          {
+            "n": 14,
+            "name": "Aymeric Laporte",
+            "pos": "CD-L",
+            "fp": 6
+          },
+          {
+            "n": 19,
+            "name": "Lamine Yamal",
+            "pos": "AM-R",
+            "fp": 7
+          },
+          {
+            "n": 16,
+            "name": "Rodri",
+            "pos": "RM",
+            "fp": 8
+          },
+          {
+            "n": 21,
+            "name": "Mikel Oyarzabal",
+            "pos": "F",
+            "fp": 9
+          },
+          {
+            "n": 10,
+            "name": "Dani Olmo",
+            "pos": "AM",
+            "fp": 10
+          },
+          {
+            "n": 15,
+            "name": "Álex Baena",
+            "pos": "AM-L",
+            "fp": 11
+          }
+        ],
+        "subs": [
+          {
+            "n": 6,
+            "name": "Mikel Merino",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 4,
+            "name": "Eric García",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 26,
+            "name": "Borja Iglesias",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 1,
+            "name": "David Raya",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 17,
+            "name": "Nico Williams",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 18,
+            "name": "Martín Zubimendi",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 2,
+            "name": "Marc Pubill",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 7,
+            "name": "Ferran Torres",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 5,
+            "name": "Marcos Llorente",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 3,
+            "name": "Alejandro Grimaldo",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 25,
+            "name": "Víctor Muñoz",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 9,
+            "name": "Gavi",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 11,
+            "name": "Yéremy Pino",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 13,
+            "name": "Joan García",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 8,
+            "name": "Fabián Ruiz",
+            "pos": "SUB",
+            "fp": 0
+          }
+        ]
+      }
+    }
   },
   {
     "id": "760507",
