@@ -31268,5 +31268,28 @@
       "altColor": "#C60000"
     },
     "status": "pending"
+  },
+  {
+    "id": "760514",
+    "kickoff": "2026-07-15T04:00:00+09:00",
+    "group": "",
+    "matchday": "準決勝",
+    "dateLabel": "7月15日（水）",
+    "timeJST": "04:00",
+    "stadium": "AT&T Stadium",
+    "city": "Arlington, Texas",
+    "home": {
+      "name": "Quarterfinal 1 Winner",
+      "code": "QFW1",
+      "color": "#000000",
+      "altColor": "#C60000"
+    },
+    "away": {
+      "name": "Quarterfinal 2 Winner",
+      "code": "QFW2",
+      "color": "#000000",
+      "altColor": "#C60000"
+    },
+    "status": "pending"
   }
 ]
