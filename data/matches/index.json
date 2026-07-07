@@ -31476,25 +31476,338 @@
   {
     "id": "760508",
     "kickoff": "2026-07-08T05:00:00+09:00",
-    "group": "",
+    "group": "B",
     "matchday": "ラウンド16",
     "dateLabel": "7月8日（水）",
     "timeJST": "05:00",
     "stadium": "BC Place",
     "city": "Vancouver",
     "home": {
-      "name": "Round of 32 13 Winner",
-      "code": "RD32",
-      "color": "#000000",
-      "altColor": "#000000"
+      "name": "スイス",
+      "code": "SUI",
+      "color": "#FF0000",
+      "altColor": "#BCECAC"
     },
     "away": {
-      "name": "Round of 32 15 Winner",
-      "code": "RD32",
-      "color": "#000000",
-      "altColor": "#000000"
+      "name": "コロンビア",
+      "code": "COL",
+      "color": "#fbd632",
+      "altColor": "#21418c"
     },
-    "status": "pending"
+    "status": "released",
+    "capturedAt": "7/8 04:21 JST に取得・凍結",
+    "lineup": {
+      "home": {
+        "formation": "4-2-3-1",
+        "coach": "",
+        "xi": [
+          {
+            "n": 1,
+            "name": "Gregor Kobel",
+            "pos": "G",
+            "fp": 1
+          },
+          {
+            "n": 6,
+            "name": "Denis Zakaria",
+            "pos": "D",
+            "fp": 2
+          },
+          {
+            "n": 13,
+            "name": "Ricardo Rodríguez",
+            "pos": "D",
+            "fp": 3
+          },
+          {
+            "n": 10,
+            "name": "Granit Xhaka",
+            "pos": "M",
+            "fp": 4
+          },
+          {
+            "n": 4,
+            "name": "Nico Elvedi",
+            "pos": "D",
+            "fp": 5
+          },
+          {
+            "n": 5,
+            "name": "Manuel Akanji",
+            "pos": "D",
+            "fp": 6
+          },
+          {
+            "n": 22,
+            "name": "Fabian Rieder",
+            "pos": "M",
+            "fp": 7
+          },
+          {
+            "n": 8,
+            "name": "Remo Freuler",
+            "pos": "M",
+            "fp": 8
+          },
+          {
+            "n": 7,
+            "name": "Breel Embolo",
+            "pos": "F",
+            "fp": 9
+          },
+          {
+            "n": 14,
+            "name": "Ardon Jashari",
+            "pos": "M",
+            "fp": 10
+          },
+          {
+            "n": 11,
+            "name": "Dan Ndoye",
+            "pos": "M",
+            "fp": 11
+          }
+        ],
+        "subs": [
+          {
+            "n": 21,
+            "name": "Marvin Keller",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 12,
+            "name": "Yvon Mvogo",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 23,
+            "name": "Zeki Amdouni",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 19,
+            "name": "Noah Okafor",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 17,
+            "name": "Rubén Vargas",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 18,
+            "name": "Eray Cömert",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 26,
+            "name": "Cedric Itten",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 16,
+            "name": "Christian Fassnacht",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 3,
+            "name": "Silvan Widmer",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 2,
+            "name": "Miro Muheim",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 15,
+            "name": "Djibril Sow",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 24,
+            "name": "Aurèle Amenda",
+            "pos": "SUB",
+            "fp": 0
+          }
+        ]
+      },
+      "away": {
+        "formation": "4-3-3",
+        "coach": "",
+        "xi": [
+          {
+            "n": 12,
+            "name": "Camilo Vargas",
+            "pos": "G",
+            "fp": 1
+          },
+          {
+            "n": 2,
+            "name": "Daniel Muñoz",
+            "pos": "D",
+            "fp": 2
+          },
+          {
+            "n": 17,
+            "name": "Johan Mojica",
+            "pos": "D",
+            "fp": 3
+          },
+          {
+            "n": 16,
+            "name": "Jefferson Lerma",
+            "pos": "M",
+            "fp": 4
+          },
+          {
+            "n": 23,
+            "name": "Davinson Sánchez",
+            "pos": "D",
+            "fp": 5
+          },
+          {
+            "n": 3,
+            "name": "Jhon Lucumí",
+            "pos": "D",
+            "fp": 6
+          },
+          {
+            "n": 14,
+            "name": "Gustavo Puerta",
+            "pos": "M",
+            "fp": 7
+          },
+          {
+            "n": 11,
+            "name": "Jhon Arias",
+            "pos": "M",
+            "fp": 8
+          },
+          {
+            "n": 25,
+            "name": "Luis Suárez",
+            "pos": "F",
+            "fp": 9
+          },
+          {
+            "n": 10,
+            "name": "James Rodríguez",
+            "pos": "F",
+            "fp": 10
+          },
+          {
+            "n": 7,
+            "name": "Luis Díaz",
+            "pos": "F",
+            "fp": 11
+          }
+        ],
+        "subs": [
+          {
+            "n": 9,
+            "name": "Jhon Córdoba",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 4,
+            "name": "Santiago Arias",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 6,
+            "name": "Richard Ríos",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 19,
+            "name": "Cucho Hernández",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 21,
+            "name": "Jáminton Campaz",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 5,
+            "name": "Kevin Castaño",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 8,
+            "name": "Jorge Carrascal",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 26,
+            "name": "Andrés Gómez",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 18,
+            "name": "Willer Ditta",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 1,
+            "name": "David Ospina",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 20,
+            "name": "Juan Fernando Quintero",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 24,
+            "name": "Álvaro Montero",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 13,
+            "name": "Yerry Mina",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 15,
+            "name": "Juan Portilla",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 22,
+            "name": "Deiver Machado",
+            "pos": "SUB",
+            "fp": 0
+          }
+        ]
+      }
+    }
   },
   {
     "id": "760510",
