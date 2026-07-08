@@ -31923,5 +31923,28 @@
       "altColor": "#C60000"
     },
     "status": "pending"
+  },
+  {
+    "id": "760515",
+    "kickoff": "2026-07-16T04:00:00+09:00",
+    "group": "",
+    "matchday": "準決勝",
+    "dateLabel": "7月16日（木）",
+    "timeJST": "04:00",
+    "stadium": "Mercedes-Benz Stadium",
+    "city": "Atlanta, Georgia",
+    "home": {
+      "name": "Quarterfinal 3 Winner",
+      "code": "QFW3",
+      "color": "#000000",
+      "altColor": "#C60000"
+    },
+    "away": {
+      "name": "Quarterfinal 4 Winner",
+      "code": "QW4",
+      "color": "#000000",
+      "altColor": "#C60000"
+    },
+    "status": "pending"
   }
 ]
