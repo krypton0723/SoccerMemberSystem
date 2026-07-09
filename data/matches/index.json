@@ -31812,25 +31812,356 @@
   {
     "id": "760510",
     "kickoff": "2026-07-10T05:00:00+09:00",
-    "group": "",
+    "group": "I",
     "matchday": "準々決勝",
     "dateLabel": "7月10日（金）",
     "timeJST": "05:00",
     "stadium": "Gillette Stadium",
     "city": "Foxborough, Massachusetts",
     "home": {
-      "name": "Round of 16 1 Winner",
-      "code": "RD16 W1",
-      "color": "#000000",
-      "altColor": "#C60000"
+      "name": "フランス",
+      "code": "FRA",
+      "color": "#000080",
+      "altColor": "#C8E6D8"
     },
     "away": {
-      "name": "Round of 16 2 Winner",
-      "code": "RD16 W2",
-      "color": "#000000",
-      "altColor": "#C60000"
+      "name": "モロッコ",
+      "code": "MAR",
+      "color": "#df2027",
+      "altColor": "#ffffff"
     },
-    "status": "pending"
+    "status": "released",
+    "capturedAt": "7/10 04:08 JST に取得・凍結",
+    "lineup": {
+      "home": {
+        "formation": "4-2-3-1",
+        "coach": "",
+        "xi": [
+          {
+            "n": 16,
+            "name": "Mike Maignan",
+            "pos": "G",
+            "fp": 1
+          },
+          {
+            "n": 5,
+            "name": "Jules Koundé",
+            "pos": "D",
+            "fp": 2
+          },
+          {
+            "n": 3,
+            "name": "Lucas Digne",
+            "pos": "D",
+            "fp": 3
+          },
+          {
+            "n": 14,
+            "name": "Adrien Rabiot",
+            "pos": "M",
+            "fp": 4
+          },
+          {
+            "n": 4,
+            "name": "Dayot Upamecano",
+            "pos": "D",
+            "fp": 5
+          },
+          {
+            "n": 17,
+            "name": "William Saliba",
+            "pos": "D",
+            "fp": 6
+          },
+          {
+            "n": 7,
+            "name": "Ousmane Dembélé",
+            "pos": "M",
+            "fp": 7
+          },
+          {
+            "n": 6,
+            "name": "Manu Koné",
+            "pos": "M",
+            "fp": 8
+          },
+          {
+            "n": 10,
+            "name": "Kylian Mbappé",
+            "pos": "F",
+            "fp": 9
+          },
+          {
+            "n": 11,
+            "name": "Michael Olise",
+            "pos": "M",
+            "fp": 10
+          },
+          {
+            "n": 20,
+            "name": "Désiré Doué",
+            "pos": "M",
+            "fp": 11
+          }
+        ],
+        "subs": [
+          {
+            "n": 13,
+            "name": "N'Golo Kanté",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 15,
+            "name": "Ibrahima Konaté",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 23,
+            "name": "Robin Risser",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 24,
+            "name": "Rayan Cherki",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 19,
+            "name": "Theo Hernández",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 21,
+            "name": "Lucas Hernández",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 12,
+            "name": "Bradley Barcola",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 9,
+            "name": "Marcus Thuram",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 1,
+            "name": "Brice Samba",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 26,
+            "name": "Maxence Lacroix",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 25,
+            "name": "Maghnes Akliouche",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 8,
+            "name": "Aurélien Tchouaméni",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 18,
+            "name": "Warren Zaïre-Emery",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 22,
+            "name": "Jean-Philippe Mateta",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 2,
+            "name": "Malo Gusto",
+            "pos": "SUB",
+            "fp": 0
+          }
+        ]
+      },
+      "away": {
+        "formation": "4-2-3-1",
+        "coach": "",
+        "xi": [
+          {
+            "n": 1,
+            "name": "Yassine Bounou",
+            "pos": "G",
+            "fp": 1
+          },
+          {
+            "n": 2,
+            "name": "Achraf Hakimi",
+            "pos": "D",
+            "fp": 2
+          },
+          {
+            "n": 26,
+            "name": "Anass Salah-Eddine",
+            "pos": "D",
+            "fp": 3
+          },
+          {
+            "n": 24,
+            "name": "Neil El Aynaoui",
+            "pos": "M",
+            "fp": 4
+          },
+          {
+            "n": 14,
+            "name": "Issa Diop",
+            "pos": "D",
+            "fp": 5
+          },
+          {
+            "n": 3,
+            "name": "Noussair Mazraoui",
+            "pos": "D",
+            "fp": 6
+          },
+          {
+            "n": 7,
+            "name": "Chemsdine Talbi",
+            "pos": "M",
+            "fp": 7
+          },
+          {
+            "n": 6,
+            "name": "Ayyoub Bouaddi",
+            "pos": "M",
+            "fp": 8
+          },
+          {
+            "n": 10,
+            "name": "Brahim Díaz",
+            "pos": "F",
+            "fp": 9
+          },
+          {
+            "n": 8,
+            "name": "Azzedine Ounahi",
+            "pos": "M",
+            "fp": 10
+          },
+          {
+            "n": 23,
+            "name": "Bilal El Khannouss",
+            "pos": "M",
+            "fp": 11
+          }
+        ],
+        "subs": [
+          {
+            "n": 22,
+            "name": "Ahmed Reda Tagnaouti",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 19,
+            "name": "Youssef Belammari",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 15,
+            "name": "Samir El Mourabet",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 25,
+            "name": "Redouane Halhal",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 16,
+            "name": "Gessime Yassine",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 5,
+            "name": "Marwane Saadane",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 11,
+            "name": "Ismael Saibari",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 4,
+            "name": "Sofyan Amrabat",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 18,
+            "name": "Chadi Riad",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 9,
+            "name": "Soufiane Rahimi",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 17,
+            "name": "Amine Sbaï",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 12,
+            "name": "Munir El Kajoui",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 21,
+            "name": "Ayoube Amaimouni",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 13,
+            "name": "Zakaria El Ouahdi",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 20,
+            "name": "Ayoub El Kaabi",
+            "pos": "SUB",
+            "fp": 0
+          }
+        ]
+      }
+    }
   },
   {
     "id": "760511",
