@@ -32502,25 +32502,350 @@
   {
     "id": "760512",
     "kickoff": "2026-07-12T06:00:00+09:00",
-    "group": "",
+    "group": "I",
     "matchday": "準々決勝",
     "dateLabel": "7月12日（日）",
     "timeJST": "06:00",
     "stadium": "Hard Rock Stadium",
     "city": "Miami Gardens, Florida",
     "home": {
-      "name": "Round of 16 3 Winner",
-      "code": "RD16 W3",
-      "color": "#000000",
-      "altColor": "#C60000"
+      "name": "ノルウェー",
+      "code": "NOR",
+      "color": "#C8102E",
+      "altColor": "#C8102E"
     },
     "away": {
-      "name": "Round of 16 4 Winner",
-      "code": "RD16 W4",
-      "color": "#000000",
-      "altColor": "#C60000"
+      "name": "イングランド",
+      "code": "ENG",
+      "color": "#EA1F29",
+      "altColor": "#FFFFFF"
     },
-    "status": "pending"
+    "status": "released",
+    "capturedAt": "7/12 05:29 JST に取得・凍結",
+    "lineup": {
+      "home": {
+        "formation": "4-3-3",
+        "coach": "",
+        "xi": [
+          {
+            "n": 1,
+            "name": "Ørjan Nyland",
+            "pos": "G",
+            "fp": 1
+          },
+          {
+            "n": 26,
+            "name": "Julian Ryerson",
+            "pos": "D",
+            "fp": 2
+          },
+          {
+            "n": 5,
+            "name": "David Møller Wolfe",
+            "pos": "D",
+            "fp": 3
+          },
+          {
+            "n": 8,
+            "name": "Sander Berge",
+            "pos": "M",
+            "fp": 4
+          },
+          {
+            "n": 3,
+            "name": "Kristoffer Ajer",
+            "pos": "D",
+            "fp": 5
+          },
+          {
+            "n": 17,
+            "name": "Torbjørn Heggem",
+            "pos": "D",
+            "fp": 6
+          },
+          {
+            "n": 10,
+            "name": "Martin Ødegaard",
+            "pos": "M",
+            "fp": 7
+          },
+          {
+            "n": 6,
+            "name": "Patrick Berg",
+            "pos": "M",
+            "fp": 8
+          },
+          {
+            "n": 9,
+            "name": "Erling Haaland",
+            "pos": "F",
+            "fp": 9
+          },
+          {
+            "n": 7,
+            "name": "Alexander Sørloth",
+            "pos": "F",
+            "fp": 10
+          },
+          {
+            "n": 21,
+            "name": "Andreas Schjelderup",
+            "pos": "F",
+            "fp": 11
+          }
+        ],
+        "subs": [
+          {
+            "n": 19,
+            "name": "Thelo Aasgaard",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 23,
+            "name": "Jens Petter Hauge",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 14,
+            "name": "Fredrik Aursnes",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 20,
+            "name": "Antonio Nusa",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 25,
+            "name": "Henrik Falchener",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 11,
+            "name": "Jørgen Strand Larsen",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 24,
+            "name": "Sondre Langas",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 4,
+            "name": "Leo Østigard",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 22,
+            "name": "Oscar Bobb",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 18,
+            "name": "Kristian Thorstvedt",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 2,
+            "name": "Morten Thorsby",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 16,
+            "name": "Marcus Holmgren Pedersen",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 12,
+            "name": "Sander Tangvik",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 13,
+            "name": "Egil Selvik",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 15,
+            "name": "Fredrik André Bjørkan",
+            "pos": "SUB",
+            "fp": 0
+          }
+        ]
+      },
+      "away": {
+        "formation": "4-2-3-1",
+        "coach": "",
+        "xi": [
+          {
+            "n": 1,
+            "name": "Jordan Pickford",
+            "pos": "G",
+            "fp": 1
+          },
+          {
+            "n": 2,
+            "name": "Ezri Konsa",
+            "pos": "D",
+            "fp": 2
+          },
+          {
+            "n": 3,
+            "name": "Nico O'Reilly",
+            "pos": "D",
+            "fp": 3
+          },
+          {
+            "n": 4,
+            "name": "Declan Rice",
+            "pos": "M",
+            "fp": 4
+          },
+          {
+            "n": 5,
+            "name": "John Stones",
+            "pos": "D",
+            "fp": 5
+          },
+          {
+            "n": 6,
+            "name": "Marc Guéhi",
+            "pos": "D",
+            "fp": 6
+          },
+          {
+            "n": 20,
+            "name": "Noni Madueke",
+            "pos": "M",
+            "fp": 7
+          },
+          {
+            "n": 8,
+            "name": "Elliot Anderson",
+            "pos": "M",
+            "fp": 8
+          },
+          {
+            "n": 9,
+            "name": "Harry Kane",
+            "pos": "F",
+            "fp": 9
+          },
+          {
+            "n": 10,
+            "name": "Jude Bellingham",
+            "pos": "M",
+            "fp": 10
+          },
+          {
+            "n": 18,
+            "name": "Anthony Gordon",
+            "pos": "M",
+            "fp": 11
+          }
+        ],
+        "subs": [
+          {
+            "n": 13,
+            "name": "Dean Henderson",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 11,
+            "name": "Marcus Rashford",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 17,
+            "name": "Morgan Rogers",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 21,
+            "name": "Eberechi Eze",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 19,
+            "name": "Ollie Watkins",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 15,
+            "name": "Dan Burn",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 23,
+            "name": "James Trafford",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 12,
+            "name": "Trevoh Chalobah",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 22,
+            "name": "Ivan Toney",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 25,
+            "name": "Djed Spence",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 14,
+            "name": "Jordan Henderson",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 16,
+            "name": "Kobbie Mainoo",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 7,
+            "name": "Bukayo Saka",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 24,
+            "name": "Reece James",
+            "pos": "SUB",
+            "fp": 0
+          }
+        ]
+      }
+    }
   },
   {
     "id": "760513",
