@@ -32590,5 +32590,28 @@
       "altColor": "#C60000"
     },
     "status": "pending"
+  },
+  {
+    "id": "760516",
+    "kickoff": "2026-07-19T06:00:00+09:00",
+    "group": "",
+    "matchday": "3rd-place-match",
+    "dateLabel": "7月19日（日）",
+    "timeJST": "06:00",
+    "stadium": "Hard Rock Stadium",
+    "city": "Miami Gardens, Florida",
+    "home": {
+      "name": "Semifinal 1 Loser",
+      "code": "SF L1",
+      "color": "#000000",
+      "altColor": "#000000"
+    },
+    "away": {
+      "name": "Semifinal 2 Loser",
+      "code": "SF L2",
+      "color": "#000000",
+      "altColor": "#000000"
+    },
+    "status": "pending"
   }
 ]
