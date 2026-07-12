@@ -32850,25 +32850,350 @@
   {
     "id": "760513",
     "kickoff": "2026-07-12T10:00:00+09:00",
-    "group": "",
+    "group": "J",
     "matchday": "準々決勝",
     "dateLabel": "7月12日（日）",
     "timeJST": "10:00",
     "stadium": "GEHA Field at Arrowhead Stadium",
     "city": "Kansas City, Missouri",
     "home": {
-      "name": "Round of 16 7 Winner",
-      "code": "RD16 W7",
-      "color": "#000000",
-      "altColor": "#C60000"
+      "name": "アルゼンチン",
+      "code": "ARG",
+      "color": "#74acdf",
+      "altColor": "#173E69"
     },
     "away": {
-      "name": "Round of 16 8 Winner",
-      "code": "RD16 W8",
-      "color": "#000000",
-      "altColor": "#C60000"
+      "name": "スイス",
+      "code": "SUI",
+      "color": "#FF0000",
+      "altColor": "#BCECAC"
     },
-    "status": "pending"
+    "status": "released",
+    "capturedAt": "7/12 10:13 JST に取得・凍結",
+    "lineup": {
+      "home": {
+        "formation": "4-1-3-2",
+        "coach": "",
+        "xi": [
+          {
+            "n": 23,
+            "name": "Emiliano Martínez",
+            "pos": "G",
+            "fp": 1
+          },
+          {
+            "n": 26,
+            "name": "Nahuel Molina",
+            "pos": "RB",
+            "fp": 2
+          },
+          {
+            "n": 3,
+            "name": "Nicolás Tagliafico",
+            "pos": "LB",
+            "fp": 3
+          },
+          {
+            "n": 5,
+            "name": "Leandro Paredes",
+            "pos": "SW",
+            "fp": 4
+          },
+          {
+            "n": 13,
+            "name": "Cristian Romero",
+            "pos": "CD-R",
+            "fp": 5
+          },
+          {
+            "n": 6,
+            "name": "Lisandro Martínez",
+            "pos": "CD-L",
+            "fp": 6
+          },
+          {
+            "n": 7,
+            "name": "Rodrigo De Paul",
+            "pos": "RM",
+            "fp": 7
+          },
+          {
+            "n": 24,
+            "name": "Enzo Fernández",
+            "pos": "CM",
+            "fp": 8
+          },
+          {
+            "n": 10,
+            "name": "Lionel Messi",
+            "pos": "CF-R",
+            "fp": 9
+          },
+          {
+            "n": 9,
+            "name": "Julián Álvarez",
+            "pos": "CF-L",
+            "fp": 10
+          },
+          {
+            "n": 20,
+            "name": "Alexis Mac Allister",
+            "pos": "LM",
+            "fp": 11
+          }
+        ],
+        "subs": [
+          {
+            "n": 19,
+            "name": "Nicolás Otamendi",
+            "pos": "",
+            "fp": 0
+          },
+          {
+            "n": 17,
+            "name": "Giuliano Simeone",
+            "pos": "",
+            "fp": 0
+          },
+          {
+            "n": 14,
+            "name": "Exequiel Palacios",
+            "pos": "",
+            "fp": 0
+          },
+          {
+            "n": 22,
+            "name": "Lautaro Martínez",
+            "pos": "",
+            "fp": 0
+          },
+          {
+            "n": 18,
+            "name": "Nico Paz",
+            "pos": "",
+            "fp": 0
+          },
+          {
+            "n": 25,
+            "name": "Facundo Medina",
+            "pos": "",
+            "fp": 0
+          },
+          {
+            "n": 15,
+            "name": "Nico González",
+            "pos": "",
+            "fp": 0
+          },
+          {
+            "n": 12,
+            "name": "Gerónimo Rulli",
+            "pos": "",
+            "fp": 0
+          },
+          {
+            "n": 16,
+            "name": "Thiago Almada",
+            "pos": "",
+            "fp": 0
+          },
+          {
+            "n": 1,
+            "name": "Juan Musso",
+            "pos": "",
+            "fp": 0
+          },
+          {
+            "n": 8,
+            "name": "Valentín Barco",
+            "pos": "",
+            "fp": 0
+          },
+          {
+            "n": 2,
+            "name": "Marcos Senesi",
+            "pos": "",
+            "fp": 0
+          },
+          {
+            "n": 21,
+            "name": "José Manuel López",
+            "pos": "",
+            "fp": 0
+          },
+          {
+            "n": 11,
+            "name": "Giovani Lo Celso",
+            "pos": "",
+            "fp": 0
+          },
+          {
+            "n": 4,
+            "name": "Gonzalo Montiel",
+            "pos": "",
+            "fp": 0
+          }
+        ]
+      },
+      "away": {
+        "formation": "4-2-3-1",
+        "coach": "",
+        "xi": [
+          {
+            "n": 1,
+            "name": "Gregor Kobel",
+            "pos": "G",
+            "fp": 1
+          },
+          {
+            "n": 6,
+            "name": "Denis Zakaria",
+            "pos": "RB",
+            "fp": 2
+          },
+          {
+            "n": 13,
+            "name": "Ricardo Rodríguez",
+            "pos": "LB",
+            "fp": 3
+          },
+          {
+            "n": 10,
+            "name": "Granit Xhaka",
+            "pos": "LM",
+            "fp": 4
+          },
+          {
+            "n": 4,
+            "name": "Nico Elvedi",
+            "pos": "CD-R",
+            "fp": 5
+          },
+          {
+            "n": 5,
+            "name": "Manuel Akanji",
+            "pos": "CD-L",
+            "fp": 6
+          },
+          {
+            "n": 15,
+            "name": "Djibril Sow",
+            "pos": "AM-R",
+            "fp": 7
+          },
+          {
+            "n": 8,
+            "name": "Remo Freuler",
+            "pos": "RM",
+            "fp": 8
+          },
+          {
+            "n": 7,
+            "name": "Breel Embolo",
+            "pos": "F",
+            "fp": 9
+          },
+          {
+            "n": 22,
+            "name": "Fabian Rieder",
+            "pos": "AM",
+            "fp": 10
+          },
+          {
+            "n": 11,
+            "name": "Dan Ndoye",
+            "pos": "AM-L",
+            "fp": 11
+          }
+        ],
+        "subs": [
+          {
+            "n": 14,
+            "name": "Ardon Jashari",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 21,
+            "name": "Marvin Keller",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 19,
+            "name": "Noah Okafor",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 20,
+            "name": "Michel Aebischer",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 12,
+            "name": "Yvon Mvogo",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 2,
+            "name": "Miro Muheim",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 24,
+            "name": "Aurèle Amenda",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 17,
+            "name": "Rubén Vargas",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 18,
+            "name": "Eray Cömert",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 3,
+            "name": "Silvan Widmer",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 25,
+            "name": "Luca Jaquez",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 16,
+            "name": "Christian Fassnacht",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 26,
+            "name": "Cedric Itten",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 23,
+            "name": "Zeki Amdouni",
+            "pos": "SUB",
+            "fp": 0
+          }
+        ]
+      }
+    }
   },
   {
     "id": "760514",
@@ -32934,6 +33259,29 @@
     "away": {
       "name": "Semifinal 2 Loser",
       "code": "SF L2",
+      "color": "#000000",
+      "altColor": "#000000"
+    },
+    "status": "pending"
+  },
+  {
+    "id": "760517",
+    "kickoff": "2026-07-20T04:00:00+09:00",
+    "group": "",
+    "matchday": "決勝",
+    "dateLabel": "7月20日（月）",
+    "timeJST": "04:00",
+    "stadium": "MetLife Stadium",
+    "city": "East Rutherford, New Jersey",
+    "home": {
+      "name": "Semifinal 1 Winner",
+      "code": "SFW1",
+      "color": "#000000",
+      "altColor": "#000000"
+    },
+    "away": {
+      "name": "Semifinal 2 Winner",
+      "code": "SFW2",
       "color": "#000000",
       "altColor": "#000000"
     },
