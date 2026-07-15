@@ -33552,25 +33552,350 @@
   {
     "id": "760515",
     "kickoff": "2026-07-16T04:00:00+09:00",
-    "group": "",
+    "group": "L",
     "matchday": "準決勝",
     "dateLabel": "7月16日（木）",
     "timeJST": "04:00",
     "stadium": "Mercedes-Benz Stadium",
     "city": "Atlanta, Georgia",
     "home": {
-      "name": "Quarterfinal 3 Winner",
-      "code": "QFW3",
-      "color": "#000000",
-      "altColor": "#C60000"
+      "name": "イングランド",
+      "code": "ENG",
+      "color": "#FFFFFF",
+      "altColor": "#EA1F29"
     },
     "away": {
-      "name": "Quarterfinal 4 Winner",
-      "code": "QW4",
-      "color": "#000000",
-      "altColor": "#C60000"
+      "name": "アルゼンチン",
+      "code": "ARG",
+      "color": "#74acdf",
+      "altColor": "#173E69"
     },
-    "status": "pending"
+    "status": "released",
+    "capturedAt": "7/16 04:18 JST に取得・凍結",
+    "lineup": {
+      "home": {
+        "formation": "4-2-3-1",
+        "coach": "",
+        "xi": [
+          {
+            "n": 1,
+            "name": "Jordan Pickford",
+            "pos": "G",
+            "fp": 1
+          },
+          {
+            "n": 24,
+            "name": "Reece James",
+            "pos": "RB",
+            "fp": 2
+          },
+          {
+            "n": 25,
+            "name": "Djed Spence",
+            "pos": "LB",
+            "fp": 3
+          },
+          {
+            "n": 8,
+            "name": "Elliot Anderson",
+            "pos": "LM",
+            "fp": 4
+          },
+          {
+            "n": 5,
+            "name": "John Stones",
+            "pos": "CD-R",
+            "fp": 5
+          },
+          {
+            "n": 6,
+            "name": "Marc Guéhi",
+            "pos": "CD-L",
+            "fp": 6
+          },
+          {
+            "n": 17,
+            "name": "Morgan Rogers",
+            "pos": "AM-R",
+            "fp": 7
+          },
+          {
+            "n": 4,
+            "name": "Declan Rice",
+            "pos": "RM",
+            "fp": 8
+          },
+          {
+            "n": 9,
+            "name": "Harry Kane",
+            "pos": "F",
+            "fp": 9
+          },
+          {
+            "n": 10,
+            "name": "Jude Bellingham",
+            "pos": "AM",
+            "fp": 10
+          },
+          {
+            "n": 18,
+            "name": "Anthony Gordon",
+            "pos": "AM-L",
+            "fp": 11
+          }
+        ],
+        "subs": [
+          {
+            "n": 14,
+            "name": "Jordan Henderson",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 20,
+            "name": "Noni Madueke",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 21,
+            "name": "Eberechi Eze",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 19,
+            "name": "Ollie Watkins",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 7,
+            "name": "Bukayo Saka",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 12,
+            "name": "Trevoh Chalobah",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 23,
+            "name": "James Trafford",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 15,
+            "name": "Dan Burn",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 13,
+            "name": "Dean Henderson",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 11,
+            "name": "Marcus Rashford",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 22,
+            "name": "Ivan Toney",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 2,
+            "name": "Ezri Konsa",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 16,
+            "name": "Kobbie Mainoo",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 3,
+            "name": "Nico O'Reilly",
+            "pos": "SUB",
+            "fp": 0
+          }
+        ]
+      },
+      "away": {
+        "formation": "4-1-4-1",
+        "coach": "",
+        "xi": [
+          {
+            "n": 23,
+            "name": "Emiliano Martínez",
+            "pos": "G",
+            "fp": 1
+          },
+          {
+            "n": 26,
+            "name": "Nahuel Molina",
+            "pos": "RB",
+            "fp": 2
+          },
+          {
+            "n": 3,
+            "name": "Nicolás Tagliafico",
+            "pos": "LB",
+            "fp": 3
+          },
+          {
+            "n": 5,
+            "name": "Leandro Paredes",
+            "pos": "DM",
+            "fp": 4
+          },
+          {
+            "n": 13,
+            "name": "Cristian Romero",
+            "pos": "CD-R",
+            "fp": 5
+          },
+          {
+            "n": 6,
+            "name": "Lisandro Martínez",
+            "pos": "CD-L",
+            "fp": 6
+          },
+          {
+            "n": 17,
+            "name": "Giuliano Simeone",
+            "pos": "RM",
+            "fp": 7
+          },
+          {
+            "n": 24,
+            "name": "Enzo Fernández",
+            "pos": "CM-R",
+            "fp": 8
+          },
+          {
+            "n": 10,
+            "name": "Lionel Messi",
+            "pos": "F",
+            "fp": 9
+          },
+          {
+            "n": 20,
+            "name": "Alexis Mac Allister",
+            "pos": "CM-L",
+            "fp": 10
+          },
+          {
+            "n": 9,
+            "name": "Julián Álvarez",
+            "pos": "LM",
+            "fp": 11
+          }
+        ],
+        "subs": [
+          {
+            "n": 4,
+            "name": "Gonzalo Montiel",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 22,
+            "name": "Lautaro Martínez",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 2,
+            "name": "Marcos Senesi",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 25,
+            "name": "Facundo Medina",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 15,
+            "name": "Nico González",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 1,
+            "name": "Juan Musso",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 8,
+            "name": "Valentín Barco",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 12,
+            "name": "Gerónimo Rulli",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 11,
+            "name": "Giovani Lo Celso",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 19,
+            "name": "Nicolás Otamendi",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 18,
+            "name": "Nico Paz",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 16,
+            "name": "Thiago Almada",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 14,
+            "name": "Exequiel Palacios",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 7,
+            "name": "Rodrigo De Paul",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 21,
+            "name": "José Manuel López",
+            "pos": "SUB",
+            "fp": 0
+          }
+        ]
+      }
+    }
   },
   {
     "id": "760516",
