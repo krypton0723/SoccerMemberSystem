@@ -33900,25 +33900,350 @@
   {
     "id": "760516",
     "kickoff": "2026-07-19T06:00:00+09:00",
-    "group": "",
+    "group": "I",
     "matchday": "3rd-place-match",
     "dateLabel": "7月19日（日）",
     "timeJST": "06:00",
     "stadium": "Hard Rock Stadium",
     "city": "Miami Gardens, Florida",
     "home": {
-      "name": "Semifinal 1 Loser",
-      "code": "SF L1",
-      "color": "#000000",
-      "altColor": "#000000"
+      "name": "フランス",
+      "code": "FRA",
+      "color": "#000080",
+      "altColor": "#C8E6D8"
     },
     "away": {
-      "name": "Semifinal 2 Loser",
-      "code": "SF L2",
-      "color": "#000000",
-      "altColor": "#000000"
+      "name": "イングランド",
+      "code": "ENG",
+      "color": "#FFFFFF",
+      "altColor": "#EA1F29"
     },
-    "status": "pending"
+    "status": "released",
+    "capturedAt": "7/19 05:55 JST に取得・凍結",
+    "lineup": {
+      "home": {
+        "formation": "4-2-3-1",
+        "coach": "",
+        "xi": [
+          {
+            "n": 16,
+            "name": "Mike Maignan",
+            "pos": "G",
+            "fp": 1
+          },
+          {
+            "n": 2,
+            "name": "Malo Gusto",
+            "pos": "D",
+            "fp": 2
+          },
+          {
+            "n": 19,
+            "name": "Theo Hernández",
+            "pos": "D",
+            "fp": 3
+          },
+          {
+            "n": 14,
+            "name": "Adrien Rabiot",
+            "pos": "M",
+            "fp": 4
+          },
+          {
+            "n": 15,
+            "name": "Ibrahima Konaté",
+            "pos": "D",
+            "fp": 5
+          },
+          {
+            "n": 26,
+            "name": "Maxence Lacroix",
+            "pos": "D",
+            "fp": 6
+          },
+          {
+            "n": 11,
+            "name": "Michael Olise",
+            "pos": "M",
+            "fp": 7
+          },
+          {
+            "n": 18,
+            "name": "Warren Zaïre-Emery",
+            "pos": "M",
+            "fp": 8
+          },
+          {
+            "n": 10,
+            "name": "Kylian Mbappé",
+            "pos": "F",
+            "fp": 9
+          },
+          {
+            "n": 24,
+            "name": "Rayan Cherki",
+            "pos": "M",
+            "fp": 10
+          },
+          {
+            "n": 20,
+            "name": "Désiré Doué",
+            "pos": "M",
+            "fp": 11
+          }
+        ],
+        "subs": [
+          {
+            "n": 9,
+            "name": "Marcus Thuram",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 23,
+            "name": "Robin Risser",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 6,
+            "name": "Manu Koné",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 25,
+            "name": "Maghnes Akliouche",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 12,
+            "name": "Bradley Barcola",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 22,
+            "name": "Jean-Philippe Mateta",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 5,
+            "name": "Jules Koundé",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 1,
+            "name": "Brice Samba",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 17,
+            "name": "William Saliba",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 4,
+            "name": "Dayot Upamecano",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 7,
+            "name": "Ousmane Dembélé",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 13,
+            "name": "N'Golo Kanté",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 3,
+            "name": "Lucas Digne",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 21,
+            "name": "Lucas Hernández",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 8,
+            "name": "Aurélien Tchouaméni",
+            "pos": "SUB",
+            "fp": 0
+          }
+        ]
+      },
+      "away": {
+        "formation": "4-1-4-1",
+        "coach": "",
+        "xi": [
+          {
+            "n": 13,
+            "name": "Dean Henderson",
+            "pos": "G",
+            "fp": 1
+          },
+          {
+            "n": 26,
+            "name": "Jarell Quansah",
+            "pos": "D",
+            "fp": 2
+          },
+          {
+            "n": 25,
+            "name": "Djed Spence",
+            "pos": "D",
+            "fp": 3
+          },
+          {
+            "n": 4,
+            "name": "Declan Rice",
+            "pos": "M",
+            "fp": 4
+          },
+          {
+            "n": 2,
+            "name": "Ezri Konsa",
+            "pos": "D",
+            "fp": 5
+          },
+          {
+            "n": 6,
+            "name": "Marc Guéhi",
+            "pos": "D",
+            "fp": 6
+          },
+          {
+            "n": 7,
+            "name": "Bukayo Saka",
+            "pos": "M",
+            "fp": 7
+          },
+          {
+            "n": 21,
+            "name": "Eberechi Eze",
+            "pos": "M",
+            "fp": 8
+          },
+          {
+            "n": 22,
+            "name": "Ivan Toney",
+            "pos": "F",
+            "fp": 9
+          },
+          {
+            "n": 17,
+            "name": "Morgan Rogers",
+            "pos": "M",
+            "fp": 10
+          },
+          {
+            "n": 11,
+            "name": "Marcus Rashford",
+            "pos": "M",
+            "fp": 11
+          }
+        ],
+        "subs": [
+          {
+            "n": 1,
+            "name": "Jordan Pickford",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 10,
+            "name": "Jude Bellingham",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 9,
+            "name": "Harry Kane",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 3,
+            "name": "Nico O'Reilly",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 12,
+            "name": "Trevoh Chalobah",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 8,
+            "name": "Elliot Anderson",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 23,
+            "name": "James Trafford",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 5,
+            "name": "John Stones",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 15,
+            "name": "Dan Burn",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 14,
+            "name": "Jordan Henderson",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 20,
+            "name": "Noni Madueke",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 18,
+            "name": "Anthony Gordon",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 24,
+            "name": "Reece James",
+            "pos": "SUB",
+            "fp": 0
+          },
+          {
+            "n": 19,
+            "name": "Ollie Watkins",
+            "pos": "SUB",
+            "fp": 0
+          }
+        ]
+      }
+    }
   },
   {
     "id": "760517",
